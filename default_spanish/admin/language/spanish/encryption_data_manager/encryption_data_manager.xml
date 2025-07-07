@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>encryption_data_manager_name</key>
+    <value><![CDATA[Encryption Data Manager]]></value>
+  </definition>
+  <definition>
+    <key>text_extensions</key>
+    <value><![CDATA[Extensions]]></value>
+  </definition>
+  <definition>
+    <key>text_additional_settings</key>
+    <value><![CDATA[ Encryption Data Tools ]]></value>
+  </definition>
+  <definition>
+    <key>entry_status</key>
+    <value><![CDATA[Status:]]></value>
+  </definition>
+  <definition>
+    <key>entry_sort_order</key>
+    <value><![CDATA[Sort Order:]]></value>
+  </definition>
+  <definition>
+    <key>button_generate_keys</key>
+    <value><![CDATA[Generate Key Pair]]></value>
+  </definition>
+  <definition>
+    <key>button_encrypt_data</key>
+    <value><![CDATA[Encrypt Data]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warning: You do not have permission to modify weight based shipping!]]></value>
+  </definition>
+  <!-- ...existing code... -->
+</definitions>

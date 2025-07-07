@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Banner Lista]]></value>
+	</definition>
+	<definition>
+		<key>banner_manager_note</key>
+		<value><![CDATA[
+		Para gestionar los banners siga el menú <b>Design->Banner Administrado</b> después de la extensión está habilitada
+		]]></value>
+	</definition>
+	<definition>
+		<key>banner_manager_name</key>
+		<value><![CDATA[Banner Administrador]]></value>
+	</definition>
+	<definition>
+		<key>banner_manager_name_stat</key>
+		<value><![CDATA[Banner Estadística]]></value>
+	</definition>
+	<definition>
+		<key>column_banner_id</key>
+		<value><![CDATA[ Id ]]></value>
+	</definition>
+	<definition>
+		<key>column_banner_name</key>
+		<value><![CDATA[ Nombre ]]></value>
+	</definition>
+	<definition>
+		<key>column_banner_group</key>
+		<value><![CDATA[ Grupo ]]></value>
+	</definition>
+	<definition>
+		<key>column_banner_type</key>
+		<value><![CDATA[ Tipo ]]></value>
+	</definition>
+	<definition>
+		<key>column_status</key>
+		<value><![CDATA[ Estado ]]></value>
+	</definition>
+	<definition>
+		<key>column_update_date</key>
+		<value><![CDATA[ Actualizado ]]></value>
+	</definition>
+	<definition>
+		<key>column_clicked</key>
+		<value><![CDATA[ Clic ]]></value>
+	</definition>
+	<definition>
+		<key>column_viewed</key>
+		<value><![CDATA[ Visto ]]></value>
+	</definition>
+	<definition>
+		<key>column_percent</key>
+		<value><![CDATA[ Conversión ]]></value>
+	</definition>
+	<definition>
+		<key>text_create</key>
+		<value><![CDATA[ Crear Nuevo Banner ]]></value>
+	</definition>
+	<definition>
+		<key>text_graphic_banner</key>
+		<value><![CDATA[ Banner Gráfico ]]></value>
+	</definition>
+	<definition>
+		<key>text_text_banner</key>
+		<value><![CDATA[ Texto del Mensaje ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_status</key>
+		<value><![CDATA[ Estado: ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_name</key>
+		<value><![CDATA[ Nobmre: ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_group_name</key>
+		<value><![CDATA[ Nombre del Grupo: ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_description</key>
+		<value><![CDATA[ Descripción: ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_html</key>
+		<value><![CDATA[ Banner HTML-code: ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_meta</key>
+		<value><![CDATA[ Meta la información: <span class="help">SEO palabras clave, etc</span> ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_url</key>
+		<value><![CDATA[ URL: ]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_blank</key>
+		<value><![CDATA[ Abrir en Ventana Nueva: ]]></value>
+	</definition>
+	<!-- ...existing code... -->
+</definitions>

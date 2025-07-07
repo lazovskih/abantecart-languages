@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>forms_manager_name</key>
+		<value><![CDATA[Менеджер Форм]]></value>
+	</definition>
+	<definition>
+		<key>forms_manager_status</key>
+		<value><![CDATA[Статус:]]></value>
+	</definition>
+	<definition>
+		<key>forms_manager_note</key>
+		<value><![CDATA[Чтоб управлять формами следует включить расширение  и перейти в меню Дизайн-><a href="#admin#rt=tool/forms_manager">Менеджер Форм</a>]]></value>
+	</definition>
+	<definition>
+		<key>custom_forms_block</key>
+		<value><![CDATA[Блок Пользовательской формы]]></value>
+	</definition>
+	<definition>
+		<key>entry_form_name</key>
+		<value><![CDATA[ Имя формы<br/><span class="help">только латинские буквы, подчеркивание и дефис</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_controller_path</key>
+		<value><![CDATA[Контроллер Обрабатывающий данные]]></value>
+	</definition>
+	<definition>
+		<key>entry_success_page</key>
+		<value><![CDATA[Страница успешного результата<br/><span class="help">Оставьте пустым если хотите перенаправление на ту же страницу контроллера</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_form_description</key>
+		<value><![CDATA[Описание]]></value>
+	</definition>
+	<definition>
+		<key>text_default_email</key>
+		<value><![CDATA[Email по умолчанию]]></value>
+	</definition>
+	<definition>
+		<key>text_contactus_page</key>
+		<value><![CDATA[Страница контактов]]></value>
+	</definition>
+	<definition>
+		<key>text_form</key>
+		<value><![CDATA[Форма]]></value>
+	</definition>
+	<definition>
+		<key>column_name</key>
+		<value><![CDATA[Название]]></value>
+	</definition>
+	<definition>
+		<key>column_description</key>
+		<value><![CDATA[Описание]]></value>
+	</definition>
+	<definition>
+		<key>column_status</key>
+		<value><![CDATA[Статус]]></value>
+	</definition>
+	<definition>
+		<key>filter_exact_match</key>
+		<value><![CDATA[Точная фраза]]></value>
+	</definition>
+	<definition>
+		<key>filter_any_word</key>
+		<value><![CDATA[Любое из искомых слов]]></value>
+	</definition>
+	<definition>
+		<key>filter_all_words</key>
+		<value><![CDATA[Все искомые слова]]></value>
+	</definition>
+	<definition>
+		<key>text_clone</key>
+		<value><![CDATA[Клонировать]]></value>
+	</definition>
+	<definition>
+		<key>filter_form</key>
+		<value><![CDATA[Искать]]></value>
+	</definition>
+	<definition>
+		<key>text_add_new_field</key>
+		<value><![CDATA[-- Добавить новое поле --]]></value>
+	</definition>
+	<definition>
+		<key>button_add_field</key>
+		<value><![CDATA[Побавить поле]]></value>
+	</definition>
+	<definition>
+		<key>button_reset</key>
+		<value><![CDATA[Сброс]]></value>
+	</definition>
+	<definition>
+		<key>text_field_type</key>
+		<value><![CDATA[Тип поля:]]></value>
+	</definition>
+	<definition>
+		<key>button_remove_field</key>
+		<value><![CDATA[Удалить поле]]></value>
+	</definition>
+</definitions>

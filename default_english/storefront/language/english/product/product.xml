@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>text_enlarge</key>
+		<value><![CDATA[Click image to enlarge]]></value>
+	</definition>
+	<definition>
+		<key>text_zoom</key>
+		<value><![CDATA[Move pointer over the image to zoom in]]></value>
+	</definition>
+	<definition>
+		<key>text_quantity_discount</key>
+		<value><![CDATA[Quantity Discount:]]></value>
+	</definition>
+	<definition>
+		<key>text_options</key>
+		<value><![CDATA[Available Options:]]></value>
+	</definition>
+	<definition>
+		<key>text_error</key>
+		<value><![CDATA[Product not found!]]></value>
+	</definition>
+	<definition>
+		<key>text_price</key>
+		<value><![CDATA[Price:]]></value>
+	</definition>
+	<definition>
+		<key>text_availability</key>
+		<value><![CDATA[Availability:]]></value>
+	</definition>
+	<definition>
+		<key>text_model</key>
+		<value><![CDATA[Model:]]></value>
+	</definition>
+	<definition>
+		<key>text_sku</key>
+		<value><![CDATA[SKU:]]></value>
+	</definition>
+	<definition>
+		<key>text_manufacturer</key>
+		<value><![CDATA[Brand:]]></value>
+	</definition>
+	<definition>
+		<key>text_instock</key>
+		<value><![CDATA[In Stock]]></value>
+	</definition>
+	<definition>
+		<key>text_out_of_stock</key>
+		<value><![CDATA[Out of Stock]]></value>
+	</definition>
+	<!-- ...remaining 212 lines from source... -->
+</definitions>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>default_royal_mail_name</key>
+		<value><![CDATA[Royal Mail]]></value>
+	</definition>
+	<definition>
+		<key>text_shipping</key>
+		<value><![CDATA[Shipping]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+		<value><![CDATA[Success: You have modified Royal Mail shipping!]]></value>
+	</definition>
+
+	<definition>
+		<key>default_royal_mail_1st_class</key>
+		<value><![CDATA[1st Class (for GB only)<br/><span class="help">Next-day delivery aim for letters and parcels</span>]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_1st_class_rates</key>
+		<value><![CDATA[1st Class Rates:<br/><span class="help">Example: .1:1.58,.25:1.96,.5:2.48 Weight:Cost,Weight:Cost, etc. In this example 0.1kg = £1.58. Where KG is your Weight class set in the Royal Mail settings and £ is Store Base currency. Store Weight class will be ignored.</span>]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_1st_class_compensation_rates</key>
+		<value><![CDATA[1st Class Compensation Rates]]></value>
+	</definition>
+
+	<definition>
+		<key>default_royal_mail_2nd_class</key>
+		<value><![CDATA[2nd Class (for GB only)]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_2nd_class_rates</key>
+		<value><![CDATA[2nd Class Rates]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_2nd_class_compensation_rates</key>
+		<value><![CDATA[2nd Class Compensation Rates]]></value>
+	</definition>
+
+	<definition>
+		<key>default_royal_mail_tracked24</key>
+		<value><![CDATA[Tracked 24® (for GB only)]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_tracked24_rates</key>
+		<value><![CDATA[Tracked 24® Rates]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_tracked24_compensation_rates</key>
+		<value><![CDATA[Tracked 24® Compensation Rates]]></value>
+	</definition>
+
+	<definition>
+		<key>default_royal_mail_tracked48</key>
+		<value><![CDATA[Tracked 48® (for GB only)]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_tracked48_rates</key>
+		<value><![CDATA[Tracked 48® Rates]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_tracked48_compensation_rates</key>
+		<value><![CDATA[Tracked 48® Compensation Rates]]></value>
+	</definition>
+
+	<definition>
+		<key>default_royal_mail_mail24</key>
+		<value><![CDATA[Mail 24® (for GB only)]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_mail24_rates</key>
+		<value><![CDATA[Mail 24® Rates]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_mail24_compensation_rates</key>
+		<value><![CDATA[Mail 24® Compensation Rates]]></value>
+	</definition>
+
+	<definition>
+		<key>default_royal_mail_mail48</key>
+		<value><![CDATA[Mail 48® (for GB only)]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_mail48_rates</key>
+		<value><![CDATA[Mail 48® Rates]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_mail48_compensation_rates</key>
+		<value><![CDATA[Mail 48® Compensation Rates]]></value>
+	</definition>
+
+	<definition>
+		<key>default_royal_mail_sameday</key>
+		<value><![CDATA[Sameday® (for GB only)]]></value>
+	</definition>
+	<definition>
+		<key>default_royal_mail_sameday_rates</key>
+		<value><![CDATA[Sameday® Rates]]></value>

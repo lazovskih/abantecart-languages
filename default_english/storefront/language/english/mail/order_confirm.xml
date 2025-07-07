@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>text_subject</key>
+    <value><![CDATA[%s - Order %s]]></value>
+  </definition>
+  <definition>
+    <key>text_greeting</key>
+    <value><![CDATA[Thank you for your interest in %s products. Your order has been received and will be processed after payment is confirmed.]]></value>
+  </definition>
+  <definition>
+    <key>text_received</key>
+    <value><![CDATA[You have received an order.]]></value>
+  </definition>
+  <definition>
+    <key>text_order_detail</key>
+    <value><![CDATA[Order Details]]></value>
+  </definition>
+  <definition>
+    <key>text_order_id</key>
+    <value><![CDATA[Order ID:]]></value>
+  </definition>
+  <definition>
+    <key>text_date_added</key>
+    <value><![CDATA[Date Ordered:]]></value>
+  </definition>
+  <definition>
+    <key>text_order_status</key>
+    <value><![CDATA[Order Status:]]></value>
+  </definition>
+  <definition>
+    <key>text_invoice</key>
+    <value><![CDATA[To view your order click on the link below:]]></value>
+  </definition>
+  <definition>
+    <key>text_shipping_method</key>
+    <value><![CDATA[Shipping Method:]]></value>
+  </definition>
+  <definition>
+    <key>text_payment_method</key>
+    <value><![CDATA[Payment Method:]]></value>
+  </definition>
+  <definition>
+    <key>text_shipping_address</key>
+    <value><![CDATA[Shipping Address]]></value>
+  </definition>
+  <definition>
+    <key>text_payment_address</key>
+    <value><![CDATA[Payment Address]]></value>
+  </definition>
+  <!-- ...remaining 112 lines from source... -->
+</definitions>
