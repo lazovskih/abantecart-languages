@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+	<definition>
+		<key>text_basket</key>
+		<value><![CDATA[Carrito]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_basket</key>
+		<value><![CDATA[Editar carrito]]></value>
+	</definition>
+	<definition>
+		<key>text_accept_agree</key>
+		<value>
+			<![CDATA[Al hacer clic en Confirmar pedido, aceptas y estás de acuerdo con todos los términos de]]></value>
+	</definition>
+	<definition>
+		<key>text_cart_items</key>
+		<value><![CDATA[Artículos en tu carrito]]></value>
+	</definition>
+	<definition>
+		<key>text_shipping</key>
+		<value><![CDATA[Envío]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_shipping</key>
+		<value><![CDATA[Editar envío]]></value>
+	</definition>
+	<definition>
+		<key>text_payment</key>
+		<value><![CDATA[Pago]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_payment</key>
+		<value><![CDATA[Editar pago]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm</key>
+		<value><![CDATA[Confirmar]]></value>
+	</definition>
+	<definition>
+		<key>text_shipping_address</key>
+		<value><![CDATA[Dirección de envío]]></value>
+	</definition>
+	<definition>
+		<key>text_shipping_method</key>
+		<value><![CDATA[Método de envío]]></value>
+	</definition>
+	<definition>
+		<key>text_payment_address</key>
+		<value><![CDATA[Dirección de pago]]></value>
+	</definition>
+	<definition>
+		<key>text_payment_method</key>
+		<value><![CDATA[Método de pago]]></value>
+	</definition>
+	<definition>
+		<key>text_change</key>
+		<value><![CDATA[Cambiar]]></value>
+	</definition>
+	<definition>
+		<key>text_comment</key>
+		<value><![CDATA[Sus Comentarios]]></value>
+	</definition>
+	<definition>
+		<key>text_discount</key>
+		<value><![CDATA[Código de descuento]]></value>
+	</definition>
+	<definition>
+		<key>column_product</key>
+		<value><![CDATA[Producto]]></value>
+	</definition>
+	<definition>
+		<key>column_model</key>
+		<value><![CDATA[Modelo]]></value>
+	</definition>
+	<definition>
+		<key>column_quantity</key>
+		<value><![CDATA[Cantidad]]></value>
+	</definition>
+	<definition>
+		<key>column_price</key>
+		<value><![CDATA[Precio]]></value>
+	</definition>
+	<definition>
+		<key>column_total</key>
+		<value><![CDATA[Total]]></value>
+	</definition>
+	<definition>
+		<key>text_add_coupon</key>
+		<value><![CDATA[Editar cupón]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_name</key>
+		<value><![CDATA[Pago rápido]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_fast_checkout_title</key>
+		<value><![CDATA[Pago rápido]]></value>
+	</definition>
+	<!-- ...remaining definitions... -->
+</definitions>

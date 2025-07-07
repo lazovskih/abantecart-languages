@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>text_enlarge</key>
+		<value><![CDATA[Haz clic en la imagen para ampliar]]></value>
+	</definition>
+	<definition>
+		<key>text_zoom</key>
+		<value><![CDATA[Mueve el puntero sobre la imagen para acercar]]></value>
+	</definition>
+	<definition>
+		<key>text_quantity_discount</key>
+		<value><![CDATA[Descuento por cantidad:]]></value>
+	</definition>
+	<definition>
+		<key>text_options</key>
+		<value><![CDATA[Opciones disponibles:]]></value>
+	</definition>
+	<definition>
+		<key>text_error</key>
+		<value><![CDATA[¡Producto no encontrado!]]></value>
+	</definition>
+	<definition>
+		<key>text_price</key>
+		<value><![CDATA[Precio:]]></value>
+	</definition>
+	<definition>
+		<key>text_availability</key>
+		<value><![CDATA[Disponibilidad:]]></value>
+	</definition>
+	<definition>
+		<key>text_model</key>
+		<value><![CDATA[Modelo:]]></value>
+	</definition>
+	<definition>
+		<key>text_sku</key>
+		<value><![CDATA[SKU:]]></value>
+	</definition>
+	<definition>
+		<key>text_manufacturer</key>
+		<value><![CDATA[Marca:]]></value>
+	</definition>
+	<definition>
+		<key>text_instock</key>
+		<value><![CDATA[En stock]]></value>
+	</definition>
+	<definition>
+		<key>text_out_of_stock</key>
+		<value><![CDATA[Agotado]]></value>
+	</definition>
+	<definition>
+		<key>text_order_quantity</key>
+		<value><![CDATA[Cantidad a pedir]]></value>
+	</definition>
+	<definition>
+		<key>text_price_per_item</key>
+		<value><![CDATA[Precio por unidad]]></value>
+	</definition>
+	<definition>
+		<key>text_write</key>
+		<value><![CDATA[Escribir reseña]]></value>
+	</definition>
+	<definition>
+		<key>text_no_reviews</key>
+		<value><![CDATA[No hay reseñas para este producto.]]></value>
+	</definition>
+	<definition>
+		<key>text_average</key>
+		<value><![CDATA[Calificación promedio:]]></value>
+	</definition>
+	<definition>
+		<key>text_stars</key>
+		<value><![CDATA[%s de 5 estrellas!]]></value>
+	</definition>
+	<definition>
+		<key>text_no_rating</key>
+		<value><![CDATA[Sin calificación]]></value>
+	</definition>
+	<definition>
+		<key>text_no_images</key>
+		<value><![CDATA[No hay imágenes adicionales para este producto.]]></value>
+	</definition>
+	<definition>
+		<key>text_no_related</key>
+		<value><![CDATA[No hay productos relacionados para este producto.]]></value>
+	</definition>
+	<definition>
+		<key>text_qty</key>
+		<value><![CDATA[Cant.:]]></value>
+	</definition>
+	<definition>
+		<key>text_note</key>
+		<value><![CDATA[<span style="color: #FF0000;">Nota:</span> No utilices HTML en el texto.]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+		<value><![CDATA[Gracias por tu reseña. Ha sido enviada al administrador para su aprobación.]]></value>
+	</definition>
+	<definition>
+		<key>text_wait</key>
+		<value><![CDATA[¡Por favor espera!]]></value>
+	</definition>
+	<!-- ...remaining definitions... -->
+</definitions>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>text_subject</key>
+    <value><![CDATA[%s - Gracias por registrarte]]></value>
+  </definition>
+  <definition>
+    <key>text_welcome</key>
+    <value><![CDATA[¡Bienvenido y gracias por registrarte en %s!]]></value>
+  </definition>
+  <definition>
+    <key>text_login</key>
+    <value><![CDATA[Tu cuenta ha sido creada y puedes acceder a ella visitando nuestro sitio web o en la siguiente URL:]]></value>
+  </definition>
+  <definition>
+    <key>text_approval</key>
+    <value><![CDATA[Tu cuenta debe ser aprobada antes de poder iniciar sesión. Una vez aprobada, puedes iniciar sesión usando tu correo electrónico y contraseña visitando nuestro sitio web o en la siguiente URL:]]></value>
+  </definition>
+  <definition>
+    <key>text_activate</key>
+    <value><![CDATA[Antes de que podamos activar tu cuenta, debes completar un último paso para finalizar tu registro.<br>Debes completar este paso para convertirte en miembro registrado. Haz clic en el siguiente enlace para activar tu cuenta %s .]]></value>
+  </definition>
+  <definition>
+    <key>text_services</key>
+    <value><![CDATA[Al iniciar sesión, podrás acceder a otros servicios, incluyendo revisar pedidos anteriores, imprimir facturas y editar la información de tu cuenta.]]></value>
+  </definition>
+  <definition>
+    <key>text_thanks</key>
+    <value><![CDATA[Gracias,]]></value>
+  </definition>
+</definitions>

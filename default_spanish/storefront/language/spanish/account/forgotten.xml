@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+<value><![CDATA[¿Olvidó su contraseña?]]></value>
+	</definition>
+	<definition>
+		<key>heading_title_loginname</key>
+<value><![CDATA[¿Olvidó su nombre de usuario?]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+<value><![CDATA[Cuenta]]></value>
+	</definition>
+	<definition>
+		<key>text_forgotten</key>
+<value><![CDATA[Contraseña olvidada]]></value>
+	</definition>
+	<definition>
+		<key>text_your_email</key>
+<value><![CDATA[Su correo electrónico]]></value>
+	</definition>
+	<definition>
+		<key>text_email</key>
+<value>
+<![CDATA[Ingrese el correo electrónico asociado a su cuenta. Haga clic en enviar para recibir su contraseña por correo electrónico]]></value>
+	</definition>
+	<definition>
+		<key>text_loginname_email</key>
+<value>
+<![CDATA[Ingrese el nombre de usuario y el correo electrónico asociados a su cuenta. Haga clic en enviar para solicitar el restablecimiento de la contraseña]]></value>
+	</definition>
+	<definition>
+		<key>text_lastname_email</key>
+<value>
+<![CDATA[Ingrese el apellido y el correo electrónico asociados a su cuenta. Haga clic en enviar para recibir su nombre de usuario por correo electrónico]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+<value><![CDATA[Éxito: El enlace para restablecer la contraseña ha sido enviado a su correo electrónico.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_loginname</key>
+<value><![CDATA[Éxito: El recordatorio de su nombre de usuario ha sido enviado a su correo electrónico.]]></value>
+	</definition>
+	<definition>
+		<key>entry_loginname</key>
+<value><![CDATA[Nombre de usuario:]]></value>
+	</definition>
+	<definition>
+		<key>entry_lastname</key>
+<value><![CDATA[Apellido:]]></value>
+	</definition>
+	<definition>
+		<key>entry_email</key>
+<value><![CDATA[Correo electrónico:]]></value>
+	</definition>
+	<definition>
+		<key>error_email</key>
+<value>
+<![CDATA[Error: El correo electrónico no fue proporcionado o no se encontró en nuestros registros, ¡intente de nuevo!]]></value>
+	</definition>
+	<definition>
+		<key>error_loginname</key>
+<value><![CDATA[Error: El nombre de usuario no fue proporcionado o no se encontró en nuestros registros, ¡intente de nuevo!]]></value>
+	</definition>
+	<definition>
+		<key>error_lastname</key>
+<value><![CDATA[Error: El apellido no fue proporcionado o no se encontró en nuestros registros, ¡intente de nuevo!]]></value>
+	</definition>
+	<definition>
+		<key>error_not_found</key>
+<value><![CDATA[Error: No se encontraron registros que coincidan con la información proporcionada, ¡verifique su información e intente de nuevo!]]></value>
+	</definition>
+	<definition>
+		<key>text_forgotten_loginname</key>
+<value><![CDATA[Nombre de usuario olvidado]]></value>
+	</definition>
+</definitions>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Mis transacciones]]></value>
+  </definition>
+  <definition>
+    <key>text_account</key>
+    <value><![CDATA[Cuenta]]></value>
+  </definition>
+  <definition>
+    <key>text_transactions</key>
+    <value><![CDATA[Historial de transacciones]]></value>
+  </definition>
+  <definition>
+    <key>text_order</key>
+    <value><![CDATA[Número de pedido]]></value>
+  </definition>  
+  <definition>
+    <key>text_transaction_id</key>
+    <value><![CDATA[ID]]></value>
+  </definition>
+  <definition>
+    <key>text_transaction_type</key>
+    <value><![CDATA[Tipo]]></value>
+  </definition>
+  <definition>
+    <key>text_transaction_description</key>
+    <value><![CDATA[Descripción]]></value>
+  </definition>
+  <definition>
+    <key>text_date_added</key>
+    <value><![CDATA[Fecha de creación]]></value>
+  </definition>
+  <definition>
+    <key>text_debit</key>
+    <value><![CDATA[Débito]]></value>
+  </definition>
+  <definition>
+    <key>text_credit</key>
+    <value><![CDATA[Crédito]]></value>
+  </definition>
+  <definition>
+    <key>text_total</key>
+    <value><![CDATA[Total]]></value>
+  </definition>
+  <definition>
+    <key>text_error</key>
+    <value><![CDATA[¡No tienes transacciones registradas en tu cuenta!]]></value>
+  </definition>
+</definitions>

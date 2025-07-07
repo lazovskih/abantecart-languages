@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+<value><![CDATA[Crear Cuenta]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+<value><![CDATA[Cuenta]]></value>
+	</definition>
+	<definition>
+		<key>text_create</key>
+<value><![CDATA[Registrarse]]></value>
+	</definition>
+	<definition>
+		<key>text_account_already</key>
+<value>
+<![CDATA[Si ya tiene una cuenta con nosotros, por favor inicie sesión en la <a style="text-decoration: underline" href="%s">página de acceso</a>.]]></value>
+	</definition>
+	<definition>
+		<key>text_your_details</key>
+<value><![CDATA[Sus Datos Personales]]></value>
+	</definition>
+	<definition>
+		<key>text_your_address</key>
+<value><![CDATA[Su Dirección]]></value>
+	</definition>
+	<definition>
+		<key>text_newsletter</key>
+<value><![CDATA[Boletín]]></value>
+	</definition>
+	<definition>
+		<key>text_your_password</key>
+<value><![CDATA[Su Contraseña]]></value>
+	</definition>
+	<definition>
+		<key>text_login_details</key>
+<value><![CDATA[Detalles de Acceso]]></value>
+	</definition>
+	<definition>
+		<key>text_agree</key>
+<value><![CDATA[He leído y acepto los]]></value>
+	</definition>
+	<definition>
+		<key>entry_loginname</key>
+<value><![CDATA[Nombre de usuario:]]></value>
+	</definition>
+	<definition>
+		<key>entry_firstname</key>
+<value><![CDATA[Nombre:]]></value>
+	</definition>
+	<definition>
+		<key>entry_lastname</key>
+<value><![CDATA[Apellido:]]></value>
+	</definition>
+	<definition>
+		<key>entry_email</key>
+<value><![CDATA[Correo electrónico:]]></value>
+	</definition>
+	<definition>
+		<key>entry_telephone</key>
+<value><![CDATA[Teléfono:]]></value>
+	</definition>
+	<definition>
+		<key>entry_fax</key>
+<value><![CDATA[Fax:]]></value>
+	</definition>
+	<definition>
+		<key>entry_company</key>
+<value><![CDATA[Empresa:]]></value>
+	</definition>
+	<definition>
+		<key>entry_address_1</key>
+<value><![CDATA[Dirección 1:]]></value>
+	</definition>
+	<definition>
+		<key>entry_address_2</key>
+<value><![CDATA[Dirección 2:]]></value>
+	</definition>
+	<definition>
+		<key>entry_postcode</key>
+<value><![CDATA[Código Postal:]]></value>
+	</definition>
+	<definition>
+		<key>entry_city</key>
+<value><![CDATA[Ciudad:]]></value>
+	</definition>
+	<definition>
+		<key>entry_country</key>
+<value><![CDATA[País:]]></value>
+	</definition>
+	<definition>
+		<key>entry_zone</key>
+<value><![CDATA[Región / Estado:]]></value>
+	</definition>
+	<definition>
+		<key>entry_newsletter</key>
+<value><![CDATA[Suscribirse:]]></value>
+	</definition>
+</definitions>

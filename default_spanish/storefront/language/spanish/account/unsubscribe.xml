@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[¡Te has dado de baja exitosamente!]]></value>
+	</definition>
+	<definition>
+		<key>text_message</key>
+		<value><![CDATA[Te has dado de baja exitosamente de las comunicaciones por correo electrónico.]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+		<value><![CDATA[Cuenta]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+		<value><![CDATA[Éxito]]></value>
+	</definition>
+</definitions>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Destacados]]></value>
+	</definition>
+	<definition>
+		<key>heading_subtitle</key>
+		<value><![CDATA[Ver nuestros productos más destacados]]></value>
+	</definition>
+	<definition>
+		<key>text_stars</key>
+		<value><![CDATA[¡%s de 5 estrellas!]]></value>
+	</definition>
+</definitions>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_usps_name</key>
-		<value><![CDATA[United States Postal Service]]></value>
+		<value><![CDATA[Servicio Postal de los Estados Unidos]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -14,147 +14,147 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Success: You have modified United States Postal Service!]]></value>
+		<value><![CDATA[Éxito: ¡Ha modificado el Servicio Postal de los Estados Unidos!]]></value>
 	</definition>
   <definition>
 	<key>text_domestic_0</key>
-	<value><![CDATA[First-Class]]></value>
+	<value><![CDATA[Primera Clase]]></value>
   </definition>
   <definition>
 	<key>text_domestic_1</key>
-	<value><![CDATA[Priority Mail]]></value>
+	<value><![CDATA[Correo Prioritario]]></value>
   </definition>
   <definition>
 	<key>text_domestic_2</key>
-	<value><![CDATA[Express Mail Hold for Pickup]]></value>
+	<value><![CDATA[Correo Exprés Retiro en Oficina]]></value>
   </definition>
   <definition>
 	<key>text_domestic_3</key>
-	<value><![CDATA[Express Mail PO to Addressee]]></value>
+	<value><![CDATA[Correo Exprés Entrega al Destinatario]]></value>
   </definition>
   <definition>
 	<key>text_domestic_4</key>
-	<value><![CDATA[Parcel Post]]></value>
+	<value><![CDATA[Correo de Paquetería]]></value>
   </definition>
   <definition>
 	<key>text_domestic_5</key>
-	<value><![CDATA[Bound Printed Matter]]></value>
+	<value><![CDATA[Material Impreso Encadernado]]></value>
   </definition>
   <definition>
 	<key>text_domestic_6</key>
-	<value><![CDATA[Media Mail]]></value>
+	<value><![CDATA[Correo de Medios]]></value>
   </definition>
   <definition>
 	<key>text_domestic_7</key>
-	<value><![CDATA[Library]]></value>
+	<value><![CDATA[Biblioteca]]></value>
   </definition>
   <definition>
 	<key>text_domestic_12</key>
-	<value><![CDATA[First-Class Postcard Stamped]]></value>
+	<value><![CDATA[Postal de Primera Clase con Sello]]></value>
   </definition>
   <definition>
 	<key>text_domestic_13</key>
-	<value><![CDATA[Express Mail Flat-Rate Envelope]]></value>
+	<value><![CDATA[Sobre de tarifa plana de correo exprés]]></value>
   </definition>
   <definition>
 	<key>text_domestic_16</key>
-	<value><![CDATA[Priority Mail Flat-Rate Envelope]]></value>
+	<value><![CDATA[Sobre de tarifa plana de correo prioritario]]></value>
   </definition>
   <definition>
 	<key>text_domestic_17</key>
-	<value><![CDATA[Priority Mail Regular Flat-Rate Box]]></value>
+	<value><![CDATA[Caja regular de tarifa plana de correo prioritario]]></value>
   </definition>
   <definition>
 	<key>text_domestic_18</key>
-	<value><![CDATA[Priority Mail Keys and IDs]]></value>
+	<value><![CDATA[Claves e identificaciones de correo prioritario]]></value>
   </definition>
   <definition>
 	<key>text_domestic_19</key>
-	<value><![CDATA[First-Class Keys and IDs]]></value>
+	<value><![CDATA[Claves e identificaciones de primera clase]]></value>
   </definition>
   <definition>
 	<key>text_domestic_22</key>
-	<value><![CDATA[Priority Mail Flat-Rate Large Box]]></value>
+	<value><![CDATA[Caja grande de tarifa plana de correo prioritario]]></value>
   </definition>
   <definition>
 	<key>text_domestic_23</key>
-	<value><![CDATA[Express Mail Sunday/Holiday]]></value>
+	<value><![CDATA[Correo exprés domingo/festivo]]></value>
   </definition>
   <definition>
 	<key>text_domestic_25</key>
-	<value><![CDATA[Express Mail Flat-Rate Envelope Sunday/Holiday]]></value>
+	<value><![CDATA[Sobre de tarifa plana de correo exprés domingo/festivo]]></value>
   </definition>
   <definition>
 	<key>text_domestic_27</key>
-	<value><![CDATA[Express Mail Flat-Rate Envelope Hold For Pickup]]></value>
+	<value><![CDATA[Sobre de tarifa plana de correo exprés para recoger en oficina]]></value>
   </definition>
   <definition>
 	<key>text_domestic_28</key>
-	<value><![CDATA[Priority Mail Small Flat-Rate Box]]></value>
+	<value><![CDATA[Caja pequeña de tarifa plana de correo prioritario]]></value>
   </definition>
   <definition>
 	<key>text_international_1</key>
-	<value><![CDATA[Express Mail International]]></value>
+	<value><![CDATA[Correo exprés internacional]]></value>
   </definition>
   <definition>
 	<key>text_international_2</key>
-	<value><![CDATA[Priority Mail International]]></value>
+	<value><![CDATA[Correo prioritario internacional]]></value>
   </definition>
   <definition>
 	<key>text_international_4</key>
-	<value><![CDATA[Global Express Guaranteed (Document and Non-document)]]></value>
+	<value><![CDATA[Garantía exprés global (documento y no documento)]]></value>
   </definition>
   <definition>
 	<key>text_international_5</key>
-	<value><![CDATA[Global Express Guaranteed Document used]]></value>
+	<value><![CDATA[Documento usado con garantía exprés global]]></value>
   </definition>
   <definition>
 	<key>text_international_6</key>
-	<value><![CDATA[Global Express Guaranteed Non-Document Rectangular shape]]></value>
+	<value><![CDATA[Garantía exprés global no documento forma rectangular]]></value>
   </definition>
   <definition>
 	<key>text_international_7</key>
-	<value><![CDATA[Global Express Guaranteed Non-Document Non-Rectangular]]></value>
+	<value><![CDATA[Garantía exprés global no documento forma no rectangular]]></value>
   </definition>
   <definition>
 	<key>text_international_8</key>
-	<value><![CDATA[Priority Mail Flat Rate Envelope]]></value>
+	<value><![CDATA[Sobre de tarifa plana de correo prioritario internacional]]></value>
   </definition>
   <definition>
 	<key>text_international_9</key>
-	<value><![CDATA[Priority Mail Flat Rate Box]]></value>
+	<value><![CDATA[Caja de tarifa plana de correo prioritario internacional]]></value>
   </definition>
   <definition>
 	<key>text_international_10</key>
-	<value><![CDATA[Express Mail International Flat Rate Envelope]]></value>
+	<value><![CDATA[Sobre de tarifa plana de correo exprés internacional]]></value>
   </definition>
   <definition>
 	<key>text_international_11</key>
-	<value><![CDATA[Priority Mail Large Flat Rate Box]]></value>
+	<value><![CDATA[Caja grande de tarifa plana de correo prioritario internacional]]></value>
   </definition>
   <definition>
 	<key>text_international_12</key>
-	<value><![CDATA[Global Express Guaranteed Envelope]]></value>
+	<value><![CDATA[Sobre de garantía exprés global]]></value>
   </definition>
   <definition>
 	<key>text_international_13</key>
-	<value><![CDATA[First Class Mail International Letters]]></value>
+	<value><![CDATA[Cartas internacionales de primera clase]]></value>
   </definition>
   <definition>
 	<key>text_international_14</key>
-	<value><![CDATA[First Class Mail International Flats]]></value>
+	<value><![CDATA[Planos internacionales de primera clase]]></value>
   </definition>
   <definition>
 	<key>text_international_15</key>
-	<value><![CDATA[First Class Mail International Parcels]]></value>
+	<value><![CDATA[Paquetes internacionales de primera clase]]></value>
   </definition>
   <definition>
 	<key>text_international_16</key>
-	<value><![CDATA[Priority Mail Small Flat Rate Box]]></value>
+	<value><![CDATA[Caja pequeña de tarifa plana de correo prioritario internacional]]></value>
   </definition>
   <definition>
 	<key>text_international_21</key>
-	<value><![CDATA[Postcards]]></value>
+	<value><![CDATA[Postales]]></value>
   </definition>
   <definition>
 	<key>text_regular</key>
@@ -162,11 +162,11 @@
   </definition>
   <definition>
 	<key>text_large</key>
-	<value><![CDATA[Large]]></value>
+	<value><![CDATA[Grande]]></value>
   </definition>
   <definition>
 	<key>text_oversize</key>
-	<value><![CDATA[Oversize]]></value>
+	<value><![CDATA[Sobredimensionado]]></value>
   </definition>
   <definition>
 	<key>text_rectangular</key>
@@ -174,7 +174,7 @@
   </definition>
   <definition>
 	<key>text_non_rectangular</key>
-	<value><![CDATA[Non Rectangular]]></value>
+	<value><![CDATA[No rectangular]]></value>
   </definition>
   <definition>
 	<key>text_variable</key>
@@ -210,53 +210,53 @@
   </definition>
   <definition>
 	<key>entry_container</key>
-	<value><![CDATA[Container:]]></value>
+	<value><![CDATA[Contenedor:]]></value>
   </definition>
   <definition>
 	<key>entry_machinable</key>
-	<value><![CDATA[Machinable:]]></value>
+	<value><![CDATA[Mecanizable:]]></value>
   </definition>
   <definition>
 	<key>entry_dimension</key>
-	<value><![CDATA[Dimensions (L x W x H):]]></value>
+	<value><![CDATA[Dimensiones (L x A x H):]]></value>
   </definition>
   <definition>
 	<key>entry_length</key>
-	<value><![CDATA[Dimensions Length:]]></value>
+	<value><![CDATA[Longitud de las dimensiones:]]></value>
   </definition>
   <definition>
 	<key>entry_width</key>
-	<value><![CDATA[Dimensions Width:]]></value>
+	<value><![CDATA[Ancho de las dimensiones:]]></value>
   </definition>
   <definition>
 	<key>entry_height</key>
-	<value><![CDATA[Dimensions Height:]]></value>
+	<value><![CDATA[Altura de las dimensiones:]]></value>
   </definition>
   <definition>
 	<key>entry_girth</key>
-	<value><![CDATA[Girth:]]></value>
+	<value><![CDATA[Perímetro:]]></value>
   </definition>
   <definition>
 	<key>entry_display_time</key>
 	<value>
-	  <![CDATA[Display Delivery Time:<br /><span class="help">Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)</span>]]></value>
+	  <![CDATA[Mostrar tiempo de entrega:<br /><span class="help">¿Desea mostrar el tiempo de envío? (por ejemplo: Se envía en 3 a 5 días)</span>]]></value>
   </definition>
   <definition>
 	<key>entry_display_weight</key>
 	<value>
-	  <![CDATA[Display Delivery Weight:<br /><span class="help">Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg's)</span>]]></value>
+	  <![CDATA[Mostrar peso de entrega:<br /><span class="help">¿Desea mostrar el peso del envío? (por ejemplo: Peso de entrega: 2.7674 Kg)</span>]]></value>
   </definition>
   <definition>
 	<key>entry_length_class</key>
-	<value><![CDATA[Length Class:<br /><span class="help"></span>]]></value>
+	<value><![CDATA[Clase de longitud:<br /><span class="help"></span>]]></value>
   </definition>
   <definition>
 	<key>entry_tax</key>
-	<value><![CDATA[Tax Class:]]></value>
+	<value><![CDATA[Clase de impuesto:]]></value>
   </definition>
   <definition>
 	<key>entry_location</key>
-	<value><![CDATA[Location:]]></value>
+	<value><![CDATA[Ubicación:]]></value>
   </definition>
   <definition>
 	<key>entry_sort_order</key>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[¡Tu cuenta ha sido creada!]]></value>
+	</definition>
+	<definition>
+		<key>text_message</key>
+<value>
+<![CDATA[<p>¡Felicidades! ¡Tu nueva cuenta ha sido creada exitosamente!</p> <p>Ahora puedes aprovechar los privilegios de miembro para mejorar tu experiencia de compra en línea con nosotros.</p> <p>Si tienes alguna pregunta sobre el funcionamiento de esta tienda en línea, por favor envía un correo al propietario de la tienda.</p> <p>Se ha enviado una confirmación a la dirección de correo electrónico proporcionada. Si no la has recibido en una hora, por favor <a href="%s">contáctanos</a>.</p>]]></value>
+	</definition>
+	<definition>
+		<key>text_approval</key>
+<value>
+<![CDATA[<p>¡Gracias por registrarte en %s!</p><p>Serás notificado por correo electrónico una vez que tu cuenta haya sido activada por el propietario de la tienda.</p><p>Si tienes alguna pregunta sobre el funcionamiento de esta tienda en línea, por favor <a href="%s">contacta al propietario de la tienda</a>.</p>]]></value>
+	</definition>
+	<definition>
+		<key>heading_title_activation</key>
+		<value><![CDATA[¡Tu cuenta ha sido creada pero requiere activación! Por favor, sigue las instrucciones.]]></value>
+	</definition>
+	<definition>
+		<key>text_activate</key>
+<value>
+<![CDATA[<p>¡Gracias por registrarte en %s!</p><p>Recibirás por correo electrónico las instrucciones para activar tu cuenta. Debes hacer clic en el enlace proporcionado en el correo para activar tu cuenta. Si no recibes el correo, revisa tu carpeta de spam o correo no deseado.</p><p>Si tienes alguna pregunta sobre el funcionamiento de esta tienda en línea, por favor <a href="%s">contacta al propietario de la tienda</a>.</p>]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+		<value><![CDATA[Cuenta]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+		<value><![CDATA[Éxito]]></value>
+	</definition>
+</definitions>

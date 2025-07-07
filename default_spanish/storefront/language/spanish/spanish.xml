@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>code</key>
+		<value><![CDATA[es]]></value>
+	</definition>
+	<definition>
+		<key>direction</key>
+		<value><![CDATA[rtl]]></value>
+	</definition>
+	<definition>
+		<key>date_format_short</key>
+		<value><![CDATA[d/m/Y]]></value>
+	</definition>
+	<definition>
+		<key>date_format_long</key>
+		<value><![CDATA[Y, dS 'de' F]]></value>
+	</definition>
+	<definition>
+		<key>time_format</key>
+		<value><![CDATA[h:i:s A]]></value>
+	</definition>
+	<definition>
+		<key>time_format_short</key>
+		<value><![CDATA[H:i]]></value>
+	</definition>
+	<definition>
+		<key>decimal_point</key>
+		<value><![CDATA[.]]></value>
+	</definition>
+	<definition>
+		<key>thousand_point</key>
+		<value><![CDATA[,]]></value>
+	</definition>
+	<definition>
+		<key>text_home</key>
+		<value><![CDATA[Inicio]]></value>
+	</definition>
+	<definition>
+		<key>text_yes</key>
+		<value><![CDATA[Sí]]></value>
+	</definition>
+	<definition>
+		<key>text_no</key>
+		<value><![CDATA[No]]></value>
+	</definition>
+	<definition>
+		<key>text_none</key>
+		<value><![CDATA[ --- Ninguno --- ]]></value>
+	</definition>
+	<definition>
+		<key>text_select</key>
+		<value><![CDATA[ --- Por favor seleccione --- ]]></value>
+	</definition>
+	<definition>
+		<key>text_all_zones</key>
+		<value><![CDATA[Todos los Zonas]]></value>
+	</definition>
+	<definition>
+		<key>text_pagination</key>
+		<value><![CDATA[{start} - {end} de {total}]]></value>
+	</definition>
+	<definition>
+		<key>text_pagination_pages_info</key>
+		<value><![CDATA[Mostrando {start} a {end} de {total} ({pages} páginas)]]></value>
+	</definition>
+	<definition>
+		<key>text_per_page</key>
+		<value><![CDATA[Por Página]]></value>
+	</definition>
+	<definition>
+		<key>text_separator</key>
+		<value><![CDATA[ &gt; ]]></value>
+	</definition>
+	<definition>
+		<key>button_continue</key>
+		<value><![CDATA[Continuar]]></value>
+	</definition>
+	<definition>
+		<key>button_back</key>
+		<value><![CDATA[Atrás]]></value>
+	</definition>
+	<definition>
+		<key>button_add_to_cart</key>
+		<value><![CDATA[Agregar al Carrito]]></value>
+	</definition>
+	<definition>
+		<key>button_add_wishlist</key>
+		<value><![CDATA[Agregar a la lista de deseos]]></value>
+	</definition>
+	<definition>
+		<key>button_remove_wishlist</key>
+		<value><![CDATA[Eliminar de la lista de deseos]]></value>
+	</definition>
+	<definition>
+		<key>text_wishlist_add_success</key>
+		<value><![CDATA[Agregado a la lista de deseos]]></value>
+	</definition>
+	<definition>
+		<key>text_wishlist_remove_success</key>
+		<value><![CDATA[Eliminado de la lista de deseos]]></value>
+	</definition>
+	<definition>
+		<key>button_add_address</key>
+		<value><![CDATA[Agregar Dirección]]></value>
+	</definition>
+	<definition>
+		<key>text_first</key>
+		<value><![CDATA[Primero]]></value>
+	</definition>
+	<definition>
+		<key>text_last</key>
+		<value><![CDATA[Último]]></value>
+	</definition>
+	<definition>
+		<key>text_next</key>
+		<value><![CDATA[Siguiente]]></value>
+	</definition>
+	<definition>
+		<key>text_previous</key>
+		<value><![CDATA[Anterior]]></value>
+	</definition>
+	<definition>
+		<key>warning_capslock</key>
+		<value><![CDATA[¡Bloq Mayús está activado!]]></value>
+	</definition>
+</definitions>
