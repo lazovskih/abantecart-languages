@@ -2,21 +2,21 @@
 <definitions>
   <definition>
     <key>heading_title</key>
-    <value><![CDATA[Succès de la commande]]></value>
+    <value><![CDATA[Успешный заказ]]></value>
   </definition>
   <definition>
     <key>text_message_account</key>
-    <value><![CDATA[<p> Votre commande #%s a été acceptée </p>
- <p> Vous pouvez voir les détails de la commande en allant sur la <a href="%s">page de votre compte</a>. </p>
- <p> Veuillez adresser toutes vos questions à <a href="%s">l'administrateur du magasin</a>. </p>
- <p> Merci pour vos achats! </p>]]></value>
+    <value><![CDATA[<p> Ваш заказ #%s был принят </p>
+ <p> Вы можете просмотреть детали заказа, перейдя на <a href="%s">страницу вашего аккаунта</a>. </p>
+ <p> Пожалуйста, адресуйте все ваши вопросы <a href="%s">администратору магазина</a>. </p>
+ <p> Спасибо за ваши покупки! </p>]]></value>
   </definition>
   <definition>
     <key>text_message_guest</key>
-    <value><![CDATA[<p> Votre commande a été traitée avec succès! </p>
- <p> Vous pouvez voir les détails de la commande en allant sur la <a href="%s">page de votre compte</a>. </p>
- <p> Veuillez adresser toutes vos questions à <a href="%s">l'administrateur du magasin</a>. </p>
- <p> Merci pour vos achats! </p>]]></value>
+    <value><![CDATA[<p> Ваш заказ был успешно обработан! </p>
+ <p> Вы можете просмотреть детали заказа, перейдя на <a href="%s">страницу вашего аккаунта</a>. </p>
+ <p> Пожалуйста, адресуйте все ваши вопросы <a href="%s">администратору магазина</a>. </p>
+ <p> Спасибо за ваши покупки! </p>]]></value>
   </definition>
   <definition>
     <key>text_basket</key>
