@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Succès de la commande]]></value>
+  </definition>
+  <definition>
+    <key>text_message_account</key>
+    <value><![CDATA[<p> Votre commande #%s a été acceptée </p>
+ <p> Vous pouvez voir les détails de la commande en allant sur la <a href="%s">page de votre compte</a>. </p>
+ <p> Veuillez adresser toutes vos questions à <a href="%s">l'administrateur du magasin</a>. </p>
+ <p> Merci pour vos achats! </p>]]></value>
+  </definition>
+  <definition>
+    <key>text_message_guest</key>
+    <value><![CDATA[<p> Votre commande a été traitée avec succès! </p>
+ <p> Vous pouvez voir les détails de la commande en allant sur la <a href="%s">page de votre compte</a>. </p>
+ <p> Veuillez adresser toutes vos questions à <a href="%s">l'administrateur du magasin</a>. </p>
+ <p> Merci pour vos achats! </p>]]></value>
+  </definition>
+  <definition>
+    <key>text_basket</key>
+    <value><![CDATA[Корзина]]></value>
+  </definition>
+  <definition>
+    <key>text_shipping</key>
+    <value><![CDATA[Доставка]]></value>
+  </definition>
+  <definition>
+    <key>text_payment</key>
+    <value><![CDATA[Оплата]]></value>
+  </definition>
+  <definition>
+    <key>text_guest</key>
+    <value><![CDATA[Гостевой заказ]]></value>
+  </definition>
+  <definition>
+    <key>text_confirm</key>
+    <value><![CDATA[Подтвердить]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Успех]]></value>
+  </definition>
+  <definition>
+    <key>text_message_failed_order</key>
+    <value><![CDATA[Извините! Мы столкнулись с проблемами в вашей транзакции. Ваш заказ будет проверен вручную администратором.]]></value>
+  </definition>
+  <definition>
+    <key>text_title_failed_order_to_admin</key>
+    <value><![CDATA[Ошибка заказа #%s]]></value>
+  </definition>
+  <definition>
+    <key>text_message_failed_order_to_admin</key>
+    <value><![CDATA[Неудача или отсутствие ответа на подтверждение платежа. Требуется ручная проверка!]]></value>
+  </definition>
+</definitions>

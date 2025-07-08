@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Сводка заказа]]></value>
+	</definition>
+	<definition>
+		<key>text_subtotal</key>
+		<value><![CDATA[Подытог:]]></value>
+	</definition>
+	<definition>
+		<key>text_empty</key>
+		<value><![CDATA[0 товаров]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm</key>
+		<value><![CDATA[Подтвердить?]]></value>
+	</definition>
+	<definition>
+		<key>text_remove</key>
+		<value><![CDATA[Удалить]]></value>
+	</definition>
+	<definition>
+		<key>text_view</key>
+		<value><![CDATA[Просмотреть корзину]]></value>
+	</definition>
+	<definition>
+		<key>text_checkout</key>
+		<value><![CDATA[Оформить заказ]]></value>
+	</definition>
+	<definition>
+		<key>text_items</key>
+		<value><![CDATA[Товары]]></value>
+	</definition>
+</definitions>

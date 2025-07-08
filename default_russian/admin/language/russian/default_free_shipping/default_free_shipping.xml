@@ -10,7 +10,7 @@
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Успешно: Вы изменили Бесплатную доставку!]]></value>
+    <value><![CDATA[Вы изменили бесплатную доставку!]]></value>
   </definition>
   <definition>
     <key>default_free_shipping_location_id</key>
@@ -22,6 +22,6 @@
   </definition>
   <definition>
     <key>error_permission</key>
-    <value><![CDATA[Предупреждение: Вы не имеете прав на изменение Бесплатной доставки!]]></value>
+    <value><![CDATA[Предупреждение: Вы не имеете прав на изменение бесплатной доставки!]]></value>
   </definition>
 </definitions>

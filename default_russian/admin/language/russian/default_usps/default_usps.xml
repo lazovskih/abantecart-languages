@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Успешно: Вы изменили USPS!]]></value>
+		<value><![CDATA[Вы изменили USPS!]]></value>
 	</definition>
 	<definition>
 		<key>text_domestic_0</key>

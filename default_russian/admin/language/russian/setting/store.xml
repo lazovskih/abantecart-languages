@@ -6,7 +6,7 @@
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Успешно: Вы изменили настройки!]]></value>
+    <value><![CDATA[Вы изменили настройки!]]></value>
   </definition>
   <definition>
     <key>text_image_manager</key>

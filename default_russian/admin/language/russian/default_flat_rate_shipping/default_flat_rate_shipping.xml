@@ -10,7 +10,7 @@
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Успешно: Вы изменили Фиксированную стоимость доставки!]]></value>
+    <value><![CDATA[Вы изменили фиксированную стоимость доставки!]]></value>
   </definition>
   <definition>
     <key>default_flat_rate_shipping_status</key>
@@ -38,6 +38,6 @@
   </definition>
   <definition>
     <key>error_permission</key>
-    <value><![CDATA[Предупреждение: Вы не имеете прав на изменение Фиксированной стоимости доставки!]]></value>
+    <value><![CDATA[Предупреждение: Вы не имеете прав на изменение фиксированной стоимости доставки!]]></value>
   </definition>
 </definitions>

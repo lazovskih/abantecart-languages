@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Cart]]></value>
+		<value><![CDATA[Shopping cart]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_basket</key>
-		<value><![CDATA[Edit Cart]]></value>
+		<value><![CDATA[Edit Shopping Cart]]></value>
 	</definition>
 	<definition>
 		<key>text_accept_agree</key>

@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Успешно: Вы изменили местную доставку!]]></value>
+		<value><![CDATA[Вы изменили местную доставку!]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>

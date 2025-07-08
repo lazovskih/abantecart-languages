@@ -10,7 +10,7 @@
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Успешно: Вы изменили детали 2Сheckout аккаунта!]]></value>
+    <value><![CDATA[Вы изменили детали 2Сheckout аккаунта!]]></value>
   </definition>
   <definition>
     <key>2checkout_note</key>

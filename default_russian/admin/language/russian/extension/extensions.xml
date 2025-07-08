@@ -106,11 +106,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Успешно: Вы изменили настройки модуля!]]></value>
+		<value><![CDATA[Вы изменили настройки модуля!]]></value>
 	</definition>
 	<definition>
 		<key>text_restore_success</key>
-		<value><![CDATA[Успешно: Вы восстановили настройки расширения по умолчанию!]]></value>
+		<value><![CDATA[Вы восстановили настройки расширения по умолчанию!]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>

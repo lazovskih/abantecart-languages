@@ -14,7 +14,7 @@
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Успешно: Вы внесли изменения!]]></value>
+    <value><![CDATA[Вы внесли изменения!]]></value>
   </definition>
   <definition>
     <key>entry_status</key>

@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Успешно: Вы успешно очистили журнал ошибок!]]></value>
+		<value><![CDATA[Вы успешно очистили журнал ошибок!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_tail</key>

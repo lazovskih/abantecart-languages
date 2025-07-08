@@ -14,7 +14,7 @@
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Успешно: Вы изменили Доставку!]]></value>
+    <value><![CDATA[Вы изменили доставку!]]></value>
   </definition>
   <definition>
     <key>entry_status</key>

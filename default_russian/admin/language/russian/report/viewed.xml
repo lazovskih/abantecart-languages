@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Успешно: Вы сбросили отчет!]]></value>
+		<value><![CDATA[Вы сбросили отчет!]]></value>
 	</definition>
 	<definition>
 		<key>column_product_id</key>

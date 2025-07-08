@@ -10,11 +10,11 @@
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Успешно: Вы изменили параметры Банковского перевода!]]></value>
+    <value><![CDATA[Вы изменили параметры банковского перевода!]]></value>
   </definition>
   <definition>
     <key>default_banktransfer_instructions</key>
-    <value><![CDATA[Инструкции Банковского перевода:<span class="help">Инструкция отображаемая для клиентов, чтобы совершить банковский перевод на ваш банковский счет</span>]]></value>
+    <value><![CDATA[Инструкции банковского перевода:<span class="help">Инструкция отображаемая для клиентов, чтобы совершить банковский перевод на ваш банковский счет</span>]]></value>
   </definition>
   <definition>
     <key>default_banktransfer_order_min</key>
@@ -34,10 +34,10 @@
   </definition>
   <definition>
     <key>error_permission</key>
-    <value><![CDATA[Предупреждение: Вы не имеете прав на изменение Банковского перевода!]]></value>
+    <value><![CDATA[Предупреждение: Вы не имеете прав на изменение банковского перевода!]]></value>
   </definition>
   <definition>
     <key>error_instructions</key>
-    <value><![CDATA[Инструкции Банковского перевода обязательны для заполнения!]]></value>
+    <value><![CDATA[Инструкции банковского перевода обязательны для заполнения!]]></value>
   </definition>
 </definitions>

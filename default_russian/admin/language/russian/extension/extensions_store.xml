@@ -66,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Успешно: Вы изменили настройки модуля!]]></value>
+		<value><![CDATA[Вы изменили настройки модуля!]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
