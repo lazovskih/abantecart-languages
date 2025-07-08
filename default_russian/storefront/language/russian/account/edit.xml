@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Информация о моем аккаунте]]></value>
+  </definition>
+  <definition>
+    <key>text_account</key>
+    <value><![CDATA[Аккаунт]]></value>
+  </definition>
+  <definition>
+    <key>text_edit</key>
+    <value><![CDATA[Редактировать информацию]]></value>
+  </definition>
+  <definition>
+    <key>text_your_details</key>
+    <value><![CDATA[Ваши личные данные]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Успех: Ваш аккаунт был успешно обновлен.]]></value>
+  </definition>
+  <definition>
+    <key>entry_loginname</key>
+    <value><![CDATA[Имя пользователя:]]></value>
+  </definition>  
+  <definition>
+    <key>entry_firstname</key>
+    <value><![CDATA[Имя:]]></value>
+  </definition>
+  <definition>
+    <key>entry_lastname</key>
+    <value><![CDATA[Фамилия:]]></value>
+  </definition>
+  <definition>
+    <key>entry_date_of_birth</key>
+    <value><![CDATA[Дата рождения:]]></value>
+  </definition>
+  <definition>
+    <key>entry_email</key>
+    <value><![CDATA[Электронная почта:]]></value>
+  </definition>
+  <definition>
+    <key>entry_telephone</key>
+    <value><![CDATA[Телефон:]]></value>
+  </definition>
+  <definition>
+    <key>entry_fax</key>
+    <value><![CDATA[Факс:]]></value>
+  </definition>
+  <definition>
+    <key>error_exists</key>
+    <value><![CDATA[Ошибка: Электронная почта уже зарегистрирована!]]></value>
+  </definition>
+  <definition>
+    <key>error_loginname</key>
+    <value><![CDATA[Имя пользователя должно содержать только буквенно-цифровые символы и быть от 5 до 64 символов в длину!]]></value>
+  </definition>
+  <definition>
+    <key>error_loginname_notunique</key>
+    <value><![CDATA[Это имя пользователя недоступно. Попробуйте другое имя пользователя!]]></value>
+  </definition>
+  <definition>
+    <key>error_firstname</key>
+    <value><![CDATA[Имя должно быть от 1 до 32 символов!]]></value>
+  </definition>
+  <definition>
+    <key>error_lastname</key>
+    <value><![CDATA[Фамилия должна быть от 1 до 32 символов!]]></value>
+  </definition>
+  <definition>
+    <key>error_email</key>
+    <value><![CDATA[Электронная почта не выглядит действительной!]]></value>
+  </definition>
+  <definition>
+    <key>error_telephone</key>
+    <value><![CDATA[Телефон должен содержать от 3 до 32 цифр!]]></value>
+  </definition>
+  <definition>
+    <key>loginname_update_required</key>
+    <value><![CDATA[Ваше имя пользователя совпадает с вашей электронной почтой. Чтобы защитить вашу учетную запись, пожалуйста, создайте новое уникальное имя пользователя]]></value>
+  </definition>
+</definitions>

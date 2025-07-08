@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Вы успешно отписались!]]></value>
+	</definition>
+	<definition>
+		<key>text_message</key>
+		<value><![CDATA[Вы успешно отписались от электронных рассылок.]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+		<value><![CDATA[Аккаунт]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+		<value><![CDATA[Успешно]]></value>
+	</definition>
+</definitions>

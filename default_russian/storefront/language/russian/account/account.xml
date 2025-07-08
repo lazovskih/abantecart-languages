@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Мой аккаунт]]></value>
+	</definition>
+	<definition>
+		<key>text_account_dashboard</key>
+		<value><![CDATA[Панель управления аккаунтом]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+		<value><![CDATA[Аккаунт]]></value>
+	</definition>
+	<definition>
+		<key>text_my_account</key>
+		<value><![CDATA[Мой аккаунт]]></value>
+	</definition>
+	<definition>
+		<key>text_my_orders</key>
+		<value><![CDATA[Мои заказы]]></value>
+	</definition>
+	<definition>
+		<key>text_my_notifications</key>
+		<value><![CDATA[Уведомления]]></value>
+	</definition>
+	<definition>
+		<key>text_information</key>
+		<value><![CDATA[Редактировать данные аккаунта]]></value>
+	</definition>
+	<definition>
+		<key>text_password</key>
+		<value><![CDATA[Сменить пароль]]></value>
+	</definition>
+	<definition>
+		<key>text_address</key>
+		<value><![CDATA[Управление адресной книгой]]></value>
+	</definition>
+	<definition>
+		<key>text_history</key>
+		<value><![CDATA[История заказов]]></value>
+	</definition>
+	<definition>
+		<key>text_transactions</key>
+		<value><![CDATA[История транзакций]]></value>
+	</definition>
+	<definition>
+		<key>text_download</key>
+		<value><![CDATA[Загрузки]]></value>
+	</definition>
+	<definition>
+		<key>text_newsletter</key>
+		<value><![CDATA[Подписка на рассылку]]></value>
+	</definition>
+	<definition>
+		<key>text_account_wishlist</key>
+		<value><![CDATA[Мой список желаемого]]></value>
+	</definition>
+</definitions>

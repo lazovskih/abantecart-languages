@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Подписка на рассылку]]></value>
+	</definition>
+	<definition>
+		<key>text_signup</key>
+		<value><![CDATA[Подпишитесь на нашу рассылку и получайте привлекательные предложения, подписавшись на нашу рассылку.]]></value>
+	</definition>
+	<definition>
+		<key>text_sign_in</key>
+		<value><![CDATA[Войти]]></value>
+	</definition>
+	<definition>
+		<key>text_subscribe</key>
+		<value><![CDATA[Подписаться на рассылку]]></value>
+	</definition>
+	<definition>
+		<key>button_subscribe</key>
+		<value><![CDATA[Подписаться]]></value>
+	</definition>
+</definitions>

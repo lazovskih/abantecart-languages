@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Выход из аккаунта]]></value>
+  </definition>
+  <definition>
+    <key>text_message</key>
+    <value><![CDATA[<p>Вы вышли из своего аккаунта. Теперь безопасно покинуть компьютер.</p><p>Ваша корзина была сохранена, товары в ней будут восстановлены, когда вы снова войдете в свой аккаунт.</p>]]></value>
+  </definition>
+  <definition>
+    <key>text_account</key>
+    <value><![CDATA[Аккаунта]]></value>
+  </definition>
+  <definition>
+    <key>text_logout</key>
+    <value><![CDATA[Выход]]></value>
+  </definition>
+</definitions>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Авторизация]]></value>
+  </definition>
+  <definition>
+    <key>text_account</key>
+    <value><![CDATA[Регистрация аккаунта]]></value>
+  </definition>
+  <definition>
+    <key>text_login</key>
+    <value><![CDATA[Авторизация]]></value>
+  </definition>
+  <definition>
+    <key>text_i_am_new_customer</key>
+    <value><![CDATA[Я новый клиент.]]></value>
+  </definition>
+  <definition>
+    <key>text_checkout</key>
+    <value><![CDATA[Опции оформления заказа:]]></value>
+  </definition>
+  <definition>
+    <key>text_guest</key>
+    <value><![CDATA[Оформление заказа без регистрации]]></value>
+  </definition>
+  <definition>
+    <key>text_create_account</key>
+    <value><![CDATA[Создав учетную запись, вы сможете быстрее совершать покупки, быть в курсе статуса заказа и отслеживать заказы, которые вы сделали ранее.]]></value>
+  </definition>
+  <definition>
+    <key>text_returning_customer</key>
+    <value><![CDATA[Вернувшийся клиент]]></value>
+  </definition>
+  <definition>
+    <key>text_i_am_returning_customer</key>
+    <value><![CDATA[Я вернувшийся клиент.]]></value>
+  </definition>
+  <definition>
+    <key>text_forgotten_login</key>
+    <value><![CDATA[Забыли имя пользователя?]]></value>
+  </definition>
+  <definition>
+    <key>text_forgotten_password</key>
+    <value><![CDATA[Забыли пароль?]]></value>
+  </definition>
+  <definition>
+    <key>entry_loginname</key>
+    <value><![CDATA[Имя пользователя:]]></value>
+  </definition>
+  <definition>
+    <key>entry_email_address</key>
+    <value><![CDATA[Адрес электронной почты:]]></value>
+  </definition>
+  <definition>
+    <key>entry_password</key>
+    <value><![CDATA[Пароль:]]></value>
+  </definition>
+  <definition>
+    <key>error_login</key>
+    <value><![CDATA[Ошибка: Неправильное имя пользователя или пароль.]]></value>
+  </definition>
+  <definition>
+    <key>text_success_activated</key>
+    <value><![CDATA[Успех: Ваша учетная запись была успешно активирована. Пожалуйста, войдите с вашими учетными данными.]]></value>
+  </definition>
+  <definition>
+    <key>text_already_activated</key>
+    <value><![CDATA[Ваша учетная запись уже активирована. Пожалуйста, войдите с вашими учетными данными.]]></value>
+  </definition>
+  <definition>
+    <key>text_resend_activation_email</key>
+    <value><![CDATA[Ошибка: Ваш адрес электронной почты еще не подтвержден. Чтобы отправить новое письмо с подтверждением, пожалуйста, нажмите на эту <a href=" %s ">ссылку</a>]]></value>
+  </definition>
+</definitions>

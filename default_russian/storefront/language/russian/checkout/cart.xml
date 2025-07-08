@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Shopping Cart]]></value>
+	</definition>
+	<definition>
+		<key>text_basket</key>
+		<value><![CDATA[Cart]]></value>
+	</definition>
+	<definition>
+		<key>text_sub_total</key>
+		<value><![CDATA[Sub-Total:]]></value>
+	</definition>
+	<definition>
+		<key>text_weight</key>
+		<value><![CDATA[Cart Weight:]]></value>
+	</definition>
+	<definition>
+		<key>text_error</key>
+		<value><![CDATA[Your shopping cart is empty!]]></value>
+	</definition>
+	<definition>
+		<key>column_remove</key>
+		<value><![CDATA[Remove]]></value>
+	</definition>
+	<definition>
+		<key>column_image</key>
+		<value><![CDATA[Image]]></value>
+	</definition>
+	<definition>
+		<key>column_name</key>
+		<value><![CDATA[Name]]></value>
+	</definition>
+	<definition>
+		<key>column_model</key>
+		<value><![CDATA[Model]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[SKU]]></value>
+	</definition>
+	<definition>
+		<key>column_quantity</key>
+		<value><![CDATA[Quantity]]></value>
+	</definition>
+	<definition>
+		<key>column_price</key>
+		<value><![CDATA[Unit Price]]></value>
+	</definition>
+	<definition>
+		<key>column_total</key>
+		<value><![CDATA[Total]]></value>
+	</definition>
+	<definition>
+		<key>text_continue_shopping</key>
+		<value><![CDATA[Continue Shopping]]></value>
+	</definition>
+	<!-- ...remaining definitions... -->
+</definitions>
