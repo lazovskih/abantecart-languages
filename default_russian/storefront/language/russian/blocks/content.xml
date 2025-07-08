@@ -2,18 +2,18 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Information]]></value>
+		<value><![CDATA[Информация]]></value>
 	</definition>
 	<definition>
 		<key>text_contact</key>
-		<value><![CDATA[Contact Us]]></value>
+		<value><![CDATA[Связаться с нами]]></value>
 	</definition>
 	<definition>
 		<key>text_sitemap</key>
-		<value><![CDATA[Site Map]]></value>
+		<value><![CDATA[Карта сайта]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_new</key>
-		<value><![CDATA[New publications]]></value>
+		<value><![CDATA[Новые публикации]]></value>
 	</definition>
 </definitions>

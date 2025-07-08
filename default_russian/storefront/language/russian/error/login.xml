@@ -2,10 +2,10 @@
 <definitions>
   <definition>
     <key>heading_title</key>
-    <value><![CDATA[Login Error!]]></value>
+    <value><![CDATA[Ошибка входа!]]></value>
   </definition>
   <definition>
     <key>text_login</key>
-    <value><![CDATA[You are not logged in. You will be redirected to login page]]></value>
+    <value><![CDATA[Вы не вошли в систему. Вы будете перенаправлены на страницу входа]]></value>
   </definition>
 </definitions>

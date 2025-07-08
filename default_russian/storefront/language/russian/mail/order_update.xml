@@ -2,30 +2,30 @@
 <definitions>
   <definition>
     <key>text_subject</key>
-    <value><![CDATA[%s - Order Update %s]]></value>
+    <value><![CDATA[%s - Обновление заказа %s]]></value>
   </definition>
   <definition>
     <key>text_order</key>
-    <value><![CDATA[Order ID:]]></value>
+    <value><![CDATA[Идентификатор заказа:]]></value>
   </definition>
   <definition>
     <key>text_date_added</key>
-    <value><![CDATA[Date Ordered:]]></value>
+    <value><![CDATA[Дата заказа:]]></value>
   </definition>
   <definition>
     <key>text_order_status</key>
-    <value><![CDATA[Your order has been updated to the following status:]]></value>
+    <value><![CDATA[Статус вашего заказа был обновлен на следующий:]]></value>
   </definition>
   <definition>
     <key>text_comment</key>
-    <value><![CDATA[The comments for your order are:]]></value>
+    <value><![CDATA[Комментарии к вашему заказу:]]></value>
   </definition>
   <definition>
     <key>text_invoice</key>
-    <value><![CDATA[To view your order click on the link below:]]></value>
+    <value><![CDATA[Чтобы просмотреть свой заказ, нажмите на ссылку ниже:]]></value>
   </definition>
   <definition>
     <key>text_footer</key>
-    <value><![CDATA[Please reply to this email if you have any questions.]]></value>
+    <value><![CDATA[Пожалуйста, ответьте на это письмо, если у вас есть какие-либо вопросы.]]></value>
   </definition>
 </definitions>

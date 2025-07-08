@@ -2,54 +2,54 @@
 <definitions>
   <definition>
     <key>heading_title</key>
-    <value><![CDATA[Site Map]]></value>
+    <value><![CDATA[Карта сайта]]></value>
   </definition>
   <definition>
     <key>text_special</key>
-    <value><![CDATA[Special Offers]]></value>
+    <value><![CDATA[Специальные предложения]]></value>
   </definition>
   <definition>
     <key>text_account</key>
-    <value><![CDATA[My Account]]></value>
+    <value><![CDATA[Мой аккаунт]]></value>
   </definition>
   <definition>
     <key>text_edit</key>
-    <value><![CDATA[Account Information]]></value>
+    <value><![CDATA[Информация об аккаунте]]></value>
   </definition>
   <definition>
     <key>text_password</key>
-    <value><![CDATA[Password]]></value>
+    <value><![CDATA[Пароль]]></value>
   </definition>
   <definition>
     <key>text_address</key>
-    <value><![CDATA[Address Book]]></value>
+    <value><![CDATA[Адресная книга]]></value>
   </definition>
   <definition>
     <key>text_history</key>
-    <value><![CDATA[Order History]]></value>
+    <value><![CDATA[История заказов]]></value>
   </definition>
   <definition>
     <key>text_download</key>
-    <value><![CDATA[Downloads]]></value>
+    <value><![CDATA[Загрузки]]></value>
   </definition>
   <definition>
     <key>text_cart</key>
-    <value><![CDATA[Shopping Cart]]></value>
+    <value><![CDATA[Корзина]]></value>
   </definition>
   <definition>
     <key>text_checkout</key>
-    <value><![CDATA[Checkout]]></value>
+    <value><![CDATA[Оформление заказа]]></value>
   </definition>
   <definition>
     <key>text_search</key>
-    <value><![CDATA[Search]]></value>
+    <value><![CDATA[Поиск]]></value>
   </definition>
   <definition>
     <key>text_information</key>
-    <value><![CDATA[Information]]></value>
+    <value><![CDATA[Информация]]></value>
   </definition>
   <definition>
     <key>text_contact</key>
-    <value><![CDATA[Contact Us]]></value>
+    <value><![CDATA[Связаться с нами]]></value>
   </definition>
 </definitions>

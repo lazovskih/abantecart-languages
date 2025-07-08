@@ -2,70 +2,70 @@
 <definitions>
   <definition>
     <key>text_home</key>
-    <value><![CDATA[Home]]></value>
+    <value><![CDATA[Домашняя]]></value>
   </definition>
   <definition>
     <key>text_special</key>
-    <value><![CDATA[Special Offers]]></value>
+    <value><![CDATA[Специальные предложения]]></value>
   </definition>
   <definition>
     <key>text_contact</key>
-    <value><![CDATA[Contact]]></value>
+    <value><![CDATA[Контакт]]></value>
   </definition>
   <definition>
     <key>text_sitemap</key>
-    <value><![CDATA[Sitemap]]></value>
+    <value><![CDATA[Карта сайта]]></value>
   </definition>
   <definition>
     <key>text_bookmark</key>
-    <value><![CDATA[Bookmark]]></value>
+    <value><![CDATA[Закладка]]></value>
   </definition>
   <definition>
     <key>text_account</key>
-    <value><![CDATA[Account]]></value>
+    <value><![CDATA[Аккаунт]]></value>
   </definition>
   <definition>
     <key>text_login</key>
-    <value><![CDATA[Login]]></value>
+    <value><![CDATA[Вход]]></value>
   </definition>
   <definition>
     <key>text_logout</key>
-    <value><![CDATA[Logoff]]></value>
+    <value><![CDATA[Выход]]></value>
   </definition>
   <definition>
     <key>text_cart</key>
-    <value><![CDATA[Cart]]></value>
+    <value><![CDATA[Корзина]]></value>
   </definition>
   <definition>
     <key>text_checkout</key>
-    <value><![CDATA[Checkout]]></value>
+    <value><![CDATA[Оформление заказа]]></value>
   </definition>
   <definition>
     <key>text_keyword</key>
-    <value><![CDATA[Keywords]]></value>
+    <value><![CDATA[Ключевые слова]]></value>
   </definition>
   <definition>
     <key>text_advanced</key>
-    <value><![CDATA[Advanced Search]]></value>
+    <value><![CDATA[Расширенный поиск]]></value>
   </definition>
   <definition>
     <key>text_category</key>
-    <value><![CDATA[All Categories]]></value>
+    <value><![CDATA[Все категории]]></value>
   </definition>
   <definition>
     <key>entry_search</key>
-    <value><![CDATA[Search:]]></value>
+    <value><![CDATA[Поиск:]]></value>
   </definition>
   <definition>
 	<key>text_welcome</key>
-	<value><![CDATA[Welcome back]]></value>
+	<value><![CDATA[Добро пожаловать обратно]]></value>
   </definition>  
   <definition>
     <key>text_not</key>
-    <value><![CDATA[Not]]></value>
+    <value><![CDATA[Не]]></value>
   </definition>  
   <definition>
     <key>text_login_or_register</key>
-    <value><![CDATA[Login or register]]></value>
+    <value><![CDATA[Вход или регистрация]]></value>
   </definition>  
 </definitions>

@@ -2,10 +2,10 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Welcome to %s]]></value>
+		<value><![CDATA[Добро пожаловать в %s]]></value>
 	</definition>
 	<definition>
 		<key>text_latest</key>
-		<value><![CDATA[Latest Products]]></value>
+		<value><![CDATA[Последние продукты]]></value>
 	</definition>
 </definitions>

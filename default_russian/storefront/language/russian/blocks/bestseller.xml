@@ -2,14 +2,14 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Bestsellers]]></value>
+		<value><![CDATA[Лидеры продаж]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[See Best Selling Products]]></value>
+		<value><![CDATA[Смотрите самые продаваемые товары]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s out of 5 Stars!]]></value>
+		<value><![CDATA[%s из 5 звезд!]]></value>
 	</definition>
 </definitions>

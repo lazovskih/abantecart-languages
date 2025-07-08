@@ -2,14 +2,14 @@
 <definitions>
   <definition>
     <key>text_subject</key>
-    <value><![CDATA[%s - Login name reminder]]></value>
+    <value><![CDATA[%s - напоминание имени пользователя]]></value>
   </definition>
   <definition>
     <key>text_greeting</key>
-    <value><![CDATA[Login name reminder was requested from %s.]]></value>
+    <value><![CDATA[Запрос о напоминании имени пользователя был сделан с %s.]]></value>
   </definition>
   <definition>
     <key>text_your_loginname</key>
-    <value><![CDATA[Your login name is:]]></value>
+    <value><![CDATA[Ваше имя пользователя:]]></value>
   </definition>
 </definitions>

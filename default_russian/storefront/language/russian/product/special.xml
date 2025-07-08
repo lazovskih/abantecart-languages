@@ -2,46 +2,46 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Special Offers]]></value>
+		<value><![CDATA[Специальные предложения]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[There are no special offer products to list.]]></value>
+		<value><![CDATA[Нет товаров со специальными предложениями для отображения.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s out of 5 Stars!]]></value>
+		<value><![CDATA[%s из 5 звезд!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
-		<value><![CDATA[Sort By:]]></value>
+		<value><![CDATA[Сортировать по:]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Default]]></value>
+		<value><![CDATA[По умолчанию]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Name A - Z]]></value>
+		<value><![CDATA[Имя: A - Я]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Name Z - A]]></value>
+		<value><![CDATA[Имя: Я - А]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Price Low &gt; High]]></value>
+		<value><![CDATA[Цена: Низкая - Высокая]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Price High &gt; Low]]></value>
+		<value><![CDATA[Цена: Высокая - Низкая]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Rating Lowest]]></value>
+		<value><![CDATA[Рейтинг: Низкий]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Rating Highest]]></value>
+		<value><![CDATA[Рейтинг: Высокий]]></value>
 	</definition>
 </definitions>

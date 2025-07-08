@@ -2,34 +2,34 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Shopping Cart]]></value>
+		<value><![CDATA[Корзина]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
-		<value><![CDATA[Sub-Total:]]></value>
+		<value><![CDATA[Промежуточный итог:]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 items]]></value>
+		<value><![CDATA[0 товаров]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Confirm?]]></value>
+		<value><![CDATA[Подтвердить?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Remove]]></value>
+		<value><![CDATA[Удалить]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[View Cart]]></value>
+		<value><![CDATA[Просмотреть корзину]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Checkout]]></value>
+		<value><![CDATA[Оформить заказ]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>
-		<value><![CDATA[Items]]></value>
+		<value><![CDATA[Товары]]></value>
 	</definition>
 </definitions>

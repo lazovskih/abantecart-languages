@@ -2,59 +2,491 @@
 <definitions>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Cart]]></value>
+		<value><![CDATA[Корзина]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_basket</key>
-		<value><![CDATA[Edit Cart]]></value>
+		<value><![CDATA[Изменить содержание корзины]]></value>
 	</definition>
 	<definition>
 		<key>text_accept_agree</key>
-		<value><![CDATA[By clicking Confirm Order, you accept and agree to all terms of]]></value>
+		<value><![CDATA[Нажимая "Подтвердить заказ", вы принимаете и соглашаетесь со всеми условиями]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_items</key>
-		<value><![CDATA[Items in your cart]]></value>
+		<value><![CDATA[Товары в вашей корзине]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Shipping]]></value>
+		<value><![CDATA[Доставка]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_shipping</key>
-		<value><![CDATA[Edit Shipping]]></value>
+		<value><![CDATA[Изменить доставку]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[Payment]]></value>
+		<value><![CDATA[Оплата]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_payment</key>
-		<value><![CDATA[Edit Payment]]></value>
+		<value><![CDATA[Изменить оплату]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Confirm]]></value>
+		<value><![CDATA[Подтвердить]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[Shipping Address]]></value>
+		<value><![CDATA[Адрес доставки]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
-		<value><![CDATA[Shipping Method]]></value>
+		<value><![CDATA[Способ доставки]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[Payment Address]]></value>
+		<value><![CDATA[Адрес оплаты]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
-		<value><![CDATA[Payment Method]]></value>
+		<value><![CDATA[Способ оплаты]]></value>
 	</definition>
 	<definition>
 		<key>text_change</key>
-		<value><![CDATA[Change]]></value>
+		<value><![CDATA[Изменить]]></value>
 	</definition>
-	<!-- ...remaining definitions... -->
+	<definition>
+		<key>text_comment</key>
+		<value><![CDATA[Ваши комментарии]]></value>
+	</definition>
+	<definition>
+		<key>text_discount</key>
+		<value><![CDATA[Купон на скидку]]></value>
+	</definition>
+	<definition>
+		<key>column_product</key>
+		<value><![CDATA[Товар]]></value>
+	</definition>
+	<definition>
+		<key>column_model</key>
+		<value><![CDATA[Модель]]></value>
+	</definition>
+	<definition>
+		<key>column_quantity</key>
+		<value><![CDATA[Количество]]></value>
+	</definition>
+	<definition>
+		<key>column_price</key>
+		<value><![CDATA[Цена]]></value>
+	</definition>
+	<definition>
+		<key>column_total</key>
+		<value><![CDATA[Итого]]></value>
+	</definition>
+	<definition>
+		<key>text_add_coupon</key>
+		<value><![CDATA[Изменить купон]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_name</key>
+		<value><![CDATA[Быстрый заказ]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_fast_checkout_title</key>
+		<value><![CDATA[Быстрый заказ]]></value>
+	</definition>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Быстрый заказ]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_buy_now</key>
+		<value><![CDATA[Купить сейчас]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_incorrect_request</key>
+		<value><![CDATA[Неверный запрос.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_handler</key>
+		<value><![CDATA[Не удалось найти обработчик платежей! Пожалуйста, проверьте файлы %s или %s]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_no_handler</key>
+		<value><![CDATA[Не доступен обработчик платежей.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_unknown_payment</key>
+		<value><![CDATA[Неизвестный способ оплаты!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_unexpected</key>
+		<value><![CDATA[Произошла непредвиденная ошибка! Пожалуйста, попробуйте еще раз.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_unexpected_log</key>
+		<value><![CDATA[Произошла непредвиденная ошибка. Не удалось создать данные заказа на основе массива: %s]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_handler_object</key>
+		<value><![CDATA[Не удалось подтвердить заказ. Обработчик платежей не является объектом.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_system_issue</key>
+		<value><![CDATA[Произошла системная ошибка. Пожалуйста, свяжитесь с администратором сайта.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_no_payment</key>
+		<value><![CDATA[Нет доступных способов оплаты.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_product_option</key>
+		<value><![CDATA[Ошибка параметра товара. %s]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_no_address</key>
+		<value><![CDATA[Не найдено адресов в вашей учетной записи! Пожалуйста, добавьте адрес в вашу учетную запись.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_low_balance</key>
+		<value><![CDATA[У вас недостаточно средств на счете для выполнения этого заказа!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_balance_pay</key>
+		<value><![CDATA[Произошла ошибка при обработке платежа с использованием кредитной карты! Пожалуйста, попробуйте еще раз.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_payment_address</key>
+		<value><![CDATA[Адрес платежа отсутствует или не выбран.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_payment_unavailable</key>
+		<value><![CDATA[Способ оплаты недоступен в вашем регионе.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_shipping_address</key>
+		<value><![CDATA[Адрес доставки отсутствует или не выбран.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_shipping_method</key>
+		<value><![CDATA[Способ доставки не выбран.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_phone</key>
+		<value><![CDATA[Ваш контактный номер телефона не указан.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_owner</key>
+		<value><![CDATA[Ваше имя не указано.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_email</key>
+		<value><![CDATA[Ваш адрес электронной почты не указан или недействителен.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_card_number</key>
+		<value><![CDATA[Номер кредитной карты не указан.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_cvv</key>
+		<value><![CDATA[Номер наобороте не указан.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_expire</key>
+		<value><![CDATA[Срок действия кредитной карты не указан или недействителен.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_balance_apply</key>
+		<value><![CDATA[Срок действия кредитной карты не указан или недействителен.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_account_created</key>
+		<value><![CDATA[Аккаунт был создан. Инструкция по входу отправлена на вашу электронную почту.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_mail_login_password</key>
+		<value><![CDATA[Ваше имя для входа: %s <br>Ваш пароль: %s]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_order_success_message</key>
+		<value><![CDATA[Ваш заказ был успешно создан!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_order_processing_message</key>
+		<value><![CDATA[Заказ сейчас обрабатывается!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_payment_address</key>
+		<value><![CDATA[Адрес платежа]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_shipping_address</key>
+		<value><![CDATA[Адрес доставки]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_select_shipping_method</key>
+		<value><![CDATA[Выберите способ доставки]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_pay_with</key>
+		<value><![CDATA[Оплатить с помощью:]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_credit_card</key>
+		<value><![CDATA[Кредитная карта]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_account_credit</key>
+		<value><![CDATA[Кредит на счете (%s)]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_pay</key>
+		<value><![CDATA[Оплатить]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_enter_cc_details</key>
+		<value><![CDATA[Введите данные кредитной карты ниже]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_your_balance</key>
+		<value><![CDATA[Ваш баланс кредитной карты составляет]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_pay_from_balance</key>
+		<value><![CDATA[Оплатить %s с кредита]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_telephone_placeholder</key>
+		<value><![CDATA[Контактный номер телефона, например: +1.212.555.5555]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_same_as_shipping_address</key>
+		<value><![CDATA[Такой же, как адрес доставки]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_enter_address</key>
+		<value><![CDATA[Продолжить]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_card_number</key>
+		<value><![CDATA[Номер карты]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_bill_me_monthly</key>
+		<value><![CDATA[Списывать ежемесячно]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_create_account</key>
+		<value><![CDATA[Создать аккаунт]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_please_login</key>
+		<value><![CDATA[Пожалуйста, войдите с помощью данных ниже]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_button_login</key>
+		<value><![CDATA[Войти]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_button_reset_login</key>
+		<value><![CDATA[Зарегистрироваться / Сбросить пароль]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_login</key>
+		<value><![CDATA[Войти]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_logout</key>
+		<value><![CDATA[Выйти]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_address</key>
+		<value><![CDATA[Адрес]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_new_customer</key>
+		<value><![CDATA[Я новый клиент]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_loading</key>
+		<value><![CDATA[Загрузка...]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_order_is_completed</key>
+		<value><![CDATA[Заказ завершен!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_thank_you</key>
+		<value><![CDATA[Спасибо за ваш заказ!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_button_start_download</key>
+		<value><![CDATA[Начать загрузку]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_order_downloads</key>
+		<value><![CDATA[Загрузки заказа]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_button_order_details</key>
+		<value><![CDATA[Детали заказа]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_select_delivery</key>
+		<value><![CDATA[Пожалуйста, выберите варианты доставки]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_select_payment</key>
+		<value><![CDATA[Пожалуйста, выберите способ оплаты]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_order_download_pending</key>
+		<value><![CDATA[Загрузка продукта в вашем заказе еще не доступна. Пожалуйста, подождите подтверждения заказа!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_info_duplicate_order</key>
+		<value><![CDATA[Похоже, вы только что разместили другой заказ. <a href="%s">Посмотреть детали заказа</a>]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_email_start_download</key>
+		<value><![CDATA[Вы можете получить доступ к своей загрузке(ам) по ссылке ниже.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_email_order_downloads</key>
+		<value><![CDATA[Вы можете получить доступ к загрузкам заказа по ссылке ниже.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_download_subject</key>
+		<value><![CDATA[Ваши загрузки заказа.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_apply</key>
+		<value><![CDATA[Применить]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_remove</key>
+		<value><![CDATA[Удалить]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_coupon_code</key>
+		<value><![CDATA[Введите код купона]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_order_comment</key>
+		<value><![CDATA[Добавить комментарий к заказу]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_coupon</key>
+		<value><![CDATA[Купон недействителен или истек!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_back_to_cart</key>
+		<value><![CDATA[Назад в корзину]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_order_summary</key>
+		<value><![CDATA[Сводка заказа]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_no_shipments_available</key>
+		<value><![CDATA[Нет доступных отправлений.]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_telephone_placeholder</key>
+		<value><![CDATA[Ваш номер телефона]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_email_placeholder</key>
+		<value><![CDATA[Ваш электронный адрес]]></value>
+	</definition>
+	<definition>
+		<key>button_history</key>
+		<value><![CDATA[История]]></value>
+	</definition>
+	<definition>
+		<key>error_postcode</key>
+		<value><![CDATA[Почтовый индекс неверен]]></value>
+	</definition>
+	<definition>
+		<key>text_basket</key>
+		<value><![CDATA[Корзина]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_comment_placeholder</key>
+		<value><![CDATA[Добавить комментарий к заказу]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_not_enough_stock</key>
+		<value><![CDATA[Недостаточно на складе]]></value>
+	</definition>
+	<definition>
+		<key>order_confirm</key>
+		<value><![CDATA[Подтверждение заказа]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_login_or_email</key>
+		<value><![CDATA[Имя пользователя или адрес электронной почты]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_password</key>
+		<value><![CDATA[Пароль]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_text_authenticating</key>
+		<value><![CDATA[Аутентификация... ]]></value>
+	</definition>
+	<definition>
+		<key>text_message_account</key>
+		<value>
+			<![CDATA[<p>Ваш заказ #%s был создан!</p>
+			<p>Вы можете просмотреть детали вашего заказа, перейдя на <a href="%s">страницу счета</a>.</p>
+			<p>Пожалуйста, направляйте все вопросы к <a href="%s">владельцу магазина</a>.</p>
+			<p>Спасибо за покупки!</p>]]></value>
+	</definition>
+	<definition>
+		<key>text_message_guest</key>
+		<value>
+			<![CDATA[<p>Ваш заказ был успешно обработан!</p>
+			<p>Вы можете просмотреть детали вашего заказа, перейдя на <a href="%s">страницу счета</a>.</p>
+			<p>Пожалуйста, направляйте все вопросы к <a href="%s">владельцу магазина</a>.</p>
+			<p>Спасибо за покупки!</p>]]></value>
+	</definition>
+	<definition>
+		<key>text_basket</key>
+		<value><![CDATA[Корзина]]></value>
+	</definition>
+	<definition>
+		<key>text_shipping</key>
+		<value><![CDATA[Доставка]]></value>
+	</definition>
+	<definition>
+		<key>text_payment</key>
+		<value><![CDATA[Оплата]]></value>
+	</definition>
+	<definition>
+		<key>text_guest</key>
+		<value><![CDATA[Гостевая покупка]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm</key>
+		<value><![CDATA[Подтвердить]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+		<value><![CDATA[Успех]]></value>
+	</definition>
+	<definition>
+		<key>text_message_failed_order</key>
+		<value><![CDATA[Мы столкнулись с проблемой при обработке вашей транзакции. Ваш заказ будет проверен вручную администратором.]]></value>
+	</definition>
+	<definition>
+		<key>text_title_failed_order_to_admin</key>
+		<value><![CDATA[Неудачный заказ #%s]]></value>
+	</definition>
+	<definition>
+		<key>text_message_failed_order_to_admin</key>
+		<value><![CDATA[Неудачный или отсутствующий ответ от проверки платежа. Требуется ручная проверка!]]></value>
+	</definition>
 </definitions>
+

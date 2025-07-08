@@ -2,6 +2,6 @@
 <definitions>
   <definition>
     <key>text_low_order_fee</key>
-    <value><![CDATA[Low Order Fee:]]></value>
+    <value><![CDATA[Оплата за небольшой заказ:]]></value>
   </definition>
 </definitions>

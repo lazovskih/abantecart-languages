@@ -2,15 +2,15 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Maintenance]]></value>
+		<value><![CDATA[Обслуживание]]></value>
 	</definition>
 	<definition>
 		<key>text_maintenance</key>
-		<value><![CDATA[Maintenance]]></value>
+		<value><![CDATA[Обслуживание]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
 		<value>
-			<![CDATA[<h1 style="text-align:center;">We are currently performing some scheduled maintenance. <br/>We will be back as soon as possible. Please check back soon.</h1>]]></value>
+			<![CDATA[<h1 style="text-align:center;">В настоящее время мы проводим плановое обслуживание. <br/>Мы вернемся как можно скорее. Пожалуйста, проверяйте обновления.</h1>]]></value>
 	</definition>
 </definitions>

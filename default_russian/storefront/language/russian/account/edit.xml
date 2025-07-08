@@ -70,7 +70,7 @@
   </definition>
   <definition>
     <key>error_email</key>
-    <value><![CDATA[Электронная почта не выглядит действительной!]]></value>
+    <value><![CDATA[Электронная почта не действительна!]]></value>
   </definition>
   <definition>
     <key>error_telephone</key>

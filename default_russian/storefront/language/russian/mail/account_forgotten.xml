@@ -2,26 +2,26 @@
 <definitions>
   <definition>
     <key>text_subject</key>
-    <value><![CDATA[%s - Password reset]]></value>
+    <value><![CDATA[%s - Обновление пароля]]></value>
   </definition>
   <definition>
     <key>text_greeting</key>
-    <value><![CDATA[A password reset was requested from %s.]]></value>
+    <value><![CDATA[Запрос на сброс пароля был сделан с %s.]]></value>
   </definition>
   <definition>
     <key>text_password</key>
-    <value><![CDATA[To reset your password click link below:]]></value>
+    <value><![CDATA[Чтобы сбросить пароль, нажмите на ссылку ниже:]]></value>
   </definition>
   <definition>
     <key>text_password_reset</key>
-    <value><![CDATA[Your password was successfully reset on %s.]]></value>
+    <value><![CDATA[Ваш пароль был успешно сброшен на %s.]]></value>
   </definition>
   <definition>
     <key>text_new_password</key>
-    <value><![CDATA[Enter your new password below:]]></value>
+    <value><![CDATA[Введите ваш новый пароль ниже:]]></value>
   </definition>
   <definition>
     <key>error_reset_token</key>
-    <value><![CDATA[Incorrect link for password request. Try to reset one more time and use link from most recent email.]]></value>
+    <value><![CDATA[Некорректная ссылка для запроса пароля. Попробуйте сбросить еще раз и используйте ссылку из самого последнего электронного письма.]]></value>
   </definition>
 </definitions>

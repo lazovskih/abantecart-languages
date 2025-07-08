@@ -100,5 +100,124 @@
 		<key>text_wait</key>
 		<value><![CDATA[¡Por favor espera!]]></value>
 	</definition>
-	<!-- ...remaining definitions... -->
+	<definition>
+		<key>text_search</key>
+		<value><![CDATA[Buscar]]></value>
+	</definition>
+	<definition>
+		<key>text_tags</key>
+		<value><![CDATA[Etiquetas:]]></value>
+	</definition>
+	<definition>
+		<key>text_minimum</key>
+		<value><![CDATA[(Este producto tiene una cantidad mínima de %s)]]></value>
+	</definition>
+	<definition>
+		<key>text_maximum</key>
+		<value><![CDATA[(Este producto tiene un límite de %s artículo(s) por pedido)]]></value>
+	</definition>
+	<definition>
+		<key>entry_name</key>
+		<value><![CDATA[Tu nombre:]]></value>
+	</definition>
+	<definition>
+		<key>entry_review</key>
+		<value><![CDATA[Tu reseña:]]></value>
+	</definition>
+	<definition>
+		<key>entry_rating</key>
+		<value><![CDATA[Calificación:]]></value>
+	</definition>
+	<definition>
+		<key>entry_good</key>
+		<value><![CDATA[Bueno]]></value>
+	</definition>
+	<definition>
+		<key>entry_bad</key>
+		<value><![CDATA[Malo]]></value>
+	</definition>
+	<definition>
+		<key>entry_captcha</key>
+		<value><![CDATA[Introduce el código en la casilla de abajo:]]></value>
+	</definition>
+	<definition>
+		<key>tab_description</key>
+		<value><![CDATA[Descripción]]></value>
+	</definition>
+	<definition>
+		<key>tab_image</key>
+		<value><![CDATA[Imágenes adicionales]]></value>
+	</definition>
+	<definition>
+		<key>tab_review</key>
+		<value><![CDATA[Reseñas (%s)]]></value>
+	</definition>
+	<definition>
+		<key>tab_review_empty</key>
+		<value><![CDATA[Reseñas]]></value>
+	</definition>
+	<definition>
+		<key>tab_related</key>
+		<value><![CDATA[Productos relacionados]]></value>
+	</definition>
+	<definition>
+		<key>error_name</key>
+		<value><![CDATA[Error: ¡El nombre de la reseña debe tener entre 3 y 25 caracteres!]]></value>
+	</definition>
+	<definition>
+		<key>error_text</key>
+		<value><![CDATA[Error: ¡El texto de la reseña debe tener entre 25 y 1000 caracteres!]]></value>
+	</definition>
+	<definition>
+		<key>error_rating</key>
+		<value><![CDATA[Error: ¡Por favor selecciona una calificación para la reseña!]]></value>
+	</definition>
+	<definition>
+		<key>text_total_price</key>
+		<value><![CDATA[Precio total:]]></value>
+	</definition>
+	<definition>
+		<key>text_login_view_price</key>
+		<value><![CDATA[Por favor inicia sesión o regístrate para ver el precio o realizar un pedido.]]></value>
+	</definition>
+	<definition>
+		<key>tab_downloads</key>
+		<value><![CDATA[Descargas]]></value>
+	</definition>
+	<definition>
+		<key>text_start_download</key>
+		<value><![CDATA[Iniciar descarga]]></value>
+	</definition>
+	<definition>
+		<key>text_new_review</key>
+		<value><![CDATA[La aprobación de la reseña del producto está pendiente]]></value>
+	</definition>
+	<definition>
+		<key>text_pending_review_approval</key>
+		<value><![CDATA[Se ha publicado una reseña para el producto con id %s. ¡Se requiere acción de aprobación! Haz clic para ver #admin#rt=catalog/review/update&review_id=%s]]></value>
+	</definition>
+	<definition>
+		<key>text_verified_review</key>
+		<value><![CDATA[Compra verificada]]></value>
+	</definition>
+	<definition>
+		<key>percentage_review</key>
+		<value><![CDATA[de los compradores han recomendado esto.]]></value>
+	</definition>
+	<definition>
+		<key>feedback_customer_title</key>
+		<value><![CDATA[Opiniones de los clientes]]></value>
+	</definition>
+	<definition>
+		<key>review_title</key>
+		<value><![CDATA[Reseñas]]></value>
+	</definition>
+	<definition>
+		<key>write_review_title</key>
+		<value><![CDATA[Escribir una reseña]]></value>
+	</definition>
+	<definition>
+		<key>product_rate_title</key>
+		<value><![CDATA[Calificación del producto]]></value>
+	</definition>
 </definitions>

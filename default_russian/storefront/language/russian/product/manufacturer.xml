@@ -2,50 +2,50 @@
 <definitions>
 	<definition>
 		<key>text_product</key>
-		<value><![CDATA[Products]]></value>
+		<value><![CDATA[Товары]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Brand not found!]]></value>
+		<value><![CDATA[Бренд не найден!]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[There are no products to list from this brand.]]></value>
+		<value><![CDATA[В этом списке нет товаров от этого бренда.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s out of 5 Stars!]]></value>
+		<value><![CDATA[%s из 5 звезд!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
-		<value><![CDATA[Sort By:]]></value>
+		<value><![CDATA[Сортировать по:]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Default]]></value>
+		<value><![CDATA[По умолчанию]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Name A - Z]]></value>
+		<value><![CDATA[Имя: A - Я]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Name Z - A]]></value>
+		<value><![CDATA[Имя: Я - А]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Price Low &gt; High]]></value>
+		<value><![CDATA[Цена: Низкая &gt; Высокая]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Price High &gt; Low]]></value>
+		<value><![CDATA[Цена: Высокая &gt; Низкая]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Rating Lowest]]></value>
+		<value><![CDATA[Рейтинг: Низкий]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Rating Highest]]></value>
+		<value><![CDATA[Рейтинг: Высокий]]></value>
 	</definition>
 </definitions>

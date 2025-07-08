@@ -2,62 +2,62 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Contact Us]]></value>
+		<value><![CDATA[Связаться с нами]]></value>
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Address:]]></value>
+		<value><![CDATA[Адрес:]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[E-Mail:]]></value>
+		<value><![CDATA[Электронная почта:]]></value>
 	</definition>
 	<definition>
 		<key>text_telephone</key>
-		<value><![CDATA[Telephone:]]></value>
+		<value><![CDATA[Телефон:]]></value>
 	</definition>
 	<definition>
 		<key>text_fax</key>
-		<value><![CDATA[Fax:]]></value>
+		<value><![CDATA[Факс:]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p>Your enquiry has been successfully sent to the store owner!</p>]]></value>
+		<value><![CDATA[<p>Ваш запрос был успешно отправлен владельцу магазина!</p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[First Name:]]></value>
+		<value><![CDATA[Имя:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[E-Mail Address:]]></value>
+		<value><![CDATA[Электронная почта:]]></value>
 	</definition>
 	<definition>
 		<key>entry_enquiry</key>
-		<value><![CDATA[Enquiry:]]></value>
+		<value><![CDATA[Запрос:]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Enter the code in the box below:]]></value>
+		<value><![CDATA[Введите код в поле ниже:]]></value>
 	</definition>
 	<definition>
 		<key>email_subject</key>
-		<value><![CDATA[Enquiry from %s]]></value>
+		<value><![CDATA[Запрос от %s]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Name must be between 3 and 32 characters!]]></value>
+		<value><![CDATA[Имя должно содержать от 3 до 32 символов!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-Mail Address does not appear to be valid!]]></value>
+		<value><![CDATA[Электронная почта не действительна!]]></value>
 	</definition>
 	<definition>
 		<key>error_enquiry</key>
-		<value><![CDATA[Enquiry must be between 10 and 3000 characters!]]></value>
+		<value><![CDATA[Запрос должен содержать от 10 до 3000 символов!]]></value>
 	</definition>
 	<definition>
 		<key>entry_duplicate_message_subject</key>
-		<value><![CDATA[New Enquiry From %s (%s)]]></value>
+		<value><![CDATA[Новый запрос от %s (%s)]]></value>
 	</definition>
 </definitions>

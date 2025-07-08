@@ -34,35 +34,35 @@
 	</definition>
 	<definition>
 		<key>text_home</key>
-		<value><![CDATA[Home]]></value>
+		<value><![CDATA[Домой]]></value>
 	</definition>
 	<definition>
 		<key>text_yes</key>
-		<value><![CDATA[Yes]]></value>
+		<value><![CDATA[Да]]></value>
 	</definition>
 	<definition>
 		<key>text_no</key>
-		<value><![CDATA[No]]></value>
+		<value><![CDATA[Нет]]></value>
 	</definition>
 	<definition>
 		<key>text_none</key>
-		<value><![CDATA[ --- None --- ]]></value>
+		<value><![CDATA[ --- Нет --- ]]></value>
 	</definition>
 	<definition>
 		<key>text_select</key>
-		<value><![CDATA[ --- Please Select --- ]]></value>
+		<value><![CDATA[ --- Пожалуйста, выберите --- ]]></value>
 	</definition>
 	<definition>
 		<key>text_all_zones</key>
-		<value><![CDATA[All Zones]]></value>
+		<value><![CDATA[Все зоны]]></value>
 	</definition>
 	<definition>
 		<key>text_pagination</key>
-		<value><![CDATA[{start} - {end} of {total}]]></value>
+		<value><![CDATA[{start} - {end} из {total}]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
-		<value><![CDATA[Per Page]]></value>
+		<value><![CDATA[На страницу]]></value>
 	</definition>
 	<definition>
 		<key>text_separator</key>
@@ -70,302 +70,302 @@
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Continue]]></value>
+		<value><![CDATA[Продолжить]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
-		<value><![CDATA[Back]]></value>
+		<value><![CDATA[Назад]]></value>
 	</definition>
 	<definition>
 		<key>button_add_to_cart</key>
-		<value><![CDATA[Add to Cart]]></value>
+		<value><![CDATA[Добавить в корзину]]></value>
 	</definition>
 	<definition>
 		<key>button_add_wishlist</key>
-		<value><![CDATA[Add to wish list]]></value>
+		<value><![CDATA[Добавить в список желаемого]]></value>
 	</definition>
 	<definition>
 		<key>button_remove_wishlist</key>
-		<value><![CDATA[Remove from wish list]]></value>
+		<value><![CDATA[Удалить из списка желаемого]]></value>
 	</definition>
 	<definition>
 		<key>text_wishlist_add_success</key>
-		<value><![CDATA[Added to wish list]]></value>
+		<value><![CDATA[Добавлено в список желаемого]]></value>
 	</definition>
 	<definition>
 		<key>text_wishlist_remove_success</key>
-		<value><![CDATA[Removed from wish list]]></value>
+		<value><![CDATA[Удалено из списка желаемого]]></value>
 	</definition>
 	<definition>
 		<key>button_add_address</key>
-		<value><![CDATA[Add Address]]></value>
+		<value><![CDATA[Добавить адрес]]></value>
 	</definition>
 	<definition>
 		<key>button_new_address</key>
-		<value><![CDATA[New Address]]></value>
+		<value><![CDATA[Новый адрес]]></value>
 	</definition>
 	<definition>
 		<key>button_change_address</key>
-		<value><![CDATA[Change Address]]></value>
+		<value><![CDATA[Изменить адрес]]></value>
 	</definition>
 	<definition>
 		<key>button_edit</key>
-		<value><![CDATA[Edit]]></value>
+		<value><![CDATA[Редактировать]]></value>
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Delete]]></value>
+		<value><![CDATA[Удалить]]></value>
 	</definition>
 	<definition>
 		<key>button_reviews</key>
-		<value><![CDATA[Reviews]]></value>
+		<value><![CDATA[Отзывы]]></value>
 	</definition>
 	<definition>
 		<key>button_write</key>
-		<value><![CDATA[Write Review]]></value>
+		<value><![CDATA[Написать отзыв]]></value>
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Login]]></value>
+		<value><![CDATA[Войти]]></value>
 	</definition>
 	<definition>
 		<key>button_update</key>
-		<value><![CDATA[Update]]></value>
+		<value><![CDATA[Обновить]]></value>
 	</definition>
 	<definition>
 		<key>button_wish</key>
-		<value><![CDATA[Wish]]></value>
+		<value><![CDATA[Желаю]]></value>
 	</definition>
 	<definition>
 		<key>button_print</key>
-		<value><![CDATA[Print]]></value>
+		<value><![CDATA[Печать]]></value>
 	</definition>
 	<definition>
 		<key>button_shopping</key>
-		<value><![CDATA[Continue Shopping]]></value>
+		<value><![CDATA[Продолжить покупки]]></value>
 	</definition>
 	<definition>
 		<key>button_checkout</key>
-		<value><![CDATA[Checkout]]></value>
+		<value><![CDATA[Оформить заказ]]></value>
 	</definition>
 	<definition>
 		<key>button_confirm</key>
-		<value><![CDATA[Confirm Order]]></value>
+		<value><![CDATA[Подтвердить заказ]]></value>
 	</definition>
 	<definition>
 		<key>button_view</key>
-		<value><![CDATA[View]]></value>
+		<value><![CDATA[Просмотр]]></value>
 	</definition>
 	<definition>
 		<key>button_search</key>
-		<value><![CDATA[Search]]></value>
+		<value><![CDATA[Поиск]]></value>
 	</definition>
 	<definition>
 		<key>button_go</key>
-		<value><![CDATA[Go]]></value>
+		<value><![CDATA[Перейти]]></value>
 	</definition>
 	<definition>
 		<key>button_coupon</key>
-		<value><![CDATA[Apply Coupon]]></value>
+		<value><![CDATA[Применить купон]]></value>
 	</definition>
 	<definition>
 		<key>button_guest</key>
-		<value><![CDATA[Guest Checkout]]></value>
+		<value><![CDATA[Гостевая покупка]]></value>
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_ttl</key>
-		<value><![CDATA[Out of stock notice for: %s]]></value>
+		<value><![CDATA[Уведомление о нехватке товара: %s]]></value>
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_body</key>
-		<value><![CDATA[Product "%s" has reached zero or negative stock count for main product or all options. <br> As a result of autodisable setting, product (%s) was auto disabled!<br> For more details visit %s]]></value>
+		<value><![CDATA[Товар "%s" достиг нулевого или отрицательного количества на складе для основного товара или всех опций. <br> В результате настройки автоматического отключения, товар (%s) был автоматически отключен!<br> Для получения дополнительной информации посетите %s]]></value>
 	</definition>
 	<definition>
 		<key>no_payment_required</key>
-		<value><![CDATA[No Payment Required]]></value>
+		<value><![CDATA[Оплата не требуется]]></value>
 	</definition>
 	<definition>
 		<key>gen_data_entry_error</key>
-		<value><![CDATA[Oops, there is an error with information provided!]]></value>
+		<value><![CDATA[Произошла ошибка с предоставленной информацией!]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_asc</key>
-		<value><![CDATA[Name A - Z]]></value>
+		<value><![CDATA[Имя: A - Я]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_desc</key>
-		<value><![CDATA[Name Z - A]]></value>
+		<value><![CDATA[Имя: Я - А]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_price_asc</key>
-		<value><![CDATA[Price Low &gt; High]]></value>
+		<value><![CDATA[Цена: Низкая - Высокая]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_price_desc</key>
-		<value><![CDATA[Price High &gt; Low]]></value>
+		<value><![CDATA[Цена: Высокая - Низкая]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_rating_asc</key>
-		<value><![CDATA[Rating Lowest]]></value>
+		<value><![CDATA[Рейтинг: Низкий - Высокий]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_rating_desc</key>
-		<value><![CDATA[Rating Highest]]></value>
+		<value><![CDATA[Рейтинг: Высокий - Низкий]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_asc</key>
-		<value><![CDATA[Date Old &gt; New]]></value>
+		<value><![CDATA[Дата: Старая - Новая]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_desc</key>
-		<value><![CDATA[Date New &gt; Old]]></value>
+		<value><![CDATA[Дата: Новая - Старая]]></value>
 	</definition>
 	<definition>
 		<key>text_add_cart_confirm</key>
-		<value><![CDATA[Added to cart]]></value>
+		<value><![CDATA[Добавлено в корзину]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[Close]]></value>
+		<value><![CDATA[Закрыть]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Account Balance ]]></value>
+		<value><![CDATA[Баланс счета]]></value>
 	</definition>
 	<definition>
 		<key>text_balance_checkout</key>
-		<value><![CDATA[Account Balance: ]]></value>
+		<value><![CDATA[Баланс счета: ]]></value>
 	</definition>
 	<definition>
 		<key>button_pay_with_balance</key>
-		<value><![CDATA[Pay With Balance]]></value>
+		<value><![CDATA[Оплатить с баланса]]></value>
 	</definition>
 	<definition>
 		<key>button_apply_balance</key>
-		<value><![CDATA[Apply to Order]]></value>
+		<value><![CDATA[Применить к заказу]]></value>
 	</definition>
 	<definition>
 		<key>button_disapply_balance</key>
-		<value><![CDATA[Remove from Order]]></value>
+		<value><![CDATA[Убрать из заказа]]></value>
 	</definition>
 	<definition>
 		<key>text_applied_balance</key>
-		<value><![CDATA[applied to order]]></value>
+		<value><![CDATA[применен к заказу]]></value>
 	</definition>
 	<definition>
 		<key>text_applied_balance_to_order</key>
-		<value><![CDATA[%s used for order #%s]]></value>
+		<value><![CDATA[%s использован для заказа #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_maintenance_notice</key>
-		<value><![CDATA[Notice: Maintenance mode is on.]]></value>
+		<value><![CDATA[Уведомление: Режим обслуживания включен.]]></value>
 	</definition>
 	<definition>
 		<key>text_act_on_behalf</key>
-		<value><![CDATA[Notice: Impersonate mode for customer "%s" by "%s"]]></value>
+		<value><![CDATA[Уведомление: Режим impersonate для клиента "%s" от "%s"]]></value>
 	</definition>
 	<definition>
 		<key>text_browse</key>
-		<value><![CDATA[Select File]]></value>
+		<value><![CDATA[Выбрать файл]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[Cancel]]></value>
+		<value><![CDATA[Отмена]]></value>
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[Reset]]></value>
+		<value><![CDATA[Сбросить]]></value>
 	</definition>
 	<definition>
 		<key>button_submit</key>
-		<value><![CDATA[Submit]]></value>
+		<value><![CDATA[Отправить]]></value>
 	</definition>
 	<definition>
 		<key>button_save</key>
-		<value><![CDATA[Save]]></value>
+		<value><![CDATA[Сохранить]]></value>
 	</definition>
 	<definition>
 		<key>text_field_required</key>
-		<value><![CDATA[is required field!]]></value>
+		<value><![CDATA[обязательное поле!]]></value>
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Human verification has failed! Please try again.]]></value>
+		<value><![CDATA[Не удалась проверка! Пожалуйста, попробуйте снова.]]></value>
     </definition>
 	<definition>
 		<key>entry_attached</key>
-		<value><![CDATA[Attached]]></value>
+		<value><![CDATA[Прикрепленный]]></value>
     </definition>
 	<definition>
 		<key>text_call_to_order</key>
-		<value><![CDATA[Call To Order]]></value>
+		<value><![CDATA[Завершить заказ]]></value>
     </definition>
 	<definition>
 		<key>text_discount</key>
-		<value><![CDATA[Discount]]></value>
+		<value><![CDATA[Скидка]]></value>
     </definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Download]]></value>
+		<value><![CDATA[Скачать]]></value>
     </definition>
 	<definition>
 		<key>text_free</key>
-		<value><![CDATA[Free]]></value>
+		<value><![CDATA[Бесплатно]]></value>
 	</definition>
 	<definition>
 		<key>text_free_shipping</key>
-		<value><![CDATA[Free Shipping]]></value>
+		<value><![CDATA[Бесплатная доставка]]></value>
 	</definition>
 	<definition>
 		<key>price_with_tax</key>
-		<value><![CDATA[Inc Tax]]></value>
+		<value><![CDATA[Включая налог]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[Unavailable]]></value>
+		<value><![CDATA[Недоступно]]></value>
 	</definition>
 	<definition>
 		<key>error_unknown</key>
-		<value><![CDATA[Unknown error encountered. Please try again!]]></value>
+		<value><![CDATA[Неизвестная ошибка. Пожалуйста, попробуйте снова!]]></value>
     </definition>
 	<definition>
 		<key>text_click_browse_file</key>
-		<value><![CDATA[Click to browse file]]></value>
+		<value><![CDATA[Кликните, чтобы выбрать файл]]></value>
 	</definition>
 	<definition>
 		<key>text_back_on_top</key>
-		<value><![CDATA[Back to top]]></value>
+		<value><![CDATA[Вернуться к началу]]></value>
 	</definition>
 	<definition>
 		<key>text_out_of_stock</key>
-		<value><![CDATA[Out of Stock]]></value>
+		<value><![CDATA[Нет в наличии]]></value>
 	</definition>
 	<definition>
 		<key>text_badge_sale</key>
-		<value><![CDATA[SALE]]></value>
+		<value><![CDATA[Распродажа]]></value>
 	</definition>
 	<definition>
 		<key>text_pagination_pages_info</key>
-		<value><![CDATA[Showing {start} to {end} of {total} ({pages} Pages)]]></value>
+		<value><![CDATA[Показаны {start} по {end} из {total} ({pages} страниц)]]></value>
 	</definition>
 	<definition>
 		<key>text_first</key>
-		<value><![CDATA[First]]></value>
+		<value><![CDATA[Первая]]></value>
 	</definition>
 	<definition>
 		<key>text_last</key>
-		<value><![CDATA[Last]]></value>
+		<value><![CDATA[Последняя]]></value>
 	</definition>
 	<definition>
 		<key>text_next</key>
-		<value><![CDATA[Next]]></value>
+		<value><![CDATA[Следующая]]></value>
 	</definition>
 	<definition>
 		<key>text_previous</key>
-		<value><![CDATA[Previous]]></value>
+		<value><![CDATA[Предыдущая]]></value>
 	</definition>
 	<definition>
 		<key>warning_capslock</key>
-		<value><![CDATA[CapsLock is On!]]></value>
+		<value><![CDATA[CapsLock включен!]]></value>
 	</definition>
 </definitions>
