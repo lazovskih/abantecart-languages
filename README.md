@@ -10,3 +10,9 @@ Simple steps to help:
 3. Once verified, from your fork open a pull request and we will merge it into our repository.
 
 Feel free to add new languages if you like.
+
+NoTE: 
+Translation as not finished.
+Translate all values in "\abantecart-languages\default_spanish\admin\language\spanish\setting\setting.xml" to Spanish.
+Translate all values in "\abantecart-languages\default_spanish\admin\language\spanish\tool\*.xml" to Spanish.
+Translate all values in "\abantecart-languages\default_spanish\admin\language\spanish\total\*.xml" to Spanish.
