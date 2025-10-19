@@ -2,22 +2,22 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Subidas de Archivos]]></value>
+		<value><![CDATA[File Uploads]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Fecha de Adición]]></value>
+		<value><![CDATA[Date Added]]></value>
 	</definition>
 	<definition>
 		<key>column_path</key>
-		<value><![CDATA[Archivo]]></value>
+		<value><![CDATA[File]]></value>
 	</definition>
 	<definition>
 		<key>column_section</key>
-		<value><![CDATA[Sección]]></value>
+		<value><![CDATA[Section]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[para descargar archivo]]></value>
+		<value><![CDATA[to download file]]></value>
 	</definition>
 </definitions>

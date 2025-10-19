@@ -2,226 +2,226 @@
 <definitions>
 	<definition>
 		<key>import_export_title</key>
-		<value><![CDATA[Import & Export]]></value>
+		<value><![CDATA[Importar y Exportar]]></value>
 	</definition>
 	<definition>
 		<key>import_wizard_title</key>
-		<value><![CDATA[Import Data Wizard]]></value>
+		<value><![CDATA[Asistente de Importación de Datos]]></value>
 	</definition>
 	<definition>
 		<key>tab_import</key>
-		<value><![CDATA[Import]]></value>
+		<value><![CDATA[Importar]]></value>
 	</definition>
 	<definition>
 		<key>tab_import_wizard</key>
-		<value><![CDATA[Import Wizard]]></value>
+		<value><![CDATA[Asistente de Importación]]></value>
 	</definition>
 	<definition>
 		<key>tab_export</key>
-		<value><![CDATA[Export]]></value>
+		<value><![CDATA[Exportar]]></value>
 	</definition>
 	<definition>
 		<key>text_tables</key>
-		<value><![CDATA[Tables]]></value>
+		<value><![CDATA[Tablas]]></value>
 	</definition>
 	<definition>
 		<key>text_options</key>
-		<value><![CDATA[Options]]></value>
+		<value><![CDATA[Opciones]]></value>
 	</definition>
 	<definition>
 		<key>text_file_format</key>
-		<value><![CDATA[File Format: ]]></value>
+		<value><![CDATA[Formato de Archivo: ]]></value>
 	</definition>
 	<definition>
 		<key>text_file_name</key>
-		<value><![CDATA[File Name: ]]></value>
+		<value><![CDATA[Nombre de Archivo: ]]></value>
 	</definition>
 	<definition>
 		<key>text_load_file</key>
-		<value><![CDATA[Upload Import File]]></value>
+		<value><![CDATA[Subir Archivo de Importación]]></value>
 	</definition>
 	<definition>
 		<key>text_load_file_notes</key>
-		<value><![CDATA[You can upload CSV or Text file to import data. For data structure, you can follow proprietary format (see export) or free format. <br/> For data with the free format, you will need to map data elements manually or use JSON map. <br/>Only product, categories and brands/manufacturers supported for free format import. <br/>Action column can be included to instruct import to 'insert', 'update' or 'delete'. Default action is update_or_insert. ]]></value>
+		<value><![CDATA[Puede subir un archivo CSV o de texto para importar datos. Para la estructura de datos, puede seguir el formato propietario (ver exportar) o un formato libre. <br/> Para datos con formato libre, deberá mapear los elementos manualmente o usar un mapa JSON. <br/>Solo productos, categorías y marcas/fabricantes son compatibles con la importación de formato libre. <br/>La columna Acción puede incluirse para indicar 'insertar', 'actualizar' o 'eliminar'. La acción predeterminada es actualizar_o_insertar. ]]></value>
 	</definition>
 	<definition>
 		<key>text_import_wizard_notes</key>
-		<value><![CDATA[Select a destination table and corresponding database field to each provided import data column. If no field is selected, input column data will be ignored. <br/> <b>Note:</b> Language and store specific data values will be assigned to current content store & language selected]]></value>
+		<value><![CDATA[Seleccione una tabla de destino y el campo de base de datos correspondiente para cada columna de datos importados. Si no se selecciona un campo, los datos de esa columna serán ignorados. <br/> <b>Nota:</b> Los valores de datos específicos de idioma y tienda se asignarán a la tienda y el idioma seleccionados actualmente.]]></value>
 	</definition>
 	<definition>
 		<key>text_records_to_be_loaded</key>
-		<value><![CDATA[There will be %s records loaded and processed in this import!]]></value>
+		<value><![CDATA[¡Se cargarán y procesarán %s registros en esta importación!]]></value>
 	</definition>
 	<definition>
 		<key>text_import_task_title</key>
-		<value><![CDATA[Running Import Process]]></value>
+		<value><![CDATA[Ejecutando Proceso de Importación]]></value>
 	</definition>
 	<definition>
 		<key>text_load</key>
-		<value><![CDATA[Load]]></value>
+		<value><![CDATA[Cargar]]></value>
 	</definition>
 	<definition>
 		<key>text_import_loaded</key>
-		<value><![CDATA[Total loaded: ]]></value>
+		<value><![CDATA[Total cargado: ]]></value>
 	</definition>
 	<definition>
 		<key>text_file_field</key>
-		<value><![CDATA[File to import:<br><span class="help">Supported formats for import files: CSV, TXT</span>]]></value>
+		<value><![CDATA[Archivo a importar:<br><span class="help">Formatos soportados: CSV, TXT</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_id_range_from</key>
-		<value><![CDATA[ID range from: ]]></value>
+		<value><![CDATA[Rango de ID desde: ]]></value>
 	</definition>
 	<definition>
 		<key>text_to</key>
-		<value><![CDATA[to: ]]></value>
+		<value><![CDATA[a: ]]></value>
 	</definition>
 	<definition>
 		<key>text_csv_delimiter</key>
-		<value><![CDATA[CSV/TXT delimiter: ]]></value>
+		<value><![CDATA[Delimitador CSV/TXT: ]]></value>
 	</definition>
 	<definition>
 		<key>text_export_note_csv_delimiter</key>
-		<value><![CDATA[<span class="help">All fields will be enclosed in double quotes.</span>]]></value>
+		<value><![CDATA[<span class="help">Todos los campos estarán entre comillas dobles.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_import_note_csv_delimiter</key>
-		<value><![CDATA[<span class="help">All fields must be enclosed in double quotes.</span>]]></value>
+		<value><![CDATA[<span class="help">Todos los campos deben estar entre comillas dobles.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_test_mode</key>
-		<value><![CDATA[Run in a test mode <br><span class="help">It is recommended to run data import in a test mode first to see if any issues are present.</span>]]></value>
+		<value><![CDATA[Ejecutar en modo de prueba <br><span class="help">Se recomienda ejecutar la importación de datos en modo de prueba primero para ver si hay problemas.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_import_file_col</key>
-		<value><![CDATA[Import File Column]]></value>
+		<value><![CDATA[Columna del Archivo de Importación]]></value>
 	</definition>
 	<definition>
 		<key>text_import_file_data</key>
-		<value><![CDATA[Import Data Sample]]></value>
+		<value><![CDATA[Ejemplo de Datos a Importar]]></value>
 	</definition>
 	<definition>
 		<key>text_destination_col</key>
-		<value><![CDATA[Select destination table]]></value>
+		<value><![CDATA[Seleccionar tabla de destino]]></value>
 	</definition>
 	<definition>
 		<key>text_import_update_on</key>
-		<value><![CDATA[Update if exists]]></value>
+		<value><![CDATA[Actualizar si existe]]></value>
 	</definition>
 	<definition>
 		<key>text_import_split</key>
-		<value><![CDATA[Split data by]]></value>
+		<value><![CDATA[Dividir datos por]]></value>
 	</definition>
 	<definition>
 		<key>title_export_map</key>
-		<value><![CDATA[Select, copy and save this mapping for future use.]]></value>
+		<value><![CDATA[Seleccione, copie y guarde este mapeo para uso futuro.]]></value>
 	</definition>
 	<definition>
 		<key>text_export_map</key>
-		<value><![CDATA[Export mapping]]></value>
+		<value><![CDATA[Exportar mapeo]]></value>
 	</definition>
 	<definition>
 		<key>title_load_map</key>
-		<value><![CDATA[Post to the field below pre-saved mapping data]]></value>
+		<value><![CDATA[Pegue en el campo de abajo los datos de mapeo guardados previamente]]></value>
 	</definition>
 	<definition>
 		<key>text_load_map</key>
-		<value><![CDATA[Load mapping]]></value>
+		<value><![CDATA[Cargar mapeo]]></value>
 	</definition>
 	<definition>
 		<key>error_file_format</key>
-		<value><![CDATA[Unsupported import file format!]]></value>
+		<value><![CDATA[¡Formato de archivo de importación no soportado!]]></value>
 	</definition>
 	<definition>
 		<key>error_xml_import</key>
-		<value><![CDATA[Error during import XML file!]]></value>
+		<value><![CDATA[¡Error durante la importación del archivo XML!]]></value>
 	</definition>
 	<definition>
 		<key>error_csv_import</key>
-		<value><![CDATA[Error during import CSV/TXT file! Please check fields delimiter.]]></value>
+		<value><![CDATA[¡Error durante la importación del archivo CSV/TXT! Por favor, revisa el delimitador de campos.]]></value>
 	</definition>
 	<definition>
 		<key>error_data_corrupted</key>
-		<value><![CDATA[Data is empty or corrupted.]]></value>
+		<value><![CDATA[Los datos están vacíos o corruptos.]]></value>
 	</definition>
 	<definition>
 		<key>error_file_empty</key>
-		<value><![CDATA[File is empty.]]></value>
+		<value><![CDATA[El archivo está vacío.]]></value>
 	</definition>
 	<definition>
 		<key>error_writable_backup</key>
-		<value><![CDATA[Backup directory needs to be writable for CSV/TXT export to work.]]></value>
+		<value><![CDATA[El directorio de copias de seguridad debe ser escribible para que la exportación CSV/TXT funcione.]]></value>
 	</definition>
 	<definition>
 		<key>text_updated</key>
-		<value><![CDATA[Updated: ]]></value>
+		<value><![CDATA[Actualizado: ]]></value>
 	</definition>
 	<definition>
 		<key>text_created</key>
-		<value><![CDATA[Created: ]]></value>
+		<value><![CDATA[Creado: ]]></value>
 	</definition>
 	<definition>
 		<key>text_errors</key>
-		<value><![CDATA[Errors: ]]></value>
+		<value><![CDATA[Errores: ]]></value>
 	</definition>
 	<definition>
 		<key>text_show_details</key>
-		<value><![CDATA[Show details]]></value>
+		<value><![CDATA[Mostrar detalles]]></value>
 	</definition>
 	<definition>
 		<key>text_no_children</key>
-		<value><![CDATA[No child items]]></value>
+		<value><![CDATA[Sin elementos secundarios]]></value>
 	</definition>
 	<definition>
 		<key>text_some_errors</key>
-		<value><![CDATA[There are some errors.]]></value>
+		<value><![CDATA[Hay algunos errores.]]></value>
 	</definition>
 	<definition>
 		<key>text_test_completed</key>
-		<value><![CDATA[Test run completed. Total SQL queries: ]]></value>
+		<value><![CDATA[Prueba completada. Total de consultas SQL: ]]></value>
 	</definition>
 	<definition>
 		<key>text_sort_by</key>
-		<value><![CDATA[Sort by: ]]></value>
+		<value><![CDATA[Ordenar por: ]]></value>
 	</definition>
 	<definition>
 		<key>error_table_selection</key>
-		<value><![CDATA[No import destination table or fields selected!]]></value>
+		<value><![CDATA[¡No se seleccionó tabla o campos de destino para la importación!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_selection</key>
-		<value><![CDATA[Missing required data field '%s' for destination table!]]></value>
+		<value><![CDATA[Falta el campo de datos requerido '%s' para la tabla de destino!]]></value>
 	</definition>
 	<definition>
 		<key>error_tmp_dir_non_writable</key>
-		<value><![CDATA[Temporary Directory %s is not writable! Please change permissions to proceed.]]></value>
+		<value><![CDATA[¡El directorio temporal %s no es escribible! Cambia los permisos para continuar.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_request</key>
-		<value><![CDATA[Empty request.]]></value>
+		<value><![CDATA[Solicitud vacía.]]></value>
 	</definition>
 	<definition>
 		<key>text_complete_import</key>
-		<value><![CDATA[Import Process has been completed. %s row(s) processed.]]></value>
+		<value><![CDATA[El proceso de importación se ha completado. %s fila(s) procesadas.]]></value>
 	</definition>
 	<definition>
 		<key>text_complete_import_with_errors</key>
-		<value><![CDATA[%s row(s) with errors.]]></value>
+		<value><![CDATA[%s fila(s) con errores.]]></value>
 	</definition>
 	<definition>
 		<key>text_see_log</key>
-		<value><![CDATA[For more details see <a href="%s" target="_new">log file %s</a>]]></value>
+		<value><![CDATA[Para más detalles, consulta <a href="%s" target="_new">el archivo de registro %s</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_success_abort</key>
-		<value><![CDATA[Task interrupted successfully.]]></value>
+		<value><![CDATA[Tarea interrumpida correctamente.]]></value>
 	</definition>
 	<definition>
 		<key>button_schedule_import</key>
-		<value><![CDATA[Schedule Import]]></value>
+		<value><![CDATA[Programar Importación]]></value>
 	</definition>
 	<definition>
 		<key>text_success_scheduled</key>
-		<value><![CDATA[Success: You have successfully created scheduled import task! <a href="%s">See details</a>]]></value>
+		<value><![CDATA[Éxito: ¡Has creado correctamente una tarea de importación programada! <a href="%s">Ver detalles</a>]]></value>
 </definition>
 </definitions>

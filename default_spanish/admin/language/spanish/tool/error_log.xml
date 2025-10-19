@@ -2,18 +2,18 @@
 <definitions>
   <definition>
     <key>heading_title</key>
-    <value><![CDATA[Error Log]]></value>
+    <value><![CDATA[Registro de Errores]]></value>
   </definition>
   <definition>
     <key>text_success</key>
-    <value><![CDATA[Success: You have successfully cleared your error log!]]></value>
+    <value><![CDATA[Éxito: ¡Has limpiado correctamente tu registro de errores!]]></value>
   </definition>
   <definition>
     <key>text_file_tail</key>
-    <value><![CDATA[Due to large size of the log file, only last 500Kb of data can be viewed in here.<br>To view complete log, get it from your server directly.Path:       ]]></value>
+    <value><![CDATA[Debido al gran tamaño del archivo de registro, solo los últimos 500Kb de datos pueden verse aquí.<br>Para ver el registro completo, descárgalo directamente desde tu servidor. Ruta:       ]]></value>
   </definition>
   <definition>
     <key>text_file_error</key>
-    <value><![CDATA[ File does not exists or not readable! ]]></value>
+    <value><![CDATA[¡El archivo no existe o no es legible!]]></value>
   </definition>
 </definitions>
