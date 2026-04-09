@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Mapa witryny]]></value>
+		<value><![CDATA[Mapa strony]]></value>
 	</definition>
 	<definition>
 		<key>text_special</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_edit</key>
-		<value><![CDATA[informacje o koncie]]></value>
+		<value><![CDATA[Informacje o koncie]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
@@ -30,23 +30,23 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[pliki do pobrania]]></value>
+		<value><![CDATA[Pobrania]]></value>
 	</definition>
 	<definition>
 		<key>text_cart</key>
-		<value><![CDATA[Wózek sklepowy]]></value>
+		<value><![CDATA[Koszyk na zakupy]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Sprawdzić]]></value>
+		<value><![CDATA[Przejdź do kasy]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Szukanie]]></value>
+		<value><![CDATA[Szukaj]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Informacja]]></value>
+		<value><![CDATA[Informacje]]></value>
 	</definition>
 	<definition>
 		<key>text_contact</key>

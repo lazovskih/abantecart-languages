@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Prehľad objednávky]]></value>
+		<value><![CDATA[Zhrnutie objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
@@ -18,18 +18,18 @@
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[odstrániť]]></value>
+		<value><![CDATA[Odstrániť]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Pohľadnica]]></value>
+		<value><![CDATA[Zobraziť košík]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Odhlásiť sa]]></value>
+		<value><![CDATA[Pokladňa]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>
-		<value><![CDATA[predmety]]></value>
+		<value><![CDATA[Položky]]></value>
 	</definition>
 </definitions>

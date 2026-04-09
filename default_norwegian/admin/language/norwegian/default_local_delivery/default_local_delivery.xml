@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Leveranse]]></value>
+		<value><![CDATA[Levering]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>
-		<value><![CDATA[Minimum bestillingsbeløp: <br/><span class="help">Minimum deltotalt beløp som skal oppfylles for at leveringsalternativet skal være tilgjengelig.</span>]]></value>
+		<value><![CDATA[Minste bestillingsbeløp:<br /><span class="help">Minste delsum som må oppnås for at leveringsalternativet skal være tilgjengelig.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_cost</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>
-		<value><![CDATA[Postnummer: <br/><span class="help">kommadelt postnummerliste. Jokertegn * støttes. Eksempel 30001,3002,40*,*ND</span>]]></value>
+		<value><![CDATA[Postnumre:<br /><span class="help"> Komma-separert liste over postnumre. Wildcard * støttes. Eksempel 30001,3002,40*,*ND</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>

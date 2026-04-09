@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,23 +6,23 @@
 	</definition>
 	<definition>
 		<key>text_install</key>
-		<value><![CDATA[להתקין]]></value>
+		<value><![CDATA[התקן]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
-		<value><![CDATA[הסר את ההתקנה]]></value>
+		<value><![CDATA[הסר התקנה]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שיטת משלוח]]></value>
+		<value><![CDATA[שיטת המשלוח]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[סדר המיון]]></value>
+		<value><![CDATA[סדר מיון]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>

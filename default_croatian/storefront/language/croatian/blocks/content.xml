@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Informacija]]></value>
+		<value><![CDATA[Informacije]]></value>
 	</definition>
 	<definition>
 		<key>text_contact</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_sitemap</key>
-		<value><![CDATA[Mapa stranice]]></value>
+		<value><![CDATA[Karta stranice]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_new</key>

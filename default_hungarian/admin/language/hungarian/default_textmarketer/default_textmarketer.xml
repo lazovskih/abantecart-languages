@@ -6,11 +6,10 @@
 	</definition>
 	<definition>
 		<key>default_textmarketer_note</key>
-		<value><![CDATA[Az sms-üzenetek engedélyezéséhez lépjen a Rendszer -&gt; Beállítások -&gt; <a href="#admin#rt=setting/setting/im" target="_im">IM</a><br/> 
- menüpontba, és válassza ki a TextMarketert alapértelmezett sms-illesztőprogramként. Ne felejtse el engedélyezni azt a részt, ahonnan SMS-t szeretne kapni (adminisztrátor vagy kirakat). <br/> 
- Ez a bővítmény lehetővé teszi a Mobiltelefon mezőt az adminisztrátorok és az ügyfelek számára. Ne feledje, hogy a bővítmény letiltása elrejti ezt a mezőt. 
- Ha hozzáadja a meglévő üzlethez az ügyfelekkel, ne feledje, hogy ez az információ hiányzik. 
-		]]></value>
+		<value><![CDATA[Az sms-üzenetküldés engedélyezéséhez navigáljon a Rendszer -> Beállítások -> <a href="#admin#rt=setting/setting/im" target="_im">IM</a><br/>
+és válassza alapértelmezett sms-illesztőként a TextMarketer-t. Ne felejtse el engedélyezni azt a szekciót, ahonnan sms-eket szeretne fogadni (admin vagy storefront).<br/>
+Ez a bővítmény lehetővé teszi az Adminok és vásárlók számára a Mobiltelefonszám mező megadását. Ne feledje, hogy a bővítmény letiltása elrejti ezt a mezőt.<br/>
+Ha meglévő, vásárlókkal rendelkező áruházhoz adja hozzá, vegye figyelembe, hogy ez az információ hiányozni fog.]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_username</key>
@@ -22,7 +21,7 @@
 	</definition>
 	<definition>
 		<key>default_textmarketer_originator</key>
-		<value><![CDATA[Kezdeményező: <span class="help">Kitől származik az üzenet (a küldő vagy a feladó azonosítója). Ez lehet 11 alfanumerikus vagy 16 csak numerikus karakter.</span>]]></value>
+		<value><![CDATA[Feladó: Az üzenet küldője (az eredeti feladó vagy küldőazonosító). Ez kizárólag 11 alfanumerikus vagy 16 numerikus karakter lehet.]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_test</key>
@@ -38,34 +37,34 @@
 	</definition>
 	<definition>
 		<key>default_textmarketer_logging</key>
-		<value><![CDATA[Hibanaplózás állapota <span class="help">Ha a TextMarketer kiterjesztés összes hibáját naplózni szeretné, kapcsolja BE ezt a beállítást.</span>]]></value>
+		<value><![CDATA[Hibanaplózás állapota<span class="help">Ha naplózni szeretnéd a TextMarketer bővítmény összes hibáját, kapcsold be ezt a beállítást.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_sms</key>
-		<value><![CDATA[ Mobiltelefon ]]></value>
+		<value><![CDATA[Mobiltelefon]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_test_connection</key>
-		<value><![CDATA[Tesztelje kapcsolatát: <span class="help">Kipróbálhatja, hogy a megadott API hitelesítő adatok helyesek-e.</span>]]></value>
+		<value><![CDATA[Teszteld a kapcsolatodat:<span class="help">Ellenőrizheted, hogy a megadott API hitelesítő adatok helyesek-e.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_test</key>
-		<value><![CDATA[ Teszt ]]></value>
+		<value><![CDATA[Teszt]]></value>
 	</definition>
 	<definition>
 		<key>error_turn_extension_on</key>
-		<value><![CDATA[Hiba! Kérjük, ellenőrizze, hogy a bővítmény be van-e kapcsolva.]]></value>
+		<value><![CDATA[Hiba! Kérjük, ellenőrizze, hogy a kiterjesztés be van-e kapcsolva.]]></value>
+	</definition>
+	<definition>
+		<key>text_see_log</key>
+		<value><![CDATA[Részletekért tekintse meg a hibanaplót.]]></value>
+	</definition>
+	<definition>
+		<key>text_connection_success</key>
+		<value><![CDATA[A kapcsolat sikeres, és az API hitelesítő adatok megfelelően vannak beállítva.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_test_phone_number</key>
 		<value><![CDATA[Hiba! Kérjük, adja meg a címzett telefonszámát.]]></value>
-	</definition>
-	<definition>
-		<key>text_see_log</key>
-		<value><![CDATA[A részletekért lásd a hibanaplót.]]></value>
-	</definition>
-	<definition>
-		<key>text_connection_success</key>
-		<value><![CDATA[A csatlakozás sikeres, és az API hitelesítő adatok megfelelően vannak konfigurálva.]]></value>
 	</definition>
 </definitions>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>2checkout_name</key>
-		<value><![CDATA[2Pokladna]]></value>
+		<value><![CDATA[2Checkout]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,28 +10,25 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Upravili jste podrobnosti účtu 2Checkout!]]></value>
+		<value><![CDATA[Úspěch: upravili jste údaje o účtu 2Checkout!]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_note</key>
-		<value><![CDATA[
- S tímto rozšířením můžete používat platební systém 2Checkout k přijímání plateb od vašich zákazníků. <br/> 
- <b>Zaregistrujte se zdarma ještě dnes! Použijte propagační kód ABANTECART2CO pro prominutí poplatku za aplikační službu (úspora 10,99 $) a začněte prodávat online ještě dnes!</b> Navštivte <a href="https://www.2checkout.com/signup/">www.2checkout.com</a> , vyplňte přihlášku a poté zadejte kód do pole pro propagační kód, abyste mohli využít této speciální nabídky ještě dnes! 
- <br/> Jakmile se zaregistrujete, přihlaste se, abyste získali přihlašovací údaje účtu pro konfiguraci tohoto rozšíření. 
- <br/> Nezapomeňte zde nastavit INS URL a Redirect URL <a href="https://secure.2checkout.com/cpanel/webhooks_api.php">https://secure.2checkout.com/cpanel/webhooks_api.php</a>. 
- <br/><br/> Vaše URL INS je<h4> #storefront#rt=extension/2checkout/callback</h4> 
- <br/><br/> Nastavte také adresu URL přesměrování a zvolte metodu návratu „Přesměrování záhlaví“. 
- <br/><br/> Vaše adresa URL přesměrování je<h4> #storefront#rt=pokladna/úspěch</h4> 
-		 ]]></value>
+		<value><![CDATA[Díky tomuto rozšíření můžete využít platební systém 2Checkout k přijímání plateb od svých zákazníků.<br>
+<b>Zaregistrujte se zdarma ještě dnes! Použijte promo kód ABANTECART2CO, aby vám byl prominut poplatek za vyřízení žádosti (úspora 10,99 $) a začněte ještě dnes prodávat online!</b> Navštivte <a href="https://www.2checkout.com/signup/">www.2checkout.com</a>, vyplňte žádost a poté zadejte kód do pole promo kód a využijte této speciální nabídky ještě dnes!
+<br>Jakmile se zaregistrujete, přihlaste se a získejte přihlašovací údaje k účtu pro konfiguraci tohoto rozšíření.
+<br>Nezapomeňte zde nastavit INS URL a Přesměrovací URL: <a href="https://secure.2checkout.com/cpanel/webhooks_api.php">https://secure.2checkout.com/cpanel/webhooks_api.php</a>.
+<br><br>Vaše INS URL je <h4>#storefront#rt=extension/2checkout/callback</h4>
+<br><br>Také nastavte Přesměrovací URL a jako způsob návratu vyberte "Header redirect".
+<br><br>Vaše Přesměrovací URL je <h4>#storefront#rt=checkout/success</h4>]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_account</key>
-		<value><![CDATA[2 Kód obchodníka v pokladně:]]></value>
+		<value><![CDATA[Kód prodejce 2Checkout:]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_secret</key>
-		<value><![CDATA[
- Tajný klíč: <br/><span class="help">Tajné slovo pro potvrzení transakcí (musí být stejné, jak je definováno na stránce konfigurace účtu obchodníka.</span>]]></value>
+		<value><![CDATA[Tajný klíč:<br /><span class="help">Tajné slovo k potvrzení transakcí (musí být stejné jako je definováno na stránce konfigurace obchodního účtu).</span>]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_test</key>
@@ -43,7 +40,7 @@
 	</definition>
 	<definition>
 		<key>2checkout_test_0</key>
-		<value><![CDATA[Žádný]]></value>
+		<value><![CDATA[Ne]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_order_status_id</key>
@@ -55,18 +52,18 @@
 	</definition>
 	<definition>
 		<key>2checkout_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechna umístění]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění ke změně platby 2Pokladna!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat platbu 2Checkout!]]></value>
 	</definition>
 	<definition>
 		<key>error_account</key>
-		<value><![CDATA[Je vyžadován kód obchodníka!]]></value>
+		<value><![CDATA[Kód obchodníka je povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_secret</key>
-		<value><![CDATA[Je vyžadován tajný klíč!]]></value>
+		<value><![CDATA[Tajný klíč je vyžadován!]]></value>
 	</definition>
 </definitions>

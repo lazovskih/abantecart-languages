@@ -2,19 +2,19 @@
 <definitions>
 	<definition>
 		<key>default_liqpay_name</key>
-		<value><![CDATA[LIQPAY]]></value>
+		<value><![CDATA[ליקפיי]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[תַשְׁלוּם]]></value>
+		<value><![CDATA[תשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית את פרטי חשבון LIQPAY!]]></value>
+		<value><![CDATA[הצלחה: עדכנת את פרטי החשבון של ליקפיי!]]></value>
 	</definition>
 	<definition>
 		<key>text_pay</key>
-		<value><![CDATA[LIQPAY]]></value>
+		<value><![CDATA[ליקפיי]]></value>
 	</definition>
 	<definition>
 		<key>text_card</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_merchant</key>
-		<value><![CDATA[מזהה סוחר:]]></value>
+		<value><![CDATA[מזהה הסוחר:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_signature</key>
-		<value><![CDATA[חֲתִימָה:]]></value>
+		<value><![CDATA[חתימה:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_public_key</key>
@@ -38,15 +38,15 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_type</key>
-		<value><![CDATA[סוּג:]]></value>
+		<value><![CDATA[סוג:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type_pay</key>
-		<value><![CDATA[לְשַׁלֵם]]></value>
+		<value><![CDATA[שלם]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type_card</key>
-		<value><![CDATA[כַּרְטִיס]]></value>
+		<value><![CDATA[כרטיס]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_test_mode</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_location_id</key>
-		<value><![CDATA[מִקוּם:]]></value>
+		<value><![CDATA[מיקום:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות תשלום LIQPAY!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות תשלום ליקפיי!]]></value>
 	</definition>
 	<definition>
 		<key>error_merchant</key>
@@ -74,6 +74,6 @@
 	</definition>
 	<definition>
 		<key>error_signature</key>
-		<value><![CDATA[חובה חתימה!]]></value>
+		<value><![CDATA[דרושה חתימה!]]></value>
 	</definition>
 </definitions>

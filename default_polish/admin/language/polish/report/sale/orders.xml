@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[lata]]></value>
+		<value><![CDATA[Lata]]></value>
 	</definition>
 	<definition>
 		<key>text_month</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_week</key>
-		<value><![CDATA[tygodni]]></value>
+		<value><![CDATA[Tygodnie]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_all_status</key>
-		<value><![CDATA[Wszystkie stany]]></value>
+		<value><![CDATA[Wszystkie statusy]]></value>
 	</definition>
 	<definition>
 		<key>column_date_start</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>column_date_end</key>
-		<value><![CDATA[Data zakończenia]]></value>
+		<value><![CDATA[Data końcowa]]></value>
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[Brak zamówień]]></value>
+		<value><![CDATA[Liczba zamówień]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Całkowity]]></value>
+		<value><![CDATA[Razem]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -49,11 +49,11 @@
 		<value><![CDATA[Data rozpoczęcia:]]></value>
 	</definition>
 	<definition>
-		<key>entry_date_end</key>
-		<value><![CDATA[Data zakończenia:]]></value>
-	</definition>
-	<definition>
 		<key>entry_group</key>
 		<value><![CDATA[Grupuj według:]]></value>
+	</definition>
+	<definition>
+		<key>entry_date_end</key>
+		<value><![CDATA[Data zakończenia:]]></value>
 	</definition>
 </definitions>

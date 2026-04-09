@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>heading_title_loginname</key>
-		<value><![CDATA[Nie pamiętasz loginu?]]></value>
+		<value><![CDATA[Zapomniałeś nazwy logowania?]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -18,31 +18,31 @@
 	</definition>
 	<definition>
 		<key>text_your_email</key>
-		<value><![CDATA[Twój adres email]]></value>
+		<value><![CDATA[Twój adres e-mail]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[Wpisz adres e-mail powiązany z kontem. Kliknij złożyć, aby hasło zostało wysłane]]></value>
+		<value><![CDATA[Wprowadź adres e-mail powiązany z Twoim kontem. Kliknij „Wyślij”, aby hasło zostało wysłane na Twój adres e-mail.]]></value>
 	</definition>
 	<definition>
 		<key>text_loginname_email</key>
-		<value><![CDATA[Podaj login i adres e-mail powiązany z kontem. Kliknij przycisk Prześlij, aby zażądać zresetowania hasła]]></value>
+		<value><![CDATA[Wprowadź nazwę logowania oraz adres e-mail powiązany z Twoim kontem. Kliknij „Wyślij”, aby poprosić o resetowanie hasła.]]></value>
 	</definition>
 	<definition>
 		<key>text_lastname_email</key>
-		<value><![CDATA[Wprowadź nazwisko oraz adres e-mail powiązany z kontem. Kliknij złożyć mieć swój login wysłane]]></value>
+		<value><![CDATA[Wprowadź nazwisko i adres e-mail powiązane z Twoim kontem. Kliknij Wyślij, aby Twój login został wysłany na Twój adres e-mail.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Hasło Link zresetowane zostało wysłane na Twój adres e-mail.]]></value>
+		<value><![CDATA[Sukces: link do resetowania hasła został wysłany na Twój adres e-mail.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_loginname</key>
-		<value><![CDATA[Sukces: Twój login Przypomnienie zostało wysłane na Twój adres e-mail.]]></value>
+		<value><![CDATA[Sukces: Przypomnienie nazwy logowania zostało wysłane na Twój adres e-mail.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Nazwa użytkownika:]]></value>
+		<value><![CDATA[Nazwa logowania:]]></value>
 	</definition>
 	<definition>
 		<key>entry_lastname</key>
@@ -50,26 +50,26 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[E-mail:]]></value>
+		<value><![CDATA[Adres e-mail:]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Błąd: Adres e-mail nie został dostarczony, czy nie znajdują się w naszych rejestrach, spróbuj ponownie!]]></value>
+		<value><![CDATA[Błąd: Adres e-mail nie został podany lub nie znaleziono go w naszych zapisach, spróbuj ponownie!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Błąd: nazwa użytkownika nie została dostarczona lub nie został znaleziony w naszych rejestrach, spróbuj ponownie!]]></value>
+		<value><![CDATA[Błąd: nazwa logowania nie została podana lub nie została znaleziona w naszych rejestrach, spróbuj ponownie!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Błąd: Nazwisko nie został dostarczony, czy nie znajdują się w naszych rejestrach, spróbuj ponownie!]]></value>
+		<value><![CDATA[Błąd: Nazwisko nie zostało podane lub nie znaleziono go w naszych rejestrach, spróbuj ponownie!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_found</key>
-		<value><![CDATA[Błąd: nie znaleziono informacji dopasowując swoją przewidziane, należy sprawdzić swoje dane i spróbuj jeszcze raz!]]></value>
+		<value><![CDATA[Błąd: Nie znaleziono rekordów pasujących do podanych informacji, proszę sprawdź swoje informacje i spróbuj ponownie!]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_loginname</key>
-		<value><![CDATA[Zapomniane Nazwa logowania]]></value>
+		<value><![CDATA[Zapomniana nazwa użytkownika]]></value>
 	</definition>
 </definitions>

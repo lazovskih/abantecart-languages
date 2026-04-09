@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Slevy]]></value>
+		<value><![CDATA[Akční nabídky]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Viz produkty na prodej]]></value>
+		<value><![CDATA[Zobrazit produkty ve slevě]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 hvězdiček!]]></value>
+		<value><![CDATA[%s z 5 hvězd!]]></value>
 	</definition>
 </definitions>

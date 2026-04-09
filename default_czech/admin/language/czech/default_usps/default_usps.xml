@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>default_usps_name</key>
-		<value><![CDATA[Poštovní služba Spojených států]]></value>
+		<value><![CDATA[Poštovní služba Spojených států amerických]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[ Doprava]]></value>
+		<value><![CDATA[Doprava]]></value>
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Upravili jste poštovní službu Spojených států!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste Poštovní službu Spojených států!]]></value>
 	</definition>
 	<definition>
 		<key>text_international_1</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>text_international_2</key>
-		<value><![CDATA[Mezinárodní prioritní pošta]]></value>
+		<value><![CDATA[Prioritní mezinárodní pošta]]></value>
 	</definition>
 	<definition>
 		<key>text_international_4</key>
-		<value><![CDATA[Global Express Garance (dokument a nedokument)]]></value>
+		<value><![CDATA[Global Express Guaranteed (Dokument a Nedokument)]]></value>
 	</definition>
 	<definition>
 		<key>text_international_5</key>
@@ -34,47 +34,47 @@
 	</definition>
 	<definition>
 		<key>text_international_6</key>
-		<value><![CDATA[Global Express Garance Non-Document Obdélníkový tvar]]></value>
+		<value><![CDATA[Global Express Guaranteed nedokumentový obdélníkový tvar]]></value>
 	</definition>
 	<definition>
 		<key>text_international_7</key>
-		<value><![CDATA[Global Express Garance Non-Document Non-Rectangular]]></value>
+		<value><![CDATA[Globální expres garantovaný nedokumentový neobdélníkový]]></value>
 	</definition>
 	<definition>
 		<key>text_international_8</key>
-		<value><![CDATA[Prioritní obálka s paušální sazbou]]></value>
+		<value><![CDATA[Obálka Priority Mail s pevnou sazbou]]></value>
 	</definition>
 	<definition>
 		<key>text_international_9</key>
-		<value><![CDATA[Prioritní schránka s paušální sazbou]]></value>
+		<value><![CDATA[Krabice prioritní pošty s jednotnou sazbou]]></value>
 	</definition>
 	<definition>
 		<key>text_international_10</key>
-		<value><![CDATA[Express Mail Mezinárodní paušální obálka]]></value>
+		<value><![CDATA[Expresní mezinárodní obálka s jednotnou sazbou]]></value>
 	</definition>
 	<definition>
 		<key>text_international_11</key>
-		<value><![CDATA[Prioritní schránka s velkou paušální sazbou]]></value>
+		<value><![CDATA[Velká krabice Priority Mail s jednotnou sazbou]]></value>
 	</definition>
 	<definition>
 		<key>text_international_12</key>
-		<value><![CDATA[Global Express Garantovaná obálka]]></value>
+		<value><![CDATA[Obálka Global Express Guaranteed]]></value>
 	</definition>
 	<definition>
 		<key>text_international_13</key>
-		<value><![CDATA[Mezinárodní poštovní dopisy první třídy]]></value>
+		<value><![CDATA[Mezinárodní dopisy první třídy]]></value>
 	</definition>
 	<definition>
 		<key>text_international_14</key>
-		<value><![CDATA[Mezinárodní byty první třídy]]></value>
+		<value><![CDATA[Mezinárodní pošta první třídy – obálky]]></value>
 	</definition>
 	<definition>
 		<key>text_international_15</key>
-		<value><![CDATA[Mezinárodní poštovní zásilky první třídy]]></value>
+		<value><![CDATA[Mezinárodní balíky první třídy pošty]]></value>
 	</definition>
 	<definition>
 		<key>text_international_16</key>
-		<value><![CDATA[Prioritní poštovní schránka s malým paušálem]]></value>
+		<value><![CDATA[Prioritní pošta malá krabice s jednotnou sazbou]]></value>
 	</definition>
 	<definition>
 		<key>text_international_21</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>text_oversize</key>
-		<value><![CDATA[Nadměrná velikost]]></value>
+		<value><![CDATA[Nadrozměrný]]></value>
 	</definition>
 	<definition>
 		<key>text_rectangular</key>
@@ -98,15 +98,15 @@
 	</definition>
 	<definition>
 		<key>text_non_rectangular</key>
-		<value><![CDATA[Nepravoúhlé]]></value>
+		<value><![CDATA[Neobdélníkový]]></value>
 	</definition>
 	<definition>
 		<key>text_variable</key>
-		<value><![CDATA[Variabilní]]></value>
+		<value><![CDATA[Proměnná]]></value>
 	</definition>
 	<definition>
 		<key>entry_user_id</key>
-		<value><![CDATA[ID uživatele: <span class="help">USPS by vám měl e-mailem odeslat uživatelské jméno a heslo. Pokud ne, kontaktujte USPS a potvrďte své uživatelské ID USPS. Měli byste zavolat USPS a aktivovat svůj účet na produkčních serverech.</span>]]></value>
+		<value><![CDATA[Uživatelské ID:<span class="help">USPS vám zašle e-mailem ID uživatele a heslo. Pokud ne, kontaktujte USPS, abyste potvrdili své USPS uživatelské ID. Měli byste zavolat USPS, aby aktivovali váš účet na produkčních serverech.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -114,7 +114,7 @@
 	</definition>
 	<definition>
 		<key>entry_postcode</key>
-		<value><![CDATA[PSČ: <span class="help">PSČ výchozího místa vašeho balíčku.</span>]]></value>
+		<value><![CDATA[PSČ:<span class="help">PSČ/Poštovní kód výchozího místa vaší zásilky.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_domestic</key>
@@ -126,15 +126,15 @@
 	</definition>
 	<definition>
 		<key>entry_size</key>
-		<value><![CDATA[Velikost: <span class="help">Vyberte velikost kontejneru, kterou obvykle používáte k balení produktů objednaných z vašeho obchodu.</span>]]></value>
+		<value><![CDATA[Velikost:<span class="help">Vyberte velikost obalu, který obvykle používáte k balení produktů objednaných ve vašem obchodě.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_container</key>
-		<value><![CDATA[Kontejner: <span class="help">Vyberte typ kontejneru, který obvykle používáte k balení produktů objednaných z vašeho obchodu. USPS bude doručovat pouze balíčky o hmotnosti do 70 liber</span>]]></value>
+		<value><![CDATA[Container:<span class="help">Vyberte typ obalu, který obvykle používáte k balení produktů objednaných ve vašem obchodě. USPS bude doručovat pouze balíky do hmotnosti 70 liber</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_machinable</key>
-		<value><![CDATA[Obrobitelné: <br/><span class="help">Doporučuje se vybrat Ano. Zadejte, zda je v pořádku manipulovat se zásilkami pomocí strojů. Povolení této možnosti snižuje náklady na dopravu.</span>]]></value>
+		<value><![CDATA[Strojně zpracovatelné:<br /><span class="help">Doporučuje se, abyste vybrali Ano. Určete, zda je v pořádku, aby vaše zásilky byly zpracovány stroji. Povolením této možnosti se snižují náklady na dopravu.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_dimension</key>
@@ -142,39 +142,39 @@
 	</definition>
 	<definition>
 		<key>entry_length</key>
-		<value><![CDATA[Rozměry Délka: <br/><span class="help">Průměrný rozměr balíku pro přepravní balík.</span>]]></value>
+		<value><![CDATA[Rozměry Délka:<br /><span class="help">Průměrný rozměr balíčku pro přepravu.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_width</key>
-		<value><![CDATA[Rozměry Šířka: <br/><span class="help">Průměrný rozměr balíku pro přepravní balík.</span>]]></value>
+		<value><![CDATA[Šířka rozměrů:<br /><span class="help">Průměrný rozměr balíku pro přepravu.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_height</key>
-		<value><![CDATA[Rozměry Výška: <br/><span class="help">Průměrný rozměr balíku pro přepravní balík.</span>]]></value>
+		<value><![CDATA[Výška rozměrů:<br /><span class="help">Průměrný rozměr balíku pro přepravu.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_girth</key>
-		<value><![CDATA[Obvod: <br/><span class="help">Chcete-li zjistit obvod obalu, změřte vzdálenost kolem nejtlustší části nepravoúhlého obalu.</span>]]></value>
+		<value><![CDATA[Obvod:<br /><span class="help">Pro zjištění obvodu vašeho balíku změřte vzdálenost kolem nejtlustší části balíku nepravidelného tvaru.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_display_time</key>
-		<value><![CDATA[Zobrazit čas doručení: <br/><span class="help">Chcete zobrazit čas doručení? (např. odeslání do 3 až 5 dnů)</span>]]></value>
+		<value><![CDATA[Zobrazit dobu odeslání:<br /><span class="help">Chcete zobrazit dobu odeslání? (např. Odesíláno do 3 až 5 dnů)</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_display_weight</key>
-		<value><![CDATA[Zobrazit hmotnost zásilky: <br/><span class="help">Chcete zobrazit hmotnost zásilky? (např. hmotnost dodávky: 2,7674 kg)</span>]]></value>
+		<value><![CDATA[Zobrazit hmotnost dodávky:<br /><span class="help">Chcete zobrazit přepravní hmotnost? (např. Hmotnost dodávky : 2.7674 Kg's)</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight_class</key>
-		<value><![CDATA[Hmotnostní kategorie: <br/><span class="help">Nastaveno na libry.</span>]]></value>
+		<value><![CDATA[Třída hmotnosti:<br /><span class="help">Nastavte na libry.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_length_class</key>
-		<value><![CDATA[Třída délky: <br/><span class="help">Rozměr nebo výchozí třída délky vašeho obchodu.</span>]]></value>
+		<value><![CDATA[Třída délky:<br /><span class="help">Rozměrová nebo výchozí třída délky vašeho obchodu.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax</key>
-		<value><![CDATA[Daňová třída: <br/><span class="help">Pokud jste povinni z této položky účtovat daň, vyberte daňovou třídu.</span>]]></value>
+		<value><![CDATA[Daňová třída:<br /><span class="help">Jste-li povinni u této položky účtovat daň, vyberte daňovou třídu.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_location</key>
@@ -186,26 +186,26 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat poštovní službu Spojených států!]]></value>
+		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat United States Postal Service!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_id</key>
-		<value><![CDATA[Vyžaduje se ID uživatele!]]></value>
+		<value><![CDATA[Uživatelské ID je povinné!]]></value>
 	</definition>
 	<definition>
 		<key>error_postcode</key>
-		<value><![CDATA[Je vyžadováno PSČ!]]></value>
+		<value><![CDATA[PSČ je povinné!]]></value>
 	</definition>
 	<definition>
 		<key>entry_free_domestic_method</key>
-		<value><![CDATA[Možnost dopravy zdarma <span class="help">Vyberte prosím, jaký způsob zvolíte v případě, že košík obsahuje pouze produkty s dopravou zdarma</span>]]></value>
+		<value><![CDATA[Možnost bezplatné dopravy <span class="help">Prosím vyberte, jaká metoda bude zvolena pro případ, že košík obsahuje pouze produkty s bezplatnou dopravou</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_free_international_method</key>
-		<value><![CDATA[Možnost bezplatné dopravy mezinárodních balíků <span class="help">Vyberte prosím, jaký způsob zvolíte v případě, že košík obsahuje pouze produkty s dopravou zdarma</span>]]></value>
+		<value><![CDATA[Možnost bezplatné dopravy mezinárodních zásilek <span class="help">Prosím vyberte, jaká metoda bude zvolena pro případ, kdy košík obsahuje pouze produkty s bezplatnou dopravou</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_usps_debug</key>
-		<value><![CDATA[Stav protokolování ladění]]></value>
+		<value><![CDATA[Stav ladicího protokolování]]></value>
 	</definition>
 </definitions>

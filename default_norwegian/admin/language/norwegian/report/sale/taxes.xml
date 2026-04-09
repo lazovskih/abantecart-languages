@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[skatter Rapporter]]></value>
+		<value><![CDATA[Skatterapport]]></value>
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[år]]></value>
+		<value><![CDATA[År]]></value>
 	</definition>
 	<definition>
 		<key>text_month</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_week</key>
-		<value><![CDATA[uker]]></value>
+		<value><![CDATA[Uker]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -22,23 +22,23 @@
 	</definition>
 	<definition>
 		<key>text_all_status</key>
-		<value><![CDATA[alle stat]]></value>
+		<value><![CDATA[Alle statuser]]></value>
 	</definition>
 	<definition>
 		<key>column_date_start</key>
-		<value><![CDATA[Dato start]]></value>
+		<value><![CDATA[Startdato]]></value>
 	</definition>
 	<definition>
 		<key>column_date_end</key>
-		<value><![CDATA[dato Slutt]]></value>
+		<value><![CDATA[Sluttdato]]></value>
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[Antall bestillinger]]></value>
+		<value><![CDATA[Nr. bestillinger]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -46,14 +46,14 @@
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Dato Start:]]></value>
+		<value><![CDATA[Startdato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[Dato End:]]></value>
+		<value><![CDATA[Sluttdato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_group</key>
-		<value><![CDATA[Gruppe av:]]></value>
+		<value><![CDATA[Grupper etter:]]></value>
 	</definition>
 </definitions>

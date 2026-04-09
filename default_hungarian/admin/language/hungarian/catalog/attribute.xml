@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[általános tulajdonságok]]></value>
+		<value><![CDATA[Globális attribútumok]]></value>
 	</definition>
 	<definition>
 		<key>text_attribute</key>
-		<value><![CDATA[Global Képesség]]></value>
+		<value><![CDATA[Globális attribútum]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Van módosított tulajdonságok!]]></value>
+		<value><![CDATA[Siker: Módosította az attribútumokat!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_type</key>
-		<value><![CDATA[- Válasszon típust -]]></value>
+		<value><![CDATA[- Válassza ki a típust -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_parent</key>
-		<value><![CDATA[- Select anya -]]></value>
+		<value><![CDATA[- Szülő kiválasztása -]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[típus]]></value>
+		<value><![CDATA[Típus]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[Sorrend]]></value>
+		<value><![CDATA[Rendezési sorrend]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -38,7 +38,11 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akció]]></value>
+		<value><![CDATA[Művelet]]></value>
+	</definition>
+	<definition>
+		<key>column_txt_id</key>
+		<value><![CDATA[Egyedi szövegazonosító]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -46,15 +50,15 @@
 	</definition>
 	<definition>
 		<key>entry_attribute_parent</key>
-		<value><![CDATA[Attribútum Szülő:]]></value>
+		<value><![CDATA[Szülő attribútum:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_group</key>
-		<value><![CDATA[Képesség Csoport:]]></value>
+		<value><![CDATA[Attribútumcsoport:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_type</key>
-		<value><![CDATA[Jellemző típusa:]]></value>
+		<value><![CDATA[Attribútum típusa:]]></value>
 	</definition>
 	<definition>
 		<key>entry_element_type</key>
@@ -62,15 +66,15 @@
 	</definition>
 	<definition>
 		<key>entry_element_values</key>
-		<value><![CDATA[Elem Értékek:]]></value>
+		<value><![CDATA[Elemértékek:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Sorrend:]]></value>
+		<value><![CDATA[Rendezési sorrend:]]></value>
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Kívánt:]]></value>
+		<value><![CDATA[Kötelező:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -78,31 +82,31 @@
 	</definition>
 	<definition>
 		<key>entry_children_attributes</key>
-		<value><![CDATA[Gyermekek Tulajdonságok:]]></value>
+		<value><![CDATA[Gyermekek attribútumai:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítani globális tulajdonságok!]]></value>
+		<value><![CDATA[Figyelmeztetés: Önnek nincs jogosultsága a globális attribútumok módosítására!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Csoport neve között kell lennie a 2. és 32 karakter!]]></value>
+		<value><![CDATA[A csoportnévnek 2 és 32 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_required</key>
-		<value><![CDATA[Ez a mező kötelező!]]></value>
+		<value><![CDATA[Ez a mező kitöltése kötelező!]]></value>
 	</definition>
 	<definition>
 		<key>text_parent_note</key>
-		<value><![CDATA[Ha ez a szülő tulajdonság gyerekekkel attribútumok, csak akkor lehet a típus kiválasztó, multiselect Box, checkbox és jelölőnégyzetek csoport. <br/> Gyermekek értékek kombinációja jelenik meg, mint egy készlet.]]></value>
+		<value><![CDATA[Ha ez egy szülő attribútum gyermek attribútumokkal, akkor csak SelectBox, MultiSelect Box, Checkbox és Checkbox csoport típusú lehet.<br>A gyermekértékek kombinációja egy halmazként jelenik meg.]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_extensions</key>
-		<value><![CDATA[Megengedett fájl kiterjesztések (txt, jpg ...)]]></value>
+		<value><![CDATA[Engedélyezett fájlkiterjesztések (txt, jpg …)]]></value>
 	</definition>
 	<definition>
 		<key>entry_min_size</key>
-		<value><![CDATA[Min fájl mérete (Kb)]]></value>
+		<value><![CDATA[Minimális fájlméret (Kb)]]></value>
 	</definition>
 	<definition>
 		<key>entry_max_size</key>
@@ -110,39 +114,35 @@
 	</definition>
 	<definition>
 		<key>entry_upload_dir</key>
-		<value><![CDATA[Feltöltési könyvtár neve <br/> %s]]></value>
+		<value><![CDATA[Feltöltési könyvtár neve<br>%s]]></value>
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
-		<value><![CDATA[Szabályos kifejezés Minta érvényesítése Értékek:]]></value>
+		<value><![CDATA[Reguláris kifejezésminta az értékek érvényesítéséhez:]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
-		<value><![CDATA[Hibaüzenet érvénytelen Érték:]]></value>
+		<value><![CDATA[Hibaüzenet érvénytelen érték esetén:]]></value>
 	</definition>
 	<definition>
 		<key>entry_placeholder</key>
-		<value><![CDATA[Helykitöltő:]]></value>
+		<value><![CDATA[Helyőrző:]]></value>
 	</definition>
 	<definition>
 		<key>error_attribute_name</key>
-		<value><![CDATA[Jellemző neve között kell lennie a 2. és 64 karakter!]]></value>
+		<value><![CDATA[Az attribútum nevének hossza 2 és 64 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_error_text</key>
-		<value><![CDATA[Hiba szövege mintegy érvénytelen attribútum érték között kell lennie a 2. és a 255 karaktert!]]></value>
+		<value><![CDATA[Az érvénytelen attribútumérték hibaüzenet szövegének 2 és 255 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_regexp_pattern</key>
-		<value><![CDATA[Szabályos kifejezés minta érvénytelen!]]></value>
+		<value><![CDATA[A reguláris kifejezés minta érvénytelen!]]></value>
 	</definition>
 	<definition>
 		<key>entry_show_to_customer</key>
-		<value><![CDATA[Itt található az Ügyfél]]></value>
-	</definition>
-	<definition>
-		<key>column_txt_id</key>
-		<value><![CDATA[Egyedi szövegazonosító]]></value>
+		<value><![CDATA[Megjelenítés a vásárlónak]]></value>
 	</definition>
 	<definition>
 		<key>entry_price_prefix</key>
@@ -154,6 +154,6 @@
 	</definition>
 	<definition>
 		<key>error_not_unique</key>
-		<value><![CDATA[Az érték szövegazonosítója nem egyedi!]]></value>
+		<value><![CDATA[Az Érték-szöveg-azonosító nem egyedi!]]></value>
 	</definition>
 </definitions>

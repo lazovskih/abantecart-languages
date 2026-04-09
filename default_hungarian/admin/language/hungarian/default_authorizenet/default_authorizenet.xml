@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>default_authorizenet_name</key>
-		<value><![CDATA[Authorize.Net Payment]]></value>
+		<value><![CDATA[Authorize.Net Fizetés]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_note</key>
-		<value><![CDATA[További beállítások szükségesek az Authorize.Net fizetés beállításának befejezéséhez. Lásd a további beállítások fület.]]></value>
+		<value><![CDATA[További beállításokra van szükség az Authorize.Net fizetési beállításainak befejezéséhez. Lásd a További beállítások fület.]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sikeres: Módosítottad az Authorize.Net fizetési beállításait!]]></value>
+		<value><![CDATA[Siker: Ön módosította az Authorize.Net fizetési beállításokat!]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_location_id</key>
-		<value><![CDATA[Elhelyezkedés:]]></value>
+		<value><![CDATA[Hely:]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_location_id_0</key>
-		<value><![CDATA[Minden hely]]></value>
+		<value><![CDATA[Összes helyszín]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_api_login_id</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_api_transaction_key</key>
-		<value><![CDATA[Tranzakciókulcs:]]></value>
+		<value><![CDATA[Tranzakciós kulcs:]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_api_public_key</key>
@@ -42,17 +42,15 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_autoselect</key>
-		<value><![CDATA[
- Automatikus kiválasztás: <br/><span class="help">Beállíthatja, hogy kihagyja a fizetési kiválasztási oldalt, ha csak egy fizetési lehetőség van. Ez a fizetési mód automatikusan kiválasztásra kerül</span>]]></value>
+		<value><![CDATA[Automatikus kiválasztás:<br /><span class="help">Beállítható, hogy a fizetési mód kiválasztása oldalt átugorja, ha csak egy fizetési lehetőség van. Ebben az esetben ez a fizetési mód automatikusan kiválasztásra kerül.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_save_cards_limit</key>
-		<value><![CDATA[
- Menthet hitelkártyákat: <br/><span class="help">Állítsa be az ügyfelek által menthető hitelkártyák maximális számát (legfeljebb 100). Ha 0-ra van állítva vagy üres, a kártyák mentése nem engedélyezett. Biztonsági megjegyzés: Az ügyfél hitelkártya-adatait az Authorizenet biztonságos szerverein mentjük a maximális adatbiztonság érdekében. A webhelyén nem mentjük el a hitelkártyaadatokat.</span>]]></value>
+		<value><![CDATA[Hitelkártyák mentése:<br /><span class="help">Állítsa be a menthető hitelkártyák maximális számát az ügyfelek számára (legfeljebb 100). Ha 0-ra vagy üresre van állítva, a kártyák mentése nem engedélyezett. Biztonsági megjegyzés: Az ügyfelek hitelkártyaadatai az AuthorizeNet biztonságos szerverein kerülnek tárolásra a lehető legnagyobb adatbiztonsági intézkedések biztosítása érdekében. Az Ön webhelyén egyetlen hitelkártyaadat sem kerül mentésre.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_authorizenet_connect</key>
-		<value><![CDATA[A fizetési részletek beállításához kapcsolatba kell lépnie az Authorizenettel]]></value>
+		<value><![CDATA[A fizetési adatok beállításához csatlakoznia kell az authorizenet-hez.]]></value>
 	</definition>
 	<definition>
 		<key>text_authorizenet_settings</key>
@@ -60,23 +58,23 @@
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Csatlakozzon az Authorize.Nethez	]]></value>
+		<value><![CDATA[Kapcsolódás az Authorize.Net-hez]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect</key>
-		<value><![CDATA[Az Authorize.Net leválasztása]]></value>
+		<value><![CDATA[Authorize.Net lekapcsolása]]></value>
 	</definition>
 	<definition>
 		<key>text_skip_connect</key>
-		<value><![CDATA[Nem tud csatlakozni?]]></value>
+		<value><![CDATA[Nem lehet csatlakozni?]]></value>
 	</definition>
 	<definition>
 		<key>text_connect_success</key>
-		<value><![CDATA[Sikeresen csatlakozott az Authorize.Nethez]]></value>
+		<value><![CDATA[Sikeresen kapcsolódott az Authorize.Net-hez]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect_success</key>
-		<value><![CDATA[Sikeresen leválasztották az Authorize.Netről]]></value>
+		<value><![CDATA[Sikeresen leválasztva az Authorize.Net-től.]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_sort_order</key>
@@ -88,19 +86,19 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_sk_live</key>
-		<value><![CDATA[Élő titkos kulcs: <br/><span class="help">Keresse meg ezt az Authorize.Net API kulcsok szakaszában. A kulcs így kezdődik: sk_live_...</span>]]></value>
+		<value><![CDATA[Éles titkos kulcs:<br /><span class="help">Ezt az Authorize.Net API-kulcsok szakaszában találja meg. A kulcs sk_live_... előtaggal kezdődik.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_pk_live</key>
-		<value><![CDATA[Élőben publikálható kulcs: <br/><span class="help">Keresse meg ezt az Authorize.Net API Keys szakaszban. A kulcs úgy kezdődik, hogy pk_live_...</span>]]></value>
+		<value><![CDATA[Éles közzétehető kulcs:<br /><span class="help">Ezt az Authorize.Net API-kulcsok szakaszában találod. A kulcs pk_live_...-vel kezdődik.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_sk_test</key>
-		<value><![CDATA[Teszt titkos kulcsa: <br/><span class="help">Keresse meg ezt az Authorize.Net API kulcsok szakaszban. A kulcs az sk_test_ karakterrel kezdődik...</span>]]></value>
+		<value><![CDATA[Teszt titkos kulcs:<br /><span class="help">Ezt az Authorize.Net API-kulcsok szakaszában találod. A kulcs sk_test_...-szel kezdődik.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_pk_test</key>
-		<value><![CDATA[Teszt közzétehető kulcs: <br/><span class="help">Keresse meg ezt az Authorize.Net API Keys szakaszban. A kulcs a pk_test_ karakterrel kezdődik...</span>]]></value>
+		<value><![CDATA[Teszt publikálható kulcs:<br /><span class="help">Ezt az Authorize.Net API-kulcsok szakaszában találod. A kulcs pk_test_... kezdetű.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement</key>
@@ -112,15 +110,15 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_authcapture</key>
-		<value><![CDATA[Engedélyezés és rögzítés ]]></value>
+		<value><![CDATA[Engedélyezés és levonás]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_status_success_settled</key>
-		<value><![CDATA[Sikeres és rendezett: <br/><span class="help">Válassza ki a fő megrendelés állapotát, amelyet be kíván állítani a fizetésfeldolgozó állapota alapján</span>]]></value>
+		<value><![CDATA[Sikeres & kiegyenlített:<br /><span class="help">Válassza ki a fő rendelésállapotot, amelyet a fizetési processzor státuszára válaszolva szeretne beállítani</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_status_success_unsettled</key>
-		<value><![CDATA[Sikeres és nincs rendezve: <br/><span class="help">Válassza ki a fő megrendelés állapotát, amelyet be kíván állítani a fizetésfeldolgozó állapota alapján</span>]]></value>
+		<value><![CDATA[Siker és nincs rendezve:<br /><span class="help">Válassza ki a fő rendelésállapotot, amelyet a fizetési szolgáltató állapotára válaszul szeretne beállítani</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -132,11 +130,11 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_auto</key>
-		<value><![CDATA[Automatikus (engedélyezés és rögzítés)]]></value>
+		<value><![CDATA[Automatikus (engedélyezés és terhelés)]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_delayed</key>
-		<value><![CDATA[Késik (csak engedélyezés)]]></value>
+		<value><![CDATA[Késleltetett (csak engedélyezés)]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
@@ -144,7 +142,7 @@
 	</definition>
 	<definition>
 		<key>text_order_ref</key>
-		<value><![CDATA[Authorize.Net Tranzakcióazonosító]]></value>
+		<value><![CDATA[Authorize.Net tranzakcióazonosító]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_status</key>
@@ -152,7 +150,7 @@
 	</definition>
 	<definition>
 		<key>text_order_total</key>
-		<value><![CDATA[Teljes engedélyezett összeg]]></value>
+		<value><![CDATA[Teljes jóváhagyott összeg]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
@@ -164,18 +162,18 @@
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Kérjük, adja meg a pozitív összeget]]></value>
+		<value><![CDATA[Kérjük, adjon meg pozitív összeget]]></value>
 	</definition>
 	<definition>
 		<key>error_authorizenet_sk_test</key>
-		<value><![CDATA[Az Authorize.Net tesztkulcs szükséges]]></value>
+		<value><![CDATA[Az Authorize.Net tesztkulcs megadása kötelező.]]></value>
 	</definition>
 	<definition>
 		<key>error_authorizenet_sk_live</key>
-		<value><![CDATA[Az Authorize.Net élő kulcsa szükséges]]></value>
+		<value><![CDATA[Az Authorize.Net élő kulcs megadása kötelező.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: Nincs jogosultsága az Authorize.Net Payment módosítására!]]></value>
+		<value><![CDATA[Figyelmeztetés: Nincs engedélyed az Authorize.Net fizetés módosítására!]]></value>
 	</definition>
 </definitions>

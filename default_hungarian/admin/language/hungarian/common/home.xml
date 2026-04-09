@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Műszerfal]]></value>
+		<value><![CDATA[Irányítópult]]></value>
 	</definition>
 	<definition>
 		<key>text_overview</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_latest_10_orders</key>
-		<value><![CDATA[Legújabb 10 rendelések]]></value>
+		<value><![CDATA[Legutóbbi 10 megrendelés]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale</key>
-		<value><![CDATA[Összesen Értékesítés:]]></value>
+		<value><![CDATA[Összes eladás:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale_year</key>
-		<value><![CDATA[Összesen értékesítése az idén:]]></value>
+		<value><![CDATA[Összes eladás az idei évben:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
@@ -30,23 +30,23 @@
 	</definition>
 	<definition>
 		<key>text_total_customer</key>
-		<value><![CDATA[Nem Ügyfelek:]]></value>
+		<value><![CDATA[Vevők száma:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_customer_approval</key>
-		<value><![CDATA[Az ügyfelek jóváhagyására vár:]]></value>
+		<value><![CDATA[Jóváhagyásra váró vásárlók:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_product</key>
-		<value><![CDATA[Nem Termékek:]]></value>
+		<value><![CDATA[Szám. Termékek:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_review</key>
-		<value><![CDATA[Nem felülvizsgálatok:]]></value>
+		<value><![CDATA[Vélemények száma:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_review_approval</key>
-		<value><![CDATA[Vélemények jóváhagyására vár:]]></value>
+		<value><![CDATA[Értékelések jóváhagyásra várnak:]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_week</key>
-		<value><![CDATA[Ezen a héten]]></value>
+		<value><![CDATA[Ez a hét]]></value>
 	</definition>
 	<definition>
 		<key>text_month</key>
@@ -62,19 +62,19 @@
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[Idén]]></value>
+		<value><![CDATA[Ebben az évben]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Összes rendelés]]></value>
+		<value><![CDATA[Összes megrendelés]]></value>
 	</definition>
 	<definition>
 		<key>text_order_short</key>
-		<value><![CDATA[Összes rendelés]]></value>
+		<value><![CDATA[Összes megrendelés]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[Összesen ügyfelek]]></value>
+		<value><![CDATA[Összes vásárló]]></value>
 	</definition>
 	<definition>
 		<key>column_order</key>
@@ -82,19 +82,19 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Ügyfél neve]]></value>
+		<value><![CDATA[Vevő neve]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Állapot]]></value>
+		<value><![CDATA[Státusz]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[dátum hozzáadva]]></value>
+		<value><![CDATA[Hozzáadás dátuma]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 	<definition>
 		<key>column_firstname</key>
@@ -106,26 +106,26 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akció]]></value>
+		<value><![CDATA[Művelet]]></value>
 	</definition>
 	<definition>
 		<key>entry_range</key>
-		<value><![CDATA[Tartomány kijelölése:]]></value>
+		<value><![CDATA[Tartomány kiválasztása:]]></value>
 	</definition>
 	<definition>
 		<key>orders_text_all</key>
-		<value><![CDATA[minden rendelés]]></value>
+		<value><![CDATA[Összes megrendelés]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_all</key>
-		<value><![CDATA[minden ügyfelek]]></value>
+		<value><![CDATA[Minden vásárló]]></value>
 	</definition>
 	<definition>
 		<key>text_latest_10_customers</key>
-		<value><![CDATA[legújabb regisztrációk]]></value>
+		<value><![CDATA[Legújabb regisztrációk]]></value>
 	</definition>
 	<definition>
 		<key>column_email</key>
-		<value><![CDATA[Email]]></value>
+		<value><![CDATA[E-mail]]></value>
 	</definition>
 </definitions>

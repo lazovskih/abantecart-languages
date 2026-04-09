@@ -5,10 +5,6 @@
 		<value><![CDATA[CardKnox]]></value>
 	</definition>
 	<definition>
-		<key>cardknox_note</key>
-		<value><![CDATA[]]></value>
-	</definition>
-	<definition>
 		<key>cardknox_transaction_key</key>
 		<value><![CDATA[מפתח עסקה (xKey)]]></value>
 	</definition>
@@ -22,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_success_order_status</key>
-		<value><![CDATA[סטטוס הזמנה: <br/><span class="help">סטטוס הזמנה יוגדר לאחר סיום ההזמנה של הלקוח בהתבסס על שיטת העסקה שנקבעה</span>]]></value>
+		<value><![CDATA[מצב ההזמנה:<br /><span class="help">מצב ההזמנה שיוגדר לאחר שההזמנה של הלקוח הושלמה בהתאם לשיטת העסקה שנקבעה</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id</key>
-		<value><![CDATA[מיקום: <br/><span class="help">הגבל לאפשר רק למיקומים נבחרים להשתמש באמצעי תשלום זה.</span>]]></value>
+		<value><![CDATA[Location:<br /><span class="help">הגבילו כך שרק מיקומים שנבחרו יוכלו להשתמש בשיטת תשלום זו.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id_0</key>
@@ -34,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method</key>
-		<value><![CDATA[שיטת עסקה: <br/><span class="help">עסקת CardKnox לביצוע בקופה של הלקוח לפני קביעת סטטוס ההזמנה. הרשאה בלבד או לכידה.</span>]]></value>
+		<value><![CDATA[שיטת עסקה:<br /><span class="help">עסקת CardKnox תתבצע בתהליך התשלום של הלקוח לפני קביעת סטטוס ההזמנה. אישור בלבד או חיוב.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_capture</key>
-		<value><![CDATA[לִלְכּוֹד]]></value>
+		<value><![CDATA[לכידה]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_authorization</key>
@@ -54,27 +50,27 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_funds</key>
-		<value><![CDATA[לכידת קרנות]]></value>
+		<value><![CDATA[לכידת כספים]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture</key>
-		<value><![CDATA[לִלְכּוֹד]]></value>
+		<value><![CDATA[לכידה]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_payment_status</key>
-		<value><![CDATA[מצב תשלום]]></value>
+		<value><![CDATA[סטטוס התשלום]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_success</key>
-		<value><![CDATA[הַצלָחָה! הכספים נתפסו בהצלחה.]]></value>
+		<value><![CDATA[הצלחה! הכספים נגבו בהצלחה.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_processing</key>
-		<value><![CDATA[עיבוד]]></value>
+		<value><![CDATA[בטיפול]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_do_refund</key>
-		<value><![CDATA[עשה החזר של CardKnox: <span class="help">אתה יכול להזין סכום שיש להחזיר.</span>]]></value>
+		<value><![CDATA[בצע החזר ב-CardKnox:<span class="help">ניתן להזין את הסכום שיש להחזיר.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refunded</key>
@@ -82,26 +78,26 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_refund</key>
-		<value><![CDATA[הֶחזֵר]]></value>
+		<value><![CDATA[החזר כספי]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_refund_title</key>
-		<value><![CDATA[החזר של CardKnox]]></value>
+		<value><![CDATA[החזר CardKnox]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refund_success</key>
-		<value><![CDATA[הַצלָחָה! הזמנה הוחזרה בהצלחה.]]></value>
+		<value><![CDATA[הצלחה! ההזמנה הוחזרה בהצלחה.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_empty_amount</key>
-		<value><![CDATA[שְׁגִיאָה! הסכום שגוי.]]></value>
+		<value><![CDATA[שגיאה! הסכום שגוי.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_no_payment_method_data</key>
-		<value><![CDATA[שְׁגִיאָה! אין נתוני אמצעי תשלום עבור הזמנה זו.]]></value>
+		<value><![CDATA[שגיאה! אין נתוני שיטת תשלום עבור הזמנה זו.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_no_order_id</key>
-		<value><![CDATA[שְׁגִיאָה! אין מזהה הזמנה.]]></value>
+		<value><![CDATA[שגיאה! אין מזהה הזמנה.]]></value>
 	</definition>
 </definitions>

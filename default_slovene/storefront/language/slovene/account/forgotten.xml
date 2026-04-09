@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Ste pozabili geslo?]]></value>
+		<value><![CDATA[Ste pozabili svoje geslo?]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_loginname</key>
-		<value><![CDATA[Ste pozabili Login Name?]]></value>
+		<value><![CDATA[Ste pozabili svoje uporabniško ime?]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten</key>
@@ -18,31 +18,31 @@
 	</definition>
 	<definition>
 		<key>text_your_email</key>
-		<value><![CDATA[Vaš email naslov]]></value>
+		<value><![CDATA[Vaš e-poštni naslov]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[Vnesite e-poštni naslov, povezan z vašim računom. Kliknite predloži so geslo po e-pošti]]></value>
+		<value><![CDATA[Vnesite e-poštni naslov, povezan z vašim računom. Kliknite Pošlji, da vam geslo pošljemo po e-pošti.]]></value>
 	</definition>
 	<definition>
 		<key>text_loginname_email</key>
-		<value><![CDATA[Vnesite ime za prijavo in e-poštni naslov, povezan z vašim računom. Kliknite predloži zahteva ponastavitev gesla]]></value>
+		<value><![CDATA[Vnesite prijavno ime in e-poštni naslov, povezana z vašim računom. Kliknite Pošlji, da zahtevate ponastavitev gesla.]]></value>
 	</definition>
 	<definition>
 		<key>text_lastname_email</key>
-		<value><![CDATA[Vnesite priimek in e-poštni naslov, povezan z vašim računom. Kliknite predloži vaše ime za prijavo po e-pošti]]></value>
+		<value><![CDATA[Vnesite priimek in e-poštni naslov, povezani z vašim računom. Kliknite »Pošlji«, da vam bo po e-pošti poslano vaše prijavno ime.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Geslo ponastavitev povezava je bilo poslano na vaš e-poštni naslov.]]></value>
+		<value><![CDATA[Uspešno: Povezava za ponastavitev gesla je bila poslana na vaš e-poštni naslov.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_loginname</key>
-		<value><![CDATA[Uspeh: Opomnik ime geslo je bilo poslano na vaš e-poštni naslov.]]></value>
+		<value><![CDATA[Uspeh: opomnik vašega uporabniškega imena je bil poslan na vaš e-poštni naslov.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Prijavno ime:]]></value>
+		<value><![CDATA[Uporabniško ime:]]></value>
 	</definition>
 	<definition>
 		<key>entry_lastname</key>
@@ -50,26 +50,26 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email naslov:]]></value>
+		<value><![CDATA[E-poštni naslov:]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Napaka: E-poštni naslov ni na voljo ali ni bilo mogoče najti v naših evidencah, poskusite znova!]]></value>
+		<value><![CDATA[Napaka: E-poštni naslov ni bil posredovan ali pa ni bil najden v naših evidencah, prosimo, poskusite znova!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Napaka: Ime prijava ni bila na voljo ali ni bilo mogoče najti v naših evidencah, poskusite znova!]]></value>
+		<value><![CDATA[Napaka: prijavno ime ni bilo posredovano ali ni bilo najdeno v naših evidencah, prosimo, poskusite znova!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Napaka: Priimek ni na voljo ali ni bilo mogoče najti v naših evidencah, poskusite znova!]]></value>
+		<value><![CDATA[Napaka: Priimek ni bil posredovan ali ni bil najden v naših evidencah, prosimo poskusite znova!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_found</key>
-		<value><![CDATA[Napaka: Ni najdenih zapisov ujemanje informacije svoj predvideni, preverite svoje podatke in poskusite znova!]]></value>
+		<value><![CDATA[Napaka: Ni bilo najdenih zapisov, ki bi ustrezali informacijam, ki ste jih posredovali. Prosimo, preverite vaše informacije in poskusite znova!]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_loginname</key>
-		<value><![CDATA[Pozabljeno Login Name]]></value>
+		<value><![CDATA[Pozabljeno uporabniško ime]]></value>
 	</definition>
 </definitions>

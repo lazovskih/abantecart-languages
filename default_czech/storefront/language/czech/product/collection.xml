@@ -2,6 +2,6 @@
 <definitions>
 	<definition>
 		<key>text_empty_collection</key>
-		<value><![CDATA[V seznamu nejsou žádné produkty ]]></value>
+		<value><![CDATA[Nejsou zde žádné produkty k zobrazení]]></value>
 	</definition>
 </definitions>

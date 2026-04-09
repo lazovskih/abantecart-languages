@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Můj Historie objednávek]]></value>
+		<value><![CDATA[Moje historie objednávek]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Číslo objednávky:]]></value>
+		<value><![CDATA[ID objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
-		<value><![CDATA[Postavení:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum přidáno:]]></value>
+		<value><![CDATA[Datum přidání:]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
@@ -34,10 +34,10 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Celkový:]]></value>
+		<value><![CDATA[Celkem:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Jste neprovedli žádné předchozí objednávky!]]></value>
+		<value><![CDATA[Zatím jste neuskutečnili žádné předchozí objednávky!]]></value>
 	</definition>
 </definitions>

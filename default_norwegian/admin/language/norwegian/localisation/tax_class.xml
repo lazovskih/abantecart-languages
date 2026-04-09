@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Skatte klasser]]></value>
+		<value><![CDATA[Mva-klasser]]></value>
 	</definition>
 	<definition>
 		<key>text_class</key>
-		<value><![CDATA[Skatte]]></value>
+		<value><![CDATA[Skatteklasse]]></value>
 	</definition>
 	<definition>
 		<key>text_rate</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret skatte klasser!]]></value>
+		<value><![CDATA[Suksess: Du har endret skatteklasser!]]></value>
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[Skatteklasse Tittel]]></value>
+		<value><![CDATA[Skatteklassetittel]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -26,27 +26,27 @@
 	</definition>
 	<definition>
 		<key>tab_details</key>
-		<value><![CDATA[detaljer]]></value>
+		<value><![CDATA[Detaljer]]></value>
 	</definition>
 	<definition>
 		<key>tab_rates</key>
-		<value><![CDATA[priser]]></value>
+		<value><![CDATA[Satser]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Skatteklasse Tittel:]]></value>
+		<value><![CDATA[Tittel for skatteklasse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Beskrivelse synlig for kundene]]></value>
+		<value><![CDATA[Beskrivelse synlig for kunder]]></value>
 	</definition>
 	<definition>
 		<key>entry_location</key>
-		<value><![CDATA[plassering]]></value>
+		<value><![CDATA[Sted]]></value>
 	</definition>
 	<definition>
 		<key>entry_zone</key>
-		<value><![CDATA[Beliggenhet sone]]></value>
+		<value><![CDATA[Plasseringssone]]></value>
 	</definition>
 	<definition>
 		<key>entry_priority</key>
@@ -58,31 +58,31 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre skatte klasser!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre skatteklasser!]]></value>
 	</definition>
 	<definition>
 		<key>error_tax_title</key>
-		<value><![CDATA[Skatteklasse Tittelen må være mellom 2 og 32 tegn!]]></value>
+		<value><![CDATA[Skatteklassetittel må være mellom 2 og 32 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_rate</key>
-		<value><![CDATA[Skattesats nødvendig!]]></value>
+		<value><![CDATA[Skattesats er påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Advarsel: Denne skatteklasse kan ikke slettes som det er i dag tildelt %s produkter!]]></value>
+		<value><![CDATA[Advarsel: Denne avgiftsklassen kan ikke slettes da den for øyeblikket er tildelt %s produkter!]]></value>
 	</definition>
 	<definition>
 		<key>text_tax_all_zones</key>
-		<value><![CDATA[alle posisjons soner]]></value>
+		<value><![CDATA[alle lokasjonssoner]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_rate_threshold</key>
-		<value><![CDATA[Påfør skatt hvis <br/><span class="help">Bruk denne skatten bare hvis, beskattes beløpet (produkt, shipping, delsum, etc.) er ...</span>]]></value>
+		<value><![CDATA[Påfør skatt hvis<br /><span class="help">Påfør denne skatten kun hvis det beskattede beløpet (produkt, frakt, delsum, osv.) er ...</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_exempt_groups</key>
-		<value><![CDATA[Skattefri Grupper <br/><span class="help">Velg kundegrupper å unnta fra denne skatten</span>]]></value>
+		<value><![CDATA[Skattefrie grupper<br /><span class="help">Velg kundegrupper som er fritatt for denne skatten</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_absolute</key>
@@ -90,6 +90,6 @@
 	</definition>
 	<definition>
 		<key>text_percent</key>
-		<value><![CDATA[prosent]]></value>
+		<value><![CDATA[Prosent]]></value>
 	</definition>
 </definitions>

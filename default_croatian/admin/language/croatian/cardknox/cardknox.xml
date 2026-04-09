@@ -5,16 +5,12 @@
 		<value><![CDATA[CardKnox]]></value>
 	</definition>
 	<definition>
-		<key>cardknox_note</key>
-		<value><![CDATA[]]></value>
-	</definition>
-	<definition>
 		<key>cardknox_transaction_key</key>
-		<value><![CDATA[Transakcijski ključ (xKey)]]></value>
+		<value><![CDATA[Ključ transakcije (xKey)]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_token</key>
-		<value><![CDATA[Transakcijski token (xToken)]]></value>
+		<value><![CDATA[Token transakcije (xToken)]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_test</key>
@@ -22,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_success_order_status</key>
-		<value><![CDATA[Status narudžbe: <br/><span class="help">status narudžbe koji se postavlja nakon završetka narudžbe kupca na temelju postavljene metode transakcije</span>]]></value>
+		<value><![CDATA[Order Status:<br /><span class="help">Status narudžbe koji će se postaviti nakon završetka narudžbe kupca na temelju odabrane metode transakcije</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id</key>
-		<value><![CDATA[Lokacija: <br/><span class="help">Ograniči kako bi samo odabranim lokacijama omogućili korištenje ovog načina plaćanja.</span>]]></value>
+		<value><![CDATA[Lokacija:<br /><span class="help">Ograniči korištenje ove metode plaćanja samo na odabrane lokacije.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id_0</key>
@@ -34,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method</key>
-		<value><![CDATA[Metoda transakcije: <br/><span class="help">CardKnox transakcije koje se izvode na blagajni kupca prije postavljanja statusa narudžbe. Samo autorizacija ili snimanje.</span>]]></value>
+		<value><![CDATA[Metoda transakcije:<br /><span class="help">CardKnox transakcija koja će se pokrenuti pri naplati kupca prije nego što se postavi status narudžbe. Samo autorizacija ili naplata.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_capture</key>
-		<value><![CDATA[Hvatanje]]></value>
+		<value><![CDATA[Zabilježi]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_authorization</key>
@@ -46,19 +42,19 @@
 	</definition>
 	<definition>
 		<key>cardknox_ifields_key</key>
-		<value><![CDATA[Ključ iFields]]></value>
+		<value><![CDATA[iFields ključ]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_pending_authorization</key>
-		<value><![CDATA[Čeka se autorizacija]]></value>
+		<value><![CDATA[Na čekanju odobrenja]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_funds</key>
-		<value><![CDATA[Osvojite sredstva]]></value>
+		<value><![CDATA[Naplati sredstva]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture</key>
-		<value><![CDATA[Hvatanje]]></value>
+		<value><![CDATA[Snimi]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_payment_status</key>
@@ -66,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_success</key>
-		<value><![CDATA[Uspjeh! Sredstva su uspješno prikupljena.]]></value>
+		<value><![CDATA[Uspjeh! Sredstva su uspješno naplaćena.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_processing</key>
@@ -74,23 +70,23 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_do_refund</key>
-		<value><![CDATA[Napravi CardKnox Refund: <span class="help">Možete unijeti iznos koji je potrebno refundirati.</span>]]></value>
+		<value><![CDATA[Izvrši povrat CardKnox-a:<span class="help">Možete unijeti iznos koji treba vratiti.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refunded</key>
-		<value><![CDATA[Vraćeno]]></value>
+		<value><![CDATA[Refundirano]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refund</key>
-		<value><![CDATA[Povrat novca]]></value>
+		<value><![CDATA[Povrat]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_refund_title</key>
-		<value><![CDATA[CardKnox povrat novca]]></value>
+		<value><![CDATA[Povrat CardKnox-a]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refund_success</key>
-		<value><![CDATA[Uspjeh! Narudžba je uspješno vraćena.]]></value>
+		<value><![CDATA[Uspjeh! Narudžba je uspješno refundirana.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_empty_amount</key>
@@ -102,6 +98,6 @@
 	</definition>
 	<definition>
 		<key>cardknox_error_no_order_id</key>
-		<value><![CDATA[Greška! Ne postoji ID narudžbe.]]></value>
+		<value><![CDATA[Greška! Nema ID narudžbe.]]></value>
 	</definition>
 </definitions>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[grupy użytkowników]]></value>
+		<value><![CDATA[Grupy użytkowników]]></value>
 	</definition>
 	<definition>
 		<key>text_group</key>
@@ -10,23 +10,23 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś grup użytkowników!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowałeś grupy użytkowników!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_group_added</key>
-		<value><![CDATA[Sukces: Utworzono grupę użytkowników z powodzeniem!]]></value>
+		<value><![CDATA[Sukces: Udało Ci się pomyślnie utworzyć grupę użytkowników!]]></value>
 	</definition>
 	<definition>
 		<key>text_go_to_page</key>
-		<value><![CDATA[Idź do strony]]></value>
+		<value><![CDATA[Przejdź do strony]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Usuwanie grupy użytkowników?]]></value>
+		<value><![CDATA[Usunąć grupę użytkowników?]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Użytkownik Nazwa grupy]]></value>
+		<value><![CDATA[Nazwa grupy użytkowników]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Użytkownik Nazwa grupy:]]></value>
+		<value><![CDATA[Nazwa grupy użytkowników:]]></value>
 	</definition>
 	<definition>
 		<key>column_controller</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>column_modify</key>
-		<value><![CDATA[Modyfikować]]></value>
+		<value><![CDATA[Modyfikuj]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -54,10 +54,10 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Użytkownik Nazwa grupy musi wynosić od 2 do 64 znaków!]]></value>
+		<value><![CDATA[Nazwa grupy użytkowników musi mieć od 2 do 64 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_user</key>
-		<value><![CDATA[Ostrzeżenie: Ta grupa użytkownika nie może zostać usunięty, ponieważ jest aktualnie przypisany do %s użytkowników!]]></value>
+		<value><![CDATA[Ostrzeżenie: nie można usunąć tej grupy użytkowników, ponieważ jest ona obecnie przypisana do %s użytkowników!]]></value>
 	</definition>
 </definitions>

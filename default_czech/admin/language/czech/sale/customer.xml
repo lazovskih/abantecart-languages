@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[zákazníci]]></value>
+		<value><![CDATA[Zákazníci]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste zákazníky!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste zákazníky!]]></value>
 	</definition>
 	<definition>
 		<key>text_approved</key>
-		<value><![CDATA[Schválili jste %s účet!]]></value>
+		<value><![CDATA[Schválili jste účet %s!]]></value>
 	</definition>
 	<definition>
 		<key>tab_customer_address</key>
@@ -26,11 +26,15 @@
 	</definition>
 	<definition>
 		<key>text_add_address</key>
-		<value><![CDATA[Přidat novou adresu]]></value>
+		<value><![CDATA[Přidat adresu]]></value>
 	</definition>
 	<definition>
 		<key>button_add</key>
 		<value><![CDATA[Přidat]]></value>
+	</definition>
+	<definition>
+		<key>column_id</key>
+		<value><![CDATA[ID]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -38,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>column_email</key>
-		<value><![CDATA[E-mailem]]></value>
+		<value><![CDATA[E-mail]]></value>
 	</definition>
 	<definition>
 		<key>column_customer_group</key>
@@ -50,15 +54,15 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_approved</key>
-		<value><![CDATA[Schválený]]></value>
+		<value><![CDATA[Schváleno]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[datum přidáno]]></value>
+		<value><![CDATA[Datum přidání]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -66,11 +70,11 @@
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Přihlašovací jméno:]]></value>
+		<value><![CDATA[Uživatelské jméno:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
-		<value><![CDATA[Jméno:]]></value>
+		<value><![CDATA[Křestní jméno:]]></value>
 	</definition>
 	<definition>
 		<key>entry_lastname</key>
@@ -78,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[E-mailem:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>entry_telephone</key>
@@ -98,11 +102,11 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavení:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_approved</key>
-		<value><![CDATA[Schválený:]]></value>
+		<value><![CDATA[Schváleno:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -146,11 +150,11 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění k úpravě zákazníky!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat zákazníky!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Přihlašovací jméno musí být jen a mezi 5 a 64 písmen abecedy!]]></value>
+		<value><![CDATA[Přihlašovací jméno musí být alfanumerické a mít délku v rozmezí 5 až 64 znaků!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
@@ -158,23 +162,23 @@
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Jméno musí být mezi 1 a 32 znaků!]]></value>
+		<value><![CDATA[Jméno musí mít délku od 1 do 32 znaků!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Last Name musí být v rozmezí 1 až 32 znaků!]]></value>
+		<value><![CDATA[Příjmení musí mít mezi 1 a 32 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mailová adresa se nezdá být platný!]]></value>
+		<value><![CDATA[E-Mailová adresa se nezdá být platná!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon musí být mezi 3 a 32 znaků!]]></value>
+		<value><![CDATA[Telefonní číslo musí mít od 3 do 32 znaků a obsahovat pouze číslice!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Heslo musí být mezi 3 a 20 znaky!]]></value>
+		<value><![CDATA[Heslo musí mít délku 3 až 20 znaků!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
@@ -182,31 +186,31 @@
 	</definition>
 	<definition>
 		<key>error_address_firstname</key>
-		<value><![CDATA[Jméno musí být mezi 1 a 32 znaků!]]></value>
+		<value><![CDATA[Křestní jméno musí mít délku 1 až 32 znaků!]]></value>
 	</definition>
 	<definition>
 		<key>error_address_lastname</key>
-		<value><![CDATA[Last Name musí být v rozmezí 1 až 32 znaků!]]></value>
+		<value><![CDATA[Příjmení musí mít od 1 do 32 znaků!]]></value>
 	</definition>
 	<definition>
 		<key>error_address_1</key>
-		<value><![CDATA[Adresa musí být v rozmezí 3 až 128 znaků!]]></value>
+		<value><![CDATA[Adresa musí být mezi 3 a 128 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_city</key>
-		<value><![CDATA[Město musí být v rozmezí 3 až 128 znaků!]]></value>
+		<value><![CDATA[Město musí mít mezi 3 a 128 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_country</key>
-		<value><![CDATA[Vyberte zemi!]]></value>
+		<value><![CDATA[Prosím, vyberte zemi!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone</key>
-		<value><![CDATA[Vyberte region / stát!]]></value>
+		<value><![CDATA[Vyberte prosím region / stát!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_approved</key>
-		<value><![CDATA[- Vyberte Schváleno -]]></value>
+		<value><![CDATA[- Vyberte schválené -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
@@ -214,11 +218,11 @@
 	</definition>
 	<definition>
 		<key>tab_customer_details</key>
-		<value><![CDATA[údaje o klientovi]]></value>
+		<value><![CDATA[Podrobnosti zákazníka]]></value>
 	</definition>
 	<definition>
 		<key>tab_transactions</key>
-		<value><![CDATA[transakce]]></value>
+		<value><![CDATA[Transakce]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_transactions</key>
@@ -234,7 +238,7 @@
 	</definition>
 	<definition>
 		<key>column_debit</key>
-		<value><![CDATA[debet]]></value>
+		<value><![CDATA[Debet]]></value>
 	</definition>
 	<definition>
 		<key>column_credit</key>
@@ -242,7 +246,7 @@
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[Druh transakce]]></value>
+		<value><![CDATA[Typ transakce]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
@@ -258,19 +262,19 @@
 	</definition>
 	<definition>
 		<key>popup_title_info</key>
-		<value><![CDATA[informace o transakcích]]></value>
+		<value><![CDATA[Informace o transakci]]></value>
 	</definition>
 	<definition>
 		<key>popup_title_insert</key>
-		<value><![CDATA[Vložte nová transakce]]></value>
+		<value><![CDATA[Vložit novou transakci]]></value>
 	</definition>
 	<definition>
 		<key>entry_credit</key>
-		<value><![CDATA[Credit (zvýšení bilance)]]></value>
+		<value><![CDATA[Kredit (navýšení zůstatku)]]></value>
 	</definition>
 	<definition>
 		<key>entry_debit</key>
-		<value><![CDATA[Debetní (pokles bilance)]]></value>
+		<value><![CDATA[Debet (snížení zůstatku)]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_type</key>
@@ -278,11 +282,15 @@
 	</definition>
 	<definition>
 		<key>entry_other_type</key>
-		<value><![CDATA[Jiný typ Custom transakce:]]></value>
+		<value><![CDATA[Přidat nový vlastní typ transakce:]]></value>
+	</definition>
+	<definition>
+		<key>text_other_type_placeholder</key>
+		<value><![CDATA[zadejte nové jméno zde]]></value>
 	</definition>
 	<definition>
 		<key>text_option_other_type</key>
-		<value><![CDATA[Jiný...]]></value>
+		<value><![CDATA[Ostatní...]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_description</key>
@@ -290,7 +298,7 @@
 	</definition>
 	<definition>
 		<key>entry_transaction_comment</key>
-		<value><![CDATA[Komentovat (k vnitřnímu použití):]]></value>
+		<value><![CDATA[Komentář (pro interní použití):]]></value>
 	</definition>
 	<definition>
 		<key>entry_update_date</key>
@@ -302,15 +310,23 @@
 	</definition>
 	<definition>
 		<key>error_transaction_type</key>
-		<value><![CDATA[Chyba: Vyplňte transakce pole typ formuláře.]]></value>
+		<value><![CDATA[Chyba: Prosím vyplňte pole formuláře typu transakce.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_debit_credit</key>
-		<value><![CDATA[Chyba: Vyplňte debetní nebo kreditní hodnoty pro zákazníka transakci.]]></value>
+		<value><![CDATA[Chyba: Prosím vyplňte hodnotu debetu nebo kreditu pro zákaznickou transakci.]]></value>
+	</definition>
+	<definition>
+		<key>error_incorrect_debit_credit</key>
+		<value><![CDATA[Chyba: hodnota debetu nebo kreditu nemůže být větší než 99999999999.9999]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_success</key>
-		<value><![CDATA[Úspěch: Změnili jste transakci!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste transakci!]]></value>
+	</definition>
+	<definition>
+		<key>text_add_address</key>
+		<value><![CDATA[Přidat adresu]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_address</key>
@@ -318,11 +334,11 @@
 	</definition>
 	<definition>
 		<key>entry_default</key>
-		<value><![CDATA[Výchozí Adresa:]]></value>
+		<value><![CDATA[Výchozí adresa:]]></value>
 	</definition>
 	<definition>
 		<key>error_delete_default</key>
-		<value><![CDATA[Chyba: Výchozí adresa nemůže být smazán!]]></value>
+		<value><![CDATA[Chyba: Výchozí adresa nelze odstranit!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete_last</key>
@@ -330,7 +346,7 @@
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
-		<value><![CDATA[Datum přidáno:]]></value>
+		<value><![CDATA[Datum přidání:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_modified</key>
@@ -338,7 +354,7 @@
 	</definition>
 	<definition>
 		<key>warning_actonbehalf_additional_store</key>
-		<value><![CDATA[Jednat jménem zákazníka v obchodě Další byste měli přihlásit do admin boku jiného obchodního domu. Pokračovat?]]></value>
+		<value><![CDATA[Chcete-li jednat jménem zákazníka v dalším obchodě, musíte se přihlásit do administrace jiného obchodu. Pokračovat?]]></value>
 	</definition>
 	<definition>
 		<key>entry_notify</key>
@@ -346,27 +362,15 @@
 	</definition>
 	<definition>
 		<key>text_transaction_notification_subject</key>
-		<value><![CDATA[Nová transakce byla zaúčtována do souboru %s účtu]]></value>
+		<value><![CDATA[Nová transakce byla zaúčtována na váš účet %s]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_notification_message</key>
-		<value><![CDATA[Nová transakce byla zaúčtována do souboru %s účtu ve výši %s. Pro více informací přihlášení do %s účet]]></value>
+		<value><![CDATA[Na váš %s účet byla připsána nová transakce ve výši %s. Pro více podrobností se přihlaste do svého %s účtu.]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
-		<value><![CDATA[Celkem Objednávky:]]></value>
-	</definition>
-	<definition>
-		<key>column_id</key>
-		<value><![CDATA[ID]]></value>
-	</definition>
-	<definition>
-		<key>text_other_type_placeholder</key>
-		<value><![CDATA[zde zadejte nové jméno ]]></value>
-	</definition>
-	<definition>
-		<key>error_incorrect_debit_credit</key>
-		<value><![CDATA[Chyba: debetní nebo kreditní hodnota nemůže být vyšší než 99999999999,9999]]></value>
+		<value><![CDATA[Celkem objednávek:]]></value>
 	</definition>
 	<definition>
 		<key>text_register_date</key>

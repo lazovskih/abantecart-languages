@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[davki poročilo]]></value>
+		<value><![CDATA[Poročilo o davkih]]></value>
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[let]]></value>
+		<value><![CDATA[Leta]]></value>
 	</definition>
 	<definition>
 		<key>text_month</key>
-		<value><![CDATA[mesecev]]></value>
+		<value><![CDATA[Meseci]]></value>
 	</definition>
 	<definition>
 		<key>text_week</key>
-		<value><![CDATA[tedne]]></value>
+		<value><![CDATA[Tedni]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_all_status</key>
-		<value><![CDATA[Vse Stanja]]></value>
+		<value><![CDATA[Vsi statusi]]></value>
 	</definition>
 	<definition>
 		<key>column_date_start</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>column_date_end</key>
-		<value><![CDATA[Končni datum]]></value>
+		<value><![CDATA[Datum konca]]></value>
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[št Naročila]]></value>
+		<value><![CDATA[Št. naročil]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
@@ -50,10 +50,10 @@
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[Končni datum:]]></value>
+		<value><![CDATA[Datum konca:]]></value>
 	</definition>
 	<definition>
 		<key>entry_group</key>
-		<value><![CDATA[Skupina By:]]></value>
+		<value><![CDATA[Združi po:]]></value>
 	</definition>
 </definitions>

@@ -2,11 +2,7 @@
 <definitions>
 	<definition>
 		<key>cardknox_name</key>
-		<value><![CDATA[KartaKnox]]></value>
-	</definition>
-	<definition>
-		<key>cardknox_note</key>
-		<value><![CDATA[]]></value>
+		<value><![CDATA[CardKnox]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_key</key>
@@ -22,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_success_order_status</key>
-		<value><![CDATA[Status zamówienia: <br/><span class="help">Status zamówienia zostanie ustawiony po zakończeniu zamówienia klienta na podstawie ustawionej metody transakcji</span>]]></value>
+		<value><![CDATA[Status zamówienia:<br /><span class="help">Status zamówienia, który zostanie ustawiony po zakończeniu zamówienia klienta na podstawie ustawionej metody transakcji</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id</key>
-		<value><![CDATA[Lokalizacja: <br/><span class="help">Ogranicz, aby zezwolić tylko wybranym lokalizacjom na korzystanie z tej metody płatności.</span>]]></value>
+		<value><![CDATA[Lokalizacja:<br /><span class="help">Ogranicz, aby tylko wybrane lokalizacje mogły korzystać z tej metody płatności.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id_0</key>
@@ -34,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method</key>
-		<value><![CDATA[Metoda transakcji: <br/><span class="help">Transakcja CardKnox do uruchomienia przy kasie klienta przed ustawieniem statusu zamówienia. Tylko autoryzacja lub przechwycenie.</span>]]></value>
+		<value><![CDATA[Transaction Method:<br /><span class="help">Transakcja CardKnox ma zostać przeprowadzona przy kasie klienta przed ustawieniem statusu zamówienia. Tylko autoryzacja lub pobranie środków.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_capture</key>
-		<value><![CDATA[Schwytać]]></value>
+		<value><![CDATA[Przechwyć]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_authorization</key>
@@ -50,15 +46,15 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_pending_authorization</key>
-		<value><![CDATA[Oczekujące na autoryzację]]></value>
+		<value><![CDATA[Oczekiwanie na autoryzację]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_funds</key>
-		<value><![CDATA[Zdobądź fundusze]]></value>
+		<value><![CDATA[Pobierz środki]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture</key>
-		<value><![CDATA[Schwytać]]></value>
+		<value><![CDATA[Przechwyć]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_payment_status</key>
@@ -66,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_success</key>
-		<value><![CDATA[Sukces! Fundusze zostały pomyślnie przechwycone.]]></value>
+		<value><![CDATA[Sukces! Środki zostały pomyślnie pobrane.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_processing</key>
@@ -74,15 +70,15 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_do_refund</key>
-		<value><![CDATA[Zwrot pieniędzy CardKnox: <span class="help">Możesz wprowadzić kwotę, która ma zostać zwrócona.</span>]]></value>
+		<value><![CDATA[Wykonaj zwrot w CardKnox:<span class="help">Możesz wprowadzić kwotę, która ma zostać zwrócona.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refunded</key>
-		<value><![CDATA[Zwrócono]]></value>
+		<value><![CDATA[Zwrócone]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refund</key>
-		<value><![CDATA[Refundacja]]></value>
+		<value><![CDATA[Zwrot]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_refund_title</key>
@@ -90,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_refund_success</key>
-		<value><![CDATA[Sukces! Zamówienie zostało pomyślnie zwrócone.]]></value>
+		<value><![CDATA[Sukces! Zwrot pieniędzy za zamówienie zakończony pomyślnie.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_empty_amount</key>
@@ -98,10 +94,10 @@
 	</definition>
 	<definition>
 		<key>cardknox_error_no_payment_method_data</key>
-		<value><![CDATA[Błąd! Brak danych o metodzie płatności dla tego zamówienia.]]></value>
+		<value><![CDATA[Błąd! Brak danych metody płatności dla tego zamówienia.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_no_order_id</key>
-		<value><![CDATA[Błąd! Brak ID zamówienia.]]></value>
+		<value><![CDATA[Błąd! Brakuje ID zamówienia.]]></value>
 	</definition>
 </definitions>

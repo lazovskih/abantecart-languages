@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_rate</key>
-		<value><![CDATA[Parcelforce 48 Sadzby: <br/><span class="help">Príklad: 0:0,10:15.99,12:19.99, - Váhy menšie alebo rovné 10 librám by stáli 15,99 USD, Váhy menšie ako 12 libier, ale viac ako 10 libier budú stáť 19,99 USD. Kde libra je vaša hmotnostná trieda obchodu a $ je základná mena obchodu. Oboje môžete zmeniť v nastaveniach obchodu. Nezadávajte KG ani žiadne symboly. Zadajte hodnoty do 5,2 desatinných miest. (12345,67)</span>]]></value>
+		<value><![CDATA[Parcelforce 48 Rates:<br /><span class="help">Príklad: 0:0,10:15.99,12:19.99, – hmotnosti menšie alebo rovné 10 libier by stáli $15.99, hmotnosti menšie ako 12 libier, ale väčšie ako 10 libier budú stáť $19.99. Kde libra je vaša trieda hmotnosti v obchode a $ je základná mena obchodu. Obe môžete zmeniť v nastaveniach obchodu. Nezadávajte KG ani žiadne symboly. Zadajte hodnoty až do 5,2 desatinných miest. (12345.67)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_weight</key>
-		<value><![CDATA[Zobraziť hmotnosť zásielky: <br/><span class="help">Chcete zobraziť hmotnosť zásielky? (napr. hmotnosť dodávky: 2,7674 kg)</span>]]></value>
+		<value><![CDATA[Zobraziť hmotnosť dodávky:<br /><span class="help">Chcete zobraziť prepravnú hmotnosť? (napr. Hmotnosť dodávky : 2.7674 Kg's)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_weight_1</key>
-		<value><![CDATA[áno]]></value>
+		<value><![CDATA[Áno]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_weight_0</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_insurance</key>
-		<value><![CDATA[Zobraziť poistenie: <br/><span class="help">Chcete zobraziť poistenie zásielky? (napr. poistený do 500)</span>]]></value>
+		<value><![CDATA[Zobraziť poistenie:<br /><span class="help">Chcete zobraziť poistenie zásielky? (napr. poistené až do 500)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_insurance_1</key>
-		<value><![CDATA[áno]]></value>
+		<value><![CDATA[Áno]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_insurance_0</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_time</key>
-		<value><![CDATA[Zobraziť čas doručenia: <br/><span class="help">Chcete zobraziť čas doručenia? (napr. dodanie do 3 až 5 dní)</span>]]></value>
+		<value><![CDATA[Zobraziť dobu doručenia:<br /><span class="help">Chcete zobraziť dobu doručenia? (napr. Doručíme do 3 až 5 dní)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_time_1</key>
-		<value><![CDATA[áno]]></value>
+		<value><![CDATA[Áno]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_time_0</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_compensation</key>
-		<value><![CDATA[Sadzby kompenzácie Parcelforce48: <br/><span class="help">Zadajte hodnoty do 5,2 desatinných miest. (12345,67) Príklad: 34:0,100:1,250:2,25 - Poistné krytie pre hodnoty košíka do 34 by stálo 0,00 navyše, hodnoty nad 100 a do 250 budú stáť navyše 2,25. Nezadávajte symboly meny.</span>]]></value>
+		<value><![CDATA[Parcelforce48 Sadzby kompenzácie:<br /><span class="help">Zadajte hodnoty s presnosťou až 5 cifier pred desatinnou čiarkou a 2 za ňou (12345.67). Príklad: 34:0,100:1,250:2.25 – poistenie nákupného košíka do hodnoty 34 bude stáť navyše 0.00, pri hodnotách nad 100 a do 250 bude stáť navyše 2.25. Nezadávajte symboly meny.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_tax</key>
@@ -66,14 +66,14 @@
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_location_id</key>
-		<value><![CDATA[miesto:]]></value>
+		<value><![CDATA[Poloha:]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_location_id_0</key>
-		<value><![CDATA[Všetky miesta]]></value>
+		<value><![CDATA[Všetky lokality]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornenie: Nemáte povolenie na úpravu dopravy Parcelforce 48!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upraviť dopravu Parcelforce 48!]]></value>
 	</definition>
 </definitions>

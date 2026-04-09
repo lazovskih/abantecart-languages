@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[רחבות]]></value>
+		<value><![CDATA[תוספים]]></value>
 	</definition>
 	<definition>
 		<key>text_install</key>
-		<value><![CDATA[להתקין]]></value>
+		<value><![CDATA[התקן]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
-		<value><![CDATA[הסר את ההתקנה]]></value>
+		<value><![CDATA[הסר התקנה]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall_delete</key>
-		<value><![CDATA[הסר / מחק]]></value>
+		<value><![CDATA[הסר התקנה/מחק]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall_confirm</key>
-		<value><![CDATA[אנא אשר שברצונך לבטל את התקנת ההרחבה. כל הגדרות התוספים ונתונים הקשורים עלולות להימחק והפסידו.]]></value>
+		<value><![CDATA[אנא אשר/י שברצונך להסיר את התוסף. כל הגדרות התוסף והנתונים הקשורים עלולים להימחק ולהיאבד.]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[לִמְחוֹק]]></value>
+		<value><![CDATA[מחק]]></value>
 	</definition>
 	<definition>
 		<key>text_enlarge</key>
-		<value><![CDATA[לחצו על התמונה להגדלה]]></value>
+		<value><![CDATA[לחץ על התמונה להגדלה]]></value>
 	</definition>
 	<definition>
 		<key>text_activate</key>
-		<value><![CDATA[לְהַפְעִיל]]></value>
+		<value><![CDATA[הפעל]]></value>
 	</definition>
 	<definition>
 		<key>text_deactivate</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>text_left</key>
-		<value><![CDATA[שמאלה]]></value>
+		<value><![CDATA[שמאל]]></value>
 	</definition>
 	<definition>
 		<key>text_right</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[נוסף על]]></value>
+		<value><![CDATA[נוסף ב]]></value>
 	</definition>
 	<definition>
 		<key>column_icon</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[מזהה תוסף]]></value>
+		<value><![CDATA[מזהה התוסף]]></value>
 	</definition>
 	<definition>
 		<key>column_required</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם תוסף]]></value>
+		<value><![CDATA[שם התוסף]]></value>
 	</definition>
 	<definition>
 		<key>column_position</key>
-		<value><![CDATA[עמדה]]></value>
+		<value><![CDATA[מיקום]]></value>
 	</definition>
 	<definition>
 		<key>column_update_date</key>
@@ -78,11 +78,11 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[סדר המיון]]></value>
+		<value><![CDATA[סדר מיון]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -90,31 +90,31 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות סיומות!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות הרחבות!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_field</key>
-		<value><![CDATA[שגיאה: נא לספק שדות חובה. שום דבר לא עודכן!]]></value>
+		<value><![CDATA[שגיאה: אנא ספק את השדות הנדרשים. שום דבר לא עודכן!]]></value>
 	</definition>
 	<definition>
 		<key>error_payment_uninstall</key>
-		<value><![CDATA[אזהרה: השבת את התוסף לפני ההסרה!]]></value>
+		<value><![CDATA[אזהרה: השבת את התוסף לפני הסרתו!]]></value>
 	</definition>
 	<definition>
 		<key>error_uninstall</key>
-		<value><![CDATA[אזהרה: סיומת Uninstall לפני למחוק!]]></value>
+		<value><![CDATA[אזהרה: הסר את התוסף לפני המחיקה!]]></value>
 	</definition>
 	<definition>
 		<key>text_save_success</key>
-		<value><![CDATA[הצלחה: שינית הגדרות ארכה!]]></value>
+		<value><![CDATA[הצלחה: שינית את הגדרות התוסף!]]></value>
 	</definition>
 	<definition>
 		<key>text_restore_success</key>
-		<value><![CDATA[הצלחה: יש לך הגדרות תוסף ברירת מחדל משוחזרות!]]></value>
+		<value><![CDATA[הצלחה: הצלחת לשחזר את הגדרות ברירת המחדל של התוסף!]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
-		<value><![CDATA[קבל רחבות]]></value>
+		<value><![CDATA[קבל תוספים]]></value>
 	</definition>
 	<definition>
 		<key>text_required</key>
@@ -122,39 +122,39 @@
 	</definition>
 	<definition>
 		<key>text_optional</key>
-		<value><![CDATA[אופציונאלי]]></value>
+		<value><![CDATA[אופציונלי]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new</key>
-		<value><![CDATA[תקן רחבה]]></value>
+		<value><![CDATA[התקן הרחבה]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[חפש]]></value>
+		<value><![CDATA[חיפוש]]></value>
 	</definition>
 	<definition>
 		<key>text_search_for_extension</key>
-		<value><![CDATA[חפש רחבה]]></value>
+		<value><![CDATA[חפש תוסף]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_extension</key>
-		<value><![CDATA[&quot;רחבה %s: המקור יכול לא להיות ממוקם אנא מחק אותו ולבקר ספק extension לקבל מקור מלא ולהתקין אותה שוב!&quot;]]></value>
+		<value><![CDATA[הרחבה %s: לא ניתן לאתר את המקור! אנא מחק אותה ובקר אצל ספק ההרחבה כדי לקבל את המקור המלא ולהתקין אותה מחדש]]></value>
 	</definition>
 	<definition>
 		<key>text_broken_extension</key>
-		<value><![CDATA[&quot;רחבה %s:!. מקור כנראה שבור לא ניתן למצוא קבצי config.xml או main.php אנא מחק אותו ולבקר ספק extention לקבל מקור מלא ולהתקין אותה שוב&quot;]]></value>
+		<value><![CDATA[הרחבה %s: מקור כנראה שבור! לא ניתן למצוא את הקבצים config.xml או main.php. אנא מחק אותה ובקר אצל ספק ההרחבה כדי לקבל קוד מקור מלא ולהתקין אותה שוב.]]></value>
 	</definition>
 	<definition>
 		<key>text_extension_pagination</key>
-		<value><![CDATA[תוספים {start} עד {end} מתוך {total}]]></value>
+		<value><![CDATA[הרחבה(ות) {start} to {end} of {total}]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
-		<value><![CDATA[לעמוד]]></value>
+		<value><![CDATA[לכל עמוד]]></value>
 	</definition>
 	<definition>
 		<key>text_error_in_ajax</key>
-		<value><![CDATA[שגיאה בשיחת ajax]]></value>
+		<value><![CDATA[שגיאה בקריאת AJAX]]></value>
 	</definition>
 	<definition>
 		<key>text_saved</key>
@@ -162,11 +162,11 @@
 	</definition>
 	<definition>
 		<key>text_save</key>
-		<value><![CDATA[להציל]]></value>
+		<value><![CDATA[שמור]]></value>
 	</definition>
 	<definition>
 		<key>text_reset</key>
-		<value><![CDATA[אִתחוּל]]></value>
+		<value><![CDATA[איפוס]]></value>
 	</definition>
 	<definition>
 		<key>text_back</key>
@@ -178,19 +178,19 @@
 	</definition>
 	<definition>
 		<key>text_reload</key>
-		<value><![CDATA[לִטעוֹן מִחָדָשׁ]]></value>
+		<value><![CDATA[טען מחדש]]></value>
 	</definition>
 	<definition>
 		<key>text_version</key>
-		<value><![CDATA[גִרְסָה]]></value>
+		<value><![CDATA[גרסה]]></value>
 	</definition>
 	<definition>
 		<key>text_installed_on</key>
-		<value><![CDATA[מותקן על]]></value>
+		<value><![CDATA[הותקן ב-]]></value>
 	</definition>
 	<definition>
 		<key>text_installed</key>
-		<value><![CDATA[מוּתקָן]]></value>
+		<value><![CDATA[הותקן]]></value>
 	</definition>
 	<definition>
 		<key>text_not_installed</key>
@@ -198,7 +198,7 @@
 	</definition>
 	<definition>
 		<key>text_visit_repository</key>
-		<value><![CDATA[אנא בקר מאגר רחב להוריד רחבה]]></value>
+		<value><![CDATA[אנא בקר במאגר התוספים</a> כדי להוריד את התוסף]]></value>
 	</definition>
 	<definition>
 		<key>text_license</key>
@@ -218,31 +218,31 @@
 	</definition>
 	<definition>
 		<key>text_help</key>
-		<value><![CDATA[עֶזרָה]]></value>
+		<value><![CDATA[עזרה]]></value>
 	</definition>
 	<definition>
 		<key>text_dependencies</key>
-		<value><![CDATA[תלות]]></value>
+		<value><![CDATA[תלויות]]></value>
 	</definition>
 	<definition>
 		<key>text_update_available</key>
-		<value><![CDATA[גרסה חדשה (%s) זמינה. <a href="%s">לחץ כדי לעדכן כעת.</a>]]></value>
+		<value><![CDATA[גרסה חדשה (%s) זמינה. <a href="%s">לחץ כדי לעדכן עכשיו.</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[האם אתה בטוח שאתה רוצה למחוק את הרחבה?]]></value>
+		<value><![CDATA[האם אתה בטוח שברצונך למחוק את התוסף?]]></value>
 	</definition>
 	<definition>
 		<key>error_config_load</key>
-		<value><![CDATA[שגיאה: לא ניתן לטעון config עבור <b>%s!</b>]]></value>
+		<value><![CDATA[שגיאה: לא ניתן לטעון תצורה עבור <b>%s</b>!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_extension</key>
-		<value><![CDATA[<b>%s</b> הארכה לא ניתן להתקין: <b>%s</b> תוסף נדרש]]></value>
+		<value><![CDATA[לא ניתן להתקין את התוסף <b>%s</b>: דרוש התוסף <b>%s</b>]]></value>
 	</definition>
 	<definition>
 		<key>error_required_phpmodule</key>
-		<value><![CDATA[<b>%s</b> ההארכה לא ניתן להתקין: <b>%s</b> מודול PHP נדרש]]></value>
+		<value><![CDATA[לא ניתן להתקין את ההרחבה <b>%s</b>: נדרש מודול PHP <b>%s</b>]]></value>
 	</definition>
 	<definition>
 		<key>button_restore_defaults</key>
@@ -250,11 +250,11 @@
 	</definition>
 	<definition>
 		<key>additional_settings_confirm</key>
-		<value><![CDATA[כדי להגדיר הגדרות נוספות של רחבה של חנות אחרת יש צורך להיות מחוברים ללוח בקרה על שם דומיין נוסף. בסדר?]]></value>
+		<value><![CDATA[כדי להגדיר הגדרות נוספות של התוסף של חנות אחרת, עליך להיכנס ללוח הבקרה בדומיין אחר. בסדר?]]></value>
 	</definition>
 	<definition>
 		<key>error_no_help_file</key>
-		<value><![CDATA[מצטערים, אין קובץ עזרה להארכה זו.]]></value>
+		<value><![CDATA[מצטער, אין קובץ עזרה עבור הרחבה זו.]]></value>
 	</definition>
 	<definition>
 		<key>text_more_help</key>
@@ -262,15 +262,15 @@
 	</definition>
 	<definition>
 		<key>entry_total_type</key>
-		<value><![CDATA[סוּג]]></value>
+		<value><![CDATA[סוג]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[סה&quot;כ]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
-		<value><![CDATA[סך-Sub]]></value>
+		<value><![CDATA[סכום ביניים]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -278,11 +278,11 @@
 	</definition>
 	<definition>
 		<key>text_tax</key>
-		<value><![CDATA[מַס]]></value>
+		<value><![CDATA[מס]]></value>
 	</definition>
 	<definition>
 		<key>text_fee</key>
-		<value><![CDATA[תַשְׁלוּם]]></value>
+		<value><![CDATA[עמלה]]></value>
 	</definition>
 	<definition>
 		<key>text_discount</key>
@@ -290,59 +290,59 @@
 	</definition>
 	<definition>
 		<key>text_confirm_disable_dependants</key>
-		<value><![CDATA[רחבה %s יש תלויים הם: <br/> %s <br/> זה יושבת גם באופן אוטומטי. <br/> האם אתה מאשר?]]></value>
+		<value><![CDATA[להרחבה %s יש תלויים הבאים:<br>%s<br>היא תושבת באופן אוטומטי גם כן.<br>האם אתה מאשר?]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
-		<value><![CDATA[סטטוס: <span class="help">זהו לשלוט סטטוס תוסף חנות.</span>]]></value>
+		<value><![CDATA[סטטוס:<span class="help">זה מאפשר לשלוט על סטטוס התוסף בחזית החנות.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_sort_order</key>
-		<value><![CDATA[הפעלה להזמין: <span class="help">מספר להגדיר סדר מיקום תצוגה להארכה זה ביחס תוספי פועלים אחרים. (מיון הוא מ- נמוך למספר גבוה יותר, תוך התעלמות הערכים 0 וריק)</span>]]></value>
+		<value><![CDATA[סדר הרצה:<span class="help">מספר לקביעת סדר הצגת תוסף זה ביחס לתוספים המופעלים האחרים. (המיון מתבצע ממספר נמוך לגבוה, תוך התעלמות מ-0 ומהערכים הריקים)</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_minimum_total</key>
-		<value><![CDATA[מינימום הזמנה סה&quot;כ: <span class="help">כמות מינימום הזמנה כדי להגיע לאפשר תשלום זה</span>]]></value>
+		<value><![CDATA[מינימום להזמנה הכוללת:<span class="help">סכום מינימלי להזמנה שיש להגיע אליו כדי לאפשר תשלום זה</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_maximum_total</key>
-		<value><![CDATA[מקסימום להזמין סה&quot;כ: <span class="help">סכום ההזמנה מקסימלי יושג לאסור על תשלום זה</span>]]></value>
+		<value><![CDATA[סכום ההזמנה המרבי:<span class="help">סכום ההזמנה המרבי שיש להגיע אליו כדי למנוע אפשרות תשלום זו</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_storefront_icon</key>
-		<value><![CDATA[אייקון חנות: <span class="help">אייקון תשלום שיוצג מבחר תשלום לקופה</span>]]></value>
+		<value><![CDATA[סמל בחזית החנות:<span class="help">סמל תשלום שיוצג בעת בחירת שיטת התשלום בעמוד הקופה</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_storefront_icon</key>
-		<value><![CDATA[אייקון חנות: <span class="help">משלוח אייקון שיוצג מבחר משלוח לקוחות</span>]]></value>
+		<value><![CDATA[אייקון חזית החנות:<span class="help">אייקון המשלוח שיוצג בבחירת משלוח בקופה</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_autoselect_payment</key>
-		<value><![CDATA[המאפיין Auto Select: <span class="help">באפשרותך להגדיר תשלום זה להיבחר כברירת מחדל. שיטת תשלום זו תהיה מראש שנבחרה עבור תשלומים מרובים. אם זה אפשרות התשלום היחידה זמין, בשלב של בחירת אפשרות התשלום לא יבוצע.</span>]]></value>
+		<value><![CDATA[בחירה אוטומטית:<span class="help">מפשט את תהליך התשלום על ידי בחירה אוטומטית בשיטת תשלום כאשר קיימות מספר אפשרויות.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_autoselect_shipping</key>
-		<value><![CDATA[המאפיין Auto Select: <span class="help">באפשרותך להגדיר לדלג דף לבחירת משלוח אם יש אפשרות משלוח יחיד. שיטת משלוח זו תיבחר באופן אוטומטי</span>]]></value>
+		<value><![CDATA[בחירה אוטומטית:<span class="help">מפשטת את תהליך התשלום על ידי בחירה אוטומטית של שיטת משלוח כאשר ישנן מספר אפשרויות זמינות.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_accept_payments_shipping</key>
-		<value><![CDATA[קבל תשלומים אלה: <span class="help">אם שיטות תשלום מסוימות בלבד נדרשות עבור שיטת המשלוח הזה, בחר אותן כאן. אם לא נבחר דבר, כל שיטות התשלום הזמינות יוצגו</span>]]></value>
+		<value><![CDATA[בחר להגביל תשלומים:<span class="help">אם נדרשים רק אמצעי תשלום מסוימים לשיטת המשלוח הזו, בחר אותם כאן. אם לא נבחר כלום, יוצגו כל אמצעי התשלום הזמינים.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_ready_to_install</key>
-		<value><![CDATA[מוכן להורדה]]></value>
+		<value><![CDATA[מוכן להתקנה]]></value>
 	</definition>
 	<definition>
 		<key>button_install</key>
-		<value><![CDATA[להתקין]]></value>
+		<value><![CDATA[התקן]]></value>
 	</definition>
 	<definition>
 		<key>error_dependencies</key>
-		<value><![CDATA[רחבה זו לא ניתן להפעיל בגלל תלות הנדרשת חסרה או אינה מופעלת.]]></value>
+		<value><![CDATA[לא ניתן להפעיל תוסף זה משום שהתלות הנדרשת חסרה או לא מופעלת.]]></value>
 	</definition>
 	<definition>
 		<key>button_howto</key>
-		<value><![CDATA[איך ל]]></value>
+		<value><![CDATA[כיצד ל]]></value>
 	</definition>
 	<definition>
 		<key>text_developer_site</key>
@@ -354,27 +354,27 @@
 	</definition>
 	<definition>
 		<key>text_confirmation</key>
-		<value><![CDATA[אִשׁוּר]]></value>
+		<value><![CDATA[אישור]]></value>
 	</definition>
 	<definition>
 		<key>button_confirm</key>
-		<value><![CDATA[לְאַשֵׁר]]></value>
+		<value><![CDATA[אשר]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[לְהַמשִׁיך]]></value>
+		<value><![CDATA[המשך]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[לְבַטֵל]]></value>
+		<value><![CDATA[בטל]]></value>
 	</definition>
 	<definition>
 		<key>error_could_not_load_config</key>
-		<value><![CDATA[שגיאה: לא ניתן לטעון config עבור <b>%s</b> (%s)!]]></value>
+		<value><![CDATA[שגיאה: לא ניתן לטעון קובץ התצורה עבור <b>%s</b> (%s)!]]></value>
 	</definition>
 	<definition>
 		<key>error_could_not_load_override</key>
-		<value><![CDATA[שגיאה: לא ניתן לטעון תבנית חלופית %s בתוסף %s!]]></value>
+		<value><![CDATA[שגיאה: לא ניתן לטעון את תבנית ההחלפה %s בתוסף %s!]]></value>
 	</definition>
 	<definition>
 		<key>tab_general</key>
@@ -386,7 +386,7 @@
 	</definition>
 	<definition>
 		<key>text_more_extensions</key>
-		<value><![CDATA[רחבות נוספות זמינות עבור קל להתקין.]]></value>
+		<value><![CDATA[הרחבות נוספות זמינות להתקנה קלה.]]></value>
 	</definition>
 	<definition>
 		<key>text_support_expiration</key>
@@ -394,11 +394,11 @@
 	</definition>
 	<definition>
 		<key>text_support_expired</key>
-		<value><![CDATA[פג תוקף התמיכה]]></value>
+		<value><![CDATA[תוקף התמיכה פג]]></value>
 	</definition>
 	<definition>
 		<key>text_license_expired</key>
-		<value><![CDATA[התמיכה בהרחבות פג או לא התחברה לשוק]]></value>
+		<value><![CDATA[התמיכה בהרחבה פגה או שאינה מחוברת לשוק.]]></value>
 	</definition>
 	<definition>
 		<key>button_get_support</key>
@@ -406,26 +406,34 @@
 	</definition>
 	<definition>
 		<key>text_min_volume</key>
-		<value><![CDATA[נפח גודל חבילה מינימלי בהזמנה ב-(קוביק %s) <span class="help">ערך מינימלי לאפשרות המשלוח שתהיה זמינה ללקוח. ערך זה מבוסס על גדלי מוצרים משולבים בהזמנה</span>]]></value>
+		<value><![CDATA[נפח מינימלי של חבילת הזמנה (%s מעוקב) <span class="help">הערך המינימלי כדי שאפשרות המשלוח תהיה זמינה ללקוח. ערך זה מבוסס על סך כל נפחי המוצרים בהזמנה</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_max_volume</key>
-		<value><![CDATA[נפח מקסימלי של גודל חבילה בהזמנה ב-(מעוקב %s) <span class="help">ערך מקסימלי לאפשרות המשלוח שתהיה זמינה ללקוח. ערך זה מבוסס על גדלי מוצרים משולבים בהזמנה</span>]]></value>
+		<value><![CDATA[נפח מקסימלי של חבילת הזמנה (בקוביות %s) <span class="help">הערך המרבי שבו אפשרות המשלוח תהיה זמינה ללקוח. ערך זה מבוסס על המידות המשולבות של המוצרים בהזמנה</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_min_weight</key>
-		<value><![CDATA[משקל מינימלי של חבילה (%s)]]></value>
+		<value><![CDATA[המשקל המינימלי של החבילה (%s)]]></value>
 	</definition>
 	<definition>
 		<key>text_max_weight</key>
-		<value><![CDATA[משקל מקסימלי של חבילה (%s)]]></value>
+		<value><![CDATA[משקל מקסימלי לחבילה (%s)]]></value>
 	</definition>
 	<definition>
 		<key>text_min_order_subtotal</key>
-		<value><![CDATA[סכום משנה הזמנה מינימלי: <span class="help">הזן את ערך המשנה המינימלי של הזמנה עבור אפשרות המשלוח שתהיה זמינה ללקוח. שדה זה הוא אופציונלי.</span>]]></value>
+		<value><![CDATA[סכום ביניים מינימלי להזמנה: <span class="help">הזן את הערך המינימלי של סכום הביניים להזמנה כדי שאפשרות המשלוח תהיה זמינה ללקוח. שדה זה אופציונלי.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_max_order_subtotal</key>
-		<value><![CDATA[סכום משנה הזמנה מקסימלי: <span class="help">הזן את ערך המשנה המקסימלי של הזמנה עבור אפשרות המשלוח שתהיה זמינה ללקוח. שדה זה הוא אופציונלי.</span>]]></value>
+		<value><![CDATA[סכום ביניים מרבי להזמנה: <span class="help">הזן את הערך המקסימלי של סכום הביניים בהזמנה כדי שאופציית המשלוח תהיה זמינה ללקוח. שדה זה אופציונלי.</span>]]></value>
+	</definition>
+	<definition>
+		<key>text_customer_groups</key>
+		<value><![CDATA[מותר רק לקבוצה(ות) של לקוחות:]]></value>
+	</definition>
+	<definition>
+		<key>button_load_more_languages</key>
+		<value><![CDATA[טען עוד שפות]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Order]]></value>
+		<value><![CDATA[Beställningar]]></value>
 	</definition>
 	<definition>
 		<key>edit_title_details</key>
-		<value><![CDATA[Ändra beställningen Detaljer]]></value>
+		<value><![CDATA[Redigera orderdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>edit_title_shipping</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>edit_title_payment</key>
-		<value><![CDATA[Redigera betalnings Adress]]></value>
+		<value><![CDATA[Redigera betalningsadress]]></value>
 	</definition>
 	<definition>
 		<key>title_payment_details</key>
-		<value><![CDATA[Betalningsinformation]]></value>
+		<value><![CDATA[Betalningsdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Order detaljer har uppdaterats!]]></value>
+		<value><![CDATA[Framgång: Beställningsdetaljerna har uppdaterats!]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[För ID:]]></value>
+		<value><![CDATA[Order-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice_id</key>
@@ -58,23 +58,23 @@
 	</definition>
 	<definition>
 		<key>text_ship_to</key>
-		<value><![CDATA[Ship To (om annan adress)]]></value>
+		<value><![CDATA[Skicka till (om annan adress)]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_orders</key>
-		<value><![CDATA[saknade beställningar]]></value>
+		<value><![CDATA[Saknade beställningar]]></value>
 	</definition>
 	<definition>
 		<key>text_wait</key>
-		<value><![CDATA[Vänta!]]></value>
+		<value><![CDATA[Var god vänta!]]></value>
 	</definition>
 	<definition>
 		<key>column_order</key>
-		<value><![CDATA[För ID]]></value>
+		<value><![CDATA[Order-ID]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Köparens namn]]></value>
+		<value><![CDATA[Kundnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -82,11 +82,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[datum tillagt]]></value>
+		<value><![CDATA[Tilläggsdatum]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -98,15 +98,19 @@
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[Kvantitet]]></value>
+		<value><![CDATA[Antal]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
 		<value><![CDATA[Enhetspris]]></value>
 	</definition>
 	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[artikelnummer]]></value>
+	</definition>
+	<definition>
 		<key>column_download</key>
-		<value><![CDATA[nedladdning Namn]]></value>
+		<value><![CDATA[Nedladdningsnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_file</key>
@@ -126,23 +130,23 @@
 	</definition>
 	<definition>
 		<key>column_notify</key>
-		<value><![CDATA[kund anmälda]]></value>
+		<value><![CDATA[Kund informerad]]></value>
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[Kundens order kommentar]]></value>
+		<value><![CDATA[Kundens orderkommentar]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>entry_order_id</key>
-		<value><![CDATA[För ID:]]></value>
+		<value><![CDATA[Order-ID:]]></value>
 	</definition>
 	<definition>
 		<key>entry_invoice_id</key>
-		<value><![CDATA[Faktura ID:]]></value>
+		<value><![CDATA[Faktura-ID:]]></value>
 	</definition>
 	<definition>
 		<key>entry_customer</key>
@@ -158,7 +162,7 @@
 	</definition>
 	<definition>
 		<key>entry_customer_group</key>
-		<value><![CDATA[Kund Grupp:]]></value>
+		<value><![CDATA[Kundgrupp:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email</key>
@@ -178,11 +182,11 @@
 	</definition>
 	<definition>
 		<key>entry_store_name</key>
-		<value><![CDATA[Affärsnamn:]]></value>
+		<value><![CDATA[Butiksnamn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store_url</key>
-		<value><![CDATA[Store-webbadress:]]></value>
+		<value><![CDATA[Butiks-URL:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
@@ -190,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>entry_shipping_method</key>
-		<value><![CDATA[Frakt metod:]]></value>
+		<value><![CDATA[Leveransmetod:]]></value>
 	</definition>
 	<definition>
 		<key>entry_payment_method</key>
@@ -198,11 +202,11 @@
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[Original Order Totalt:]]></value>
+		<value><![CDATA[Ursprunglig ordertotal:]]></value>
 	</definition>
 	<definition>
 		<key>entry_order_status</key>
-		<value><![CDATA[Orderstatus:]]></value>
+		<value><![CDATA[Beställningsstatus:]]></value>
 	</definition>
 	<definition>
 		<key>entry_comment</key>
@@ -222,7 +226,7 @@
 	</definition>
 	<definition>
 		<key>entry_postcode</key>
-		<value><![CDATA[ZIP / Postnummer:]]></value>
+		<value><![CDATA[Postnummer/Postkod:]]></value>
 	</definition>
 	<definition>
 		<key>entry_city</key>
@@ -230,11 +234,11 @@
 	</definition>
 	<definition>
 		<key>entry_zone</key>
-		<value><![CDATA[Region / Stat:]]></value>
+		<value><![CDATA[Region / delstat:]]></value>
 	</definition>
 	<definition>
 		<key>entry_zone_code</key>
-		<value><![CDATA[Region / Stat kod:]]></value>
+		<value><![CDATA[Region / delstatskod:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -246,55 +250,59 @@
 	</definition>
 	<definition>
 		<key>entry_notify</key>
-		<value><![CDATA[Meddela Kund:]]></value>
+		<value><![CDATA[Meddela kunden:]]></value>
 	</definition>
 	<definition>
 		<key>entry_append</key>
-		<value><![CDATA[Bifoga Kommentarer:]]></value>
+		<value><![CDATA[Lägg till kommentarer:]]></value>
 	</definition>
 	<definition>
 		<key>entry_add_product</key>
-		<value><![CDATA[Lägg Produkt:]]></value>
+		<value><![CDATA[Lägg till tillgänglig produkt:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra order!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra beställningar!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_load</key>
-		<value><![CDATA[Varning: Ingen beställning med sådan ID!]]></value>
+		<value><![CDATA[Varning: Ingen beställning med detta ID!]]></value>
 	</definition>
 	<definition>
 		<key>text_order_summary</key>
-		<value><![CDATA[Ordersammanfattning]]></value>
+		<value><![CDATA[Orderöversikt]]></value>
 	</definition>
 	<definition>
 		<key>tab_order_details</key>
-		<value><![CDATA[Orderdetaljer]]></value>
+		<value><![CDATA[Beställningsdetaljer]]></value>
+	</definition>
+	<definition>
+		<key>tab_address</key>
+		<value><![CDATA[Beställningsadress]]></value>
 	</definition>
 	<definition>
 		<key>tab_history</key>
-		<value><![CDATA[Status &amp; Kommentarer]]></value>
+		<value><![CDATA[Status & Kommentarer]]></value>
 	</definition>
 	<definition>
 		<key>tab_files</key>
-		<value><![CDATA[För Files]]></value>
+		<value><![CDATA[Orderfiler]]></value>
 	</definition>
 	<definition>
 		<key>tab_payment_details</key>
-		<value><![CDATA[Betalningsinformation]]></value>
+		<value><![CDATA[Betalningsuppgifter]]></value>
 	</definition>
 	<definition>
 		<key>edit_title_files</key>
-		<value><![CDATA[Ändra beställningen filer]]></value>
+		<value><![CDATA[Redigera orderfiler]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_file</key>
-		<value><![CDATA[saknade filen]]></value>
+		<value><![CDATA[Saknad fil]]></value>
 	</definition>
 	<definition>
 		<key>order_download_history</key>
-		<value><![CDATA[nedladdning Historia]]></value>
+		<value><![CDATA[Nedladdningshistorik]]></value>
 	</definition>
 	<definition>
 		<key>text_time</key>
@@ -310,19 +318,19 @@
 	</definition>
 	<definition>
 		<key>text_download_percent</key>
-		<value><![CDATA[Ladda ner Procent]]></value>
+		<value><![CDATA[Nedladdningsprocent]]></value>
 	</definition>
 	<definition>
 		<key>text_download_expired</key>
-		<value><![CDATA[datum passerat]]></value>
+		<value><![CDATA[Utgånget datum]]></value>
 	</definition>
 	<definition>
 		<key>text_download_remaining_count</key>
-		<value><![CDATA[återstående Count]]></value>
+		<value><![CDATA[Återstående antal]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status_required</key>
-		<value><![CDATA[Orderstatus &quot;%s&quot; Obligatorisk]]></value>
+		<value><![CDATA[Orderstatus "%s" krävs]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -330,11 +338,11 @@
 	</definition>
 	<definition>
 		<key>text_push_download</key>
-		<value><![CDATA[- Tryck ner -]]></value>
+		<value><![CDATA[- Tryck på Ladda ner -]]></value>
 	</definition>
 	<definition>
 		<key>text_add_product_to_order</key>
-		<value><![CDATA[Lägg produkten beställning #%s]]></value>
+		<value><![CDATA[Lägg till produkt i beställning #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_order_product</key>
@@ -342,35 +350,27 @@
 	</definition>
 	<definition>
 		<key>attention_check_total</key>
-		<value><![CDATA[Obs: Beställ produktdetaljer har förändrats. Totalt räknades automatiskt. Översyn är nödvändig.]]></value>
+		<value><![CDATA[Obs: Produktuppgifterna för beställningen har ändrats. Totalsumman har beräknats om automatiskt. Granskning krävs.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_add</key>
-		<value><![CDATA[Lägg till en ny uppgår till totalt beräkning]]></value>
+		<value><![CDATA[Lägg till nytt belopp i totalberäkningen]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_title</key>
-		<value><![CDATA[Äganderätten till show]]></value>
+		<value><![CDATA[Titel att visa]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_amount</key>
-		<value><![CDATA[mängd]]></value>
+		<value><![CDATA[Belopp]]></value>
 	</definition>
 	<definition>
 		<key>text_recalc</key>
-		<value><![CDATA[Räkna med inställningar]]></value>
+		<value><![CDATA[Räkna om med inställningar]]></value>
 	</definition>
 	<definition>
 		<key>entry_im</key>
-		<value><![CDATA[JAG ÄR:]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
-	</definition>
-	<definition>
-		<key>tab_address</key>
-		<value><![CDATA[Beställningsadress]]></value>
+		<value><![CDATA[Snabbmeddelande:]]></value>
 	</definition>
 	<definition>
 		<key>entry_stock_locations</key>
@@ -382,6 +382,6 @@
 	</definition>
 	<definition>
 		<key>text_enable_google_map</key>
-		<value><![CDATA[För att visa adresser på den interaktiva Google-kartan, tillhandahåll Google API-nyckel i de allmänna inställningarna]]></value>
+		<value><![CDATA[För att visa adresser på den interaktiva Google-kartan, ange Google API-nyckeln i allmänna inställningarna]]></value>
 	</definition>
 </definitions>

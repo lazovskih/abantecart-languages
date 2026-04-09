@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id</key>
-		<value><![CDATA[Sted:]]></value>
+		<value><![CDATA[Plassering:]]></value>
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id_0</key>
-		<value><![CDATA[Alle steder]]></value>
+		<value><![CDATA[Alle lokasjoner]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>

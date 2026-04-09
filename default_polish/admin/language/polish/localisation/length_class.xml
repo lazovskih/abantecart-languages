@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[długość Klasy]]></value>
+		<value><![CDATA[Klasy długości]]></value>
 	</definition>
 	<definition>
 		<key>text_class</key>
-		<value><![CDATA[długość Klasa]]></value>
+		<value><![CDATA[Klasa długości]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś klas długości!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowałeś klasy długości!]]></value>
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[długość Tytuł]]></value>
+		<value><![CDATA[Tytuł długości]]></value>
 	</definition>
 	<definition>
 		<key>column_unit</key>
-		<value><![CDATA[długość Jednostka]]></value>
+		<value><![CDATA[Jednostka długości]]></value>
 	</definition>
 	<definition>
 		<key>column_value</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Długość Tytuł:]]></value>
+		<value><![CDATA[Tytuł długości:]]></value>
 	</definition>
 	<definition>
 		<key>entry_unit</key>
-		<value><![CDATA[Długość Jednostka:]]></value>
+		<value><![CDATA[Jednostka długości:]]></value>
 	</definition>
 	<definition>
 		<key>entry_value</key>
-		<value><![CDATA[Wartość: <br/><span class="help">Zestaw do 1,00000 jeśli jest to domyślna długość.</span>]]></value>
+		<value><![CDATA[Wartość:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -46,23 +46,23 @@
 	</definition>
 	<definition>
 		<key>error_title</key>
-		<value><![CDATA[Długość Tytuł musi zawierać się między 2 a 32 znaków!]]></value>
+		<value><![CDATA[Długość tytułu musi wynosić od 2 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_unit</key>
-		<value><![CDATA[Jednostka musi mieć długość od 1 do 4 znaków!]]></value>
+		<value><![CDATA[Jednostka długości musi mieć od 1 do 4 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Ostrzeżenie: Klasa ta długość nie może zostać usunięty, ponieważ jest aktualnie przypisany jako domyślnej klasy długości sklep!]]></value>
+		<value><![CDATA[Ostrzeżenie: Ta klasa długości nie może zostać usunięta, ponieważ jest obecnie ustawiona jako domyślna klasa długości sklepu!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Ostrzeżenie: Ta klasa długość nie może zostać usunięty, ponieważ jest aktualnie przypisany do %s produktów!]]></value>
+		<value><![CDATA[Ostrzeżenie: tej klasy długości nie można usunąć, ponieważ jest aktualnie przypisana do %s produktów!]]></value>
 	</definition>
 	<definition>
 		<key>error_iso_code</key>
-		<value><![CDATA[Kod ISO musi składać się z 4 znaków i musi być unikalny!]]></value>
+		<value><![CDATA[Kod ISO musi mieć 4 znaki i być unikalny!]]></value>
 	</definition>
 	<definition>
 		<key>entry_iso_code</key>
@@ -70,6 +70,6 @@
 	</definition>
 	<definition>
 		<key>column_iso_code</key>
-		<value><![CDATA[Kod ISO]]></value>
+		<value><![CDATA[kod ISO]]></value>
 	</definition>
 </definitions>

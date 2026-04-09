@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Fiók Letöltések]]></value>
+		<value><![CDATA[Fiók letöltései]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Rendelés azonosító:]]></value>
+		<value><![CDATA[Rendelésazonosító:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Dátum hozzáadva:]]></value>
+		<value><![CDATA[Hozzáadás dátuma:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_purchased</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_remaining</key>
-		<value><![CDATA[Többi:]]></value>
+		<value><![CDATA[Hátralévő:]]></value>
 	</definition>
 	<definition>
 		<key>text_size</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Nem tett korábbi letölthető megrendeléseket!]]></value>
+		<value><![CDATA[Ön még nem adott le korábbi letölthető rendelést!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
@@ -54,15 +54,15 @@
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[Függőben levő]]></value>
+		<value><![CDATA[Függőben]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[Nem érhető el]]></value>
+		<value><![CDATA[Nem elérhető]]></value>
 	</definition>
 	<definition>
 		<key>text_reached_limit</key>
-		<value><![CDATA[elérte Limit]]></value>
+		<value><![CDATA[Korlát elérve]]></value>
 	</definition>
 	<definition>
 		<key>error_download_not_exists</key>

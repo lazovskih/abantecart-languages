@@ -614,7 +614,7 @@
 	</definition>
 	<definition>
 		<key>entry_system_check</key>
-		<value><![CDATA[System Check: <br/><span class="help">Aktiver denne indstilling, hvis du vil kontrollere dit system tilstand i forhold til AbanteCart funktionalitet. System spørgsmål, der berører AbanteCart vil blive rapporteret som meddelelser synlige i admin.</span>]]></value>
+		<value><![CDATA[Systemtjek: <br/><span class="help">Aktiver denne indstilling, hvis du vil kontrollere dit system tilstand i forhold til AbanteCart funktionalitet. System spørgsmål, der berører AbanteCart vil blive rapporteret som meddelelser synlige i admin.</span>]]></value>
 	</definition>
 	<definition>
 		<key>button_add_store</key>
@@ -1025,10 +1025,6 @@
 		<value><![CDATA[Standard e-mail-logo:]]></value>
 	</definition>
 	<definition>
-		<key>entry_phone_validation_pattern</key>
-		<value><![CDATA[Regex-mønster for telefonvalidering:]]></value>
-	</definition>
-	<definition>
 		<key>entry_cron_command</key>
 		<value><![CDATA[Crontab i Linux-kommando <span class="help">Kør kommandoen crontab -e med den samme Linux-bruger, der kører en webserver til AbanteCart. Tilføj kommandoen i editoren</span>]]></value>
 	</definition>
@@ -1055,5 +1051,13 @@
 	<definition>
 		<key>entry_fast_checkout_show_order_comment_field</key>
 		<value><![CDATA[Vis ordrekommentarfelt <br/><span class="help">Kommentartekstområdet vil blive vist under kassen</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_unauth_customer</key>
+		<value><![CDATA[Tillad tilbagevendende kunder at gennemse:<br /><span class="help">Uloggede kunder, der vender tilbage til siden, vil kunne gennemse produkter, tilføje til indkøbskurv og ønskeliste.</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_phone_validation_pattern</key>
+		<value><![CDATA[Regex-mønster til telefonvalidering:]]></value>
 	</definition>
 </definitions>

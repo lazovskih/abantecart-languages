@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Opisany]]></value>
+		<value><![CDATA[Polecane]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Zobacz nasz najbardziej polecanych produktów]]></value>
+		<value><![CDATA[Zobacz nasze najbardziej polecane produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 gwiazdek!]]></value>
+		<value><![CDATA[%s z 5 gwiazdek!]]></value>
 	</definition>
 </definitions>

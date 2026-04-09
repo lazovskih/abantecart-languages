@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: izmijenili ste preuzimanje iz trgovine!]]></value>
+		<value><![CDATA[Uspjeh: Uspješno ste promijenili preuzimanje iz trgovine!]]></value>
 	</definition>
 	<definition>
 		<key>default_store_pickup_location_id</key>
-		<value><![CDATA[Mjesto:]]></value>
+		<value><![CDATA[Lokacija:]]></value>
 	</definition>
 	<definition>
 		<key>default_store_pickup_location_id_0</key>
@@ -22,6 +22,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: nemate dopuštenje za izmjenu preuzimanja iz trgovine!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu preuzimanja iz trgovine!]]></value>
 	</definition>
 </definitions>

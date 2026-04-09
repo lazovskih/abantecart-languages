@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - להזמין %s]]></value>
+		<value><![CDATA[%s - הזמנה %s]]></value>
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[אנו מודים לך על התעניינותך במוצרים %s. ההזמנה שלך התקבלה ו תעובד לאחר הוא אשר תשלום.]]></value>
+		<value><![CDATA[תודה על התעניינותך במוצרי %s. ההזמנה שלך התקבלה ותטופל לאחר אישור התשלום.]]></value>
 	</definition>
 	<definition>
 		<key>text_received</key>
-		<value><![CDATA[קבלת הזמנה.]]></value>
+		<value><![CDATA[קיבלת הזמנה.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_detail</key>
-		<value><![CDATA[פרטי הזמנה]]></value>
+		<value><![CDATA[פרטי ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_order_id</key>
@@ -22,15 +22,15 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[תאריך הזמנה:]]></value>
+		<value><![CDATA[תאריך ההזמנה:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
-		<value><![CDATA[מצב הזמנה:]]></value>
+		<value><![CDATA[מצב ההזמנה:]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[לצפייה לחץ הזמנתך על הקישור הבא:]]></value>
+		<value><![CDATA[כדי לצפות בהזמנה שלך לחץ על הקישור למטה:]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
@@ -38,23 +38,23 @@
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
-		<value><![CDATA[אמצעי תשלום:]]></value>
+		<value><![CDATA[שיטת תשלום:]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[כתובת למשלוח]]></value>
+		<value><![CDATA[כתובת המשלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[כתובת לתשלום]]></value>
+		<value><![CDATA[כתובת תשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[אֶלֶקטרוֹנִי:]]></value>
+		<value><![CDATA[דוא"ל:]]></value>
 	</definition>
 	<definition>
 		<key>text_telephone</key>
-		<value><![CDATA[טֵלֵפוֹן:]]></value>
+		<value><![CDATA[טלפון:]]></value>
 	</definition>
 	<definition>
 		<key>text_mobile_phone</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>text_fax</key>
-		<value><![CDATA[פַקס:]]></value>
+		<value><![CDATA[פקס:]]></value>
 	</definition>
 	<definition>
 		<key>text_ip</key>
-		<value><![CDATA[כתובת ה - IP:]]></value>
+		<value><![CDATA[כתובת IP:]]></value>
 	</definition>
 	<definition>
 		<key>text_product</key>
@@ -74,23 +74,23 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[סיכומים:]]></value>
+		<value><![CDATA[סה"כ:]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[לאחר שהתשלום אושר אתה יכול ללחוץ על הקישור הבא כדי לגשת המוצרים להורדה שלך:]]></value>
+		<value><![CDATA[לאחר שהתשלום שלך אושר, תוכל ללחוץ על הקישור למטה כדי לגשת למוצרים להורדה שלך:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[ההערות על הזמנתך הם:]]></value>
+		<value><![CDATA[ההערות להזמנתך הן:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[שוב לדוא&quot;ל זה אם יש לך שאלות.]]></value>
+		<value><![CDATA[אנא השיבו לדוא"ל זה אם יש לכם שאלות.]]></value>
 	</definition>
 	<definition>
 		<key>text_powered_by</key>
-		<value><![CDATA[מונע ע&quot;י]]></value>
+		<value><![CDATA[מופעל על ידי]]></value>
 	</definition>
 	<definition>
 		<key>text_new_order</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>text_new_order_text</key>
-		<value><![CDATA[לקוחות %s הוסיף סדר חדש]]></value>
+		<value><![CDATA[הלקוח %s הוסיף הזמנה חדשה]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -106,11 +106,11 @@
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[דֶגֶם]]></value>
+		<value><![CDATA[דגם]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[כַּמוּת]]></value>
+		<value><![CDATA[כמות]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
@@ -118,6 +118,6 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[סה&quot;כ]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 </definitions>

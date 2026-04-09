@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,6 +10,6 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<h1 style="text-align:center;"> Jelenleg végrehajt bizonyos tervezett karbantartás. <br/> Mi lesz hát a lehető leghamarabb. Kérjük, látogasson vissza később. </h1>]]></value>
+		<value><![CDATA[<h1 style="text-align:center;">Jelenleg ütemezett karbantartást végzünk. <br/>Hamarosan visszatérünk. Kérjük, térjen vissza később.</h1>]]></value>
 	</definition>
 </definitions>

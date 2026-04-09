@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[pomoc při instalaci / upgrade historie]]></value>
+		<value><![CDATA[Instalace/Aktualizace historie]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[datum přidáno]]></value>
+		<value><![CDATA[Datum přidání]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Key balíček]]></value>
+		<value><![CDATA[Klíč balíčku]]></value>
 	</definition>
 	<definition>
 		<key>column_version</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>column_backup_date</key>
-		<value><![CDATA[zálohování Datum]]></value>
+		<value><![CDATA[Datum zálohy]]></value>
 	</definition>
 	<definition>
 		<key>column_backup_file</key>
-		<value><![CDATA[záloha souborů]]></value>
+		<value><![CDATA[Záložní soubor]]></value>
 	</definition>
 	<definition>
 		<key>column_user</key>
@@ -38,10 +38,10 @@
 	</definition>
 	<definition>
 		<key>text_delete_history</key>
-		<value><![CDATA[smazat historii]]></value>
+		<value><![CDATA[Vymazat historii]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_success</key>
-		<value><![CDATA[Váš Instalace / Aktualizace Historie byla úspěšně odstraněna.]]></value>
+		<value><![CDATA[Vaše historie instalace/aktualizace byla úspěšně smazána.]]></value>
 	</definition>
 </definitions>

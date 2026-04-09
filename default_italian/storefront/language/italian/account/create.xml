@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Crea un Account]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+		<value><![CDATA[Account]]></value>
+	</definition>
+	<definition>
+		<key>text_create</key>
+		<value><![CDATA[Registro]]></value>
+	</definition>
+	<definition>
+		<key>text_account_already</key>
+		<value><![CDATA[Se hai già un account con noi, si prega di accedere al <a style="text-decoration: underline" href="%s">Pagina del login</a>.]]></value>
+	</definition>
+	<definition>
+		<key>text_your_details</key>
+		<value><![CDATA[I tuoi dati personali]]></value>
+	</definition>
+	<definition>
+		<key>text_your_address</key>
+		<value><![CDATA[Il tuo indirizzo]]></value>
+	</definition>
+	<definition>
+		<key>text_newsletter</key>
+		<value><![CDATA[Notiziario]]></value>
+	</definition>
+	<definition>
+		<key>text_your_password</key>
+		<value><![CDATA[La tua Password]]></value>
+	</definition>
+	<definition>
+		<key>text_agree</key>
+		<value><![CDATA[Ho letto e accettato ]]></value>
+	</definition>
+	<definition>
+		<key>entry_firstname</key>
+		<value><![CDATA[Nome:]]></value>
+	</definition>
+	<definition>
+		<key>entry_lastname</key>
+		<value><![CDATA[Cognome:]]></value>
+	</definition>
+	<definition>
+		<key>entry_email</key>
+		<value><![CDATA[E-mail:]]></value>
+	</definition>
+	<definition>
+		<key>entry_newsletter</key>
+		<value><![CDATA[Sottoscrivi:]]></value>
+	</definition>
+	<definition>
+		<key>entry_password</key>
+		<value><![CDATA[Parola d&#39;ordine:]]></value>
+	</definition>
+	<definition>
+		<key>entry_confirm</key>
+		<value><![CDATA[Conferma Password:]]></value>
+	</definition>
+	<definition>
+		<key>error_exists</key>
+		<value><![CDATA[Errore: L'indirizzo E-Mail è già registrato!]]></value>
+	</definition>
+	<definition>
+		<key>error_loginname_notunique</key>
+		<value><![CDATA[Questo nome utente non è disponibile. Prova con un nome differente!]]></value>
+	</definition>
+	<definition>
+		<key>error_email_exists</key>
+		<value><![CDATA[L'indirizzo e-mail esiste già!]]></value>
+	</definition>
+	<definition>
+		<key>error_password</key>
+		<value><![CDATA[La Password deve avere da 3 a 20 caratteri!]]></value>
+	</definition>
+	<definition>
+		<key>error_confirm</key>
+		<value><![CDATA[Conferma Password non corrisponde alla password!]]></value>
+	</definition>
+	<definition>
+		<key>error_telephone</key>
+		<value><![CDATA[Il telefono deve avere da 3 a 32 caratteri!]]></value>
+	</definition>
+	<definition>
+		<key>error_agree</key>
+		<value><![CDATA[Errore: Devi accettare %s!]]></value>
+	</definition>
+	<definition>
+		<key>text_full_register</key>
+		<value><![CDATA[Diventa cliente e registrarsi con i tuoi dati]]></value>
+	</definition>
+	<definition>
+		<key>text_subscribe_register</key>
+		<value><![CDATA[Iscriviti alla nostra newsletter]]></value>
+	</definition>
+	<definition>
+		<key>text_success_subscribe_heading</key>
+		<value><![CDATA[Iscritto con successo!]]></value>
+	</definition>
+	<definition>
+		<key>text_success_subscribe</key>
+		<value><![CDATA[Successo: La tua iscrizione alla newsletter è stata creata con successo!]]></value>
+	</definition>
+	<definition>
+		<key>error_subscriber_exists</key>
+		<value><![CDATA[I nostri dati indicano che si dispone di un account con noi. Effettua il login al tuo account per gestire il tuo abbonamento alla newsletter.]]></value>
+	</definition>
+	<definition>
+		<key>text_new_customer</key>
+		<value><![CDATA[Nuova approvazione della registrazione del cliente è in attesa]]></value>
+	</definition>
+	<definition>
+		<key>text_pending_customer_approval</key>
+		<value><![CDATA[Cliente %s si è registrato con un nuovo account. È necessaria l'approvazione! Clicca per vedere #admin#rt=sale/customer/update&customer_id=%s]]></value>
+	</definition>
+	<definition>
+		<key>text_pending_subscriber_approval</key>
+		<value><![CDATA[Subscriber %s ha registrato con il nuovo account. è necessaria un'azione di approvazione! Clicca per vedere #admin#rt=sale/customer/update&customer_id=%s ]]></value>
+	</definition>
+	<definition>
+		<key>text_login_details</key>
+		<value><![CDATA[dettagli del login]]></value>
+	</definition>
+</definitions>

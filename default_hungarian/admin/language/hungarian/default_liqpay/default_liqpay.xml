@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: módosította a LIQPAY számla adatait!]]></value>
+		<value><![CDATA[Siker: módosította a LIQPAY-fiók adatait!]]></value>
 	</definition>
 	<definition>
 		<key>text_pay</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_merchant</key>
-		<value><![CDATA[Kereskedő azonosítója:]]></value>
+		<value><![CDATA[Kereskedői azonosító:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_signature</key>
@@ -54,23 +54,23 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_order_status_id</key>
-		<value><![CDATA[Megrendelés állapota:]]></value>
+		<value><![CDATA[Rendelés állapota:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_location_id_0</key>
-		<value><![CDATA[Minden hely]]></value>
+		<value><![CDATA[Minden helyszín]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_location_id</key>
-		<value><![CDATA[Elhelyezkedés:]]></value>
+		<value><![CDATA[Hely:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: Önnek nincs engedélye a LIQPAY fizetés módosítására!]]></value>
+		<value><![CDATA[Figyelmeztetés: Önnek nincs jogosultsága a LIQPAY fizetés módosításához!]]></value>
 	</definition>
 	<definition>
 		<key>error_merchant</key>
-		<value><![CDATA[Kereskedői azonosító szükséges!]]></value>
+		<value><![CDATA[Kereskedői azonosító megadása kötelező!]]></value>
 	</definition>
 	<definition>
 		<key>error_signature</key>

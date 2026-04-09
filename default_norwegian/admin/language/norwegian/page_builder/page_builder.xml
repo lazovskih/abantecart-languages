@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>page_builder_logging</key>
-		<value><![CDATA[Logging <span class="help">Aktiver for å lagre javascript-unntak i AbanteCart feillogg</span>]]></value>
+		<value><![CDATA[Loggføring <span class="help">Aktiver for å lagre JavaScript-unntak i AbanteCart feilloggen</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_select_template</key>
-		<value><![CDATA[Velg mal: ]]></value>
+		<value><![CDATA[Velg mal:]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_preset</key>
-		<value><![CDATA[Forhåndsinnstilling: ]]></value>
+		<value><![CDATA[Forhåndsinnstilling:]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_load_preset</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>page_builder_text_load_preset_confirm_text</key>
-		<value><![CDATA[Ønsker du virkelig å laste inn forhåndsinnstilling? Allerede lagrede endringer vil bli skrevet om.]]></value>
+		<value><![CDATA[Vil du virkelig laste forhåndsinnstillingen? Allerede lagrede endringer vil bli overskrevet.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_delete_preset_confirm_text</key>
@@ -30,59 +30,59 @@
 	</definition>
 	<definition>
 		<key>page_builder_text_select_preset</key>
-		<value><![CDATA[ -- vennligst velg -- ]]></value>
+		<value><![CDATA[-- vennligst velg --]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_prompt</key>
-		<value><![CDATA[Vennligst skriv inn forhåndsinnstilt navn:]]></value>
+		<value><![CDATA[Vennligst angi navn på forhåndsinnstilling:]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_undo_title</key>
-		<value><![CDATA[ Rull tilbake til Lagre punkt]]></value>
+		<value><![CDATA[Rull tilbake til lagringspunkt]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_undo</key>
-		<value><![CDATA[ Angre]]></value>
+		<value><![CDATA[Angre]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_undo_confirm_text</key>
-		<value><![CDATA[ Ønsker du virkelig å rulle tilbake endringer for å lagre punktstatus?]]></value>
+		<value><![CDATA[Ønsker du virkelig å rulle tilbake endringer til lagringspunktets tilstand?]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_undo_success_text</key>
-		<value><![CDATA[ Suksess!]]></value>
+		<value><![CDATA[Suksess!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_publish_title</key>
-		<value><![CDATA[ Publiser side på en butikkfront]]></value>
+		<value><![CDATA[Publiser side på en butikkfront]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_publish</key>
-		<value><![CDATA[ Utgi]]></value>
+		<value><![CDATA[Publiser]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_publish_success</key>
-		<value><![CDATA[ Publisert vellykket.]]></value>
+		<value><![CDATA[Publisert med hell.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_remove_custom_page_title</key>
-		<value><![CDATA[ Fjern egendefinert side til standardtilstand]]></value>
+		<value><![CDATA[Fjern egendefinert side til standardtilstand]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_remove_custom_page</key>
-		<value><![CDATA[ Slett design ]]></value>
+		<value><![CDATA[Slett design]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_remove_custom_page_confirm_text</key>
-		<value><![CDATA[Ønsker du virkelig å fjerne designet ditt? ]]></value>
+		<value><![CDATA[Ønsker du virkelig å fjerne designet ditt?]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_remove_custom_page_success_text</key>
-		<value><![CDATA[Siden er fjernet]]></value>
+		<value><![CDATA[Siden har blitt fjernet]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_save_preset_confirm_text</key>
-		<value><![CDATA[Ønsker du virkelig å lagre forhåndsinnstilling? ]]></value>
+		<value><![CDATA[Ønsker du virkelig å lagre forhåndsinnstillingen?]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_save_preset_success_text</key>
@@ -110,15 +110,15 @@
 	</definition>
 	<definition>
 		<key>page_builder_error_storage_permissions</key>
-		<value><![CDATA[PageBuilder-feil: Directory %s eksisterer ikke eller kan ikke skrives. Vennligst sjekk tillatelser!]]></value>
+		<value><![CDATA[PageBuilder-feil: Katalogen %s finnes ikke eller er ikke skrivbar. Vennligst sjekk tillatelser!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_preset_permissions</key>
-		<value><![CDATA[Kan ikke slette forhåndsinnstilling! Vennligst sjekk tillatelsene til filen %s]]></value>
+		<value><![CDATA[Kunne ikke slette forhåndsinnstillingen! Vennligst sjekk tillatelsene for fil %s]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_empty_preset_name</key>
-		<value><![CDATA[Forhåndsinnstilt navn er tomt!]]></value>
+		<value><![CDATA[Presetnavnet er tomt!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_route_not_found</key>
@@ -130,19 +130,19 @@
 	</definition>
 	<definition>
 		<key>page_builder_error_remove_page</key>
-		<value><![CDATA[Kan ikke slette egendefinert side! Vennligst sjekk tillatelsene til filen %s]]></value>
+		<value><![CDATA[Kan ikke slette egendefinert side! Vennligst sjekk tillatelsene til fil %s]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_cannot_copy</key>
-		<value><![CDATA[Kan ikke kopiere filen %s.json til %s! Vennligst sjekk tillatelser eller eksisterende av målet]]></value>
+		<value><![CDATA[Kan ikke kopiere fil %s.json til %s! Vennligst sjekk tillatelser eller om målet eksisterer]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_nothing_to_publish</key>
-		<value><![CDATA[Ingenting å publisere. Ingen lagringspoeng funnet.]]></value>
+		<value><![CDATA[Ingenting å publisere. Ingen lagringspunkter funnet.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_cannot_undo</key>
-		<value><![CDATA[Tilbakeføring er ikke tilgjengelig. Lagringspunktet ble ikke funnet]]></value>
+		<value><![CDATA[Rollback er ikke tilgjengelig. Lagrepunkt ikke funnet.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_cannot_save</key>
@@ -150,7 +150,7 @@
 	</definition>
 	<definition>
 		<key>page_builder_tab_title</key>
-		<value><![CDATA[For å begynne å bygge en side, lag layout først.]]></value>
+		<value><![CDATA[For å begynne å bygge en side, vennligst opprett oppsettet først.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_already_published</key>
@@ -158,7 +158,7 @@
 	</definition>
 	<definition>
 		<key>page_builder_text_can_try</key>
-		<value><![CDATA[...eller denne siden kan tilpasses med Page Builder.]]></value>
+		<value><![CDATA[…eller denne siden kan tilpasses med Page Builder.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_click_to_edit_page</key>

@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[felhasználók]]></value>
+		<value><![CDATA[Felhasználók]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_details</key>
-		<value><![CDATA[Edit Profile Részletek]]></value>
+		<value><![CDATA[Profiladatok szerkesztése]]></value>
 	</definition>
 	<definition>
 		<key>text_user</key>
-		<value><![CDATA[használó]]></value>
+		<value><![CDATA[Felhasználó]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Van módosított felhasználók számára!]]></value>
+		<value><![CDATA[Siker: Ön módosította a felhasználókat!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_details</key>
-		<value><![CDATA[Siker: Módosította a profiljára!]]></value>
+		<value><![CDATA[Siker: Ön módosította a profilját!]]></value>
 	</definition>
 	<definition>
 		<key>column_username</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[dátum hozzáadva]]></value>
+		<value><![CDATA[Hozzáadás dátuma]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akció]]></value>
+		<value><![CDATA[Művelet]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>entry_confirm</key>
-		<value><![CDATA[Jóváhagy:]]></value>
+		<value><![CDATA[Megerősítés:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>entry_user_group</key>
@@ -82,19 +82,19 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítani felhasználók számára!]]></value>
+		<value><![CDATA[Figyelem: Nincs jogosultsága a felhasználók módosításához!]]></value>
 	</definition>
 	<definition>
 		<key>error_account</key>
-		<value><![CDATA[Figyelmeztetés: Nem lehet törölni a saját számla!]]></value>
+		<value><![CDATA[Figyelmeztetés: Nem törölheti a saját fiókját!]]></value>
 	</definition>
 	<definition>
 		<key>error_username</key>
-		<value><![CDATA[Felhasználó hossza 2 és 20 karakter!]]></value>
+		<value><![CDATA[A felhasználónévnek 2 és 20 karakter között kell lennie, és egyedinek kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Jelszó nem lehet több, mint 3 karakter!]]></value>
+		<value><![CDATA[A jelszónak több mint 3 karakterből kell állnia!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
@@ -102,23 +102,23 @@
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Utónév között kell lennie a 2. és 32 karakter!]]></value>
+		<value><![CDATA[A keresztnévnek 2 és 32 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Vezetéknév között kell lennie a 2. és 32 karakter!]]></value>
+		<value><![CDATA[A vezetéknévnek 2 és 32 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail cím nem tűnik érvényesnek!]]></value>
+		<value><![CDATA[Az e-mail cím nem tűnik érvényesnek!]]></value>
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Az emberi ellenőrzés sikertelen!]]></value>
+		<value><![CDATA[Emberi ellenőrzés sikertelen!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_group</key>
-		<value><![CDATA[Ön nincs jogosultsága változtatni felhasználói csoportot.]]></value>
+		<value><![CDATA[Önnek nincs jogosultsága a felhasználói csoport módosításához.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
@@ -126,11 +126,11 @@
 	</definition>
 	<definition>
 		<key>entry_im_email</key>
-		<value><![CDATA[E-Mail: <span class="help">Egy vagy több vesszővel elválasztott e-mail címek</span>]]></value>
+		<value><![CDATA[E-Mail:<span class="help">Egy vagy több, vesszővel elválasztott e-mail cím</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_im_sms</key>
-		<value><![CDATA[Mobiltelefon: <span class="help">Telefon nemzetközi formátumban. volt. +14566887777</span>]]></value>
+		<value><![CDATA[Mobiltelefon:<span class="help">Telefonszám nemzetközi formátumban. pl. +14566887777</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_im</key>
@@ -142,6 +142,6 @@
 	</definition>
 	<definition>
 		<key>text_change_im_addresses</key>
-		<value><![CDATA[Szerkesztés értesítési címek erre SendPoint]]></value>
+		<value><![CDATA[Értesítési címek szerkesztése ehhez a SendPointhoz]]></value>
 	</definition>
 </definitions>

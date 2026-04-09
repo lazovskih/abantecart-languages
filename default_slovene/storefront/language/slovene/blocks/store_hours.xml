@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>sunday</key>
-		<value><![CDATA[nedelja]]></value>
+		<value><![CDATA[Nedelja]]></value>
 	</definition>
 	<definition>
 		<key>monday</key>
-		<value><![CDATA[ponedeljek]]></value>
+		<value><![CDATA[Ponedeljek]]></value>
 	</definition>
 	<definition>
 		<key>tuesday</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>thursday</key>
-		<value><![CDATA[četrtek]]></value>
+		<value><![CDATA[Četrtek]]></value>
 	</definition>
 	<definition>
 		<key>friday</key>
-		<value><![CDATA[Petek]]></value>
+		<value><![CDATA[petek]]></value>
 	</definition>
 	<definition>
 		<key>saturday</key>

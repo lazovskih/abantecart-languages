@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[הגירת סל]]></value>
+		<value><![CDATA[הגירת עגלה]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_step_one</key>
@@ -18,35 +18,35 @@
 	</definition>
 	<definition>
 		<key>text_description</key>
-		<value><![CDATA[כלי הגירה מאפשרים לך לייבא נתונים מעגלות אחרות. <br/> הערה: יבוא תמיכה AbanteCart עבור MySQL רק לעת עתה. <br/> לחץ על כפתור התחל העברה להמשיך ...]]></value>
+		<value><![CDATA[כלי ההגירה מאפשר לך לייבא נתונים מעגלות קניות אחרות.<br>הערה: אבאנטקארט תומכת בייבוא עבור מיי-אס-קיו-אל בלבד לעת עתה.<br> לחץ על כפתור "התחל הגירה" כדי להמשיך...]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: אתה נתונים בהצלחה transfeerd כדי Abantecart!]]></value>
+		<value><![CDATA[הצלחה: הנתונים שלך הועברו בהצלחה ל-AbanteCart!]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_info</key>
-		<value><![CDATA[<span class="help">פרטי יישום עגלת קניות</span> עגלת מקור מידע <span class="help">המקור.</span>]]></value>
+		<value><![CDATA[מידע על עגלת המקור<span class="help">פרטים על יישום עגלת הקניות המקורית.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_db_info</key>
-		<value><![CDATA[<span class="help">הערה</span> מסד <span class="help">מידע: יבוא תמיכה AbanteCart עבור MySQL רק לעת עתה.</span>]]></value>
+		<value><![CDATA[מידע על מסד נתונים<span class="help">הערה: AbanteCart תומך בייבוא עבור MySQL בלבד לעת עתה.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_type</key>
-		<value><![CDATA[סוג עגלת מקור:]]></value>
+		<value><![CDATA[סוג עגלת המקור:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_url</key>
-		<value><![CDATA[כתובת האתר עגלת מקור:]]></value>
+		<value><![CDATA[כתובת ה-URL של עגלת המקור:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_host</key>
-		<value><![CDATA[מארח מסד נתונים:]]></value>
+		<value><![CDATA[מארח מסד הנתונים:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_user</key>
-		<value><![CDATA[Database משתמש:]]></value>
+		<value><![CDATA[משתמש מסד נתונים:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_password</key>
@@ -54,23 +54,23 @@
 	</definition>
 	<definition>
 		<key>entry_db_name</key>
-		<value><![CDATA[שם בסיס הנתונים:]]></value>
+		<value><![CDATA[שם מסד נתונים:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_prefix</key>
-		<value><![CDATA[קידומת מסד נתונים:]]></value>
+		<value><![CDATA[קידומת מסד הנתונים:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_select</key>
-		<value><![CDATA[- סוג העגלה בחר -]]></value>
+		<value><![CDATA[- בחר סוג עגלה -]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_osc</key>
-		<value><![CDATA[osCommerce 2.2RC2]]></value>
+		<value><![CDATA[אוסקומרס 2.2RC2]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_oscmax</key>
-		<value><![CDATA[OscMAX]]></value>
+		<value><![CDATA[אוסקמקס]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_zen</key>
@@ -78,15 +78,15 @@
 	</definition>
 	<definition>
 		<key>entry_cart_cre</key>
-		<value><![CDATA[Cre טעון 6.4.1 STD]]></value>
+		<value><![CDATA[CRE Loaded 6.4.1 סטנדרט]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_opencart</key>
-		<value><![CDATA[OpenCart 1.4.9]]></value>
+		<value><![CDATA[אופנקרט 1.4.9]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data</key>
-		<value><![CDATA[נתונים נבחרים להגר]]></value>
+		<value><![CDATA[בחר נתונים להגירה]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_categories</key>
@@ -106,15 +106,15 @@
 	</definition>
 	<definition>
 		<key>entry_erase_existing_data</key>
-		<value><![CDATA[מחק את כל הנתונים הקיימים?]]></value>
+		<value><![CDATA[למחוק את הנתונים הקיימים?]]></value>
 	</definition>
 	<definition>
 		<key>button_start_migration</key>
-		<value><![CDATA[התחל גירה]]></value>
+		<value><![CDATA[התחל העברה]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[לְהַמשִׁיך]]></value>
+		<value><![CDATA[המשך]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
@@ -122,74 +122,74 @@
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[לְבַטֵל]]></value>
+		<value><![CDATA[בטל]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לביצוע הגירה!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לבצע הגירה!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_host</key>
-		<value><![CDATA[מארח נדרש!]]></value>
+		<value><![CDATA[נדרש מארח!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_user</key>
-		<value><![CDATA[המשתמש נדרש!]]></value>
+		<value><![CDATA[משתמש נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_name</key>
-		<value><![CDATA[שם מסד נתונים חובה!]]></value>
+		<value><![CDATA[שם מסד הנתונים נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_connection</key>
-		<value><![CDATA[שגיאה: לא ניתן להתחבר למסד הנתונים מוודאים שרת מסד הנתונים, את שם המשתמש והסיסמה נכון!]]></value>
+		<value><![CDATA[שגיאה: לא ניתן להתחבר למסד הנתונים. אנא וודא ששרת מסד הנתונים, שם המשתמש והסיסמה נכונים!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_not_exist</key>
-		<value><![CDATA[שגיאה: מסד נתונים אינו קיים!]]></value>
+		<value><![CDATA[שגיאה: מסד הנתונים לא קיים!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_type</key>
-		<value><![CDATA[שגיאה: אנא בחר סוג בעגלה!]]></value>
+		<value><![CDATA[שגיאה: אנא בחר סוג העגלה!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_url</key>
-		<value><![CDATA[שגיאה: כתובת אתר עגלת חובה!]]></value>
+		<value><![CDATA[שגיאה: נדרש URL של העגלה!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_not_supported</key>
-		<value><![CDATA[אזהרה: עגלת הנבחרות שלי לא נתמך כעת!]]></value>
+		<value><![CDATA[אזהרה: עגלת הקניות שנבחרה אינה נתמכת כעת!]]></value>
 	</definition>
 	<definition>
 		<key>error_migrate_data</key>
-		<value><![CDATA[שגיאה: בחר לפחות פריט אחד!]]></value>
+		<value><![CDATA[שגיאה: אנא בחר לפחות פריט אחד!]]></value>
 	</definition>
 	<definition>
 		<key>text_no_customers</key>
-		<value><![CDATA[הערה: אין לקוח אחד יובא.]]></value>
+		<value><![CDATA[הערה: לא יובא אף לקוח.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_products</key>
-		<value><![CDATA[הערה: אין מוצר אחד יובא.]]></value>
+		<value><![CDATA[הערה: לא יובא אף מוצר.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_orders</key>
-		<value><![CDATA[הערה: אין צו אחד יובא.]]></value>
+		<value><![CDATA[הערה: לא יובאה אף הזמנה.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_brands</key>
-		<value><![CDATA[הערה: אין מותג אחד יובא.]]></value>
+		<value><![CDATA[הערה: לא יובא אף מותג.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_categories</key>
-		<value><![CDATA[הערה: אין קטגורית מוצר אחד יובאה.]]></value>
+		<value><![CDATA[הערה: אף קטגוריית מוצרים לא יובאה.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_source_cart</key>
-		<value><![CDATA[אזהרה: עגלת מקור הנבחרת שלי ריק! אנא קרא מסד וקידומת שולחן.]]></value>
+		<value><![CDATA[אזהרה: עגלת המקור שנבחרה ריקה! נא בדוק את מסד הנתונים ואת קידומת הטבלה.]]></value>
 	</definition>
 	<definition>
 		<key>text_finished</key>
-		<value><![CDATA[הגירה סיימה.]]></value>
+		<value><![CDATA[ההגירה הסתיימה.]]></value>
 	</definition>
 </definitions>

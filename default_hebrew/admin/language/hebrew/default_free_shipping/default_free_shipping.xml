@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[מִשׁלוֹחַ]]></value>
+		<value><![CDATA[משלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית משלוח חינם!]]></value>
+		<value><![CDATA[בוצע בהצלחה: עדכנת את המשלוח החינמי!]]></value>
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id</key>
-		<value><![CDATA[מִקוּם:]]></value>
+		<value><![CDATA[מיקום:]]></value>
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id_0</key>

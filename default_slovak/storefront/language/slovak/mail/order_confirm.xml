@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
@@ -6,23 +6,23 @@
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[Ďakujeme vám za váš záujem o produkty %s. Vaša objednávka bola prijatá a bude spracovaná po tom, čo platba potvrdená.]]></value>
+		<value><![CDATA[Ďakujeme za váš záujem o produkty %s. Vaša objednávka bola prijatá a bude spracovaná po potvrdení platby.]]></value>
 	</definition>
 	<definition>
 		<key>text_received</key>
-		<value><![CDATA[Dostali ste objednávku.]]></value>
+		<value><![CDATA[Obdržali ste objednávku.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_detail</key>
-		<value><![CDATA[Detaily objednávky]]></value>
+		<value><![CDATA[Podrobnosti objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[Číslo objednávky:]]></value>
+		<value><![CDATA[ID objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Dátum Objednané:]]></value>
+		<value><![CDATA[Dátum objednania:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Ak chcete zobraziť objednávky, kliknite na odkaz nižšie:]]></value>
+		<value><![CDATA[Ak chcete zobraziť vašu objednávku, kliknite na odkaz nižšie:]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
@@ -42,19 +42,19 @@
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[poštová adresa]]></value>
+		<value><![CDATA[Dodacia adresa]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[platobná adresa]]></value>
+		<value><![CDATA[Fakturačná adresa]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[e-mail:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>text_telephone</key>
-		<value><![CDATA[telefón:]]></value>
+		<value><![CDATA[Telefón:]]></value>
 	</definition>
 	<definition>
 		<key>text_mobile_phone</key>
@@ -74,23 +74,23 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[súčty:]]></value>
+		<value><![CDATA[Celkom:]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Akonáhle bude vaša platba bola potvrdená môžete kliknúť na nasledujúci odkaz pre prístup k softvéru na prevzatie:]]></value>
+		<value><![CDATA[Keď bude vaša platba potvrdená, môžete kliknúť na odkaz nižšie a získať prístup k vašim stiahnuteľným produktom:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[Pripomienky k vašej objednávke sú nasledovné:]]></value>
+		<value><![CDATA[Komentáre k vašej objednávke sú:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Prosím, odpovedzte na tento e-mail, ak máte nejaké otázky.]]></value>
+		<value><![CDATA[Prosím, odpovedzte na tento e-mail, ak máte akékoľvek otázky.]]></value>
 	</definition>
 	<definition>
 		<key>text_powered_by</key>
-		<value><![CDATA[poháňaný]]></value>
+		<value><![CDATA[poháňané]]></value>
 	</definition>
 	<definition>
 		<key>text_new_order</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_new_order_text</key>
-		<value><![CDATA[Zákazník %s pridaný nový poriadok]]></value>
+		<value><![CDATA[Zákazník %s pridal novú objednávku]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
-		<value><![CDATA[produkt]]></value>
+		<value><![CDATA[Produkt]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
@@ -110,14 +110,14 @@
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[množstvo]]></value>
+		<value><![CDATA[Množstvo]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
-		<value><![CDATA[cena]]></value>
+		<value><![CDATA[Cena]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[celkom]]></value>
+		<value><![CDATA[Spolu]]></value>
 	</definition>
 </definitions>

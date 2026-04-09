@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,6 +6,6 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Niste prijavljeni. Ti bodo preusmerjeni na strani za prijavo]]></value>
+		<value><![CDATA[Niste prijavljeni. Preusmerjeni boste na stran za prijavo. Če se težava še vedno pojavlja, poskusite počistiti piškotke. Vendar pa mora biti vaša stran odprta v varnem načinu (https).]]></value>
 	</definition>
 </definitions>

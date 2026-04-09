@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[לוּחַ מַחווָנִים]]></value>
+		<value><![CDATA[לוח מחוונים]]></value>
 	</definition>
 	<definition>
 		<key>text_overview</key>
@@ -10,27 +10,27 @@
 	</definition>
 	<definition>
 		<key>text_statistics</key>
-		<value><![CDATA[סטָטִיסטִיקָה]]></value>
+		<value><![CDATA[סטטיסטיקה]]></value>
 	</definition>
 	<definition>
 		<key>text_latest_10_orders</key>
-		<value><![CDATA[10 הזמנות אחרונות]]></value>
+		<value><![CDATA[10 ההזמנות האחרונות]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale</key>
-		<value><![CDATA[סך מכירות:]]></value>
+		<value><![CDATA[סך המכירות:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale_year</key>
-		<value><![CDATA[מכירות סה&quot;כ שנה:]]></value>
+		<value><![CDATA[סה"כ המכירות השנה:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
-		<value><![CDATA[סה&quot;כ הזמנות:]]></value>
+		<value><![CDATA[סה"כ הזמנות:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_customer</key>
-		<value><![CDATA[מס &#39;לקוחות:]]></value>
+		<value><![CDATA[מספר הלקוחות:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_customer_approval</key>
@@ -38,15 +38,15 @@
 	</definition>
 	<definition>
 		<key>text_total_product</key>
-		<value><![CDATA[מוצרי מס:]]></value>
+		<value><![CDATA[מס' מוצרים:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_review</key>
-		<value><![CDATA[מס &#39;ביקורות:]]></value>
+		<value><![CDATA[מספר ביקורות:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_review_approval</key>
-		<value><![CDATA[ביקורות הממתינות לאישור:]]></value>
+		<value><![CDATA[ביקורות ממתינות לאישור:]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -62,19 +62,19 @@
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[השנה]]></value>
+		<value><![CDATA[השנה הזו]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[סה&quot;כ הזמנות]]></value>
+		<value><![CDATA[סך ההזמנות]]></value>
 	</definition>
 	<definition>
 		<key>text_order_short</key>
-		<value><![CDATA[סה&quot;כ הזמנות]]></value>
+		<value><![CDATA[סך כל ההזמנות]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[סה&quot;כ לקוחות]]></value>
+		<value><![CDATA[סה"כ לקוחות]]></value>
 	</definition>
 	<definition>
 		<key>column_order</key>
@@ -82,19 +82,19 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם לקוח]]></value>
+		<value><![CDATA[שם הלקוח]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[תאריך הוסף]]></value>
+		<value><![CDATA[תאריך הוספה]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[סה&quot;כ]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 	<definition>
 		<key>column_firstname</key>
@@ -110,7 +110,7 @@
 	</definition>
 	<definition>
 		<key>entry_range</key>
-		<value><![CDATA[טווח בחר:]]></value>
+		<value><![CDATA[בחר טווח:]]></value>
 	</definition>
 	<definition>
 		<key>orders_text_all</key>
@@ -122,10 +122,10 @@
 	</definition>
 	<definition>
 		<key>text_latest_10_customers</key>
-		<value><![CDATA[אחרון רישומים]]></value>
+		<value><![CDATA[הרשמות אחרונות]]></value>
 	</definition>
 	<definition>
 		<key>column_email</key>
-		<value><![CDATA[אֶלֶקטרוֹנִי]]></value>
+		<value><![CDATA[דוא"ל]]></value>
 	</definition>
 </definitions>

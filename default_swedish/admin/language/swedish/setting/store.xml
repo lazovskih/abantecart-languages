@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[lagra Detaljer]]></value>
+		<value><![CDATA[Butiksdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrade inställningar!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat inställningarna!]]></value>
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[Image manager]]></value>
+		<value><![CDATA[Bildhanterare]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
@@ -18,19 +18,19 @@
 	</definition>
 	<definition>
 		<key>text_edit_store</key>
-		<value><![CDATA[Redigera Store:]]></value>
+		<value><![CDATA[Redigera butik:]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Store Namn: <br/><span class="help">Kopierat till inställningar och visas på ett skyltfönster sektion.</span>]]></value>
+		<value><![CDATA[Butiksnamn:<br /><span class="help">Kopieras till inställningarna och visas i ett avsnitt på butikssidan.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_url</key>
-		<value><![CDATA[Butiks URL: <br/><span class="help">Ta den fullständiga webbadressen till din butik. Se till att lägga till &quot;/&quot; i slutet. Exempel: http://www.yourdomain.com/path/ <br/><br/> Använd inte kataloger för att skapa en ny butik. Du bör alltid peka annan domän eller subdomän till ditt webbhotell.</span>]]></value>
+		<value><![CDATA[Store URL:<br /><span class="help">Ange den fullständiga URL:en till din butik. Se till att lägga till '/' i slutet. Exempel: http://www.yourdomain.com/path/<br /><br />Använd inte kataloger för att skapa en ny butik. Du bör alltid peka en annan domän eller subdomän till ditt webbhotell.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_ssl</key>
-		<value><![CDATA[Använd SSL: <br/><span class="help">Om du vill använda SSL check med din värd om en SSL-certifikat har installerats.</span>]]></value>
+		<value><![CDATA[Använd SSL:<br /><span class="help">För att använda SSL, kontrollera med din värd att ett SSL-certifikat är installerat.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Meta Tag Beskrivning:]]></value>
+		<value><![CDATA[Meta-taggbeskrivning:]]></value>
 	</definition>
 	<definition>
 		<key>entry_template</key>
@@ -62,23 +62,27 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Store Status <br/><span class="help">Store status i ett skyltfönster. Status OFF direkt till standard butik. Använd underhållsläge inställning för att ställa in tillfälligt lagra underhållsmeddelande</span>]]></value>
+		<value><![CDATA[Butiksstatus<br /><span class="help">Butiksstatus i en butiksfront. Status AV kommer att omdirigera till standardbutiken. Använd inställningen Underhållsläge för att ange ett tillfälligt underhållsmeddelande för butiken.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_alias</key>
-		<value><![CDATA[Namn Alias <br/><span class="help">Store Namn Alias. Om den lämnas tom, kommer att baseras på förkortad namn</span>]]></value>
+		<value><![CDATA[Namnalias<br /><span class="help">Alias för butiksnamn. Om det lämnas tomt kommer det att baseras på det förkortade namnet.</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_status</key>
+		<value><![CDATA[Butiksstatus<br /><span class="help">Butiksstatus i butiksfronten. Status AV leder till standardbutiken. Använd inställningen Underhållsläge för att ange ett tillfälligt meddelande om underhåll av butiken</span>]]></value>
 	</definition>
 	<definition>
 		<key>button_add_store</key>
-		<value><![CDATA[nytt Butiks]]></value>
+		<value><![CDATA[Ny butik]]></value>
 	</definition>
 	<definition>
 		<key>button_delete_store</key>
-		<value><![CDATA[Radera Lagra]]></value>
+		<value><![CDATA[Ta bort butik]]></value>
 	</definition>
 	<definition>
 		<key>button_edit_settings</key>
-		<value><![CDATA[Ändra inställningar]]></value>
+		<value><![CDATA[Redigera inställningar]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -90,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>error_url</key>
-		<value><![CDATA[Store URL krävs!]]></value>
+		<value><![CDATA[Butiks-URL krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_title</key>
@@ -98,55 +102,55 @@
 	</definition>
 	<definition>
 		<key>error_image_thumb</key>
-		<value><![CDATA[Produktbild Thumb storlek dimensioner krävs!]]></value>
+		<value><![CDATA[Mått för produktbildens miniatyrbildsstorlek krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_image_popup</key>
-		<value><![CDATA[Produktbild Popup Storleks dimensioner krävs!]]></value>
+		<value><![CDATA[Dimensioner för popupstorlek på produktbild krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_image_category</key>
-		<value><![CDATA[Kategorilista Storleks dimensioner krävs!]]></value>
+		<value><![CDATA[Kategorilistans mått krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_image_product</key>
-		<value><![CDATA[Produktlista Storleks dimensioner krävs!]]></value>
+		<value><![CDATA[Storleksmått för produktlista krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_image_additional</key>
-		<value><![CDATA[Ytterligare produktBildStorlek dimensioner krävs!]]></value>
+		<value><![CDATA[Ytterligare dimensioner för produktbildsstorlek krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_image_related</key>
-		<value><![CDATA[Relaterade produkter Bildstorlek dimensioner krävs!]]></value>
+		<value><![CDATA[Storleksdimensioner för relaterad produktbild krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_image_cart</key>
-		<value><![CDATA[Kundvagn Bildstorlek dimensioner krävs!]]></value>
+		<value><![CDATA[Bilddimensioner för varukorg krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_image_grid</key>
-		<value><![CDATA[Grid Bildstorlek dimensioner krävs!]]></value>
+		<value><![CDATA[Dimensioner för rutnätsbilden krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Varning: Denna butik kan inte tas bort eftersom det för närvarande är tilldelad %s order!]]></value>
+		<value><![CDATA[Varning: Denna butik kan inte raderas eftersom den för närvarande är tilldelad %s beställningar!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_data</key>
-		<value><![CDATA[Begärda uppgifterna har inte angetts. Kontrollera om fält fel!]]></value>
+		<value><![CDATA[Obligatoriska uppgifter har inte fyllts i. Kontrollera fältfel!]]></value>
 	</definition>
 	<definition>
 		<key>error_limit</key>
-		<value><![CDATA[Gräns ​​krävs!]]></value>
+		<value><![CDATA[Gräns krävs!]]></value>
 	</definition>
 	<definition>
 		<key>entry_clone_store</key>
-		<value><![CDATA[Kopiera inställningar: <br/><span class="help">Du kan välja kopia av alla inställningar från någon befintlig butik</span>]]></value>
+		<value><![CDATA[Kopiera inställningar:<br/><span class="help">Du kan välja en kopia av alla inställningar från någon befintlig butik</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_ssl_url</key>
-		<value><![CDATA[Säker butik URL: <br/><span class="help">Inkludera hela SSL URL (HTTPS) till din butik. Se till att lägga till &quot;/&quot; i slutet. Exempel: https://www.yourdomain.com/path/</span>]]></value>
+		<value><![CDATA[Säker butik-URL:<br /><span class="help">Ange hela SSL-URL:en (HTTPS) till din butik. Se till att lägga till '/' i slutet. Exempel: https://www.yourdomain.com/path/</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_ssl_url</key>

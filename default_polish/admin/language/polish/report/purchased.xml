@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Produkty zakupione Zgłoś]]></value>
+		<value><![CDATA[Raport zakupionych produktów]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -18,6 +18,6 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Całkowity]]></value>
+		<value><![CDATA[Razem]]></value>
 	</definition>
 </definitions>

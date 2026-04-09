@@ -6,55 +6,55 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Pošiljanje]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste pošiljanje Parcelforce 48!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste dostavo Parcelforce 48!]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_rate</key>
-		<value><![CDATA[Cene paketa Parcelforce 48: <br/><span class="help">Primer: 0:0,10:15.99,12:19.99, - Uteži, ki so manjše od ali enake 10 funtom, bi stale 15,99 USD, Uteži, ki tehtajo manj kot 12 funtov, vendar več kot 10 funtov, bodo stale 19,99 USD. Kjer je funt vaš razred teže trgovine, $ pa osnovna valuta trgovine. Oboje lahko spremenite v nastavitvah trgovine. Ne vnašajte KG ali drugih simbolov. Vnesite vrednosti do 5,2 decimalnih mest. (12345,67)</span>]]></value>
+		<value><![CDATA[Tarife Parcelforce 48:<br /><span class="help">Primer: 0:0,10:15.99,12:19.99 – Teže do 10 funtov vključno stanejo $15.99, teže manjše od 12 funtov, a večje od 10 funtov pa $19.99. Funt je vaš razred teže v trgovini, $ pa osnovna valuta trgovine. Oba lahko spremenite v nastavitvah trgovine. Ne vnašajte KG ali drugih simbolov. Vnesite vrednosti do 5,2 decimalnih mest. (12345.67)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_weight</key>
-		<value><![CDATA[Prikaži težo dostave: <br/><span class="help">Ali želite prikazati težo pošiljke? (npr. teža dostave: 2,7674 kg)</span>]]></value>
+		<value><![CDATA[Prikaži težo dostave:<br /><span class="help">Želite prikazati težo dostave? (npr. Teža dostave : 2.7674 Kg's)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_weight_1</key>
-		<value><![CDATA[ja]]></value>
+		<value><![CDATA[Da]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_weight_0</key>
-		<value><![CDATA[št]]></value>
+		<value><![CDATA[Ne]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_insurance</key>
-		<value><![CDATA[Prikaži zavarovanje: <br/><span class="help">Ali želite prikazati zavarovanje pošiljanja? (npr. zavarovan do 500)</span>]]></value>
+		<value><![CDATA[Prikaži zavarovanje pošiljke:<br /><span class="help">Želite prikazati zavarovanje pošiljke? (npr. Zavarovano do 500)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_insurance_1</key>
-		<value><![CDATA[ja]]></value>
+		<value><![CDATA[Da]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_insurance_0</key>
-		<value><![CDATA[št]]></value>
+		<value><![CDATA[Ne]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_time</key>
-		<value><![CDATA[Prikaz časa dostave: <br/><span class="help">Ali želite prikazati čas pošiljanja? (npr. pošiljanje v 3 do 5 dneh)</span>]]></value>
+		<value><![CDATA[Display Delivery Time:<br /><span class="help">Ali želite prikazati čas dostave? (npr. Dostava v 3 do 5 dneh)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_time_1</key>
-		<value><![CDATA[ja]]></value>
+		<value><![CDATA[Da]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_display_time_0</key>
-		<value><![CDATA[št]]></value>
+		<value><![CDATA[Ne]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_compensation</key>
-		<value><![CDATA[Stopnje odškodnine Parcelforce48: <br/><span class="help">Vnesite vrednosti do 5,2 decimalnih mest. (12345,67) Primer: 34:0,100:1,250:2,25 – Zavarovalno kritje za vrednosti vozička do 34 bi stalo 0,00 dodatka, tiste vrednosti nad 100 in do 250 pa stanejo 2,25 dodatka. Ne vnašajte simbolov valut.</span>]]></value>
+		<value><![CDATA[Parcelforce48 Stopnje odškodnin:<br /><span class="help">Vnesite vrednosti z največ 5,2 decimalnima mestoma. (12345.67) Primer: 34:0,100:1,250:2.25 - Zavarovalno kritje za vrednosti vozička do 34 bi stalo dodatnih 0,00, za vrednosti nad 100 in do 250 pa bi stalo dodatnih 2,25. Ne vnašajte simbolov valut.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_tax</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_tax_0</key>
-		<value><![CDATA[---Nič---]]></value>
+		<value><![CDATA[---Noben---]]></value>
 	</definition>
 	<definition>
 		<key>default_parcelforce_48_location_id</key>
@@ -74,6 +74,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje pošiljanja Parcelforce 48!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje dostave Parcelforce 48!]]></value>
 	</definition>
 </definitions>

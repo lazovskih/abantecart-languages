@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_enlarge</key>
-		<value><![CDATA[Kliknij, aby powiększyć]]></value>
+		<value><![CDATA[Kliknij obraz, aby powiększyć]]></value>
 	</definition>
 	<definition>
 		<key>text_zoom</key>
-		<value><![CDATA[Przesuń kursor na zdjęcie, aby powiększyć]]></value>
+		<value><![CDATA[Najedź kursorem na obraz, aby powiększyć]]></value>
+	</definition>
+	<definition>
+		<key>text_quantity_discount</key>
+		<value><![CDATA[Rabat ilościowy:]]></value>
 	</definition>
 	<definition>
 		<key>text_options</key>
@@ -14,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Nie znaleziono produktu!]]></value>
+		<value><![CDATA[Produkt nie został znaleziony!]]></value>
 	</definition>
 	<definition>
 		<key>text_price</key>
@@ -29,12 +33,20 @@
 		<value><![CDATA[Model:]]></value>
 	</definition>
 	<definition>
+		<key>text_sku</key>
+		<value><![CDATA[SKU:]]></value>
+	</definition>
+	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[Producent:]]></value>
+		<value><![CDATA[Marka:]]></value>
 	</definition>
 	<definition>
 		<key>text_instock</key>
-		<value><![CDATA[w magazynie]]></value>
+		<value><![CDATA[Na stanie]]></value>
+	</definition>
+	<definition>
+		<key>text_out_of_stock</key>
+		<value><![CDATA[Brak w magazynie]]></value>
 	</definition>
 	<definition>
 		<key>text_order_quantity</key>
@@ -46,11 +58,11 @@
 	</definition>
 	<definition>
 		<key>text_write</key>
-		<value><![CDATA[Napisać recenzję]]></value>
+		<value><![CDATA[Napisz recenzję]]></value>
 	</definition>
 	<definition>
 		<key>text_no_reviews</key>
-		<value><![CDATA[Brak opinii o tym produkcie.]]></value>
+		<value><![CDATA[Nie ma żadnych recenzji tego produktu.]]></value>
 	</definition>
 	<definition>
 		<key>text_average</key>
@@ -58,19 +70,19 @@
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 gwiazdek!]]></value>
+		<value><![CDATA[%s z 5 gwiazdek!]]></value>
 	</definition>
 	<definition>
 		<key>text_no_rating</key>
-		<value><![CDATA[Nie oceniony]]></value>
+		<value><![CDATA[Nie oceniono]]></value>
 	</definition>
 	<definition>
 		<key>text_no_images</key>
-		<value><![CDATA[Brak dodatkowych zdjęć produktu.]]></value>
+		<value><![CDATA[Nie ma dodatkowych zdjęć dla tego produktu.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_related</key>
-		<value><![CDATA[Nie ma pokrewnych produktów tego produktu.]]></value>
+		<value><![CDATA[Dla tego produktu nie ma żadnych powiązanych produktów.]]></value>
 	</definition>
 	<definition>
 		<key>text_qty</key>
@@ -78,11 +90,11 @@
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[<span style="color: #FF0000;">Uwaga:</span> Nie używaj kodu HTML w tekście.]]></value>
+		<value><![CDATA[Uwaga: Nie używaj HTML w tekście.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Dziękujemy za przesłaną ocenę. Został on przedłożony do zatwierdzenia webmastera.]]></value>
+		<value><![CDATA[Dziękujemy za Twoją recenzję. Została przesłana do webmastera w celu zatwierdzenia.]]></value>
 	</definition>
 	<definition>
 		<key>text_wait</key>
@@ -90,19 +102,19 @@
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Szukanie]]></value>
+		<value><![CDATA[Szukaj]]></value>
 	</definition>
 	<definition>
 		<key>text_tags</key>
-		<value><![CDATA[tagi:]]></value>
+		<value><![CDATA[Tagi:]]></value>
 	</definition>
 	<definition>
 		<key>text_minimum</key>
-		<value><![CDATA[(Ten produkt nie posiada minimalną ilość %s)]]></value>
+		<value><![CDATA[(Ten produkt ma minimalną ilość %s)]]></value>
 	</definition>
 	<definition>
 		<key>text_maximum</key>
-		<value><![CDATA[(Ten produkt ma limit ustawiony na %s elementu (-ów) na zamówienie)]]></value>
+		<value><![CDATA[(Ten produkt ma ustawiony limit %s sztuk na zamówienie)]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -110,7 +122,7 @@
 	</definition>
 	<definition>
 		<key>entry_review</key>
-		<value><![CDATA[Twoja opinia:]]></value>
+		<value><![CDATA[Twoja recenzja:]]></value>
 	</definition>
 	<definition>
 		<key>entry_rating</key>
@@ -126,7 +138,7 @@
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Wpisz kod w polu poniżej:]]></value>
+		<value><![CDATA[Wprowadź kod w poniższym polu:]]></value>
 	</definition>
 	<definition>
 		<key>tab_description</key>
@@ -141,32 +153,36 @@
 		<value><![CDATA[Opinie (%s)]]></value>
 	</definition>
 	<definition>
+		<key>tab_review_empty</key>
+		<value><![CDATA[Opinie]]></value>
+	</definition>
+	<definition>
 		<key>tab_related</key>
 		<value><![CDATA[Produkty powiązane]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Błąd: weryfikacja Nazwa musi mieć od 3 do 25 znaków!]]></value>
+		<value><![CDATA[Błąd: Nazwa recenzji musi mieć od 3 do 25 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Błąd: Tekst Recenzja musi wynosić od 25 do 1000 znaków!]]></value>
+		<value><![CDATA[Błąd: Tekst recenzji musi zawierać od 25 do 1000 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Błąd: Proszę wybrać recenzja!]]></value>
+		<value><![CDATA[Błąd: Proszę wybrać ocenę recenzji!]]></value>
 	</definition>
 	<definition>
 		<key>text_total_price</key>
-		<value><![CDATA[Łączna cena:]]></value>
+		<value><![CDATA[Cena całkowita:]]></value>
 	</definition>
 	<definition>
 		<key>text_login_view_price</key>
-		<value><![CDATA[Proszę się zalogować lub zarejestrować, aby zobaczyć cenę lub zamówić.]]></value>
+		<value><![CDATA[Zaloguj się lub zarejestruj, aby zobaczyć cenę lub złożyć zamówienie.]]></value>
 	</definition>
 	<definition>
 		<key>tab_downloads</key>
-		<value><![CDATA[pliki do pobrania]]></value>
+		<value><![CDATA[Pobrania]]></value>
 	</definition>
 	<definition>
 		<key>text_start_download</key>
@@ -174,27 +190,11 @@
 	</definition>
 	<definition>
 		<key>text_new_review</key>
-		<value><![CDATA[Zatwierdzenie ocena produktu jest w toku]]></value>
+		<value><![CDATA[Oczekuje zatwierdzenia recenzji produktu]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_review_approval</key>
-		<value><![CDATA[Opinia o ID produktu %s jest delegowany. Akcja zezwolenia jest wymagane! Kliknij aby zobaczyć #admin#rt=catalog/review/update&review_id=%s]]></value>
-	</definition>
-	<definition>
-		<key>text_quantity_discount</key>
-		<value><![CDATA[Rabat ilościowy:]]></value>
-	</definition>
-	<definition>
-		<key>text_sku</key>
-		<value><![CDATA[Numer katalogowy:]]></value>
-	</definition>
-	<definition>
-		<key>text_out_of_stock</key>
-		<value><![CDATA[Brak w magazynie]]></value>
-	</definition>
-	<definition>
-		<key>tab_review_empty</key>
-		<value><![CDATA[Recenzje]]></value>
+		<value><![CDATA[Recenzja produktu o identyfikatorze %s została opublikowana. Wymagane jest zatwierdzenie! Kliknij, aby zobaczyć #admin#rt=catalog/review/update&review_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>text_verified_review</key>
@@ -202,7 +202,7 @@
 	</definition>
 	<definition>
 		<key>percentage_review</key>
-		<value><![CDATA[kupujących poleciło tę usługę.]]></value>
+		<value><![CDATA[kupujących poleciło to.]]></value>
 	</definition>
 	<definition>
 		<key>feedback_customer_title</key>

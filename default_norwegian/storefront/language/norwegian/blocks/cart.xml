@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Handlevogn]]></value>
+		<value><![CDATA[Handlekurv]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
@@ -10,26 +10,26 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 varer]]></value>
+		<value><![CDATA[0 elementer]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Bekrefte?]]></value>
+		<value><![CDATA[Bekreft?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Fjerne]]></value>
+		<value><![CDATA[Fjern]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Se handlekurv]]></value>
+		<value><![CDATA[Vis handlekurv]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Sjekk ut]]></value>
+		<value><![CDATA[Kasse]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>
-		<value><![CDATA[elementer]]></value>
+		<value><![CDATA[Varer]]></value>
 	</definition>
 </definitions>

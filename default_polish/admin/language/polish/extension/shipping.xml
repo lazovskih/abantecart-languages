@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_install</key>
-		<value><![CDATA[zainstalować]]></value>
+		<value><![CDATA[Zainstaluj]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Sposób wysyłki]]></value>
+		<value><![CDATA[Metoda wysyłki]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[porządek sortowania]]></value>
+		<value><![CDATA[Kolejność sortowania]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>

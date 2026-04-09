@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_currency</key>
-		<value><![CDATA[מַטְבֵּעַ]]></value>
+		<value><![CDATA[מטבע]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך מטבעות שונות!]]></value>
+		<value><![CDATA[הצלחה: שינית את המטבעות!]]></value>
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[כותרת מטבע]]></value>
+		<value><![CDATA[שם המטבע]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -42,19 +42,19 @@
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[קוד: <br/><span class="help">אל תשנה אם זה מטבע ברירת המחדל שלך.</span>]]></value>
+		<value><![CDATA[קוד:<br /><span class="help">אל תשנה אם זה המטבע המוגדר כברירת מחדל שלך.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_value</key>
-		<value><![CDATA[ערך: <br/><span class="help">גדר 1.00000 אם זה מטבע ברירת המחדל שלך.</span>]]></value>
+		<value><![CDATA[ערך:<br /><span class="help">הגדר ל-1.00000 אם זה המטבע המוגדר כברירת מחדל.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_symbol_left</key>
-		<value><![CDATA[סמל שמאל:]]></value>
+		<value><![CDATA[סימול משמאל:]]></value>
 	</definition>
 	<definition>
 		<key>entry_symbol_right</key>
-		<value><![CDATA[Right סימול:]]></value>
+		<value><![CDATA[סמל מימין:]]></value>
 	</definition>
 	<definition>
 		<key>entry_decimal_place</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[סטָטוּס:]]></value>
+		<value><![CDATA[סטטוס:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -70,22 +70,22 @@
 	</definition>
 	<definition>
 		<key>error_title</key>
-		<value><![CDATA[כותרת המטבע חייבת להיות בין 2 ו -32 תווים!]]></value>
+		<value><![CDATA[כותרת המטבע חייבת להיות בין 2 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
-		<value><![CDATA[קוד המטבע חייב לכלול 3 תווים!]]></value>
+		<value><![CDATA[קוד המטבע חייב להכיל 3 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[אזהרה: מטבע זה לא ניתן למחוק כפי שהוא מוקצה כעת כמטבע חנות מחדל!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק מטבע זה כיוון שהוא משויך כעת כמטבע החנות המוגדר כברירת מחדל!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[אזהרה: מטבע זה לא ניתן למחוק כפי שהוא מוקצה כעת %s בחנויות!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק מטבע זה כיוון שהוא משויך כעת ל-%s חנויות!]]></value>
 	</definition>
 	<definition>
 		<key>error_order</key>
-		<value><![CDATA[אזהרה: מטבע זה לא ניתן למחוק כפי שהוא מוקצה כעת %s הזמנות!]]></value>
+		<value><![CDATA[אזהרה: מטבע זה לא ניתן למחוק מאחר שהוא כרגע משויך ל-%s הזמנות!]]></value>
 	</definition>
 </definitions>

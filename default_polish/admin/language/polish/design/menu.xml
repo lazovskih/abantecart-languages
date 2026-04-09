@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Masz menu zmodyfikowany!]]></value>
+		<value><![CDATA[Sukces: Zmodyfikowałeś menu!]]></value>
 	</definition>
 	<definition>
 		<key>entry_item_id</key>
@@ -22,15 +22,23 @@
 	</definition>
 	<definition>
 		<key>entry_item_url</key>
-		<value><![CDATA[Łącze <br/><span class="help">Dla zewnętrznych linków dodać http:// lub https:// na początku</span>]]></value>
+		<value><![CDATA[Link<br /><span class="help">Dla linków zewnętrznych dodaj na początku http:// lub https://. Możesz też użyć względnego adresu URL, na przykład ../subfolder/index.php</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_item_target</key>
+		<value><![CDATA[Cel<br/><span class="help">_self - otwiera powiązany dokument w tej samej ramce, w której go kliknięto.<br>_blank - otwiera powiązany dokument w nowym oknie lub karcie</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_parent_id</key>
-		<value><![CDATA[Roślina mateczna]]></value>
+		<value><![CDATA[Rodzic]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[porządek sortowania]]></value>
+		<value><![CDATA[Kolejność sortowania]]></value>
+	</definition>
+	<definition>
+		<key>entry_link_type</key>
+		<value><![CDATA[Typ linku]]></value>
 	</definition>
 	<definition>
 		<key>text_select_parent_id</key>
@@ -42,31 +50,23 @@
 	</definition>
 	<definition>
 		<key>error_non_unique</key>
-		<value><![CDATA[ID przedmiotu nie jedynym!]]></value>
+		<value><![CDATA[ID przedmiotu nie jest unikalny!]]></value>
 	</definition>
 	<definition>
 		<key>error_non_ascii</key>
-		<value><![CDATA[Tylko znaki alfanumeryczne pozwoliło na polu menu ID!]]></value>
-	</definition>
-	<definition>
-		<key>entry_link_type</key>
-		<value><![CDATA[Rodzaj link]]></value>
+		<value><![CDATA[W polu ID menu dozwolone są tylko znaki alfanumeryczne!]]></value>
 	</definition>
 	<definition>
 		<key>text_category_link_type</key>
-		<value><![CDATA[Kategoria strony]]></value>
+		<value><![CDATA[Strona kategorii]]></value>
 	</definition>
 	<definition>
 		<key>text_content_link_type</key>
-		<value><![CDATA[Zawartość strony]]></value>
+		<value><![CDATA[Strona treści]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_link_type</key>
-		<value><![CDATA[Niestandardowe link lub adres URL]]></value>
-	</definition>
-	<definition>
-		<key>entry_item_target</key>
-		<value><![CDATA[Cel <br/><span class="help">_self — otwiera połączony dokument w tej samej ramce, w której został kliknięty. <br/> _blank — otwiera połączony dokument w nowym oknie lub karcie</span>]]></value>
+		<value><![CDATA[Własny link lub adres URL]]></value>
 	</definition>
 	<definition>
 		<key>entry_include_children_items</key>

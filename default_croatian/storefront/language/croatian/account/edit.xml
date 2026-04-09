@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Informacije Moj račun]]></value>
+		<value><![CDATA[Informacije o mom računu]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_your_details</key>
-		<value><![CDATA[Vaši osobni podaci]]></value>
+		<value><![CDATA[Vaši osobni detalji]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Vaš korisnički račun je uspješno ažuriran.]]></value>
+		<value><![CDATA[Uspjeh: Vaš račun je uspješno ažuriran.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[E-mail:]]></value>
+		<value><![CDATA[E-pošta:]]></value>
 	</definition>
 	<definition>
 		<key>entry_telephone</key>
@@ -50,15 +50,15 @@
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Pogreška: E-mail adresa već registriran!]]></value>
+		<value><![CDATA[Pogreška: E-Mail adresa je već registrirana!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Korisničko ime mora biti samo i između 5 i 64 znakova alfanumerička!]]></value>
+		<value><![CDATA[Korisničko ime mora biti isključivo alfanumeričko i imati između 5 i 64 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Ovo ime za prijavu nije dostupan. Pokušaj drugi naziv za prijavu!]]></value>
+		<value><![CDATA[Ovo korisničko ime nije dostupno. Pokušajte s drugim korisničkim imenom!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
@@ -70,14 +70,14 @@
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail adresa nije važeća!]]></value>
+		<value><![CDATA[E-mail adresa ne izgleda valjano!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon mora biti između 3 i 32 znakova!]]></value>
+		<value><![CDATA[Telefon mora sadržavati između 3 i 32 numeričkih znakova!]]></value>
 	</definition>
 	<definition>
 		<key>loginname_update_required</key>
-		<value><![CDATA[Vaše ime za prijavu je isti kao i vaš e-mail. Da bi vaš račun zaštićen, molimo stvoriti novi jedinstveni naziv za prijavu]]></value>
+		<value><![CDATA[Vaše korisničko ime je isto kao i vaša e-pošta. Kako biste zaštitili svoj račun, molimo kreirajte novo jedinstveno korisničko ime.]]></value>
 	</definition>
 </definitions>

@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>date_format_short</key>
-		<value><![CDATA[d/m/Y]]></value>
+		<value><![CDATA[d.m.Y]]></value>
 	</definition>
 	<definition>
 		<key>date_format_long</key>
-		<value><![CDATA[l dS FY]]></value>
+		<value><![CDATA[l, j F Y]]></value>
 	</definition>
 	<definition>
 		<key>time_format</key>
-		<value><![CDATA[d/m/Y H:i:s]]></value>
+		<value><![CDATA[h:i:s]]></value>
 	</definition>
 	<definition>
 		<key>time_format_short</key>
-		<value><![CDATA[h:i:s A]]></value>
+		<value><![CDATA[H:i]]></value>
 	</definition>
 	<definition>
 		<key>decimal_point</key>
@@ -50,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>text_enabled</key>
-		<value><![CDATA[povoleno]]></value>
+		<value><![CDATA[Povoleno]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
-		<value><![CDATA[invalidní]]></value>
+		<value><![CDATA[Zakázáno]]></value>
 	</definition>
 	<definition>
 		<key>text_none</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>text_select</key>
-		<value><![CDATA[--- Prosím vyberte ---]]></value>
+		<value><![CDATA[--- Vyberte prosím ---]]></value>
 	</definition>
 	<definition>
 		<key>text_select_all</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_unselect_all</key>
-		<value><![CDATA[Odznačit vše]]></value>
+		<value><![CDATA[Zrušit vše]]></value>
 	</definition>
 	<definition>
 		<key>text_all_zones</key>
@@ -86,19 +86,19 @@
 	</definition>
 	<definition>
 		<key>text_pagination</key>
-		<value><![CDATA[Ukazující {start} na {end} {total} ({pages} Stránky)]]></value>
+		<value><![CDATA[Zobrazuji {start} to {end} of {total} ({pages} stránek)]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
-		<value><![CDATA[per Page]]></value>
+		<value><![CDATA[Na stránku]]></value>
 	</definition>
 	<definition>
 		<key>text_no_results</key>
-		<value><![CDATA[Žádný výsledek.]]></value>
+		<value><![CDATA[Nebyl nalezen žádný výsledek.]]></value>
 	</definition>
 	<definition>
 		<key>text_separator</key>
-		<value><![CDATA[&gt;]]></value>
+		<value><![CDATA[>]]></value>
 	</definition>
 	<definition>
 		<key>text_edit</key>
@@ -106,11 +106,11 @@
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Pohled]]></value>
+		<value><![CDATA[Zobrazit]]></value>
 	</definition>
 	<definition>
 		<key>text_home</key>
-		<value><![CDATA[domů]]></value>
+		<value><![CDATA[Domů]]></value>
 	</definition>
 	<definition>
 		<key>button_insert</key>
@@ -118,7 +118,7 @@
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Vymazat]]></value>
+		<value><![CDATA[Smazat]]></value>
 	</definition>
 	<definition>
 		<key>button_save</key>
@@ -126,19 +126,19 @@
 	</definition>
 	<definition>
 		<key>button_save_and_close</key>
-		<value><![CDATA[Save &amp; Close]]></value>
+		<value><![CDATA[Uložit & Zavřít]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[zrušení]]></value>
+		<value><![CDATA[Zrušit]]></value>
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[resetovat]]></value>
+		<value><![CDATA[Obnovit]]></value>
 	</definition>
 	<definition>
 		<key>button_reload</key>
-		<value><![CDATA[Znovu načíst]]></value>
+		<value><![CDATA[Obnovit]]></value>
 	</definition>
 	<definition>
 		<key>button_clear</key>
@@ -150,7 +150,7 @@
 	</definition>
 	<definition>
 		<key>button_upgrade</key>
-		<value><![CDATA[Vylepšit]]></value>
+		<value><![CDATA[Aktualizace]]></value>
 	</definition>
 	<definition>
 		<key>button_filter</key>
@@ -158,7 +158,7 @@
 	</definition>
 	<definition>
 		<key>button_send</key>
-		<value><![CDATA[Poslat]]></value>
+		<value><![CDATA[Odeslat]]></value>
 	</definition>
 	<definition>
 		<key>button_edit</key>
@@ -166,15 +166,15 @@
 	</definition>
 	<definition>
 		<key>button_copy</key>
-		<value><![CDATA[kopírovat]]></value>
+		<value><![CDATA[Kopírovat]]></value>
 	</definition>
 	<definition>
 		<key>button_agree</key>
-		<value><![CDATA[Souhlasit]]></value>
+		<value><![CDATA[Souhlasím]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
-		<value><![CDATA[Zadní]]></value>
+		<value><![CDATA[Zpět]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
@@ -186,7 +186,7 @@
 	</definition>
 	<definition>
 		<key>button_backup</key>
-		<value><![CDATA[Zálohování]]></value>
+		<value><![CDATA[Záloha]]></value>
 	</definition>
 	<definition>
 		<key>button_restore</key>
@@ -198,23 +198,23 @@
 	</definition>
 	<definition>
 		<key>button_invoices</key>
-		<value><![CDATA[tisk faktur]]></value>
+		<value><![CDATA[Tisk faktur]]></value>
 	</definition>
 	<definition>
 		<key>button_add_option</key>
-		<value><![CDATA[Přidat Option]]></value>
+		<value><![CDATA[Přidat možnost]]></value>
 	</definition>
 	<definition>
 		<key>button_add_option_value</key>
-		<value><![CDATA[Přidejte Volba Hodnota]]></value>
+		<value><![CDATA[Přidat hodnotu možnosti]]></value>
 	</definition>
 	<definition>
 		<key>button_add_discount</key>
-		<value><![CDATA[Přidat sleva]]></value>
+		<value><![CDATA[Přidat slevu]]></value>
 	</definition>
 	<definition>
 		<key>button_add_special</key>
-		<value><![CDATA[přidat speciální]]></value>
+		<value><![CDATA[Přidat speciální nabídku]]></value>
 	</definition>
 	<definition>
 		<key>button_add_image</key>
@@ -222,15 +222,15 @@
 	</definition>
 	<definition>
 		<key>button_add_location_zone</key>
-		<value><![CDATA[Přidat umístění zóny]]></value>
+		<value><![CDATA[Přidat zónu umístění]]></value>
 	</definition>
 	<definition>
 		<key>button_add_rate</key>
-		<value><![CDATA[Přidat sazba daně]]></value>
+		<value><![CDATA[Přidat daňovou sazbu]]></value>
 	</definition>
 	<definition>
 		<key>button_add_history</key>
-		<value><![CDATA[Přidejte Historie objednávek]]></value>
+		<value><![CDATA[Přidat historii objednávek]]></value>
 	</definition>
 	<definition>
 		<key>button_actas</key>
@@ -238,7 +238,7 @@
 	</definition>
 	<definition>
 		<key>button_message</key>
-		<value><![CDATA[Kontaktovat tohoto zákazníka]]></value>
+		<value><![CDATA[Kontaktujte tohoto zákazníka]]></value>
 	</definition>
 	<definition>
 		<key>button_approve</key>
@@ -246,27 +246,27 @@
 	</definition>
 	<definition>
 		<key>button_generate</key>
-		<value><![CDATA[generovat]]></value>
+		<value><![CDATA[Vygenerovat]]></value>
 	</definition>
 	<definition>
 		<key>tab_admin</key>
-		<value><![CDATA[admin]]></value>
+		<value><![CDATA[Administrátor]]></value>
 	</definition>
 	<definition>
 		<key>tab_data</key>
-		<value><![CDATA[Data]]></value>
+		<value><![CDATA[Údaje]]></value>
 	</definition>
 	<definition>
 		<key>tab_discount</key>
-		<value><![CDATA[slevy]]></value>
+		<value><![CDATA[Slevy]]></value>
 	</definition>
 	<definition>
 		<key>tab_details</key>
-		<value><![CDATA[Uložení Podrobnosti]]></value>
+		<value><![CDATA[Podrobnosti obchodu]]></value>
 	</definition>
 	<definition>
 		<key>tab_checkout</key>
-		<value><![CDATA[Překontrolovat]]></value>
+		<value><![CDATA[Pokladna]]></value>
 	</definition>
 	<definition>
 		<key>tab_appearance</key>
@@ -282,7 +282,7 @@
 	</definition>
 	<definition>
 		<key>tab_general</key>
-		<value><![CDATA[Všeobecné]]></value>
+		<value><![CDATA[Obecné]]></value>
 	</definition>
 	<definition>
 		<key>tab_image</key>
@@ -290,7 +290,7 @@
 	</definition>
 	<definition>
 		<key>tab_option</key>
-		<value><![CDATA[možnosti]]></value>
+		<value><![CDATA[Možnosti]]></value>
 	</definition>
 	<definition>
 		<key>tab_system</key>
@@ -302,7 +302,7 @@
 	</definition>
 	<definition>
 		<key>tab_special</key>
-		<value><![CDATA[Slevy]]></value>
+		<value><![CDATA[Akční nabídky]]></value>
 	</definition>
 	<definition>
 		<key>tab_local</key>
@@ -314,7 +314,7 @@
 	</definition>
 	<definition>
 		<key>tab_order</key>
-		<value><![CDATA[Podrobnosti o objednávce]]></value>
+		<value><![CDATA[Podrobnosti objednávky]]></value>
 	</definition>
 	<definition>
 		<key>tab_history</key>
@@ -322,15 +322,15 @@
 	</definition>
 	<definition>
 		<key>tab_product</key>
-		<value><![CDATA[produkty]]></value>
+		<value><![CDATA[Produkty]]></value>
 	</definition>
 	<definition>
 		<key>tab_shipping</key>
-		<value><![CDATA[doručovací adresa]]></value>
+		<value><![CDATA[Dodací adresa]]></value>
 	</definition>
 	<definition>
 		<key>tab_payment</key>
-		<value><![CDATA[platební adresa]]></value>
+		<value><![CDATA[Platební adresa]]></value>
 	</definition>
 	<definition>
 		<key>entry_discount</key>
@@ -342,23 +342,23 @@
 	</definition>
 	<definition>
 		<key>error_upload_1</key>
-		<value><![CDATA[Upozornění: nahraného souboru přesahuje upload_max_filesize v php.ini!]]></value>
+		<value><![CDATA[Varování: Nahraný soubor překračuje směrnici upload_max_filesize v php.ini!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_2</key>
-		<value><![CDATA[Upozornění: nahraného souboru přesahuje hodnotu MAX_FILE_SIZE, která byla zadána ve formě HTML!]]></value>
+		<value><![CDATA[Varování: Nahraný soubor překračuje směrnici MAX_FILE_SIZE, která byla specifikována v HTML formuláři!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_3</key>
-		<value><![CDATA[Výstraha: Nahraný soubor byl nahrán jen částečně!]]></value>
+		<value><![CDATA[Varování: Nahraný soubor byl pouze částečně nahrán!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_4</key>
-		<value><![CDATA[Upozornění: Žádný soubor byl nahrán!]]></value>
+		<value><![CDATA[Varování: Nebyl nahrán žádný soubor!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_6</key>
-		<value><![CDATA[Varování: Chybějící dočasné složky!]]></value>
+		<value><![CDATA[Varování: Chybí dočasná složka!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_7</key>
@@ -366,31 +366,31 @@
 	</definition>
 	<definition>
 		<key>error_upload_8</key>
-		<value><![CDATA[Upozornění: Nahrávání souboru zastaveno rozšířením!]]></value>
+		<value><![CDATA[Varování: Nahrávání souboru zastaveno kvůli příponě!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_999</key>
-		<value><![CDATA[Varování: Ne error code mě najdeš!]]></value>
+		<value><![CDATA[Varování: Není k dispozici žádný kód chyby!]]></value>
 	</definition>
 	<definition>
 		<key>text_choose_action</key>
-		<value><![CDATA[zvolit akci ..]]></value>
+		<value><![CDATA[vyberte akci..]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[Vymazat]]></value>
+		<value><![CDATA[Smazat]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_selected</key>
-		<value><![CDATA[smazat vybrané]]></value>
+		<value><![CDATA[Smazat vybrané]]></value>
 	</definition>
 	<definition>
 		<key>text_save_selected</key>
-		<value><![CDATA[Uložení vybrané]]></value>
+		<value><![CDATA[Uložit vybrané]]></value>
 	</definition>
 	<definition>
 		<key>text_save_all</key>
-		<value><![CDATA[uložit vše]]></value>
+		<value><![CDATA[Uložit vše]]></value>
 	</definition>
 	<definition>
 		<key>text_select_status</key>
@@ -409,16 +409,20 @@
 		<value><![CDATA[Vložit]]></value>
 	</definition>
 	<definition>
+		<key>text_edit</key>
+		<value><![CDATA[Upravit]]></value>
+	</definition>
+	<definition>
 		<key>text_select_items</key>
-		<value><![CDATA[Prosím, vyberte položky]]></value>
+		<value><![CDATA[Prosím vyberte položky]]></value>
 	</definition>
 	<definition>
 		<key>button_go</key>
-		<value><![CDATA[JÍT]]></value>
+		<value><![CDATA[Jdi]]></value>
 	</definition>
 	<definition>
 		<key>search_everywhere</key>
-		<value><![CDATA[Vyhledávání stránek]]></value>
+		<value><![CDATA[Prohledat celý web]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -426,11 +430,11 @@
 	</definition>
 	<definition>
 		<key>error_permission_access</key>
-		<value><![CDATA[Varování: Nemáte oprávnění k přístupu %s!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění přistupovat k %s!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission_modify</key>
-		<value><![CDATA[Varování: Nemáte oprávnění k úpravě %s!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat %s!]]></value>
 	</definition>
 	<definition>
 		<key>text_add</key>
@@ -438,7 +442,7 @@
 	</definition>
 	<definition>
 		<key>text_add_block</key>
-		<value><![CDATA[Přidejte blok]]></value>
+		<value><![CDATA[Přidat blok]]></value>
 	</definition>
 	<definition>
 		<key>text_resource_library</key>
@@ -450,23 +454,23 @@
 	</definition>
 	<definition>
 		<key>confirm_unmap_title</key>
-		<value><![CDATA[Potvrdit zdroj (y) Unlink]]></value>
+		<value><![CDATA[Potvrdit zdroj(e) Odpojit]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_unmap</key>
-		<value><![CDATA[Jste si jisti, že chcete odpojit zdroj (y)?]]></value>
+		<value><![CDATA[Opravdu chcete odpojit zdroj(e)?]]></value>
 	</definition>
 	<definition>
 		<key>confirm_del_title</key>
-		<value><![CDATA[Potvrdit zdroj (y) Delete]]></value>
+		<value><![CDATA[Potvrdit smazání zdroje(ů)]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_del</key>
-		<value><![CDATA[Jste si jisti, že chcete smazat prostředek (y)?]]></value>
+		<value><![CDATA[Jste si jisti, že chcete odstranit zdroj(e)?]]></value>
 	</definition>
 	<definition>
 		<key>text_type_image</key>
-		<value><![CDATA[snímky]]></value>
+		<value><![CDATA[Obrázky]]></value>
 	</definition>
 	<definition>
 		<key>text_type_audio</key>
@@ -478,7 +482,7 @@
 	</definition>
 	<definition>
 		<key>text_type_pdf</key>
-		<value><![CDATA[Dokument PDF]]></value>
+		<value><![CDATA[PDF dokument]]></value>
 	</definition>
 	<definition>
 		<key>text_type_archive</key>
@@ -490,15 +494,15 @@
 	</definition>
 	<definition>
 		<key>button_unmap</key>
-		<value><![CDATA[rozpojit]]></value>
+		<value><![CDATA[Odpojit]]></value>
 	</definition>
 	<definition>
 		<key>button_select_resource</key>
-		<value><![CDATA[vybrat]]></value>
+		<value><![CDATA[Vybrat]]></value>
 	</definition>
 	<definition>
 		<key>text_click_to_change</key>
-		<value><![CDATA[Kliknutím na obrázek jej změnit]]></value>
+		<value><![CDATA[Klikněte na obrázek pro jeho změnu.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_from_list</key>
@@ -506,7 +510,7 @@
 	</definition>
 	<definition>
 		<key>text_count_selected</key>
-		<value><![CDATA[Count vybraných položek:]]></value>
+		<value><![CDATA[Počet vybraných položek:]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
@@ -514,11 +518,11 @@
 	</definition>
 	<definition>
 		<key>text_save_edit</key>
-		<value><![CDATA[Přidat / upravit]]></value>
+		<value><![CDATA[Přidat/Upravit]]></value>
 	</definition>
 	<definition>
 		<key>text_apply</key>
-		<value><![CDATA[Aplikovat]]></value>
+		<value><![CDATA[Použít]]></value>
 	</definition>
 	<definition>
 		<key>text_on_top</key>
@@ -526,7 +530,11 @@
 	</definition>
 	<definition>
 		<key>text_all</key>
-		<value><![CDATA[Všechno]]></value>
+		<value><![CDATA[Vše]]></value>
+	</definition>
+	<definition>
+		<key>text_all_stores</key>
+		<value><![CDATA[Všechny obchody]]></value>
 	</definition>
 	<definition>
 		<key>text_create_new_block</key>
@@ -534,23 +542,23 @@
 	</definition>
 	<definition>
 		<key>button_unlink</key>
-		<value><![CDATA[rozpojit]]></value>
+		<value><![CDATA[Odpojit]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_unlink</key>
-		<value><![CDATA[Jste si jisti, že chcete odpojit zdroj?]]></value>
+		<value><![CDATA[Opravdu chcete odpojit zdroj?]]></value>
 	</definition>
 	<definition>
 		<key>confirm_unlink_title</key>
-		<value><![CDATA[Potvrdit Odpojit zdrojů]]></value>
+		<value><![CDATA[Potvrdit odpojení zdroje]]></value>
 	</definition>
 	<definition>
 		<key>text_select_store</key>
-		<value><![CDATA[Zvolit jiný sklad]]></value>
+		<value><![CDATA[Vyberte jiný obchod]]></value>
 	</definition>
 	<definition>
 		<key>text_click_browse_file</key>
-		<value><![CDATA[Klikněte pro procházení souborů]]></value>
+		<value><![CDATA[Klikněte pro výběr souboru]]></value>
 	</definition>
 	<definition>
 		<key>text_browse</key>
@@ -562,11 +570,11 @@
 	</definition>
 	<definition>
 		<key>error_seo_keyword</key>
-		<value><![CDATA[SEO klíčové slovo <a target="_blank" href="%s">&quot;%s&quot;</a> již existuje!]]></value>
+		<value><![CDATA[SEO klíčové slovo <a target="_blank" href="%s">"%s"</a> již existuje!]]></value>
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[aktualizace Datum]]></value>
+		<value><![CDATA[Datum aktualizace]]></value>
 	</definition>
 	<definition>
 		<key>text_automatic</key>
@@ -578,23 +586,23 @@
 	</definition>
 	<definition>
 		<key>text_select_copy_layout</key>
-		<value><![CDATA[Vybrat pro zkopírování rozvržení z]]></value>
+		<value><![CDATA[Vyberte rozvržení, ze kterého chcete kopírovat]]></value>
 	</definition>
 	<definition>
 		<key>text_apply_layout</key>
-		<value><![CDATA[Použít teď]]></value>
+		<value><![CDATA[Použít nyní]]></value>
 	</definition>
 	<definition>
 		<key>text_new_download</key>
-		<value><![CDATA[Nové ke stažení]]></value>
+		<value><![CDATA[Nové stažení]]></value>
 	</definition>
 	<definition>
 		<key>text_free</key>
-		<value><![CDATA[Volný, uvolnit]]></value>
+		<value><![CDATA[Zdarma]]></value>
 	</definition>
 	<definition>
 		<key>text_sure</key>
-		<value><![CDATA[Jsi si jistá?]]></value>
+		<value><![CDATA[Jste si jistí?]]></value>
 	</definition>
 	<definition>
 		<key>button_add</key>
@@ -602,7 +610,7 @@
 	</definition>
 	<definition>
 		<key>text_please_confirm</key>
-		<value><![CDATA[Prosím potvrďte]]></value>
+		<value><![CDATA[Potvrďte prosím]]></value>
 	</definition>
 	<definition>
 		<key>button_confirm</key>
@@ -610,7 +618,7 @@
 	</definition>
 	<definition>
 		<key>button_download</key>
-		<value><![CDATA[Stažení]]></value>
+		<value><![CDATA[Stáhnout]]></value>
 	</definition>
 	<definition>
 		<key>recent_customers</key>
@@ -618,19 +626,19 @@
 	</definition>
 	<definition>
 		<key>new_orders</key>
-		<value><![CDATA[Hodnota nových zakázek]]></value>
+		<value><![CDATA[Nové objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_saved</key>
-		<value><![CDATA[Úspěšně uloženo]]></value>
+		<value><![CDATA[Uloženo úspěšně]]></value>
 	</definition>
 	<definition>
 		<key>text_processing</key>
-		<value><![CDATA[Zpracovává se ...]]></value>
+		<value><![CDATA[Zpracovávám ...]]></value>
 	</definition>
 	<definition>
 		<key>text_next</key>
-		<value><![CDATA[další]]></value>
+		<value><![CDATA[Další]]></value>
 	</definition>
 	<definition>
 		<key>text_previous</key>
@@ -638,7 +646,7 @@
 	</definition>
 	<definition>
 		<key>text_on</key>
-		<value><![CDATA[NA]]></value>
+		<value><![CDATA[Zapnuto]]></value>
 	</definition>
 	<definition>
 		<key>text_off</key>
@@ -646,31 +654,31 @@
 	</definition>
 	<definition>
 		<key>text_external_help</key>
-		<value><![CDATA[externí nápovědy]]></value>
+		<value><![CDATA[Externí nápověda]]></value>
 	</definition>
 	<definition>
 		<key>text_select_from_lookup</key>
-		<value><![CDATA[Začněte psát (název, model, sku, atd.) Se vyhledat a vybrat výsledek]]></value>
+		<value><![CDATA[Začněte psát, abyste mohli vyhledat a vybrat výsledek.]]></value>
 	</definition>
 	<definition>
 		<key>text_continue_typing</key>
-		<value><![CDATA[Pokračovat v psaní ...]]></value>
+		<value><![CDATA[Pokračujte v psaní ...]]></value>
 	</definition>
 	<definition>
 		<key>text_looking_for</key>
-		<value><![CDATA[Hledat]]></value>
+		<value><![CDATA[Hledáte]]></value>
 	</definition>
 	<definition>
 		<key>button_manage_extensions</key>
-		<value><![CDATA[Správa rozšíření]]></value>
+		<value><![CDATA[Spravovat rozšíření]]></value>
 	</definition>
 	<definition>
 		<key>text_abc_notification</key>
-		<value><![CDATA[Aktualizace softwaru a upozornění]]></value>
+		<value><![CDATA[Aktualizace softwaru a oznámení]]></value>
 	</definition>
 	<definition>
 		<key>text_not_applicable</key>
-		<value><![CDATA[NA]]></value>
+		<value><![CDATA[Není k dispozici]]></value>
 	</definition>
 	<definition>
 		<key>text_share_embed_code</key>
@@ -678,31 +686,35 @@
 	</definition>
 	<definition>
 		<key>text_copy_embed_code</key>
-		<value><![CDATA[Kopie a vložte do vašeho HTML kódu, kde byste chtěli prodat]]></value>
+		<value><![CDATA[Zkopírujte a vložte toto do svého HTML-kódu tam, kde chcete prodávat.]]></value>
+	</definition>
+	<definition>
+		<key>text_copy_embed_url</key>
+		<value><![CDATA[Zkopírujte a vložte tuto adresu URL na svůj další web, kde chcete prodávat]]></value>
 	</definition>
 	<definition>
 		<key>button_retry</key>
-		<value><![CDATA[Opakovat]]></value>
+		<value><![CDATA[Zkusit znovu]]></value>
 	</definition>
 	<definition>
 		<key>text_system_error</key>
-		<value><![CDATA[Systémová chyba došlo ke střetu. Zkontrolujte systémová <a target="_blank" href="%s">hlášení</a> nebo <a target="_blank" href="%s">chybový protokol</a>]]></value>
+		<value><![CDATA[Nastala systémová chyba. Zkontrolujte systémové <a target="_blank" href="%s">zprávy</a> nebo <a target="_blank" href="%s">chybový záznam</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_system_warning</key>
-		<value><![CDATA[byla hlášena výstražný systém. Zkontrolujte systémové <a target="_blank" href="%s">zprávy</a>]]></value>
+		<value><![CDATA[Bylo hlášeno systémové varování. Zkontrolujte systémové <a target="_blank" href="%s">zprávy</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_system_notice</key>
-		<value><![CDATA[Oznámení systém byl hlášen. Zkontrolujte systémové <a target="_blank" href="%s">zprávy</a>]]></value>
+		<value><![CDATA[Systémové upozornění bylo nahlášeno. Zkontrolujte systémové <a target="_blank" href="%s">zprávy</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_set_related</key>
-		<value><![CDATA[Set Související]]></value>
+		<value><![CDATA[Nastavit související]]></value>
 	</definition>
 	<definition>
 		<key>tab_text</key>
-		<value><![CDATA[HTML / Text]]></value>
+		<value><![CDATA[HTML/Text]]></value>
 	</definition>
 	<definition>
 		<key>tab_visual</key>
@@ -713,52 +725,44 @@
 		<value><![CDATA[Přidat média]]></value>
 	</definition>
 	<definition>
-		<key>text_view_more</key>
-		<value><![CDATA[Ukázat více]]></value>
-	</definition>
-	<definition>
-		<key>text_admin</key>
-		<value><![CDATA[Kontrolní panel]]></value>
-	</definition>
-	<definition>
-		<key>text_storefront</key>
-		<value><![CDATA[výkladní skříň]]></value>
-	</definition>
-	<definition>
-		<key>text_texteditor_extended_mode</key>
-		<value><![CDATA[<a class="texteditor_ext_mode" href="%s" ><i class="fa fa-external-link"></i> Úpravy v rozšířeném režimu</a>]]></value>
-	</definition>
-	<definition>
-		<key>text_quick_view</key>
-		<value><![CDATA[Rychlý pohled]]></value>
-	</definition>
-	<definition>
-		<key>text_more_current</key>
-		<value><![CDATA[Celá stránka editovat]]></value>
-	</definition>
-	<definition>
-		<key>text_more_new</key>
-		<value><![CDATA[Nová karta editovat]]></value>
-	</definition>
-	<definition>
-		<key>text_back_to_list</key>
-		<value><![CDATA[Návrat na výpis]]></value>
-	</definition>
-	<definition>
-		<key>text_all_stores</key>
-		<value><![CDATA[Všechny obchody]]></value>
-	</definition>
-	<definition>
-		<key>text_copy_embed_url</key>
-		<value><![CDATA[Zkopírujte a vložte tuto adresu URL na svůj jiný web, kde chcete prodávat]]></value>
-	</definition>
-	<definition>
 		<key>button_field_history</key>
 		<value><![CDATA[Zobrazit historii pole]]></value>
 	</definition>
 	<definition>
+		<key>text_view_more</key>
+		<value><![CDATA[Zobrazit více]]></value>
+	</definition>
+	<definition>
+		<key>text_admin</key>
+		<value><![CDATA[Ovládací panel]]></value>
+	</definition>
+	<definition>
+		<key>text_storefront</key>
+		<value><![CDATA[Vzhled obchodu]]></value>
+	</definition>
+	<definition>
+		<key>text_texteditor_extended_mode</key>
+		<value><![CDATA[<a class="texteditor_ext_mode" href="%s" ><i class="fa fa-external-link"></i> Upravit v rozšířeném režimu</a>]]></value>
+	</definition>
+	<definition>
+		<key>text_quick_view</key>
+		<value><![CDATA[Rychlý náhled]]></value>
+	</definition>
+	<definition>
+		<key>text_more_current</key>
+		<value><![CDATA[Úprava celé stránky]]></value>
+	</definition>
+	<definition>
+		<key>text_more_new</key>
+		<value><![CDATA[Úprava nové karty]]></value>
+	</definition>
+	<definition>
+		<key>text_back_to_list</key>
+		<value><![CDATA[Zpět na seznam]]></value>
+	</definition>
+	<definition>
 		<key>text_help_link</key>
-		<value><![CDATA[<a href="http://www.abantecart.com/contact-us" target="_abantecart">Potřebujete pomoc?</a>]]></value>
+		<value><![CDATA[<a href="https://www.abantecart.com/contact-us" target="_abantecart">Potřebujete pomoc?</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_subtract_order</key>
@@ -770,7 +774,7 @@
 	</definition>
 	<definition>
 		<key>warning_extensions_with_layouts</key>
-		<value><![CDATA[ Následující rozšíření <br/> %s <br/> zahrnují stránky nebo rozvržení, které nejsou přítomny ve vybrané šabloně. Chcete-li zahrnout funkce z těchto rozšíření, budete muset po povolení nové šablony rozšíření znovu nainstalovat. Pokud přeinstalace nepomůže, požádejte o pomoc původní vývojáře výše uvedených rozšíření.	]]></value>
+		<value><![CDATA[Následující rozšíření <br> %s <br> obsahují stránky nebo rozvržení, která se nenacházejí ve vybrané šabloně. Pro přidání funkcí z těchto rozšíření budete muset po povolení nové šablony přeinstalovat rozšíření. Pokud přeinstalace nepomůže, kontaktujte původní vývojáře výše uvedených rozšíření pro pomoc.]]></value>
 	</definition>
 	<definition>
 		<key>column_sku</key>
@@ -778,7 +782,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavení:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>text_data_history</key>
@@ -786,7 +790,7 @@
 	</definition>
 	<definition>
 		<key>text_design</key>
-		<value><![CDATA[Design]]></value>
+		<value><![CDATA[Návrh]]></value>
 	</definition>
 	<definition>
 		<key>text_select_brand</key>
@@ -794,6 +798,6 @@
 	</definition>
 	<definition>
 		<key>text_advanced_settings</key>
-		<value><![CDATA[Moderní]]></value>
+		<value><![CDATA[Pokročilé]]></value>
 	</definition>
 </definitions>

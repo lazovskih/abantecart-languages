@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[Zapłata]]></value>
+		<value><![CDATA[Płatność]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniono ustawienia i dane przelewu bankowego!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowano ustawienia i szczegóły przelewu bankowego!]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_instructions</key>
-		<value><![CDATA[Instrukcje dotyczące przelewu bankowego: <span class="help">Instrukcja wyświetlana klientom w celu dokonania przelewu bankowego lub przelewu telegraficznego na rachunek bankowy</span>]]></value>
+		<value><![CDATA[Instrukcje przelewu bankowego:<span class="help">Instrukcja wyświetlana klientom, jak dokonać przelewu bankowego lub przelewu elektronicznego na Twoje konto bankowe</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_min</key>
-		<value><![CDATA[Całkowity limit zamówienia: <span class="help">Minimalna kwota zamówienia, która musi zostać osiągnięta, aby umożliwić tę płatność</span>]]></value>
+		<value><![CDATA[Całkowity limit zamówienia:<span class="help">Minimalna kwota zamówienia, jaką należy osiągnąć, aby umożliwić tę płatność</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_status_id</key>
@@ -34,10 +34,10 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania przelewu bankowego!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania płatności banktransfer!]]></value>
 	</definition>
 	<definition>
 		<key>error_instructions</key>
-		<value><![CDATA[Wymagane są instrukcje dotyczące przelewu bankowego!]]></value>
+		<value><![CDATA[Instrukcje przelewu bankowego są wymagane!]]></value>
 	</definition>
 </definitions>

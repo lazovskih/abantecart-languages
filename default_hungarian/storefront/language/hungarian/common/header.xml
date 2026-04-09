@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_home</key>
-		<value><![CDATA[Otthon]]></value>
+		<value><![CDATA[Főoldal]]></value>
 	</definition>
 	<definition>
 		<key>text_special</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_contact</key>
-		<value><![CDATA[Kapcsolatba lépni]]></value>
+		<value><![CDATA[Kapcsolat]]></value>
 	</definition>
 	<definition>
 		<key>text_sitemap</key>
-		<value><![CDATA[Webhelytérkép]]></value>
+		<value><![CDATA[Oldaltérkép]]></value>
 	</definition>
 	<definition>
 		<key>text_bookmark</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Belépek]]></value>
+		<value><![CDATA[Bejelentkezés]]></value>
 	</definition>
 	<definition>
 		<key>text_logout</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[kijelentkezés]]></value>
+		<value><![CDATA[Pénztár]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_advanced</key>
-		<value><![CDATA[Részletes keresés]]></value>
+		<value><![CDATA[Speciális keresés]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
@@ -66,6 +66,6 @@
 	</definition>
 	<definition>
 		<key>text_login_or_register</key>
-		<value><![CDATA[Bejelentkezés vagy Regisztráció]]></value>
+		<value><![CDATA[Bejelentkezés vagy regisztráció]]></value>
 	</definition>
 </definitions>

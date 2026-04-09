@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_group</key>
-		<value><![CDATA[Grupa korisnika]]></value>
+		<value><![CDATA[Korisnička grupa]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Izmijenili ste korisničke grupe!]]></value>
+		<value><![CDATA[Uspjeh: izmijenili ste korisničke grupe!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_group_added</key>
-		<value><![CDATA[Uspjeh: Vi ste stvorili skupinu korisnika uspješno!]]></value>
+		<value><![CDATA[Uspjeh: Uspješno ste kreirali korisničku grupu!]]></value>
 	</definition>
 	<definition>
 		<key>text_go_to_page</key>
@@ -22,23 +22,23 @@
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Brisanje korisnika grupi?]]></value>
+		<value><![CDATA[Izbrisati grupu korisnika?]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Korisničko ime grupe]]></value>
+		<value><![CDATA[Naziv korisničke grupe]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Korisničko ime grupe:]]></value>
+		<value><![CDATA[Naziv korisničke grupe:]]></value>
 	</definition>
 	<definition>
 		<key>column_controller</key>
-		<value><![CDATA[kontrolor]]></value>
+		<value><![CDATA[Kontroler]]></value>
 	</definition>
 	<definition>
 		<key>column_access</key>
@@ -46,18 +46,18 @@
 	</definition>
 	<definition>
 		<key>column_modify</key>
-		<value><![CDATA[izmijeniti]]></value>
+		<value><![CDATA[Izmijeni]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu korisničkih skupina!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu korisničkih grupa!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Korisnik Group ime mora biti između 2 i 64 znakova!]]></value>
+		<value><![CDATA[Naziv korisničke grupe mora biti između 2 i 64 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_user</key>
-		<value><![CDATA[Upozorenje: Ova skupina korisnik ne može biti izbrisan jer trenutačno dodijeljena %s korisnike!]]></value>
+		<value><![CDATA[Upozorenje: Ova korisnička grupa ne može se izbrisati jer je trenutno dodijeljena %s korisnicima!]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[תַפרִיט]]></value>
+		<value><![CDATA[תפריט]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית תפריט!]]></value>
+		<value><![CDATA[הצלחה: ערכת את התפריט!]]></value>
 	</definition>
 	<definition>
 		<key>entry_item_id</key>
@@ -18,23 +18,31 @@
 	</definition>
 	<definition>
 		<key>entry_item_text</key>
-		<value><![CDATA[טֶקסט]]></value>
+		<value><![CDATA[טקסט]]></value>
 	</definition>
 	<definition>
 		<key>entry_item_url</key>
-		<value><![CDATA[קישור <br/><span class="help">עבור קישורים חיצוניים להוסיף http:// או https:// בהתחלה</span>]]></value>
+		<value><![CDATA[קישור<br /><span class="help">לקישורים חיצוניים יש להוסיף בהתחלה http:// או https://. ניתן גם להשתמש ב-URL יחסי כגון ../subfolder/index.php</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_item_target</key>
+		<value><![CDATA[יעד<br/><span class="help">_self - פותח את המסמך המקושר באותה מסגרת שבה נלחץ.<br>_blank - פותח את המסמך המקושר בחלון או בכרטיסייה חדשה</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_parent_id</key>
-		<value><![CDATA[הוֹרֶה]]></value>
+		<value><![CDATA[הורה]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[סדר המיון]]></value>
+		<value><![CDATA[סדר מיון]]></value>
+	</definition>
+	<definition>
+		<key>entry_link_type</key>
+		<value><![CDATA[סוג קישור]]></value>
 	</definition>
 	<definition>
 		<key>text_select_parent_id</key>
-		<value><![CDATA[- תפריט רוט -]]></value>
+		<value><![CDATA[- תפריט שורש -]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
@@ -42,15 +50,11 @@
 	</definition>
 	<definition>
 		<key>error_non_unique</key>
-		<value><![CDATA[מספר פריט לא ייחודי!]]></value>
+		<value><![CDATA[מזהה הפריט אינו ייחודי!]]></value>
 	</definition>
 	<definition>
 		<key>error_non_ascii</key>
-		<value><![CDATA[תווים אלפאנומריים בלבד מותר שדה מזהה תפריט!]]></value>
-	</definition>
-	<definition>
-		<key>entry_link_type</key>
-		<value><![CDATA[סוג הקישור]]></value>
+		<value><![CDATA[רק תווים אלפאנומריים מותרים בשדה מזהה התפריט!]]></value>
 	</definition>
 	<definition>
 		<key>text_category_link_type</key>
@@ -65,11 +69,7 @@
 		<value><![CDATA[קישור מותאם אישית או URL]]></value>
 	</definition>
 	<definition>
-		<key>entry_item_target</key>
-		<value><![CDATA[Target <br/><span class="help">_self - פותח את המסמך המקושר באותה מסגרת שבה לחצו עליו. <br/> _blank - פותח את המסמך המקושר בחלון או בלשונית חדשה</span>]]></value>
-	</definition>
-	<definition>
 		<key>entry_include_children_items</key>
-		<value><![CDATA[כלול פריטים לילדים]]></value>
+		<value><![CDATA[כלול פריטי משנה]]></value>
 	</definition>
 </definitions>

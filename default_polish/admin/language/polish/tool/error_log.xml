@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,16 +6,14 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Pomyślnie wyczyszczone swój dziennik błędów!]]></value>
+		<value><![CDATA[Sukces: Pomyślnie wyczyściłeś swój dziennik błędów!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_tail</key>
-		<value><![CDATA[Ze względu na duży rozmiar pliku dziennika, tylko ostatnia 500kB danych można obejrzeć tutaj. 
- Aby wyświetlić pełny dziennik, dostać go z serwera bezpośrednio. 
- Ścieżka:]]></value>
+		<value><![CDATA[Z powodu dużego rozmiaru pliku dziennika, można tutaj wyświetlić tylko ostatnie 500Kb danych.<br>Aby zobaczyć pełny dziennik, pobierz go bezpośrednio z twojego serwera. Ścieżka:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_error</key>
-		<value><![CDATA[ Plik nie istnieje lub nie można go odczytać! ]]></value>
+		<value><![CDATA[Plik nie istnieje lub nie jest czytelny!]]></value>
 	</definition>
 </definitions>

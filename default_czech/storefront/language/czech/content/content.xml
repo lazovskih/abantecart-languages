@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
-	<definition>
-		<key>text_error</key>
-		<value><![CDATA[Stránka nebyla nalezena!]]></value>
-	</definition>
 	<definition>
 		<key>heading_title</key>
 		<value><![CDATA[Stránky s obsahem]]></value>
@@ -22,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_new</key>
-		<value><![CDATA[NOVÝ]]></value>
+		<value><![CDATA[NOVÉ]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
@@ -31,5 +27,9 @@
 	<definition>
 		<key>content_not_found</key>
 		<value><![CDATA[Nebyl nalezen žádný obsah. Zkuste to znovu.]]></value>
+	</definition>
+	<definition>
+		<key>text_error</key>
+		<value><![CDATA[Informační stránka nebyla nalezena!]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך בשפות שונות!]]></value>
+		<value><![CDATA[הצלחה: אתה שינית את השפות!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[סדר המיון]]></value>
+		<value><![CDATA[סדר מיון]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[קוד: <br/><span class="help">אל תשנה אם זה הוא שפת ברירת המחדל שלך.</span>]]></value>
+		<value><![CDATA[קוד:<br /><span class="help">אל תשנה אם זו שפת ברירת המחדל שלך.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_locale</key>
@@ -46,19 +46,19 @@
 	</definition>
 	<definition>
 		<key>entry_directory</key>
-		<value><![CDATA[מַדרִיך:]]></value>
+		<value><![CDATA[תיקייה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_filename</key>
-		<value><![CDATA[שם קובץ:]]></value>
+		<value><![CDATA[שם הקובץ:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[סטָטוּס:]]></value>
+		<value><![CDATA[סטטוס:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[סדר המיון:]]></value>
+		<value><![CDATA[סדר מיון:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -66,55 +66,55 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[שפה שם חייב להיות בין 2 ו -32 תווים!]]></value>
+		<value><![CDATA[שם השפה חייב להיות בין 2 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
-		<value><![CDATA[חייב קוד שפה לפחות 2 תווים!]]></value>
+		<value><![CDATA[קוד השפה חייב להכיל לפחות 2 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_locale</key>
-		<value><![CDATA[אזור חובה!]]></value>
+		<value><![CDATA[נדרש לוקאל!]]></value>
 	</definition>
 	<definition>
 		<key>error_image</key>
-		<value><![CDATA[שם קובץ תמונה חייב להיות בין 2 ו -64 תווים!]]></value>
+		<value><![CDATA[שם קובץ התמונה חייב להיות בין 2 ל-64 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_directory</key>
-		<value><![CDATA[מדריך חובה!]]></value>
+		<value><![CDATA[דרושה תיקייה!]]></value>
 	</definition>
 	<definition>
 		<key>error_filename</key>
-		<value><![CDATA[שם קובץ חייב להיות בין 2 ו -64 תווים!]]></value>
+		<value><![CDATA[שם הקובץ חייב להיות בין 2 ל-64 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[אזהרה: שפה זו לא ניתן למחוק כפי שהוא מוקצה כעת כשפת החנות מחדל!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק שפה זו מאחר שהיא מוגדרת כעת כשפת החנות המוגדרת כברירת מחדל!]]></value>
 	</definition>
 	<definition>
 		<key>error_admin</key>
-		<value><![CDATA[אזהרה: שפה זה לא ניתן למחוק כפי שהוא מוקצה כעת כשפת הממשל!]]></value>
+		<value><![CDATA[אזהרה: שפה זו לא ניתנת למחיקה מכיוון שהיא מוקצת כעת כשפת הניהול!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[אזהרה: שפה זו לא ניתן למחוק כפי שהוא מוקצה כעת %s בחנויות!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק שפה זו מאחר שהיא משוייכת כעת ל-%s חנויות!]]></value>
 	</definition>
 	<definition>
 		<key>error_order</key>
-		<value><![CDATA[אזהרה: שפה זו לא ניתן למחוק כפי שהוא מוקצה כעת %s הזמנות!]]></value>
+		<value><![CDATA[אזהרה: שפה זו אינה ניתנת למחיקה מאחר שהיא משויכת כרגע ל-%s הזמנות!]]></value>
 	</definition>
 	<definition>
 		<key>language_edit_title</key>
-		<value><![CDATA[פרטי שפה ערוכים]]></value>
+		<value><![CDATA[ערוך פרטי השפה]]></value>
 	</definition>
 	<definition>
 		<key>load_language_title</key>
-		<value><![CDATA[טענו נתוני שפה חסרים]]></value>
+		<value><![CDATA[טען נתוני שפה חסרים]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_selector</key>
-		<value><![CDATA[שפת מקור:]]></value>
+		<value><![CDATA[שפת המקור:]]></value>
 	</definition>
 	<definition>
 		<key>entry_translate_method_selector</key>
@@ -122,16 +122,16 @@
 	</definition>
 	<definition>
 		<key>load_language_note</key>
-		<value><![CDATA[הערה: פעולה זו עשויה להימשך כמה דקות להפעלת הכלי. אל תסגור את הדפדפן, לעזוב או לרענן את הדף!]]></value>
+		<value><![CDATA[הערה: פעולה זו עשויה לקחת כמה דקות להרצה. אל תסגור את הדפדפן, אל תעזוב או תרענן את העמוד!]]></value>
 	</definition>
 	<definition>
 		<key>create_language_note</key>
-		<value><![CDATA[הערה: אנו ממליצים ליצור שפה כשלוחה. בדיקת תוספי שפה קיימות. אם אתה עדיין רוצה ליצור שפה חדשה באופן ידני, אתה צריך להוסיף דגל השפה ל admin/language/[Language Directory]/flag.png		storefront/language/[Language Directory]flag.png
- אחרי השפה נוצרת חסר עומס נתונים שפה לתרגם או להעתיק תוכן טקסט משפת מקור.]]></value>
+		<value><![CDATA[הערה: אנו ממליצים ליצור שפה כתוסף. בדוק תוספי שפה קיימים. אם אתה עדיין רוצה ליצור שפה חדשה באופן ידני, עליך להוסיף את דגל השפה אל admin/language/[Language Directory]/flag.png ואל storefront/language/[Language Directory]flag.png	
+לאחר שהשפה נוצרה, טען נתוני שפה חסרים לתרגום או העתק את תוכן הטקסט משפת המקור.]]></value>
 	</definition>
 	<definition>
 		<key>button_load_language</key>
-		<value><![CDATA[לִטעוֹן]]></value>
+		<value><![CDATA[טען]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete_tasks</key>
@@ -147,7 +147,7 @@
 	</definition>
 	<definition>
 		<key>text_last_time_run</key>
-		<value><![CDATA[זמן ההפעלה אחרונה:]]></value>
+		<value><![CDATA[ההרצה האחרונה:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -159,26 +159,30 @@
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[איתחול]]></value>
+		<value><![CDATA[הפעלה מחדש]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[לְהַסִיר]]></value>
+		<value><![CDATA[הסר]]></value>
 	</definition>
 	<definition>
 		<key>text_task_title</key>
-		<value><![CDATA[תרגום של תיאורים מ %s ל %s]]></value>
+		<value><![CDATA[תרגום תיאורים מ-%s ל-%s]]></value>
 	</definition>
 	<definition>
 		<key>error_nothing_to_do</key>
-		<value><![CDATA[שגיאה: אנא הגדר שפת המקור ותרגום שיטה!]]></value>
+		<value><![CDATA[שגיאה: אנא הגדר שפת מקור ושיטת תרגום!]]></value>
 	</definition>
 	<definition>
 		<key>text_translate_override_existing</key>
-		<value><![CDATA[הערה: כל התיאורים הקיימים בשפת היעד יוחלפו תרגום חדש. אתה יכול להשבית מכריע <a href="%s">System-&gt; Settings-&gt; חנות פרטים</a> .]]></value>
+		<value><![CDATA[הערה: כל התיאורים הקיימים בשפת היעד יוחלפו בתרגום חדש. ניתן לבטל את ההחלפה ב-<a href="%s">System->Settings->Store Details</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_copy_source_text</key>
-		<value><![CDATA[העתק את טקסט שפת המקור]]></value>
+		<value><![CDATA[העתק טקסט בשפת המקור]]></value>
+	</definition>
+	<definition>
+		<key>error_all_disabled</key>
+		<value><![CDATA[לפחות שפה אחת חייבת להיות פעילה!]]></value>
 	</definition>
 </definitions>

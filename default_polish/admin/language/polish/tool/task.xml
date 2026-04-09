@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[ID]]></value>
+		<value><![CDATA[Identyfikator]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[Utknął]]></value>
+		<value><![CDATA[Zablokowany]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
@@ -34,19 +34,19 @@
 	</definition>
 	<definition>
 		<key>text_running</key>
-		<value><![CDATA[Bieganie]]></value>
+		<value><![CDATA[Działający]]></value>
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
-		<value><![CDATA[Planowy]]></value>
+		<value><![CDATA[Zaplanowany]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
-		<value><![CDATA[Niepełnosprawny]]></value>
+		<value><![CDATA[Wyłączone]]></value>
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[Niepowodzenie]]></value>
+		<value><![CDATA[Nie powiodło się]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
@@ -54,30 +54,30 @@
 	</definition>
 	<definition>
 		<key>text_completed</key>
-		<value><![CDATA[Zakończony]]></value>
+		<value><![CDATA[Zakończono]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[restart Zadanie]]></value>
+		<value><![CDATA[Uruchom ponownie zadanie]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
-		<value><![CDATA[Run Task]]></value>
+		<value><![CDATA[Uruchom zadanie]]></value>
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[zadanie rozpoczęto]]></value>
+		<value><![CDATA[Zadanie rozpoczęte]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
-		<value><![CDATA[Zadanie nie została znaleziona.]]></value>
+		<value><![CDATA[Zadanie nie zostało znalezione.]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_task</key>
-		<value><![CDATA[Zadanie nie zawiera kroki. Usunięto.]]></value>
+		<value><![CDATA[Zadanie nie zawiera kroków. Usunięto.]]></value>
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[Zabrania się ponownie uruchomić!]]></value>
+		<value><![CDATA[Ponowne uruchomienie zabronione!]]></value>
 	</definition>
 </definitions>

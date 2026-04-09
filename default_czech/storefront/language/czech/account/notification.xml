@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Oznámení a Newsletter]]></value>
+		<value><![CDATA[Oznámení a Zpravodaj]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,14 +10,14 @@
 	</definition>
 	<definition>
 		<key>text_notifications</key>
-		<value><![CDATA[oznámení]]></value>
+		<value><![CDATA[Oznámení]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Nastavení oznámení bylo úspěšně aktualizováno!]]></value>
+		<value><![CDATA[Úspěch: Vaše nastavení oznámení bylo úspěšně aktualizováno!]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoint</key>
-		<value><![CDATA[oznámení]]></value>
+		<value><![CDATA[Oznámení]]></value>
 	</definition>
 </definitions>

@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Výrobci nebo Značky]]></value>
+		<value><![CDATA[Značky]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[Výrobce nebo Brand]]></value>
+		<value><![CDATA[Značka]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste výrobci!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste značky!]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[standardní]]></value>
+		<value><![CDATA[Výchozí]]></value>
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[Image manager]]></value>
+		<value><![CDATA[Správce obrázků]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Jméno výrobce]]></value>
+		<value><![CDATA[Název značky]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
@@ -33,8 +33,12 @@
 		<value><![CDATA[Akce]]></value>
 	</definition>
 	<definition>
+		<key>column_products</key>
+		<value><![CDATA[Počet produktů]]></value>
+	</definition>
+	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Jméno výrobce:]]></value>
+		<value><![CDATA[Název značky:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store</key>
@@ -42,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO Klíčové slovo:]]></value>
+		<value><![CDATA[Klíčové slovo SEO:]]></value>
 	</definition>
 	<definition>
 		<key>entry_edit</key>
@@ -50,34 +54,30 @@
 	</definition>
 	<definition>
 		<key>entry_image</key>
-		<value><![CDATA[Obraz:]]></value>
+		<value><![CDATA[Obrázek:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Uspořádání:]]></value>
+		<value><![CDATA[Pořadí řazení:]]></value>
 	</definition>
 	<definition>
 		<key>error_manufacturer_not_found</key>
-		<value><![CDATA[Chyba: Výrobce nebyl nalezen!]]></value>
+		<value><![CDATA[Chyba: značka nenalezena!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění k úpravě výrobce!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat značky!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Jméno výrobce musí být mezi 2 a 64 znaků!]]></value>
+		<value><![CDATA[Název značky musí mít mezi 2 a 64 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Upozornění: Tento výrobce nemůže být smazán, protože je aktuálně přiřazen %s výrobků!]]></value>
+		<value><![CDATA[Upozornění: Tuto značku nelze smazat, protože je v současné době přiřazena k %s produktům!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Úspěch: Změnili jste rozložení kategorie stránky.]]></value>
-	</definition>
-	<definition>
-		<key>column_products</key>
-		<value><![CDATA[Produkty se počítají]]></value>
+		<value><![CDATA[Úspěch: Upravili jste rozvržení stránky kategorie.]]></value>
 	</definition>
 </definitions>

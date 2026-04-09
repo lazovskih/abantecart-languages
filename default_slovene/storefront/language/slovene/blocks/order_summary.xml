@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[povzetek naročila]]></value>
+		<value><![CDATA[Povzetek naročila]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
@@ -10,26 +10,26 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 izdelkov]]></value>
+		<value><![CDATA[0 artiklov]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Potrdi?]]></value>
+		<value><![CDATA[Potrdite?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Odstraniti]]></value>
+		<value><![CDATA[Odstrani]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Poglej košarico]]></value>
+		<value><![CDATA[Ogled košarice]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Preveri]]></value>
+		<value><![CDATA[Zaključek nakupa]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>
-		<value><![CDATA[predmeti]]></value>
+		<value><![CDATA[Postavke]]></value>
 	</definition>
 </definitions>

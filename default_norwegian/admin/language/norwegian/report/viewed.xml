@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Produkter Vist Rapporter]]></value>
+		<value><![CDATA[Rapport om viste produkter]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har null produktet på rapporten!]]></value>
+		<value><![CDATA[Suksess: Du har tilbakestilt rapporten for viste produkter!]]></value>
 	</definition>
 	<definition>
 		<key>column_product_id</key>
-		<value><![CDATA[Produkt ID]]></value>
+		<value><![CDATA[Produkt-ID]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -19,6 +19,10 @@
 	<definition>
 		<key>column_model</key>
 		<value><![CDATA[Modell]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[Varenummer]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
@@ -30,10 +34,6 @@
 	</definition>
 	<definition>
 		<key>column_percent</key>
-		<value><![CDATA[prosent]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Prosent]]></value>
 	</definition>
 </definitions>

@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>default_authorizenet_name</key>
-		<value><![CDATA[Authorize.Net Payment]]></value>
+		<value><![CDATA[Platba Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_note</key>
-		<value><![CDATA[Na dokončenie nastavenia platieb Authorize.Net sú potrebné ďalšie nastavenia. Pozrite si kartu Ďalšie nastavenia.]]></value>
+		<value><![CDATA[Ďalšie nastavenia sú potrebné na dokončenie nastavenia platby Authorize.Net. Pozrite si kartu Ďalšie nastavenia.]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -14,19 +14,19 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Upravili ste nastavenia platieb Authorize.Net!]]></value>
+		<value><![CDATA[Úspech: upravili ste nastavenia platby Authorize.Net!]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_location_id</key>
-		<value><![CDATA[miesto:]]></value>
+		<value><![CDATA[Umiestnenie:]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_location_id_0</key>
-		<value><![CDATA[Všetky miesta]]></value>
+		<value><![CDATA[Všetky lokality]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_api_login_id</key>
-		<value><![CDATA[Prihlasovacie ID rozhrania API:]]></value>
+		<value><![CDATA[ID prihlásenia API:]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_test_mode</key>
@@ -42,17 +42,15 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_autoselect</key>
-		<value><![CDATA[
- Automatický výber: <br/><span class="help">Môžete nastaviť preskočenie stránky výberu platby, ak existuje iba jedna možnosť platby. Tento spôsob platby sa vyberie automaticky</span>]]></value>
+		<value><![CDATA[Automatický výber:<br /><span class="help">Môžete nastaviť preskočenie stránky výberu platby, ak existuje len jedna platobná možnosť. Táto platobná metóda sa vyberie automaticky</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_save_cards_limit</key>
-		<value><![CDATA[
- Môže ukladať kreditné karty: <br/><span class="help">Nastavte maximálny počet kreditných kariet, ktoré si zákazníci môžu uložiť (až 100). Ak je nastavené na 0 alebo prázdne, ukladanie kariet nebude povolené. Bezpečnostná poznámka: Údaje o kreditnej karte zákazníka sú uložené na zabezpečených serveroch Authorizenet, aby sa zabezpečilo maximálne zabezpečenie údajov. Na vašej stránke nebudú uložené žiadne podrobnosti o kreditnej karte.</span>]]></value>
+		<value><![CDATA[Ukladať kreditné karty:<br /><span class="help">Nastavte maximálny počet kreditných kariet, ktoré si môžu zákazníci uložiť (až do 100). Ak je hodnota nastavená na 0 alebo prázdna, ukladanie kariet nebude povolené. Bezpečnostná poznámka: Údaje o kreditných kartách zákazníkov sú uložené na zabezpečených serveroch Authorize.Net, aby bola zaistená maximálna ochrana údajov. Žiadne údaje o kreditných kartách nebudú uložené na vašej stránke.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_authorizenet_connect</key>
-		<value><![CDATA[Ak chcete nastaviť podrobnosti o platbe, musíte sa pripojiť k službe Authorizenet]]></value>
+		<value><![CDATA[Potrebujete sa spojiť s authorizenet, aby ste nastavili platobné údaje.]]></value>
 	</definition>
 	<definition>
 		<key>text_authorizenet_settings</key>
@@ -60,11 +58,11 @@
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Spojte sa s Authorize.Net	]]></value>
+		<value><![CDATA[Pripojte sa k Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect</key>
-		<value><![CDATA[Odpojte Authorize.Net]]></value>
+		<value><![CDATA[Odpojiť Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>text_skip_connect</key>
@@ -72,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_connect_success</key>
-		<value><![CDATA[Úspešné pripojenie k Authorize.Net]]></value>
+		<value><![CDATA[Úspešne pripojené k Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect_success</key>
@@ -80,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_sort_order</key>
-		<value><![CDATA[Poradie zoradenia]]></value>
+		<value><![CDATA[Poradie radenia]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_test_mode</key>
@@ -88,23 +86,23 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_sk_live</key>
-		<value><![CDATA[Live Secret Key: <br/><span class="help">Nájdite ho v časti Authorize.Net API Keys. Kľúč začína sk_live_...</span>]]></value>
+		<value><![CDATA[Živý tajný kľúč:<br /><span class="help">Nájdete ho v sekcii API kľúčov Authorize.Net. Kľúč sa začína sk_live_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_pk_live</key>
-		<value><![CDATA[Live Publishable Key: <br/><span class="help">Nájdite ho v časti Authorize.Net API Keys. Kľúč začína na pk_live_...</span>]]></value>
+		<value><![CDATA[Živý publikovateľný kľúč:<br /><span class="help">Nájdite ho v sekcii API kľúčov na Authorize.Net. Kľúč začína na pk_live_…</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_sk_test</key>
-		<value><![CDATA[Testovať tajný kľúč: <br/><span class="help">Vyhľadajte ho v časti Kľúče API Authorize.Net. Kľúč začína na sk_test_...</span>]]></value>
+		<value><![CDATA[Testovací tajný kľúč:<br /><span class="help">Nájdite ho v sekcii API kľúčov Authorize.Net. Kľúč začína na sk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_pk_test</key>
-		<value><![CDATA[Test Publishable Key: <br/><span class="help">Nájdite to v časti Authorize.Net API Keys. Kľúč začína na pk_test_...</span>]]></value>
+		<value><![CDATA[Publikovateľný testovací kľúč:<br /><span class="help">Vyhľadajte ho v sekcii API kľúčov Authorize.Net. Kľúč začína na pk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement</key>
-		<value><![CDATA[Typ vysporiadania:]]></value>
+		<value><![CDATA[Typ zúčtovania:]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_auth</key>
@@ -112,15 +110,15 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_authcapture</key>
-		<value><![CDATA[Autorizovať a zachytiť ]]></value>
+		<value><![CDATA[Autorizovať a zaúčtovať]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_status_success_settled</key>
-		<value><![CDATA[Úspešné a vyrovnané: <br/><span class="help">Vyberte stav hlavnej objednávky, ktorý chcete nastaviť ako odpoveď na stav spracovateľa platieb</span>]]></value>
+		<value><![CDATA[Úspech & zúčtované:<br /><span class="help">Vyberte hlavný stav objednávky, ktorý chcete nastaviť v reakcii na stav platobného procesora</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_status_success_unsettled</key>
-		<value><![CDATA[Úspešné a nevyrovnané: <br/><span class="help">Vyberte stav hlavnej objednávky, ktorý chcete nastaviť ako odpoveď na stav spracovateľa platieb</span>]]></value>
+		<value><![CDATA[Úspech & nezúčtované:<br /><span class="help">Vyberte hlavný stav objednávky, ktorý chcete nastaviť v reakcii na stav platobného procesora</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -140,11 +138,11 @@
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
-		<value><![CDATA[Podrobnosti o platbe]]></value>
+		<value><![CDATA[Podrobnosti platby]]></value>
 	</definition>
 	<definition>
 		<key>text_order_ref</key>
-		<value><![CDATA[Identifikátor transakcie Authorize.Net]]></value>
+		<value><![CDATA[ID transakcie Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_status</key>
@@ -152,11 +150,11 @@
 	</definition>
 	<definition>
 		<key>text_order_total</key>
-		<value><![CDATA[Celková povolená suma]]></value>
+		<value><![CDATA[Celková autorizovaná suma]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Zostatková suma]]></value>
+		<value><![CDATA[Zostatok]]></value>
 	</definition>
 	<definition>
 		<key>error_system</key>
@@ -164,7 +162,7 @@
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Zadajte kladnú sumu]]></value>
+		<value><![CDATA[Prosím zadajte kladnú čiastku]]></value>
 	</definition>
 	<definition>
 		<key>error_authorizenet_sk_test</key>
@@ -176,6 +174,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornenie: Nemáte povolenie na úpravu platby Authorize.Net!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upraviť Authorize.Net Payment!]]></value>
 	</definition>
 </definitions>

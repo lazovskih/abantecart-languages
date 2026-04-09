@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[omdömen]]></value>
+		<value><![CDATA[Recensioner]]></value>
 	</definition>
 	<definition>
 		<key>text_review</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>insert_title</key>
-		<value><![CDATA[insert Review]]></value>
+		<value><![CDATA[Infoga recension]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[Uppdatera Review]]></value>
+		<value><![CDATA[Uppdatera recension]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har modifierade recensioner!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat recensionerna!]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[datum tillagt]]></value>
+		<value><![CDATA[Tillagt datum]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>entry_product</key>
@@ -61,10 +61,6 @@
 		<value><![CDATA[Status:]]></value>
 	</definition>
 	<definition>
-		<key>entry_text</key>
-		<value><![CDATA[Text:]]></value>
-	</definition>
-	<definition>
 		<key>entry_good</key>
 		<value><![CDATA[Bra]]></value>
 	</definition>
@@ -78,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Produkter som behövs!]]></value>
+		<value><![CDATA[Produkt krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_author</key>
@@ -86,11 +82,11 @@
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Review text måste vara mellan 25 och 1000 tecken!]]></value>
+		<value><![CDATA[Recensionstext måste vara mellan 25 och 1000 tecken!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Betyg krävs!]]></value>
+		<value><![CDATA[Omdömesbetyg krävs!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -107,5 +103,9 @@
 	<definition>
 		<key>entry_verified_purchase</key>
 		<value><![CDATA[Verifierat köp:]]></value>
+	</definition>
+	<definition>
+		<key>entry_text</key>
+		<value><![CDATA[Ingen text angiven att översätta.]]></value>
 	</definition>
 </definitions>

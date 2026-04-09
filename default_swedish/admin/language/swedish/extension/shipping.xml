@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
-		<value><![CDATA[avinstallera]]></value>
+		<value><![CDATA[Avinstallera]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Frakt metod]]></value>
+		<value><![CDATA[Fraktmetod]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -26,6 +26,6 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 </definitions>

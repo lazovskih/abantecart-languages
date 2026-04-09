@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>stripe_name</key>
-		<value><![CDATA[Stripe Plačilo]]></value>
+		<value><![CDATA[Stripe plačilo]]></value>
 	</definition>
 	<definition>
 		<key>stripe_note</key>
-		<value><![CDATA[Za dokončanje nastavitve plačila Stripe so potrebne dodatne nastavitve. Oglejte si zavihek z dodatnimi nastavitvami.]]></value>
+		<value><![CDATA[Za dokončanje nastavitev plačil Stripe so potrebne dodatne nastavitve. Oglejte si zavihek Dodatne nastavitve.]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste nastavitve plačil Stripe!]]></value>
+		<value><![CDATA[Uspeh: spremenili ste nastavitve plačila Stripe!]]></value>
 	</definition>
 	<definition>
 		<key>stripe_location_id</key>
@@ -26,23 +26,23 @@
 	</definition>
 	<definition>
 		<key>stripe_status</key>
-		<value><![CDATA[status:]]></value>
+		<value><![CDATA[Stanje:]]></value>
 	</definition>
 	<definition>
 		<key>stripe_published_key</key>
-		<value><![CDATA[Objavljeni ključ:]]></value>
+		<value><![CDATA[Objavljen ključ:]]></value>
 	</definition>
 	<definition>
 		<key>stripe_autoselect</key>
-		<value><![CDATA[Samodejna izbira: <br/><span class="help">Nastavite lahko, da preskočite stran za izbiro plačila, če obstaja samo ena možnost plačila. Ta način plačila bo izbran samodejno</span>]]></value>
+		<value><![CDATA[Samodejni izbor:<br /><span class="help">Lahko nastavite, da se preskoči stran za izbiro plačila, če je na voljo le ena možnost plačila. Ta način plačila bo samodejno izbran</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list</key>
-		<value><![CDATA[Dovoljeni načini plačila. <br/><span class="help">Pustite prazno za samodejno izbiro</span>]]></value>
+		<value><![CDATA[Dovoljeni načini plačila. <br /><span class="help">Pustite prazno za samodejno izbiro</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_card</key>
-		<value><![CDATA[kartice]]></value>
+		<value><![CDATA[Kartice]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_klarna</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_afterpay_clearpay</key>
-		<value><![CDATA[Naknadno plačilo/Clearpay]]></value>
+		<value><![CDATA[Afterpay/Clearpay]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_alipay</key>
@@ -62,19 +62,19 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_au_becs_debit</key>
-		<value><![CDATA[Neposredna bremenitev BECS]]></value>
+		<value><![CDATA[BECS direktna bremenitev]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_bacs_debit</key>
-		<value><![CDATA[Bacs Direktna bremenitev]]></value>
+		<value><![CDATA[Bacs neposredna bremenitev]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_affirm</key>
-		<value><![CDATA[potrditi]]></value>
+		<value><![CDATA[Potrdi]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_bancontact</key>
-		<value><![CDATA[Bančni kontakt]]></value>
+		<value><![CDATA[Bancontact]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_blik</key>
@@ -90,15 +90,15 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_pix</key>
-		<value><![CDATA[Pix]]></value>
+		<value><![CDATA[Slike]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_revolut_pay</key>
-		<value><![CDATA[Revolut Pay]]></value>
+		<value><![CDATA[Revolut Plačilo]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_swish</key>
-		<value><![CDATA[Zavihteti]]></value>
+		<value><![CDATA[Swish]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_mobilepay</key>
@@ -106,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_zip</key>
-		<value><![CDATA[Zip]]></value>
+		<value><![CDATA[Poštna številka]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_eps</key>
@@ -126,7 +126,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_ideal</key>
-		<value><![CDATA[IDEALNO]]></value>
+		<value><![CDATA[iDEAL]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_konbini</key>
@@ -150,7 +150,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_paynow</key>
-		<value><![CDATA[PayNow]]></value>
+		<value><![CDATA[Plačajte zdaj]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_promptpay</key>
@@ -158,15 +158,15 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_sepa_debit</key>
-		<value><![CDATA[Direktna bremenitev SEPA]]></value>
+		<value><![CDATA[SEPA direktna bremenitev]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_us_bank_account</key>
-		<value><![CDATA[Neposredna bremenitev ACH]]></value>
+		<value><![CDATA[ACH direktna bremenitev]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_wechat_pay</key>
-		<value><![CDATA[WeChat Pay]]></value>
+		<value><![CDATA[WeChat Plačilo]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_twint</key>
@@ -174,31 +174,31 @@
 	</definition>
 	<definition>
 		<key>text_stripe_connect</key>
-		<value><![CDATA[Za nastavitev podrobnosti plačila se morate povezati s stripe]]></value>
+		<value><![CDATA[Za nastavitev podatkov o plačilu se morate povezati s Stripe.]]></value>
 	</definition>
 	<definition>
 		<key>text_stripe_settings</key>
-		<value><![CDATA[Nastavitve trakov]]></value>
+		<value><![CDATA[Nastavitve Stripe]]></value>
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Povežite se s Stripe	]]></value>
+		<value><![CDATA[Povežite se s Stripe.]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect</key>
-		<value><![CDATA[Odklopite Stripe]]></value>
+		<value><![CDATA[Prekini povezavo s Stripe]]></value>
 	</definition>
 	<definition>
 		<key>text_skip_connect</key>
-		<value><![CDATA[Se ne morete povezati?]]></value>
+		<value><![CDATA[Se ne more povezati?]]></value>
 	</definition>
 	<definition>
 		<key>text_connect_success</key>
-		<value><![CDATA[Uspešna povezava s Stripe]]></value>
+		<value><![CDATA[Povezava s Stripeom je bila uspešna.]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect_success</key>
-		<value><![CDATA[Povezava s Stripe je bila uspešno prekinjena]]></value>
+		<value><![CDATA[Uspešno odklopljeno od Stripe]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sort_order</key>
@@ -206,47 +206,47 @@
 	</definition>
 	<definition>
 		<key>stripe_test_mode</key>
-		<value><![CDATA[Testni način: <br/><span class="help">Nastavite na VKLOP, če želite uporabiti testni ključ</span>]]></value>
+		<value><![CDATA[Testni način:<br /><span class="help">Nastavite na VKLOP, če želite uporabiti testni ključ</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sk_live</key>
-		<value><![CDATA[Skrivni ključ v živo: <br/><span class="help">Poiščite to v razdelku s ključi API-ja Stripe. Ključ se začne s sk_live_...</span>]]></value>
+		<value><![CDATA[Živi skrivni ključ:<br /><span class="help">Poiščite to v razdelku Stripe API ključev. Ključ se začne z sk_live_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_pk_live</key>
-		<value><![CDATA[Ključ za objavo v živo: <br/><span class="help">Poiščite to v razdelku s ključi API-ja Stripe. Ključ se začne s pk_live_...</span>]]></value>
+		<value><![CDATA[Ključ za javno objavo v živo:<br /><span class="help">Najdite ga v razdelku API ključev Stripe. Ključ se začne z pk_live_...</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sk_test</key>
-		<value><![CDATA[Testni skrivni ključ: <br/><span class="help">Poiščite to v razdelku s ključi API-ja Stripe. Ključ se začne s sk_test_...</span>]]></value>
+		<value><![CDATA[Testni skrivni ključ:<br /><span class="help">Poiščite to v razdelku Stripe API Keys. Ključ se začne z sk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_pk_test</key>
-		<value><![CDATA[Preizkusite ključ za objavo: <br/><span class="help">Poiščite to v razdelku s ključi API-ja Stripe. Ključ se začne s pk_test_...</span>]]></value>
+		<value><![CDATA[Testni javni ključ:<br /><span class="help">Poiščite ga v razdelku API Keys v Stripe. Ključ se začne z pk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement</key>
-		<value><![CDATA[Vrsta poravnave: <br/><span class="help">Če je nastavljena na &#39;samodejno&#39;, bo transakcija vključena v današnjo poravnavo. Če je nastavljeno na &#39;zakasnjeno&#39;, bo transakcija avtorizirana, vendar ne poravnana (zajeta). Transakcije morate ročno zajeti v 7 dneh po avtorizaciji</span>]]></value>
+		<value><![CDATA[Settlement type:<br /><span class="help">Če je nastavljeno na 'auto', bo transakcija vključena v današnjo poravnavo. Če je nastavljeno na 'delayed', bo transakcija odobrena, vendar ne poravnana(zajeta). Transakcije morate ročno zajeti v roku 7 dni od odobritve</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_success_settled</key>
-		<value><![CDATA[Uspešno in poravnano: <br/><span class="help">Izberite glavno stanje naročila, ki ga želite nastaviti glede na stanje plačilnega procesorja</span>]]></value>
+		<value><![CDATA[Uspešno & poravnano:<br /><span class="help">Izberite glavni status naročila, ki ga želite nastaviti kot odgovor na status plačilnega procesorja</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_success_unsettled</key>
-		<value><![CDATA[Uspešno in ni poravnano: <br/><span class="help">Izberite status glavnega naročila, ki ga želite nastaviti glede na status plačilnega procesorja</span>]]></value>
+		<value><![CDATA[Uspeh & ne poravnano:<br /><span class="help">Izberite glavni status naročila, ki ga želite nastaviti kot odziv na status plačilnega procesorja</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_decline</key>
-		<value><![CDATA[Zavrnitev: <br/><span class="help">Status naročila, ki ga želite zabeležiti v zgodovino kot odgovor na status plačilnega procesorja. Stanje glavnega naročila ni prizadeto. Naročilo ne bo oddano šele po uspešnem plačilu.</span>]]></value>
+		<value><![CDATA[Decline:<br /><span class="help">Status naročila, ki ga želite zabeležiti v zgodovini kot odziv na status plačilnega procesorja. Glavni status naročila ostane nespremenjen. Naročilo bo oddano šele, ko bo plačilo uspešno.</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_void</key>
-		<value><![CDATA[Razveljavljeno: <br/><span class="help">status naročila, ki ga želite nastaviti, če je plačilo razveljavljeno v skrbniku/naročilu.</span>]]></value>
+		<value><![CDATA[Preklicano:<br /><span class="help">Status naročila, ki ga želite nastaviti, če je plačilo preklicano v admin/order.</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_refund</key>
-		<value><![CDATA[Povrnjeno: <br/><span class="help">Status naročila, ki ga želite nastaviti, če je plačilo vrnjeno v razdelku admin/order.</span>]]></value>
+		<value><![CDATA[Povrnjeno:<br /><span class="help">Stanje naročila, ki ga želite nastaviti, če je plačilo v admin/order povrnjeno.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -258,11 +258,11 @@
 	</definition>
 	<definition>
 		<key>text_captured_ok</key>
-		<value><![CDATA[Sredstva so bila uspešno zajeta]]></value>
+		<value><![CDATA[Sredstva so bila uspešno zaračunana.]]></value>
 	</definition>
 	<definition>
 		<key>text_captured_order</key>
-		<value><![CDATA[Zajem je bil uspešen, stanje naročila posodobljeno na uspešno – poravnano]]></value>
+		<value><![CDATA[Zajem je bil uspešen, status naročila posodobljen na uspeh - poravnano]]></value>
 	</definition>
 	<definition>
 		<key>text_refunded_ok</key>
@@ -270,19 +270,19 @@
 	</definition>
 	<definition>
 		<key>text_refund_order</key>
-		<value><![CDATA[Vračilo je bilo uspešno, stanje naročila je posodobljeno na vrnjeno]]></value>
+		<value><![CDATA[Vračilo je bilo uspešno, status naročila je bil posodobljen na ‘vračeno’.]]></value>
 	</definition>
 	<definition>
 		<key>text_voided</key>
-		<value><![CDATA[Razveljavitev je bila uspešna, status naročila posodobljen na razveljavljeno]]></value>
+		<value><![CDATA[Preklic je bil uspešen, status naročila je bil posodobljen na preklican]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement_auto</key>
-		<value><![CDATA[Samodejno (avtoriziraj in zajemaj)]]></value>
+		<value><![CDATA[Samodejno (odobri in poravnaj)]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement_delayed</key>
-		<value><![CDATA[Zakasnjen (samo avtorizacija)]]></value>
+		<value><![CDATA[Zakasnjeno (samo odobritev)]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
@@ -290,11 +290,11 @@
 	</definition>
 	<definition>
 		<key>text_capture_status</key>
-		<value><![CDATA[Plačilo je bilo zajeto]]></value>
+		<value><![CDATA[Plačilo je bilo zaračunano]]></value>
 	</definition>
 	<definition>
 		<key>text_void_status</key>
-		<value><![CDATA[Plačilo je bilo razveljavljeno]]></value>
+		<value><![CDATA[Plačilo je bilo preklicano.]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_status</key>
@@ -302,7 +302,7 @@
 	</definition>
 	<definition>
 		<key>text_capture_amount</key>
-		<value><![CDATA[Znesek zajemanja]]></value>
+		<value><![CDATA[Zajeti znesek]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_amount</key>
@@ -310,7 +310,7 @@
 	</definition>
 	<definition>
 		<key>text_order_ref</key>
-		<value><![CDATA[Stripe Charge ID]]></value>
+		<value><![CDATA[ID zaračuna Stripe]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total</key>
@@ -318,35 +318,35 @@
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Stanje zneska]]></value>
+		<value><![CDATA[Znesek stanja]]></value>
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[Transakcije vračil]]></value>
+		<value><![CDATA[Vračila transakcij]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_void</key>
-		<value><![CDATA[Potrdite, da želite razveljaviti plačilo?]]></value>
+		<value><![CDATA[Prosimo, potrdite, da želite preklicati plačilo?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_capture</key>
-		<value><![CDATA[Potrdite, da želite zajeti plačilo?]]></value>
+		<value><![CDATA[Prosimo, potrdite, da želite zaračunati plačilo?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_refund</key>
-		<value><![CDATA[Potrdite, da želite vrniti plačilo?]]></value>
+		<value><![CDATA[Prosimo, potrdite, da želite povrniti plačilo?]]></value>
 	</definition>
 	<definition>
 		<key>button_refund</key>
-		<value><![CDATA[Povračilo]]></value>
+		<value><![CDATA[Vračilo]]></value>
 	</definition>
 	<definition>
 		<key>button_void</key>
-		<value><![CDATA[Praznina]]></value>
+		<value><![CDATA[Razveljavi]]></value>
 	</definition>
 	<definition>
 		<key>button_capture</key>
-		<value><![CDATA[Zajemi]]></value>
+		<value><![CDATA[Zajem]]></value>
 	</definition>
 	<definition>
 		<key>error_system</key>
@@ -354,46 +354,44 @@
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Vnesite pozitiven znesek]]></value>
+		<value><![CDATA[Prosimo, vnesite pozitiven znesek]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_capture</key>
-		<value><![CDATA[Ni mogoče zajeti, osvežiti podrobnosti transakcije in preveriti zajetega zneska]]></value>
+		<value><![CDATA[Ni mogoče izvesti zajema, osvežite podrobnosti transakcije in preverite znesek zajema.]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_void</key>
-		<value><![CDATA[Ni mogoče razveljaviti transakcije, osvežiti in preveriti podrobnosti transakcije]]></value>
+		<value><![CDATA[Ni mogoče preklicati transakcije, osvežite in preverite podrobnosti transakcije.]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_refund</key>
-		<value><![CDATA[Vračilo ni mogoče, osvežite podrobnosti transakcije in preverite znesek vračila]]></value>
+		<value><![CDATA[Vračila ni mogoče izvesti, osvežite podrobnosti transakcije in preverite znesek vračila.]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_pk_test</key>
-		<value><![CDATA[Potreben je ključ Stripe Published]]></value>
+		<value><![CDATA[Stripe objavljeni ključ je obvezen]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_pk_live</key>
-		<value><![CDATA[Potreben je ključ Stripe Published]]></value>
+		<value><![CDATA[Objavljeni ključ Stripe je obvezen.]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_sk_test</key>
-		<value><![CDATA[Potreben je testni ključ Stripe]]></value>
+		<value><![CDATA[Stripe testni ključ je obvezen]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_sk_live</key>
-		<value><![CDATA[Potreben je ključ Stripe live]]></value>
+		<value><![CDATA[Živi ključ Stripe je potreben.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje plačila Stripe!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za urejanje Stripe Payment!]]></value>
 	</definition>
 	<definition>
 		<key>stripe_webhook_howto_text</key>
-		<value><![CDATA[Opomba: Za dokončanje nastavitve morate ustvariti spletne trnke na strani računa Stripe. 
- <br/> Pojdite na <a href="https://dashboard.stripe.com/webhooks" target="_new">razdelek za razvijalce nadzorne plošče Stripe</a> 
- in dodajte končne točke, ki prejemajo dogodke iz vašega računa. Ko je končna točka ustvarjena, kopirajte Signing Secret in shranite v pripadajoče nastavitve razširitve naročnine Stripe. 
-]]></value>
+		<value><![CDATA[Opomba: Za dokončanje nastavitev morate na strani vašega Stripe računa ustvariti spletne klice (webhooks).<br>
+Pojdite v <a href="https://dashboard.stripe.com/webhooks" target="_blank">razdelek za razvijalce v nadzorni plošči Stripe</a> in dodajte končne točke (Endpoints), ki prejemajo dogodke z vašega računa. Ko je končna točka ustvarjena, kopirajte Signing Secret in ga shranite v nastavitve Stripe Subscription Extension.]]></value>
 	</definition>
 	<definition>
 		<key>stripe_entry_endpoint_url</key>
@@ -401,6 +399,6 @@
 	</definition>
 	<definition>
 		<key>stripe_entry_endpoint_signing_secret</key>
-		<value><![CDATA[Skrivnost podpisovanja končne točke:]]></value>
+		<value><![CDATA[Tajni ključ za podpisovanje končne točke:]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[id]]></value>
+		<value><![CDATA[ID]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
-		<value><![CDATA[Date laget]]></value>
+		<value><![CDATA[Opprettelsesdato]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[Sittende fast]]></value>
+		<value><![CDATA[Fast]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
@@ -34,39 +34,39 @@
 	</definition>
 	<definition>
 		<key>text_running</key>
-		<value><![CDATA[Løping]]></value>
+		<value><![CDATA[Kjører]]></value>
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
-		<value><![CDATA[planlagt]]></value>
+		<value><![CDATA[Planlagt]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
-		<value><![CDATA[Funksjonshemmet]]></value>
+		<value><![CDATA[Deaktivert]]></value>
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[Mislykket]]></value>
+		<value><![CDATA[Feilet]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
-		<value><![CDATA[ufullstendig]]></value>
+		<value><![CDATA[Ufullstendig]]></value>
 	</definition>
 	<definition>
 		<key>text_completed</key>
-		<value><![CDATA[fullført]]></value>
+		<value><![CDATA[Fullført]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[Restart Task]]></value>
+		<value><![CDATA[Start oppgaven på nytt]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
-		<value><![CDATA[Kjør Task]]></value>
+		<value><![CDATA[Kjør oppgave]]></value>
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[oppgave startet]]></value>
+		<value><![CDATA[Oppgave startet]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
@@ -74,10 +74,10 @@
 	</definition>
 	<definition>
 		<key>text_empty_task</key>
-		<value><![CDATA[Oppgave ikke inneholder trinn. Fjernet.]]></value>
+		<value><![CDATA[Oppgaven inneholder ingen trinn. Fjernet.]]></value>
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[Forbudt å starte!]]></value>
+		<value><![CDATA[Forbudt å starte på nytt!]]></value>
 	</definition>
 </definitions>

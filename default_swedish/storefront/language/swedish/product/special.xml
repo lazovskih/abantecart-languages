@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Det finns inga specialerbjudande produkter att visa.]]></value>
+		<value><![CDATA[Det finns inga produkter med specialerbjudanden att lista.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Av 5 stjärnor!]]></value>
+		<value><![CDATA[%s av 5 stjärnor!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -22,26 +22,26 @@
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Namn A - Ö]]></value>
+		<value><![CDATA[Namn A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Namn Ö - A]]></value>
+		<value><![CDATA[Namn Z - A]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Pris Låg &gt; Hög]]></value>
+		<value><![CDATA[Pris Lågt > Högt]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Pris Hög &gt; Låg]]></value>
+		<value><![CDATA[Pris Hög > Låg]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Lägst]]></value>
+		<value><![CDATA[Lägsta betyg]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[rank Högsta]]></value>
+		<value><![CDATA[Högsta betyg]]></value>
 	</definition>
 </definitions>

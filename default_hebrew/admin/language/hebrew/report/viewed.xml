@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מוצרים נצפים דווחו]]></value>
+		<value><![CDATA[דוח צפיות במוצרים]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך לאפס את הדו&quot;ח צפה המוצר!]]></value>
+		<value><![CDATA[הצלחה: איפסת את דוח צפיות המוצר!]]></value>
 	</definition>
 	<definition>
 		<key>column_product_id</key>
@@ -14,11 +14,15 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם מוצר]]></value>
+		<value><![CDATA[שם המוצר]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[דֶגֶם]]></value>
+		<value><![CDATA[דגם]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[מק"ט]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
@@ -26,14 +30,10 @@
 	</definition>
 	<definition>
 		<key>column_viewed</key>
-		<value><![CDATA[הנצפה]]></value>
+		<value><![CDATA[נצפה]]></value>
 	</definition>
 	<definition>
 		<key>column_percent</key>
-		<value><![CDATA[אָחוּז]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[מק&quot;ט]]></value>
+		<value><![CDATA[אחוז]]></value>
 	</definition>
 </definitions>

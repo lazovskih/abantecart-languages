@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Ön módosította menüt!]]></value>
+		<value><![CDATA[Siker: módosította a menüt!]]></value>
 	</definition>
 	<definition>
 		<key>entry_item_id</key>
-		<value><![CDATA[Egyéni azonosító]]></value>
+		<value><![CDATA[Egyedi azonosító]]></value>
 	</definition>
 	<definition>
 		<key>entry_item_icon</key>
@@ -22,7 +22,11 @@
 	</definition>
 	<definition>
 		<key>entry_item_url</key>
-		<value><![CDATA[Link <br/><span class="help">Külső hivatkozások a http:// vagy https:// az elején</span>]]></value>
+		<value><![CDATA[Hivatkozás<br /><span class="help">A külső hivatkozásokhoz adja a http:// vagy https://-t a cím elejére. Relatív URL-eket is használhat, például ../subfolder/index.php</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_item_target</key>
+		<value><![CDATA[Cél<br/><span class="help">_self - megnyitja a hivatkozott dokumentumot ugyanabban a keretben, ahol rákattintott.<br>_blank - megnyitja a hivatkozott dokumentumot új ablakban vagy lapon</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_parent_id</key>
@@ -30,7 +34,11 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Sorrend]]></value>
+		<value><![CDATA[Rendezési sorrend]]></value>
+	</definition>
+	<definition>
+		<key>entry_link_type</key>
+		<value><![CDATA[Link típusa]]></value>
 	</definition>
 	<definition>
 		<key>text_select_parent_id</key>
@@ -42,15 +50,11 @@
 	</definition>
 	<definition>
 		<key>error_non_unique</key>
-		<value><![CDATA[Termék azonosító nem egyedi!]]></value>
+		<value><![CDATA[Az elemazonosító nem egyedi!]]></value>
 	</definition>
 	<definition>
 		<key>error_non_ascii</key>
-		<value><![CDATA[Csak alfanumerikus karakterek engedélyezett menü ID mezőt!]]></value>
-	</definition>
-	<definition>
-		<key>entry_link_type</key>
-		<value><![CDATA[Link típusa]]></value>
+		<value><![CDATA[Csak alfanumerikus karakterek engedélyezettek a menüazonosító mezőben!]]></value>
 	</definition>
 	<definition>
 		<key>text_category_link_type</key>
@@ -58,18 +62,14 @@
 	</definition>
 	<definition>
 		<key>text_content_link_type</key>
-		<value><![CDATA[tartalmi oldal]]></value>
+		<value><![CDATA[Tartalom oldal]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_link_type</key>
 		<value><![CDATA[Egyéni link vagy URL]]></value>
 	</definition>
 	<definition>
-		<key>entry_item_target</key>
-		<value><![CDATA[Target <br/><span class="help">_self – a hivatkozott dokumentumot ugyanabban a keretben nyitja meg, ahol rákattintottak. <br/> _blank – új ablakban vagy lapon nyitja meg a hivatkozott dokumentumot</span>]]></value>
-	</definition>
-	<definition>
 		<key>entry_include_children_items</key>
-		<value><![CDATA[Tartalmazza a gyermekek elemeit]]></value>
+		<value><![CDATA[Gyermek elemeket is tartalmazzon]]></value>
 	</definition>
 </definitions>

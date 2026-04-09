@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_cheque_name</key>
-		<value><![CDATA[Šek / Peněžní příkaz]]></value>
+		<value><![CDATA[Šek / Poštovní poukázka]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Upravili jste podrobnosti účtu šeku / poukázky!]]></value>
+		<value><![CDATA[Úspěch: Změnili jste údaje o účtu pro šek / poštovní poukázku!]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_payable</key>
-		<value><![CDATA[Splatné: <br/><span class="help">Uveďte jméno, na které je třeba napsat šek</span>]]></value>
+		<value><![CDATA[Adresát šeku:<br /><span class="help">Uveďte jméno, na které má být šek vystaven</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_address</key>
-		<value><![CDATA[Mail nebo Send To: <br/><span class="help">Zadejte adresu, kam má být šek zaslán. Pokud je prázdné, použije se adresa hlavního obchodu</span>]]></value>
+		<value><![CDATA[Odeslat poštou nebo na adresu:<br /><span class="help">Zadejte adresu, na kterou má být šek zaslán. Pokud bude prázdné, bude použita adresa hlavního obchodu</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_order_status_id</key>
@@ -30,14 +30,14 @@
 	</definition>
 	<definition>
 		<key>default_cheque_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechny lokace]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat platební šek / peněžní poukázku!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat platbu šekem / poštovní poukázkou!]]></value>
 	</definition>
 	<definition>
 		<key>error_payable</key>
-		<value><![CDATA[Splatné na povinné!]]></value>
+		<value><![CDATA[Příjemce platby je povinný!]]></value>
 	</definition>
 </definitions>

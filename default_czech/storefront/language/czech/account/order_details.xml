@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_invoice_id</key>
-		<value><![CDATA[ID faktury]]></value>
+		<value><![CDATA[Číslo faktury]]></value>
 	</definition>
 	<definition>
 		<key>text_order_id</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[Platební adresa]]></value>
+		<value><![CDATA[Fakturační adresa]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Skladová jednotka]]></value>
 	</definition>
 	<definition>
 		<key>text_quantity</key>
@@ -78,11 +78,11 @@
 	</definition>
 	<definition>
 		<key>text_price</key>
-		<value><![CDATA[Jednotková cena]]></value>
+		<value><![CDATA[Cena za jednotku]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Celkový]]></value>
+		<value><![CDATA[Celkem]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
@@ -90,11 +90,11 @@
 	</definition>
 	<definition>
 		<key>text_image</key>
-		<value><![CDATA[Obraz]]></value>
+		<value><![CDATA[Obrázek]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Objednávka, kterou jste požadovali, nebyla nalezena!]]></value>
+		<value><![CDATA[Objednávku, kterou jste požadovali, se nepodařilo najít!]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
@@ -102,11 +102,11 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[Komentář k objednávce zákazníka]]></value>
+		<value><![CDATA[Komentář zákazníka k objednávce]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation</key>
@@ -114,12 +114,11 @@
 	</definition>
 	<definition>
 		<key>text_request_cancellation_from_customer</key>
-		<value><![CDATA[Požádejte zákazníka o zrušení objednávky ]]></value>
+		<value><![CDATA[Požádat zákazníka o zrušení objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_confirm</key>
-		<value><![CDATA[
- Vaše žádost o zrušení nemusí být v některých případech podána, například když bylo zboží odesláno. Pokračovat?]]></value>
+		<value><![CDATA[Vaše žádost o zrušení nemusí být v některých případech možná, například když bylo zboží odesláno. Pokračovat?]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_success</key>
@@ -127,11 +126,11 @@
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_title</key>
-		<value><![CDATA[Objednávka #%s žádost o zrušení]]></value>
+		<value><![CDATA[Žádost o zrušení objednávky #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_body</key>
-		<value><![CDATA[Zákazník %s požádal o zrušení objednávky pro objednávku #%s. Chcete-li zkontrolovat, přejděte na %s]]></value>
+		<value><![CDATA[Zákazník %s požádal o zrušení objednávky #%s. Pro kontrolu přejděte na %s]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
@@ -139,6 +138,6 @@
 	</definition>
 	<definition>
 		<key>error_order_id</key>
-		<value><![CDATA[ID objednávky je povinné pole!]]></value>
+		<value><![CDATA[Pole ID objednávky je povinné!]]></value>
 	</definition>
 </definitions>

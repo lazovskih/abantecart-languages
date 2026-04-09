@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[användare]]></value>
+		<value><![CDATA[Användare]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_details</key>
-		<value><![CDATA[Redigera Profildetaljer]]></value>
+		<value><![CDATA[Redigera profildetaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_user</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[datum tillagt]]></value>
+		<value><![CDATA[Datum tillagt]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
@@ -74,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>entry_ims</key>
-		<value><![CDATA[aviseringar]]></value>
+		<value><![CDATA[Aviseringar]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
@@ -90,15 +90,15 @@
 	</definition>
 	<definition>
 		<key>error_username</key>
-		<value><![CDATA[Användarnamn måste vara mellan 2 och 20 tecken!]]></value>
+		<value><![CDATA[Användarnamn måste vara mellan 2 och 20 tecken och måste vara unikt!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Lösenord måste vara mer än 3 tecken!]]></value>
+		<value><![CDATA[Lösenordet måste vara längre än 3 tecken!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
-		<value><![CDATA[Lösenord och bekräftelse lösenord stämmer inte överens!]]></value>
+		<value><![CDATA[Lösenord och lösenordsbekräftelse stämmer inte överens!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
@@ -114,11 +114,11 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Human Verifiering misslyckades!]]></value>
+		<value><![CDATA[Mänsklig verifiering misslyckades!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_group</key>
-		<value><![CDATA[Du har inga rättigheter att ändra användargrupp.]]></value>
+		<value><![CDATA[Du har inte behörighet att ändra användargrupp.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
@@ -126,22 +126,22 @@
 	</definition>
 	<definition>
 		<key>entry_im_email</key>
-		<value><![CDATA[E-post: <span class="help">En eller flera kommaseparerade e-postadresser</span>]]></value>
+		<value><![CDATA[E-post:<span class="help">En eller flera e-postadresser separerade med kommatecken</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_im_sms</key>
-		<value><![CDATA[Mobiltelefon: <span class="help">Telefonnummer i internationellt format. ex. +14566887777</span>]]></value>
+		<value><![CDATA[Mobiltelefon:<span class="help">Telefonnummer i internationellt format. t.ex. +14566887777</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_im</key>
-		<value><![CDATA[redigera Notifications]]></value>
+		<value><![CDATA[Redigera aviseringar]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoints</key>
-		<value><![CDATA[meddelande inställningar]]></value>
+		<value><![CDATA[Aviseringsinställningar]]></value>
 	</definition>
 	<definition>
 		<key>text_change_im_addresses</key>
-		<value><![CDATA[Redigera Anmälan Adresser för denna SendPoint]]></value>
+		<value><![CDATA[Redigera notifieringsadresser för denna SendPoint]]></value>
 	</definition>
 </definitions>

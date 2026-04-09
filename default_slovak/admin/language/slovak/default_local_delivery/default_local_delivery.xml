@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>
-		<value><![CDATA[Minimálna suma objednávky: <br/><span class="help">Minimálna čiastková suma, ktorú je potrebné splniť, aby bola k dispozícii možnosť doručenia.</span>]]></value>
+		<value><![CDATA[Minimálna hodnota objednávky:<br /><span class="help">Minimálna hodnota medzisúčtu, ktorú je potrebné dosiahnuť, aby bola možnosť doručenia k dispozícii.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_cost</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>
-		<value><![CDATA[Poštové smerovacie čísla: <br/><span class="help">zoznam poštových smerovacích čísel oddelených čiarkami. Zástupný znak * podporovaný. Príklad 30001,3002,40*,*ND</span>]]></value>
+		<value><![CDATA[Poštové smerovacie čísla:<br /><span class="help"> Zoznam PSČ oddelených čiarkami. Podporované zástupné znaky *. Napr. 30001,3002,40*,*ND</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[recenze]]></value>
+		<value><![CDATA[Recenze]]></value>
 	</definition>
 	<definition>
 		<key>text_review</key>
-		<value><![CDATA[Posouzení]]></value>
+		<value><![CDATA[Recenze]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[aktualizace Review]]></value>
+		<value><![CDATA[Aktualizovat recenzi]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste hodnocení!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste recenze!]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[datum přidáno]]></value>
+		<value><![CDATA[Datum přidání]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -58,11 +58,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavení:]]></value>
-	</definition>
-	<definition>
-		<key>entry_text</key>
-		<value><![CDATA[Text:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_good</key>
@@ -74,23 +70,23 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění ke změně hodnocení!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat recenze!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[požadované zboží!]]></value>
+		<value><![CDATA[Produkt je povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_author</key>
-		<value><![CDATA[Autor musí být mezi 2 a 64 znaků!]]></value>
+		<value><![CDATA[Autor musí mít mezi 2 a 64 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Review Text musí být v rozmezí 25 až 1000 znaků!]]></value>
+		<value><![CDATA[Text recenze musí být mezi 25 a 1000 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Počet Review povinná!]]></value>
+		<value><![CDATA[Hodnocení recenze je povinné!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -107,5 +103,9 @@
 	<definition>
 		<key>entry_verified_purchase</key>
 		<value><![CDATA[Ověřený nákup:]]></value>
+	</definition>
+	<definition>
+		<key>entry_text</key>
+		<value><![CDATA[Text:]]></value>
 	</definition>
 </definitions>

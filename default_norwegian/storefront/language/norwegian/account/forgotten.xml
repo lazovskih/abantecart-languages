@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Glemt passordet?]]></value>
+		<value><![CDATA[Glemt passordet ditt?]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_loginname</key>
-		<value><![CDATA[Glemt påloggingsnavn?]]></value>
+		<value><![CDATA[Glemt brukernavnet ditt?]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,35 +14,35 @@
 	</definition>
 	<definition>
 		<key>text_forgotten</key>
-		<value><![CDATA[glemt passord]]></value>
+		<value><![CDATA[Glemt passord]]></value>
 	</definition>
 	<definition>
 		<key>text_your_email</key>
-		<value><![CDATA[Din epostadresse]]></value>
+		<value><![CDATA[Din e-postadresse]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[Skriv inn e-postadressen som er tilknyttet kontoen din. Klikk sender til passordet bli sent til deg]]></value>
+		<value><![CDATA[Oppgi e-postadressen som er tilknyttet kontoen din. Klikk på Send for å få passordet ditt tilsendt på e-post.]]></value>
 	</definition>
 	<definition>
 		<key>text_loginname_email</key>
-		<value><![CDATA[Skriv inn brukernavn og e-postadressen som er tilknyttet kontoen din. Klikk på Send for å be om tilbakestilling av passord]]></value>
+		<value><![CDATA[Skriv inn brukernavnet og e-postadressen som er tilknyttet kontoen din. Klikk på Send for å be om tilbakestilling av passordet.]]></value>
 	</definition>
 	<definition>
 		<key>text_lastname_email</key>
-		<value><![CDATA[Skriv inn etternavn og e-postadressen som er tilknyttet kontoen din. Klikk på Send for å ha ditt påloggingsnavn sendt til deg]]></value>
+		<value><![CDATA[Skriv inn etternavn og e-postadresse som er tilknyttet kontoen din. Klikk på Send inn for å få brukernavnet ditt tilsendt på e-post.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Passord reset adresse har blitt sendt til din e-post adresse.]]></value>
+		<value><![CDATA[Suksess: Lenke for tilbakestilling av passord er sendt til e-postadressen din.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_loginname</key>
-		<value><![CDATA[Suksess: Ditt påloggingsnavn påminnelse har blitt sendt til din e-post adresse.]]></value>
+		<value><![CDATA[Suksess: Påminnelsen om brukernavnet ditt er sendt til e-postadressen din.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Påloggingsnavn:]]></value>
+		<value><![CDATA[Brukernavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_lastname</key>
@@ -50,26 +50,26 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Epostadresse:]]></value>
+		<value><![CDATA[E-postadresse:]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Feil: E-post ble ikke gitt eller ikke finnes i våre registre, prøv igjen!]]></value>
+		<value><![CDATA[Feil: E-postadressen ble ikke oppgitt eller ikke funnet i våre registre, vennligst prøv igjen!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Feil: Påloggingsnavn ble ikke gitt eller ikke finnes i våre registre, prøv igjen!]]></value>
+		<value><![CDATA[Feil: Innloggingsnavn ble ikke oppgitt eller ikke funnet i våre registre, vennligst prøv igjen!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Feil: Etternavn ble ikke gitt eller ikke finnes i våre registre, prøv igjen!]]></value>
+		<value><![CDATA[Feil: Etternavnet ble ikke oppgitt eller ikke funnet i våre registre, vennligst prøv igjen!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_found</key>
-		<value><![CDATA[Feil: Ingen poster funnet som passer dine opplysninger gitt, vennligst sjekk din informasjon, og prøv igjen!]]></value>
+		<value><![CDATA[Feil: Ingen oppføringer funnet som samsvarer med informasjonen du oppga, vennligst sjekk informasjonen din og prøv igjen!]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_loginname</key>
-		<value><![CDATA[Glemt påloggingsnavn]]></value>
+		<value><![CDATA[Glemt innloggingsnavn]]></value>
 	</definition>
 </definitions>

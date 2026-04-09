@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[účtu ke stažení]]></value>
+		<value><![CDATA[Stahování účtu]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum přidáno:]]></value>
+		<value><![CDATA[Datum přidání:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_purchased</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_remaining</key>
-		<value><![CDATA[Zbývající:]]></value>
+		<value><![CDATA[Zbývá:]]></value>
 	</definition>
 	<definition>
 		<key>text_size</key>
@@ -38,31 +38,31 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Stažení]]></value>
+		<value><![CDATA[Stáhnout]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Jste neprovedli žádné předchozí objednávky stahovatelné!]]></value>
+		<value><![CDATA[Zatím jste neprovedli žádné předchozí stahovatelné objednávky!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
-		<value><![CDATA[Datum spotřeby:]]></value>
+		<value><![CDATA[Datum vypršení platnosti:]]></value>
 	</definition>
 	<definition>
 		<key>text_expired</key>
-		<value><![CDATA[vypršela]]></value>
+		<value><![CDATA[Vypršelo]]></value>
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[čekající]]></value>
+		<value><![CDATA[Čekající]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[nedostupné]]></value>
+		<value><![CDATA[Nedostupné]]></value>
 	</definition>
 	<definition>
 		<key>text_reached_limit</key>
-		<value><![CDATA[Limit dosáhl]]></value>
+		<value><![CDATA[Limit dosažen]]></value>
 	</definition>
 	<definition>
 		<key>error_download_not_exists</key>

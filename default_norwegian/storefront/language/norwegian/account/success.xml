@@ -1,20 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Din konto har blitt laget!]]></value>
+		<value><![CDATA[Din konto er opprettet!]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Gratulerer! Din nye konto er opprettet! </p><p> Du kan nå dra nytte av medlemsrettigheter for å forbedre din online shopping erfaring med oss. </p><p> Hvis du har noen spørsmål om bruken av dette nettbutikken, vennligst kontakt butikkeier. </p><p> En bekreftelse er blitt sendt til den oppgitte e-postadresse. Hvis du ikke har mottatt den i timen, kan du <a href="%s">kontakte oss</a>. </p>]]></value>
+		<value><![CDATA[<p>Gratulerer! Din nye konto har blitt opprettet med suksess!</p>
+<p>Du kan nå dra nytte av medlemsfordelene for å forbedre handleopplevelsen din på nettet hos oss.</p>
+<p>Hvis du har NOEN spørsmål om driften av denne nettbutikken, vennligst send e-post til butikkeieren.</p>
+<p>En bekreftelse er sendt til den oppgitte e-postadressen. Hvis du ikke har mottatt den innen en time, vennligst <a href="%s">kontakt oss</a>.</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_approval</key>
-		<value><![CDATA[<p> Takk for at du registrerer deg med %s! </p><p> Du vil bli varslet via e-post når kontoen har blitt aktivert av butikkeier. </p><p> Hvis du har noen spørsmål om bruken av dette online butikk, kan du <a href="%s">ta kontakt med butikkeier</a>. </p>]]></value>
+		<value><![CDATA[<p>Takk for at du registrerte deg hos %s!</p><p>Du vil bli varslet på e-post når kontoen din er aktivert av butikkens eier.</p><p>Hvis du har noen som helst spørsmål om driften av denne nettbutikken, vennligst <a href="%s">kontakt butikkens eier</a>.</p>]]></value>
+	</definition>
+	<definition>
+		<key>heading_title_activation</key>
+		<value><![CDATA[Kontoen din er opprettet, men aktivering kreves. Vennligst følg instruksjonene.]]></value>
 	</definition>
 	<definition>
 		<key>text_activate</key>
-		<value><![CDATA[<p> Takk for at du registrerer deg med %s! </p><p> Du vil bli varslet via e-post med dine kontoaktiveringsinstruksjoner. Du må klikke på linken i e-posten for å aktivere kontoen din. Hvis du ikke mottar e-posten, kan du sjekke ut søppelpost eller spam mapper. </p><p> Hvis du har noen spørsmål om bruken av dette online butikk, kan du <a href="%s">ta kontakt med butikkeier</a>. </p>]]></value>
+		<value><![CDATA[<p>Takk for at du registrerte deg hos %s!</p><p>Du vil bli varslet via e-post med instruksjoner for aktivering av kontoen din. Du må klikke på lenken som er oppgitt i e-posten for å aktivere kontoen din. Hvis du ikke mottar e-posten, vennligst sjekk i søppelpost- eller spam-mappene dine.</p><p>Hvis du har noen spørsmål om driften av denne nettbutikken, vennligst <a href="%s">kontakt butikkeieren</a>.</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -23,9 +30,5 @@
 	<definition>
 		<key>text_success</key>
 		<value><![CDATA[Suksess]]></value>
-	</definition>
-	<definition>
-		<key>heading_title_activation</key>
-		<value><![CDATA[Kontoen din er opprettet, men aktivering kreves. Vennligst følg instruksjonene.]]></value>
 	</definition>
 </definitions>

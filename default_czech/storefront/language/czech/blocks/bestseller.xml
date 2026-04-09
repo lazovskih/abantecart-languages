@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Nejlepší prodejci]]></value>
+		<value><![CDATA[Nejprodávanější]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Viz nejprodávanějších produktů]]></value>
+		<value><![CDATA[Zobrazit nejprodávanější produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 hvězdiček!]]></value>
+		<value><![CDATA[%s z 5 hvězd!]]></value>
 	</definition>
 </definitions>

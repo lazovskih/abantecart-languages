@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
@@ -6,18 +6,18 @@
 	</definition>
 	<definition>
 		<key>text_welcome</key>
-		<value><![CDATA[Pozdrav in hvala za prijavo na %s!]]></value>
+		<value><![CDATA[Dobrodošli in hvala za registracijo pri %s!]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Vaš račun je bil sedaj ustvarjen in se lahko prijavite z uporabo e-poštni naslov in geslo, da obiščete našo spletno stran ali na naslednjem spletnem naslovu:]]></value>
+		<value><![CDATA[Vaš račun je zdaj ustvarjen in se lahko prijavite z uporabo svojega e-poštnega naslova in gesla, tako da obiščete našo spletno stran ali na naslednjem URL-ju:]]></value>
 	</definition>
 	<definition>
 		<key>text_services</key>
-		<value><![CDATA[Ko se prijavite, boste lahko dostopali, seznam želja, zgodovino naročil, tiskanje računov in urejanje informacij o računu.]]></value>
+		<value><![CDATA[Ko se prijavite, boste lahko dostopali do svojega seznama želja, zgodovine naročil, tiskanja računov in urejanja podatkov o računu.]]></value>
 	</definition>
 	<definition>
 		<key>text_thanks</key>
-		<value><![CDATA[Hvala vam,]]></value>
+		<value><![CDATA[Hvala,]]></value>
 	</definition>
 </definitions>

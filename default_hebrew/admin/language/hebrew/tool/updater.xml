@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מנהל Update]]></value>
+		<value><![CDATA[מנהל העדכונים]]></value>
 	</definition>
 	<definition>
 		<key>text_checkupdates</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם תוסף]]></value>
+		<value><![CDATA[שם ההרחבה]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[סוּג]]></value>
+		<value><![CDATA[סוג]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_version</key>
@@ -38,15 +38,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: הרחבות עודכנה בהצלחה!]]></value>
+		<value><![CDATA[הצלחה: התוספים עודכנו בהצלחה!]]></value>
 	</definition>
 	<definition>
 		<key>text_update</key>
-		<value><![CDATA[עדכון]]></value>
+		<value><![CDATA[עדכן]]></value>
 	</definition>
 	<definition>
 		<key>entry_restore_exts</key>
-		<value><![CDATA[שחזור סיומת backuped:]]></value>
+		<value><![CDATA[שחזר הרחבה מגובה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
@@ -54,19 +54,19 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות בספרייה:]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את התיקייה:]]></value>
 	</definition>
 	<definition>
 		<key>warning_server</key>
-		<value><![CDATA[שרת עם עדכונים הוא inaccesible.]]></value>
+		<value><![CDATA[השרת עם העדכונים אינו נגיש.]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_title</key>
-		<value><![CDATA[הודעת עדכון עבור% סיומת%]]></value>
+		<value><![CDATA[הודעת עדכון עבור %EXTENSION%]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_text</key>
-		<value><![CDATA[&quot;גרסה החדשה של סיומת&quot;% סיומת% &quot;זמינה. אנא, עבור אל% LINK% לשדרג אותו. &quot;]]></value>
+		<value><![CDATA[גרסה חדשה של התוסף "%EXTENSION%" זמינה. אנא עבור אל %LINK% ושדרג אותו.]]></value>
 	</definition>
 	<definition>
 		<key>warning_updates</key>
@@ -74,30 +74,30 @@
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[אזהרה: הקובץ שהעלת היה ריק!]]></value>
+		<value><![CDATA[אזהרה: הקובץ שהעלית היה ריק!]]></value>
 	</definition>
 	<definition>
 		<key>error_exts_list</key>
-		<value><![CDATA[אזהרה: רשימה רחבה היא לא מערך!]]></value>
+		<value><![CDATA[אזהרה: רשימת ההרחבות אינה מערך!]]></value>
 	</definition>
 	<definition>
 		<key>text_nothing_todo</key>
-		<value><![CDATA[הרחבות של שלך מעודכנות. אין מה לעשות.]]></value>
+		<value><![CDATA[ההרחבות שלך מעודכנות. אין מה לעשות.]]></value>
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[לְחַבֵּר]]></value>
+		<value><![CDATA[התחבר]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect</key>
-		<value><![CDATA[חבר אל השוק]]></value>
+		<value><![CDATA[התחבר לשוק]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect_your_store</key>
-		<value><![CDATA[אנא חבר החנות שלך אל השוק]]></value>
+		<value><![CDATA[אנא חבר את החנות שלך לשוק]]></value>
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[הערה: עדכון זמין רק עבור חנויות מחוברות עם היסטוריה שנרכשה.]]></value>
+		<value><![CDATA[הערה: עדכון זמין רק לחנויות מחוברות עם היסטוריית רכישות.]]></value>
 	</definition>
 </definitions>

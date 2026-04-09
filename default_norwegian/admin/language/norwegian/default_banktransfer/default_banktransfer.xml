@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret bankoverføringsinnstillinger og detaljer!]]></value>
+		<value><![CDATA[Suksess: Du har endret innstillingene og detaljene for bankoverføring!]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_instructions</key>
-		<value><![CDATA[Bankoverføringsinstruksjoner: <span class="help">Instruksjoner vist til kunder om å foreta bank- eller bankoverføring til bankkontoen din</span>]]></value>
+		<value><![CDATA[Bankoverføringsinstruksjoner:<span class="help">Instruksjon som vises til kundene for å foreta bank- eller telegrafisk overføring til bankkontoen din</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_min</key>
-		<value><![CDATA[Total bestillingsgrense: <span class="help">Minimum bestillingsbeløp som skal nås for å tillate denne betalingen</span>]]></value>
+		<value><![CDATA[Total ordregrense:<span class="help">Minimumsordrebeløp som må nås for å tillate denne betalingen</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_status_id</key>
@@ -34,10 +34,10 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre betalingsbankoverføring!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre betalingsmetoden banktransfer!]]></value>
 	</definition>
 	<definition>
 		<key>error_instructions</key>
-		<value><![CDATA[Bankoverføringsinstruksjoner kreves!]]></value>
+		<value><![CDATA[Bankoverføringsinstruksjoner er påkrevd!]]></value>
 	</definition>
 </definitions>

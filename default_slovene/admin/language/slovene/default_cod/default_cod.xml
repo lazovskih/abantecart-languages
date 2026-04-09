@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_cod_name</key>
-		<value><![CDATA[Gotovina ob dostavi]]></value>
+		<value><![CDATA[Plačilo po povzetju]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Spremenili ste plačilni modul z gotovino ob povzetju!]]></value>
+		<value><![CDATA[Uspeh: spremenili ste modul plačila po povzetju!]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_order_status_id</key>
@@ -26,6 +26,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje plačila z gotovino ob dostavi!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za urejanje plačila po povzetju!]]></value>
 	</definition>
 </definitions>

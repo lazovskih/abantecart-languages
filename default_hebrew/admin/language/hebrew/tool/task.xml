@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[תְעוּדַת זֶהוּת]]></value>
+		<value><![CDATA[מזהה]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
@@ -14,23 +14,23 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שֵׁם]]></value>
+		<value><![CDATA[שם]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_start_time</key>
-		<value><![CDATA[שעת התחלה]]></value>
+		<value><![CDATA[זמן התחלה]]></value>
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[תָקוּעַ]]></value>
+		<value><![CDATA[תקוע]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
-		<value><![CDATA[מוּכָן]]></value>
+		<value><![CDATA[מוכן]]></value>
 	</definition>
 	<definition>
 		<key>text_running</key>
@@ -38,19 +38,19 @@
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
-		<value><![CDATA[מתוזמנות]]></value>
+		<value><![CDATA[מתוזמן]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
-		<value><![CDATA[נָכֶה]]></value>
+		<value><![CDATA[מושבת]]></value>
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[נִכשָׁל]]></value>
+		<value><![CDATA[נכשל]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
-		<value><![CDATA[לא שלם]]></value>
+		<value><![CDATA[לא הושלם]]></value>
 	</definition>
 	<definition>
 		<key>text_completed</key>
@@ -58,26 +58,26 @@
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[משימות Restart]]></value>
+		<value><![CDATA[הפעל מחדש את המשימה]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
-		<value><![CDATA[הפעלת משימות]]></value>
+		<value><![CDATA[הפעל משימה]]></value>
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[המשימות נכתבו]]></value>
+		<value><![CDATA[המשימה החלה]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
-		<value><![CDATA[משימות לא נמצא.]]></value>
+		<value><![CDATA[משימה לא נמצאה.]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_task</key>
-		<value><![CDATA[משימות לא מכילות שלבים. הוסר.]]></value>
+		<value><![CDATA[המשימה לא מכילה שלבים. הוסר.]]></value>
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[אסור להפעיל מחדש!]]></value>
+		<value><![CDATA[אסור לאתחל!]]></value>
 	</definition>
 </definitions>

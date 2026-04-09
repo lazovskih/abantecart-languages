@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[A fiókom]]></value>
+		<value><![CDATA[Fiókom]]></value>
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[Fiók Portál]]></value>
+		<value><![CDATA[Fiók irányítópult]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_my_account</key>
-		<value><![CDATA[A fiókom]]></value>
+		<value><![CDATA[Fiókom]]></value>
 	</definition>
 	<definition>
 		<key>text_my_orders</key>
-		<value><![CDATA[rendeléseim]]></value>
+		<value><![CDATA[Rendeléseim]]></value>
 	</definition>
 	<definition>
 		<key>text_my_notifications</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Fiókadatok módosítása]]></value>
+		<value><![CDATA[Fiókadatok szerkesztése]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Kezelés címjegyzék]]></value>
+		<value><![CDATA[Címjegyzék kezelése]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -50,10 +50,10 @@
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[hírlevél feliratkozás]]></value>
+		<value><![CDATA[Hírlevél feliratkozás]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>
-		<value><![CDATA[A kívánságlistám]]></value>
+		<value><![CDATA[Az én kívánságlistám]]></value>
 	</definition>
 </definitions>

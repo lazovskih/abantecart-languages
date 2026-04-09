@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_possible_commands</key>
-		<value><![CDATA[Poniżej znajduje się kilka poleceń. Można speek więcej szczegółów po słowie kluczowym polecenia. Przykład: &quot;otwierać wiadomości Strona&quot; lub &quot;wkładka produkt&quot;]]></value>
+		<value><![CDATA[Poniżej znajdują się możliwe polecenia. Możesz podać więcej szczegółów po słowie kluczowym polecenia. Przykład: „open page messages” lub „insert product”]]></value>
 	</definition>
 	<definition>
 		<key>text_multiple_result_found</key>
-		<value><![CDATA[Stwardnienie wynikiem działania znaleziono:]]></value>
+		<value><![CDATA[Znaleziono wiele wyników akcji:]]></value>
 	</definition>
 	<definition>
 		<key>text_action_confirm</key>
-		<value><![CDATA[Potwierdź swój wniosek:]]></value>
+		<value><![CDATA[Proszę potwierdzić swoją prośbę:]]></value>
 	</definition>
 	<definition>
 		<key>command_open</key>
-		<value><![CDATA[otwarte, otwarty, otwórz menu]]></value>
+		<value><![CDATA[otwórz, otwórz stronę, otwórz menu]]></value>
 	</definition>
 	<definition>
 		<key>command_find</key>
-		<value><![CDATA[zlokalizować, znaleźć, wyszukiwanie, szukać, szukać 4]]></value>
+		<value><![CDATA[zlokalizować, znaleźć, szukać, szukać, search 4]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_cache</key>
-		<value><![CDATA[Wyczyść cache, cache jasne, jasne, wszystko cache]]></value>
+		<value><![CDATA[wyczyść pamięć podręczną, wyczyść pamięć podręczną, wyczyść całą pamięć podręczną]]></value>
 	</definition>
 	<definition>
 		<key>command_view_log</key>
-		<value><![CDATA[Widok dziennika, widok zalogować, sprawdź dziennik patrz zalogować, przeglądać dziennik błędów, wyświetlanie błędów]]></value>
+		<value><![CDATA[wyświetl dziennik, podgląd dziennika, przejrzyj dziennik, zobacz dziennik, wyświetl dziennik błędów, wyświetl błędy]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_log</key>
-		<value><![CDATA[Wyczyść rejestr, logowania jasne, usuń dziennik, dziennik Usuń]]></value>
+		<value><![CDATA[wyczyść dziennik, wyczyść dziennik, usuń dziennik, usuń dziennik]]></value>
 	</definition>
 	<definition>
 		<key>command_view_order</key>
-		<value><![CDATA[Kolejność widok, numer zamówienia, otwarte zlecenie, pokaz porządek, otwarty numer zamówienia, numer Widok porządek, Pokaż numer zamówienia, zamówienie #]]></value>
+		<value><![CDATA[wyświetl zamówienie, numer zamówienia, otwórz zamówienie, pokaż zamówienie, otwórz numer zamówienia, wyświetl numer zamówienia, pokaż numer zamówienia, zamówienie nr]]></value>
 	</definition>
 	<definition>
 		<key>command_view_product</key>
-		<value><![CDATA[Wygląd produktu, numer produktu, otwarta produktu, pokaz produktów, otwarta numer produktu, numer Pokaż produkt, Pokaż numer produktu, produkt #]]></value>
+		<value><![CDATA[wyświetl produkt, numer produktu, otwórz produkt, pokaż produkt, otwórz numer produktu, wyświetl numer produktu, pokaż numer produktu, produkt #]]></value>
 	</definition>
 	<definition>
 		<key>command_create_new</key>
-		<value><![CDATA[włóż, tworzyć, dodawać nowe, wstawić nowe, tworzyć nowe, dodać nowe]]></value>
+		<value><![CDATA[wstaw, utwórz, dodaj, nowy, wstaw nowy, utwórz nowy, dodaj nowy]]></value>
 	</definition>
 	<definition>
 		<key>category</key>
-		<value><![CDATA[Kategoria]]></value>
+		<value><![CDATA[kategoria]]></value>
 	</definition>
 	<definition>
 		<key>product</key>
@@ -58,7 +58,7 @@
 	</definition>
 	<definition>
 		<key>manufacturer</key>
-		<value><![CDATA[producent]]></value>
+		<value><![CDATA[marka]]></value>
 	</definition>
 	<definition>
 		<key>review</key>
@@ -66,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>download</key>
-		<value><![CDATA[pobieranie]]></value>
+		<value><![CDATA[pobierz]]></value>
 	</definition>
 	<definition>
 		<key>attribute</key>
@@ -82,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>discount</key>
-		<value><![CDATA[zniżka]]></value>
+		<value><![CDATA[rabat]]></value>
 	</definition>
 	<definition>
 		<key>block</key>
@@ -94,11 +94,11 @@
 	</definition>
 	<definition>
 		<key>content</key>
-		<value><![CDATA[zadowolony]]></value>
+		<value><![CDATA[zawartość]]></value>
 	</definition>
 	<definition>
 		<key>banner</key>
-		<value><![CDATA[transparent]]></value>
+		<value><![CDATA[baner]]></value>
 	</definition>
 	<definition>
 		<key>page</key>
@@ -118,7 +118,7 @@
 	</definition>
 	<definition>
 		<key>location</key>
-		<value><![CDATA[Lokalizacja]]></value>
+		<value><![CDATA[lokalizacja]]></value>
 	</definition>
 	<definition>
 		<key>tax</key>

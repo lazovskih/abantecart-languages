@@ -22,18 +22,18 @@
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax_0</key>
-		<value><![CDATA[---Egyik sem---]]></value>
+		<value><![CDATA[---Nincs---]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id</key>
-		<value><![CDATA[Elhelyezkedés:]]></value>
+		<value><![CDATA[Hely:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id_0</key>
-		<value><![CDATA[Minden hely]]></value>
+		<value><![CDATA[Összes helyszín]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: Önnek nincs engedélye a tételenkénti szállítási díjak módosítására!]]></value>
+		<value><![CDATA[Figyelmeztetés: Nincs jogosultsága módosítani a darabonkénti szállítási díjakat!]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[recenzia]]></value>
+		<value><![CDATA[Recenzie]]></value>
 	</definition>
 	<definition>
 		<key>text_review</key>
-		<value><![CDATA[Preskúmanie]]></value>
+		<value><![CDATA[Recenzia]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
@@ -14,19 +14,19 @@
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[aktualizácie Review]]></value>
+		<value><![CDATA[Aktualizovať recenziu]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Zmenili ste hodnotenie!]]></value>
+		<value><![CDATA[Úspech: Zmenili ste recenzie!]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
-		<value><![CDATA[produkt]]></value>
+		<value><![CDATA[Produkt]]></value>
 	</definition>
 	<definition>
 		<key>column_author</key>
-		<value><![CDATA[autor]]></value>
+		<value><![CDATA[Autor]]></value>
 	</definition>
 	<definition>
 		<key>column_rating</key>
@@ -34,19 +34,19 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Dátum pridané]]></value>
+		<value><![CDATA[Dátum pridania]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>entry_product</key>
-		<value><![CDATA[výrobok:]]></value>
+		<value><![CDATA[Produkt:]]></value>
 	</definition>
 	<definition>
 		<key>entry_author</key>
@@ -54,43 +54,39 @@
 	</definition>
 	<definition>
 		<key>entry_rating</key>
-		<value><![CDATA[hodnotenie:]]></value>
+		<value><![CDATA[Hodnotenie:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavenie:]]></value>
-	</definition>
-	<definition>
-		<key>entry_text</key>
-		<value><![CDATA[Text:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_good</key>
-		<value><![CDATA[dobrý]]></value>
+		<value><![CDATA[Dobrý]]></value>
 	</definition>
 	<definition>
 		<key>entry_bad</key>
-		<value><![CDATA[zlý]]></value>
+		<value><![CDATA[Zlé]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varovanie: Nemáte oprávnenie na zmenu hodnotenie!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte povolenie upravovať recenzie!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[požadovaný tovar!]]></value>
+		<value><![CDATA[Produkt je povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_author</key>
-		<value><![CDATA[Autor musí byť medzi 2 a 64 znakov!]]></value>
+		<value><![CDATA[Autor musí mať od 2 do 64 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Review Text musí byť v rozmedzí 25 až 1000 znakov!]]></value>
+		<value><![CDATA[Text recenzie musí mať od 25 do 1000 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Počet Review povinné!]]></value>
+		<value><![CDATA[Hodnotenie recenzie je povinné!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -98,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>text_select_category</key>
-		<value><![CDATA[- Vybrať kategóriu -]]></value>
+		<value><![CDATA[- Vyberte kategóriu -]]></value>
 	</definition>
 	<definition>
 		<key>column_verified_purchase</key>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Vnesite svoje prijavne podatke.]]></value>
+		<value><![CDATA[Prosimo, vnesite svoje podatke za prijavo.]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>entry_password</key>
-		<value><![CDATA[geslo:]]></value>
+		<value><![CDATA[Geslo:]]></value>
 	</definition>
 	<definition>
 		<key>entry_forgot_password</key>
@@ -26,26 +26,26 @@
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Vpiši se]]></value>
+		<value><![CDATA[Prijava]]></value>
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Ne ujemajo za ime in / ali geslo.]]></value>
+		<value><![CDATA[Ni ujemanja za uporabniško ime in/ali geslo.]]></value>
 	</definition>
 	<definition>
 		<key>error_token</key>
-		<value><![CDATA[Neveljaven žeton seje. Znova se prijavite.]]></value>
+		<value><![CDATA[Žeton seje ni veljaven. Prosimo, znova se prijavite.]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message</key>
-		<value><![CDATA[Ni za prijavo na admin poskus iz OP:]]></value>
+		<value><![CDATA[Neuspešen poskus prijave kot administrator z IP:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message_text</key>
-		<value><![CDATA[Glede uporabnik prijava:]]></value>
+		<value><![CDATA[Podano uporabniško ime:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_secure</key>
-		<value><![CDATA[Poskušate se prijaviti v nevarnem nevarnem načinu! Za nadaljevanje preklopite na varen <a href="%s">HTTPS</a> ]]></value>
+		<value><![CDATA[Poskušate se prijaviti v nezavarovanem, nevarnem načinu! Prosimo preklopite na varni <a href="%s">HTTPS</a>, da nadaljujete]]></value>
 	</definition>
 </definitions>

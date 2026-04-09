@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>tab_media</key>
-		<value><![CDATA[media]]></value>
+		<value><![CDATA[Mediji]]></value>
 	</definition>
 	<definition>
 		<key>tab_shipping</key>
-		<value><![CDATA[dostava]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>tab_files</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>tab_relations</key>
-		<value><![CDATA[odnosi]]></value>
+		<value><![CDATA[Odnosi]]></value>
 	</definition>
 	<definition>
 		<key>tab_promotions</key>
@@ -34,15 +34,19 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Morate modificirane proizvode!]]></value>
+		<value><![CDATA[Uspjeh: Promijenili ste proizvode!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_copy</key>
-		<value><![CDATA[Uspjeh: Uspješno ste klonirati proizvod <b>%s!</b>]]></value>
+		<value><![CDATA[Uspjeh: Uspješno ste klonirali proizvod <b>%s</b>!]]></value>
+	</definition>
+	<definition>
+		<key>text_success_copy_layout</key>
+		<value><![CDATA[Napomena: Prilagođeni izgled proizvoda je također kloniran.]]></value>
 	</definition>
 	<definition>
 		<key>text_error_copy</key>
-		<value><![CDATA[Kloniranje nije uspjela! Izvorni proizvod nije dostupan]]></value>
+		<value><![CDATA[Kloniranje nije uspjelo! Izvorni proizvod nije dostupan]]></value>
 	</definition>
 	<definition>
 		<key>text_plus</key>
@@ -62,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[Manager slike]]></value>
+		<value><![CDATA[Upravitelj slika]]></value>
 	</definition>
 	<definition>
 		<key>text_option</key>
@@ -70,15 +74,19 @@
 	</definition>
 	<definition>
 		<key>text_option_value</key>
-		<value><![CDATA[Opcija vrijednost]]></value>
+		<value><![CDATA[Vrijednost opcije]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[ime proizvoda]]></value>
+		<value><![CDATA[Naziv proizvoda]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
 		<value><![CDATA[Model]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[SKU]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -98,23 +106,23 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_featured</key>
-		<value><![CDATA[Istaknuti proizvoda:]]></value>
+		<value><![CDATA[Istaknuti proizvod:]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Ime proizvoda:]]></value>
+		<value><![CDATA[Naziv proizvoda:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Meta Tag Ključne riječi:]]></value>
+		<value><![CDATA[Meta oznaka ključnih riječi:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Meta Tag Opis:]]></value>
+		<value><![CDATA[Opis meta oznake:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -122,7 +130,7 @@
 	</definition>
 	<definition>
 		<key>entry_blurb</key>
-		<value><![CDATA[Pohvala:]]></value>
+		<value><![CDATA[Kratki opis:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store</key>
@@ -130,7 +138,7 @@
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO ključne riječi: <br/><span class="help">SEO ključ koji će se prikazati u URL za ovaj proizvod. Možete generirati ključ iz naziva proizvoda</span>]]></value>
+		<value><![CDATA[SEO ključna riječ:<br/><span class="help">SEO ključna riječ koja će se prikazati u URL-u za ovaj proizvod. Ključnu riječ možete generirati iz naziva proizvoda</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_model</key>
@@ -138,35 +146,35 @@
 	</definition>
 	<definition>
 		<key>entry_sku</key>
-		<value><![CDATA[Šifra proizvoda:]]></value>
+		<value><![CDATA[Šifra zalihe:]]></value>
 	</definition>
 	<definition>
 		<key>entry_location</key>
-		<value><![CDATA[Razno Lokacija:]]></value>
+		<value><![CDATA[Ostale lokacije:]]></value>
 	</definition>
 	<definition>
 		<key>entry_manufacturer</key>
-		<value><![CDATA[Proizvođač:]]></value>
+		<value><![CDATA[Marka:]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping</key>
-		<value><![CDATA[Zahtijeva Dostava:]]></value>
+		<value><![CDATA[Zahtijeva dostavu:]]></value>
 	</definition>
 	<definition>
 		<key>entry_ship_individually</key>
-		<value><![CDATA[Brod proizvoda Pojedinačno: <br/><span class="help">proizvod će biti isporučen u posebnom paketu i dodatne troškove dostave će biti dodan u red s više stavki. Ako je omogućeno, Fixed dostava cijena treba biti postavljen.</span>]]></value>
+		<value><![CDATA[Dostava proizvoda pojedinačno:<br/><span class="help">Proizvod će biti isporučen u zasebnom paketu i dodatni troškovi dostave bit će dodani narudžbi s više stavki. Ako je omogućeno, potrebno je postaviti fiksnu cijenu dostave.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping_price</key>
-		<value><![CDATA[Fiksni dostava Cijena: <br/><span class="help">Master postavka s fiksnom cijenom dostave za ovaj proizvod.</span>]]></value>
+		<value><![CDATA[Fiksna cijena dostave:<br/><span class="help">Glavna postavka s fiksnom cijenom dostave za ovaj proizvod.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_free_shipping</key>
-		<value><![CDATA[Besplatna dostava: <br/><span class="help">Master postavka omogućiti besplatne dostave za ovaj proizvod.</span>]]></value>
+		<value><![CDATA[Besplatna dostava:<br/><span class="help">Glavna postavka za omogućavanje besplatne dostave za ovaj proizvod.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_available</key>
-		<value><![CDATA[Slobodan termin:]]></value>
+		<value><![CDATA[Datum dostupnosti:]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_quantity</key>
@@ -174,19 +182,23 @@
 	</definition>
 	<definition>
 		<key>entry_quantity</key>
-		<value><![CDATA[Količina: <br/><span class="help">Spojen Pratite postavku Stock</span>]]></value>
+		<value><![CDATA[Količina:<br/><span class="help">Povezano s postavkom praćenja zaliha</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_minimum</key>
-		<value><![CDATA[Minimalna količina: <br/><span class="help">Force minimalni iznos naredio</span>]]></value>
+		<value><![CDATA[Minimalna količina:<br/><span class="help">Primorajte minimalnu naručenu količinu</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_maximum</key>
-		<value><![CDATA[Maksimalna količina: <br/><span class="help">Podesite ograničenje na quantaty koji se može odabrati po svakom cilju. 0 = bez ograničenja</span>]]></value>
+		<value><![CDATA[Maksimalna količina:<br/><span class="help">Postavite ograničenje na količinu koja se može odabrati po svakoj narudžbi. 0 = nema ograničenja</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_stock_status</key>
-		<value><![CDATA[Na skladištu Status: <br/><span class="help">Status prikazuje kada je proizvod na skladištu</span>]]></value>
+		<value><![CDATA[Status zaliha prednarudžbe:<br/><span class="help">Tekst koji se prikazuje kada je proizvod rasprodan, a kupnja je dopuštena</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_stock_checkout</key>
+		<value><![CDATA[Kupovina bez zaliha:<br /><span class="help">Dozvoli kupcima da završe kupovinu čak i ako proizvodi nisu na zalihi.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -194,59 +206,67 @@
 	</definition>
 	<definition>
 		<key>entry_tax_class</key>
-		<value><![CDATA[Porezna Klasa:]]></value>
+		<value><![CDATA[Porezna klasa:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cost</key>
-		<value><![CDATA[Cijena: <br/><span class="help">Veleprodajna cijena se koristi za dobiti izvješćivanje</span>]]></value>
+		<value><![CDATA[Trošak:<br/><span class="help">Veleprodajna cijena koja se koristi za izvještavanje o dobiti</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_price</key>
 		<value><![CDATA[Cijena:]]></value>
 	</definition>
 	<definition>
+		<key>entry_product_option_cost</key>
+		<value><![CDATA[Stvarni trošak (ukupno):<span class="help">Unesite stvarni trošak (ukupno) ove opcije proizvoda.</span>]]></value>
+	</definition>
+	<definition>
 		<key>entry_track_option_stock</key>
-		<value><![CDATA[Pratite skladištu:]]></value>
+		<value><![CDATA[Praćenje zaliha:]]></value>
 	</definition>
 	<definition>
 		<key>entry_subtract</key>
-		<value><![CDATA[Pratite Stock: <br/><span class="help">Set DA ako je potrebno pratiti količinu dionica za ovaj proizvod. Ako se opcija koristi postavku provjere Oduzmi za svaku vrijednošću opcije</span>]]></value>
+		<value><![CDATA[Praćenje zaliha:<br/><span class="help">Postavite DA ako trebate pratiti količinu zaliha za ovaj proizvod. Ako se koriste opcije, provjerite postavku oduzimanja za svaku vrijednost opcije</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight_class</key>
-		<value><![CDATA[Težina Klasa:]]></value>
+		<value><![CDATA[Klasa težine:]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight</key>
 		<value><![CDATA[Težina:]]></value>
 	</definition>
 	<definition>
+		<key>entry_weight_change</key>
+		<value><![CDATA[Težina: <span class="help">Važno! Ako je vrijednost navedena kao %(percent) opcija, težina opcije bit će promijenjena za navedeni postotak na temelju glavne težine proizvoda. Ako je vrijednost težine zadana, koristit će se kao apsolutna vrijednost za opciju, a glavna težina će se zanemariti.</span>]]></value>
+	</definition>
+	<definition>
 		<key>entry_length_class</key>
-		<value><![CDATA[Dužina Klasa:]]></value>
+		<value><![CDATA[Klasa duljine:]]></value>
 	</definition>
 	<definition>
 		<key>entry_length</key>
-		<value><![CDATA[Dužina:]]></value>
+		<value><![CDATA[Dužina paketa proizvoda: <span class="help">Dimenzija paketa odnosi se na veličinu kutije, vrećice ili pošiljke u kojoj će vaš proizvod biti isporučen</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_width</key>
-		<value><![CDATA[Širina:]]></value>
+		<value><![CDATA[Širina paketa proizvoda: <span class="help">Dimenzija pakiranja odnosi se na veličinu kutije, vrećice ili paketa u kojem će vaš proizvod biti poslan</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_height</key>
-		<value><![CDATA[Visina:]]></value>
+		<value><![CDATA[Visina paketa proizvoda:<span class="help">Dimenzija pakiranja odnosi se na veličinu kutije, vrećice ili pošiljke u kojoj će vaš proizvod biti isporučen</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_dimension</key>
-		<value><![CDATA[Dimenzije (L x W x H):]]></value>
+		<value><![CDATA[Dimenzije (D x Š x V):]]></value>
 	</definition>
 	<definition>
 		<key>entry_image</key>
-		<value><![CDATA[Slika: <br/><span class="help">Kliknite na sliku za promjenu.</span>]]></value>
+		<value><![CDATA[Slika:<br /><span class="help">Kliknite na sliku da je promijenite.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_customer_group</key>
-		<value><![CDATA[Korisnička grupa:]]></value>
+		<value><![CDATA[Grupa kupaca:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
@@ -266,15 +286,15 @@
 	</definition>
 	<definition>
 		<key>entry_option_name</key>
-		<value><![CDATA[Opcija Ime:]]></value>
+		<value><![CDATA[Naziv opcije:]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_value</key>
-		<value><![CDATA[Opcija vrijednost:]]></value>
+		<value><![CDATA[Vrijednost opcije:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Redoslijed:]]></value>
+		<value><![CDATA[Redoslijed sortiranja:]]></value>
 	</definition>
 	<definition>
 		<key>entry_prefix</key>
@@ -282,11 +302,11 @@
 	</definition>
 	<definition>
 		<key>entry_option_prefix</key>
-		<value><![CDATA[Izmjena cijeni:]]></value>
+		<value><![CDATA[Izmijeni cijenu za:]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_price</key>
-		<value><![CDATA[Cijena Modifikacijska:]]></value>
+		<value><![CDATA[Modifikator cijene:]]></value>
 	</definition>
 	<definition>
 		<key>entry_category</key>
@@ -294,7 +314,7 @@
 	</definition>
 	<definition>
 		<key>entry_download</key>
-		<value><![CDATA[Preuzeto:]]></value>
+		<value><![CDATA[Preuzimanja:]]></value>
 	</definition>
 	<definition>
 		<key>entry_related</key>
@@ -302,7 +322,7 @@
 	</definition>
 	<definition>
 		<key>entry_tags</key>
-		<value><![CDATA[Oznake proizvoda: <br/><span class="help">odvojeni zarezom</span>]]></value>
+		<value><![CDATA[Oznake proizvoda:<br /><span class="help">odvojeno zarezima</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -310,27 +330,31 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Naziv proizvoda mora biti veći od 3, a manje od 255 znakova!]]></value>
+		<value><![CDATA[Naziv proizvoda mora biti duži od 3 znaka i kraći od 255 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_model</key>
-		<value><![CDATA[Model proizvoda mora biti manja od 64 znaka! Remomended 5-25 znakova]]></value>
+		<value><![CDATA[Model proizvoda mora biti kraći od 64 znakova! Preporučeno 5-25 znakova]]></value>
 	</definition>
 	<definition>
 		<key>error_required_data</key>
-		<value><![CDATA[Potrebni podaci nisu uneseni. Provjerite na terenu pogreške!]]></value>
+		<value><![CDATA[Obavezni podaci nisu uneseni. Provjerite ima li pogrešaka u poljima!]]></value>
 	</definition>
 	<definition>
 		<key>error_product_not_found</key>
-		<value><![CDATA[Greška: Proizvod nije pronađen!]]></value>
+		<value><![CDATA[Pogreška: Proizvod nije pronađen!]]></value>
+	</definition>
+	<definition>
+		<key>error_sku</key>
+		<value><![CDATA[Pogreška: SKU nije pronađen!]]></value>
 	</definition>
 	<definition>
 		<key>filter_product</key>
-		<value><![CDATA[Tražite proizvod]]></value>
+		<value><![CDATA[Pretraži proizvod]]></value>
 	</definition>
 	<definition>
 		<key>filter_any_word</key>
-		<value><![CDATA[Bilo koji od ovih riječi]]></value>
+		<value><![CDATA[Bilo koja od ovih riječi]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_words</key>
@@ -350,11 +374,11 @@
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[pogled]]></value>
+		<value><![CDATA[prikaz]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[izbrisati]]></value>
+		<value><![CDATA[Izbriši]]></value>
 	</definition>
 	<definition>
 		<key>text_choose_action</key>
@@ -362,19 +386,19 @@
 	</definition>
 	<definition>
 		<key>text_clone_selected</key>
-		<value><![CDATA[Klon odabrana]]></value>
+		<value><![CDATA[Kloniraj odabrano]]></value>
 	</definition>
 	<definition>
 		<key>text_export_selected</key>
-		<value><![CDATA[Izvoz odabrane]]></value>
+		<value><![CDATA[Izvezi odabrano]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_selected</key>
-		<value><![CDATA[Obriši odabrano]]></value>
+		<value><![CDATA[Izbriši odabrano]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_selected</key>
-		<value><![CDATA[Uredi odabrani]]></value>
+		<value><![CDATA[Uredi odabrano]]></value>
 	</definition>
 	<definition>
 		<key>text_clone</key>
@@ -386,7 +410,7 @@
 	</definition>
 	<definition>
 		<key>text_select_category</key>
-		<value><![CDATA[- Odaberi kategoriju -]]></value>
+		<value><![CDATA[- Odaberite kategoriju -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -394,7 +418,7 @@
 	</definition>
 	<definition>
 		<key>text_option_name</key>
-		<value><![CDATA[Opcija Ime]]></value>
+		<value><![CDATA[Naziv opcije]]></value>
 	</definition>
 	<definition>
 		<key>text_group_option</key>
@@ -402,39 +426,39 @@
 	</definition>
 	<definition>
 		<key>text_option_type</key>
-		<value><![CDATA[Opcija Tip]]></value>
+		<value><![CDATA[Vrsta opcije]]></value>
 	</definition>
 	<definition>
 		<key>text_option_values</key>
-		<value><![CDATA[Opcija Vrijednosti]]></value>
+		<value><![CDATA[Vrijednosti opcija]]></value>
 	</definition>
 	<definition>
 		<key>text_no_option_values</key>
-		<value><![CDATA[Nema opcije Vrijednosti]]></value>
+		<value><![CDATA[Nema vrijednosti opcija]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_option_values</key>
-		<value><![CDATA[Uredi Vrijednost opcije]]></value>
+		<value><![CDATA[Uredi vrijednost opcije]]></value>
 	</definition>
 	<definition>
 		<key>text_save_option_values</key>
-		<value><![CDATA[Spremi Opcija vrijednost]]></value>
+		<value><![CDATA[Spremi vrijednost opcije]]></value>
 	</definition>
 	<definition>
 		<key>button_remove_option</key>
-		<value><![CDATA[Ukloni Option]]></value>
+		<value><![CDATA[Ukloni opciju]]></value>
 	</definition>
 	<definition>
 		<key>text_option_removed</key>
-		<value><![CDATA[Opcija Uklonjeno]]></value>
+		<value><![CDATA[Opcija uklonjena]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight_type</key>
-		<value><![CDATA[Vrsta Težina]]></value>
+		<value><![CDATA[Vrsta težine]]></value>
 	</definition>
 	<definition>
 		<key>text_product_pagination</key>
-		<value><![CDATA[Proizvod (i) {start} do {end} od {total}]]></value>
+		<value><![CDATA[Proizvod(i) {start} to {end} of {total}]]></value>
 	</definition>
 	<definition>
 		<key>entry_product_id</key>
@@ -442,15 +466,15 @@
 	</definition>
 	<definition>
 		<key>error_product_load</key>
-		<value><![CDATA[Upozorenje: Niti jedan proizvod s takvim ID!]]></value>
+		<value><![CDATA[Upozorenje: Ne postoji proizvod s tim ID-om!]]></value>
 	</definition>
 	<definition>
 		<key>error_attribute_not_selected</key>
-		<value><![CDATA[Odaberite opciju za dodavanje!]]></value>
+		<value><![CDATA[Molimo odaberite opciju za dodavanje!]]></value>
 	</definition>
 	<definition>
 		<key>error_date</key>
-		<value><![CDATA[&quot;Datum završetka&quot; ne može biti manja od &quot;datum početka&quot;!]]></value>
+		<value><![CDATA[Datum završetka" ne može biti manji od "Datuma početka"!]]></value>
 	</definition>
 	<definition>
 		<key>error_required</key>
@@ -458,23 +482,23 @@
 	</definition>
 	<definition>
 		<key>error_option_in_group</key>
-		<value><![CDATA[Opcija ne može se dodati proizvod kao što je već dio opciju grupe!]]></value>
+		<value><![CDATA[Opcija se ne može dodati proizvodu jer je već dio grupne opcije!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Uspjeh: Izmijenili ste izgled stranice proizvoda.]]></value>
+		<value><![CDATA[Uspjeh: promijenili ste raspored stranice proizvoda.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_option</key>
-		<value><![CDATA[Uspjeh: Izmijenili ste opciju proizvoda.]]></value>
+		<value><![CDATA[Uspjeh: promijenili ste opciju proizvoda.]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new_option</key>
-		<value><![CDATA[- Dodajte novu opciju -]]></value>
+		<value><![CDATA[- Dodaj novu opciju -]]></value>
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Potreban:]]></value>
+		<value><![CDATA[Obavezno:]]></value>
 	</definition>
 	<definition>
 		<key>entry_element_type</key>
@@ -482,11 +506,11 @@
 	</definition>
 	<definition>
 		<key>entry_element_values</key>
-		<value><![CDATA[Element Vrijednosti:]]></value>
+		<value><![CDATA[Vrijednosti elemenata:]]></value>
 	</definition>
 	<definition>
 		<key>text_expand</key>
-		<value><![CDATA[+ proširiti]]></value>
+		<value><![CDATA[+ proširi]]></value>
 	</definition>
 	<definition>
 		<key>text_hide</key>
@@ -494,15 +518,15 @@
 	</definition>
 	<definition>
 		<key>entry_option_placeholder</key>
-		<value><![CDATA[Rezervirano:]]></value>
+		<value><![CDATA[Zamjenski tekst:]]></value>
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
-		<value><![CDATA[Regularni izraz Uzorak:]]></value>
+		<value><![CDATA[Uzorak regularnog izraza:]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
-		<value><![CDATA[Poruka o pogrešci o nevažećim Vrijednost:]]></value>
+		<value><![CDATA[Poruka o pogrešci o nevažećoj vrijednosti:]]></value>
 	</definition>
 	<definition>
 		<key>text_product_condition</key>
@@ -514,31 +538,31 @@
 	</definition>
 	<definition>
 		<key>text_product_disabled</key>
-		<value><![CDATA[onesposobljen]]></value>
+		<value><![CDATA[Onemogućeno]]></value>
 	</definition>
 	<definition>
 		<key>text_product_unavailable</key>
-		<value><![CDATA[nedostupan]]></value>
+		<value><![CDATA[Nedostupno]]></value>
 	</definition>
 	<definition>
 		<key>text_product_out_of_stock</key>
-		<value><![CDATA[Rasprodan]]></value>
+		<value><![CDATA[Nema na skladištu]]></value>
 	</definition>
 	<definition>
 		<key>text_product_in_stock</key>
-		<value><![CDATA[Na lageru]]></value>
+		<value><![CDATA[Na skladištu]]></value>
 	</definition>
 	<definition>
 		<key>text_product_option_out_of_stock</key>
-		<value><![CDATA[Opcija Proizvod (i) Out of Stock]]></value>
+		<value><![CDATA[Opcija(e) proizvoda nema na skladištu]]></value>
 	</definition>
 	<definition>
 		<key>text_call_to_order</key>
-		<value><![CDATA[Poziv naručiti]]></value>
+		<value><![CDATA[Poziv na narudžbu]]></value>
 	</definition>
 	<definition>
 		<key>entry_call_to_order</key>
-		<value><![CDATA[Blok proizvoda iz Redoslijed: <br/><span class="help">Ovo će staviti proizvod prikazati način rada samo bez sposobnosti da se naloži. Kontaktirajte nas za narudžbe poruke bit će prikazano.</span>]]></value>
+		<value><![CDATA[Onemogući naručivanje proizvoda:<br /><span class="help">Ovo će postaviti proizvod samo u način prikaza, bez mogućnosti naručivanja. Prikazat će se poruka 'Kontaktirajte nas za narudžbu'.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_new_option</key>
@@ -546,27 +570,35 @@
 	</definition>
 	<definition>
 		<key>text_total_orders</key>
-		<value><![CDATA[Ukupno narudžbe]]></value>
+		<value><![CDATA[Ukupno narudžbi]]></value>
 	</definition>
 	<definition>
 		<key>error_measure_value</key>
-		<value><![CDATA[Granica 999,99 je postignut. Osigurati manji broj.]]></value>
+		<value><![CDATA[Ograničenje od 999,99 je dosegnuto. Unesite manji broj.]]></value>
+	</definition>
+	<definition>
+		<key>error_dimension_value</key>
+		<value><![CDATA[Ovaj proizvod zahtijeva dostavu. Molimo unesite sve vrijednosti dimenzija.]]></value>
 	</definition>
 	<definition>
 		<key>error_weight_value</key>
-		<value><![CDATA[Ovaj proizvod zahtijeva kupac. Molimo postavite vrijednost težine.]]></value>
+		<value><![CDATA[Ovaj proizvod zahtijeva dostavu. Molimo postavite vrijednost težine.]]></value>
 	</definition>
 	<definition>
 		<key>error_weight_class</key>
-		<value><![CDATA[Molimo postavite klasi mase.]]></value>
+		<value><![CDATA[Molimo postavite klasu težine.]]></value>
+	</definition>
+	<definition>
+		<key>error_length_class</key>
+		<value><![CDATA[Molimo postavite klasu duljine.]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_extensions</key>
-		<value><![CDATA[Dopuštene ekstenzije (txt, jpg ...)]]></value>
+		<value><![CDATA[Dozvoljene ekstenzije datoteka (txt, jpg …)]]></value>
 	</definition>
 	<definition>
 		<key>entry_min_size</key>
-		<value><![CDATA[Min veličina datoteke (Kb)]]></value>
+		<value><![CDATA[Min. veličina datoteke (Kb)]]></value>
 	</definition>
 	<definition>
 		<key>entry_max_size</key>
@@ -574,43 +606,11 @@
 	</definition>
 	<definition>
 		<key>entry_upload_dir</key>
-		<value><![CDATA[Postavi naziv direktorija <br/> %s]]></value>
+		<value><![CDATA[Naziv direktorija za prijenos<br>%s]]></value>
 	</definition>
 	<definition>
 		<key>text_success_relation_set</key>
-		<value><![CDATA[Odnosi odabranih proizvoda je uspješno postavljena!]]></value>
-	</definition>
-	<definition>
-		<key>text_success_copy_layout</key>
-		<value><![CDATA[ Napomena: prilagođeni izgled proizvoda također je kloniran.]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
-	</definition>
-	<definition>
-		<key>entry_stock_checkout</key>
-		<value><![CDATA[Provjera zaliha: <br/><span class="help">Omogućite kupcima da naplate čak i ako proizvoda nema na zalihama.</span>]]></value>
-	</definition>
-	<definition>
-		<key>entry_product_option_cost</key>
-		<value><![CDATA[Stvarni trošak (ukupno): <span class="help">Unesite stvarni trošak (ukupno) ove opcije proizvoda.</span>]]></value>
-	</definition>
-	<definition>
-		<key>entry_weight_change</key>
-		<value><![CDATA[Težina: <span class="help">Važno! Ako je vrijednost navedena kao %(postotak), težina opcije će se promijeniti za određeni postotak na temelju težine glavnog proizvoda. Ako je vrijednost težine navedena, ona će se koristiti kao apsolutna vrijednost za opciju, glavna težina će se zanemariti.</span>]]></value>
-	</definition>
-	<definition>
-		<key>error_sku</key>
-		<value><![CDATA[Pogreška: SKU nije pronađen!]]></value>
-	</definition>
-	<definition>
-		<key>error_dimension_value</key>
-		<value><![CDATA[Ovaj proizvod zahtijeva dostavu. Ispunite sve vrijednosti dimenzija.]]></value>
-	</definition>
-	<definition>
-		<key>error_length_class</key>
-		<value><![CDATA[Molimo postavite klasu duljine.]]></value>
+		<value><![CDATA[Odnosi odabranih proizvoda su uspješno postavljeni!]]></value>
 	</definition>
 	<definition>
 		<key>entry_stock_locations</key>
@@ -622,15 +622,19 @@
 	</definition>
 	<definition>
 		<key>text_create_collection</key>
-		<value><![CDATA[Stvori zbirku]]></value>
+		<value><![CDATA[Stvori kolekciju]]></value>
+	</definition>
+	<definition>
+		<key>text_warning_empty_set</key>
+		<value><![CDATA[Molimo odaberite barem jedan proizvod]]></value>
 	</definition>
 	<definition>
 		<key>text_enable_selected</key>
-		<value><![CDATA[Omogući odabrano]]></value>
+		<value><![CDATA[Omogući odabrane]]></value>
 	</definition>
 	<definition>
 		<key>text_disable_selected</key>
-		<value><![CDATA[Onemogući odabrano]]></value>
+		<value><![CDATA[Onemogući odabrane]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_rule</key>
@@ -638,7 +642,7 @@
 	</definition>
 	<definition>
 		<key>entry_price_with_tax</key>
-		<value><![CDATA[Cijena s porezom:]]></value>
+		<value><![CDATA[Cijena s porezima:]]></value>
 	</definition>
 	<definition>
 		<key>entry_txt_id</key>
@@ -646,6 +650,6 @@
 	</definition>
 	<definition>
 		<key>entry_html_attributes</key>
-		<value><![CDATA[html-atributi: <br/><span class="help">Možete dodati svoje prilagođene html-atribute za element opcije. Primjer: data-some-attribute=&quot;neka vrijednost&quot;</span>]]></value>
+		<value><![CDATA[html-atributi:<br /><span class="help">Možete dodati svoje prilagođene html-atribute za element opcije. Primjer: data-some-attribute="neka vrijednost"</span>]]></value>
 	</definition>
 </definitions>

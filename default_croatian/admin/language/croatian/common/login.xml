@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[uprava]]></value>
+		<value><![CDATA[Administracija]]></value>
 	</definition>
 	<definition>
 		<key>text_heading</key>
-		<value><![CDATA[uprava]]></value>
+		<value><![CDATA[Administracija]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
@@ -22,30 +22,30 @@
 	</definition>
 	<definition>
 		<key>entry_forgot_password</key>
-		<value><![CDATA[Zaboravili ste lozinku?]]></value>
+		<value><![CDATA[Zaboravili lozinku?]]></value>
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Prijaviti se]]></value>
+		<value><![CDATA[Prijava]]></value>
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Ne odgovara za korisničko ime i / ili lozinku.]]></value>
+		<value><![CDATA[Nema podudaranja za korisničko ime i/ili lozinku.]]></value>
 	</definition>
 	<definition>
 		<key>error_token</key>
-		<value><![CDATA[Pogrešna sjednici token. Molimo, prijavite se ponovo.]]></value>
+		<value><![CDATA[Neispravna sesija tokena. Molimo prijavite se ponovno.]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message</key>
-		<value><![CDATA[Prijava nije uspjela da se admin pokušaju iz IP:]]></value>
+		<value><![CDATA[Neuspjeli pokušaj prijave u administratorsko sučelje s IP-adrese:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message_text</key>
-		<value><![CDATA[S obzirom na user login:]]></value>
+		<value><![CDATA[Zadana prijava korisnika:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_secure</key>
-		<value><![CDATA[Pokušavate se prijaviti u nesigurnom i nesigurnom načinu rada! Prijeđite na sigurni <a href="%s">HTTPS</a> da biste nastavili ]]></value>
+		<value><![CDATA[Pokušavate se prijaviti u nesigurnom načinu rada! Molimo vas, prebacite se na sigurno <a href="%s">HTTPS</a> kako biste nastavili.]]></value>
 	</definition>
 </definitions>

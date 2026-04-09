@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Môj zoznam prianí]]></value>
+		<value><![CDATA[Môj zoznam želaní]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[účet]]></value>
+		<value><![CDATA[Účet]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_wishlist</key>
-		<value><![CDATA[zoznam želaní je prázdny]]></value>
+		<value><![CDATA[Zoznam želaní je prázdny]]></value>
 	</definition>
 	<definition>
 		<key>button_cart</key>
-		<value><![CDATA[Pohľadnica]]></value>
+		<value><![CDATA[Zobraziť košík]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>column_image</key>
-		<value><![CDATA[obraz]]></value>
+		<value><![CDATA[Obrázok]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[názov]]></value>
+		<value><![CDATA[Meno]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
@@ -42,6 +42,6 @@
 	</definition>
 	<definition>
 		<key>column_actions</key>
-		<value><![CDATA[Akcia]]></value>
+		<value><![CDATA[Akcie]]></value>
 	</definition>
 </definitions>

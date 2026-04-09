@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מומלצים]]></value>
+		<value><![CDATA[מומלץ]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[לראות את המוצרים רוב התכונות שלנו]]></value>
+		<value><![CDATA[ראה את המוצרים הנבחרים ביותר שלנו]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>

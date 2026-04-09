@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste nastavitve in podrobnosti bančnega nakazila!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste nastavitve in podrobnosti bančnega nakazila!]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_instructions</key>
-		<value><![CDATA[Navodila za bančno nakazilo: <span class="help">Navodilo, prikazano strankam za bančno ali elektronsko nakazilo na vaš bančni račun</span>]]></value>
+		<value><![CDATA[Navodila za bančno nakazilo:<span class="help">Navodila, prikazana strankam za izvedbo bančnega ali žičnega nakazila na vaš bančni račun</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_min</key>
-		<value><![CDATA[Skupna omejitev naročila: <span class="help">najnižji znesek naročila, ki ga je treba doseči, da se omogoči to plačilo</span>]]></value>
+		<value><![CDATA[Skupni limit naročila:<span class="help">Minimalni znesek naročila, ki ga je treba doseči, da je to plačilo dovoljeno</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_status_id</key>
-		<value><![CDATA[Status naročila:]]></value>
+		<value><![CDATA[Stanje naročila:]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_location_id</key>
@@ -34,10 +34,10 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje plačilnega bančnega nakazila!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za urejanje plačila bančnega nakazila!]]></value>
 	</definition>
 	<definition>
 		<key>error_instructions</key>
-		<value><![CDATA[Potrebna so navodila za bančno nakazilo!]]></value>
+		<value><![CDATA[Navodila za bančno nakazilo so obvezna!]]></value>
 	</definition>
 </definitions>

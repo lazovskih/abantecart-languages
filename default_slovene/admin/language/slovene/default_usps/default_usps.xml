@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[ Pošiljanje]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
@@ -14,67 +14,67 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste poštno službo Združenih držav!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste Poštno službo Združenih držav Amerike!]]></value>
 	</definition>
 	<definition>
 		<key>text_international_1</key>
-		<value><![CDATA[Mednarodna hitra pošta]]></value>
+		<value><![CDATA[Mednarodna ekspresna pošta]]></value>
 	</definition>
 	<definition>
 		<key>text_international_2</key>
-		<value><![CDATA[Priority Mail International]]></value>
+		<value><![CDATA[Prioritetna mednarodna pošta]]></value>
 	</definition>
 	<definition>
 		<key>text_international_4</key>
-		<value><![CDATA[Global Express Guaranteed (dokument in nedokument)]]></value>
+		<value><![CDATA[Global Express Guaranteed (dokumentni in nedokumentni)]]></value>
 	</definition>
 	<definition>
 		<key>text_international_5</key>
-		<value><![CDATA[Uporabljen zajamčeni dokument Global Express]]></value>
+		<value><![CDATA[Uporabljen Global Express Guaranteed dokument]]></value>
 	</definition>
 	<definition>
 		<key>text_international_6</key>
-		<value><![CDATA[Global Express Guaranteed Non-Document Pravokotna oblika]]></value>
+		<value><![CDATA[Global Express Guaranteed Nedokumentna pravokotna oblika]]></value>
 	</definition>
 	<definition>
 		<key>text_international_7</key>
-		<value><![CDATA[Global Express Guaranteed Non-Document Non-Rectangular]]></value>
+		<value><![CDATA[Global Express Guaranteed Ne dokumentno Ne pravokotno]]></value>
 	</definition>
 	<definition>
 		<key>text_international_8</key>
-		<value><![CDATA[Ovojnica s pavšalno tarifo za prednostno pošto]]></value>
+		<value><![CDATA[Kuverta Priority Mail s fiksno ceno]]></value>
 	</definition>
 	<definition>
 		<key>text_international_9</key>
-		<value><![CDATA[Predal s pavšalno tarifo za prednostno pošto]]></value>
+		<value><![CDATA[Prioritetna poštna škatla s fiksno ceno]]></value>
 	</definition>
 	<definition>
 		<key>text_international_10</key>
-		<value><![CDATA[Mednarodna pavšalna ovojnica hitre pošte]]></value>
+		<value><![CDATA[Mednarodna ekspresna kuverta s fiksno ceno]]></value>
 	</definition>
 	<definition>
 		<key>text_international_11</key>
-		<value><![CDATA[Veliko pavšalno polje za prednostno pošto]]></value>
+		<value><![CDATA[Prioritetna pošta Velika škatla enotne tarife]]></value>
 	</definition>
 	<definition>
 		<key>text_international_12</key>
-		<value><![CDATA[Zajamčena ovojnica Global Express]]></value>
+		<value><![CDATA[Globalna ekspresna zagotovljena kuverta]]></value>
 	</definition>
 	<definition>
 		<key>text_international_13</key>
-		<value><![CDATA[Mednarodna pisma prvega razreda]]></value>
+		<value><![CDATA[Prvorazredna mednarodna pisma]]></value>
 	</definition>
 	<definition>
 		<key>text_international_14</key>
-		<value><![CDATA[Mednarodna stanovanja prvega razreda]]></value>
+		<value><![CDATA[Mednarodna pošta prvega razreda – ravne pošiljke]]></value>
 	</definition>
 	<definition>
 		<key>text_international_15</key>
-		<value><![CDATA[Mednarodni paketi prvega razreda]]></value>
+		<value><![CDATA[Mednarodni paketi po pošti prvega razreda]]></value>
 	</definition>
 	<definition>
 		<key>text_international_16</key>
-		<value><![CDATA[Priority Mail Small Flat Rate Box]]></value>
+		<value><![CDATA[Majhna škatla Priority Mail s fiksno ceno]]></value>
 	</definition>
 	<definition>
 		<key>text_international_21</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>text_oversize</key>
-		<value><![CDATA[Prevelikost]]></value>
+		<value><![CDATA[Prevelik]]></value>
 	</definition>
 	<definition>
 		<key>text_rectangular</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>text_non_rectangular</key>
-		<value><![CDATA[Ni pravokoten]]></value>
+		<value><![CDATA[Nepravokoten]]></value>
 	</definition>
 	<definition>
 		<key>text_variable</key>
@@ -106,19 +106,19 @@
 	</definition>
 	<definition>
 		<key>entry_user_id</key>
-		<value><![CDATA[ID uporabnika: <span class="help">USPS vam mora po e-pošti poslati uporabniški ID in geslo. Če ne, se obrnite na USPS, da potrdite svoj ID uporabnika USPS. Pokličite USPS, da aktivirate svoj račun na proizvodnih strežnikih.</span>]]></value>
+		<value><![CDATA[ID uporabnika:<span class="help">USPS vam mora poslati ID uporabnika in geslo po e-pošti. Če tega ne stori, se obrnite na USPS, da potrdite svoj USPS ID uporabnika. Pokličite USPS, da aktivirate svoj račun na produkcijskih strežnikih.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
-		<value><![CDATA[geslo:]]></value>
+		<value><![CDATA[Geslo:]]></value>
 	</definition>
 	<definition>
 		<key>entry_postcode</key>
-		<value><![CDATA[Poštna številka: <span class="help">poštna številka začetne lokacije vašega paketa.</span>]]></value>
+		<value><![CDATA[ZIP/poštna številka:<span class="help">ZIP/poštna številka izhodiščne lokacije vašega paketa.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_domestic</key>
-		<value><![CDATA[Gospodinjske storitve:]]></value>
+		<value><![CDATA[Domače storitve:]]></value>
 	</definition>
 	<definition>
 		<key>entry_international</key>
@@ -126,15 +126,15 @@
 	</definition>
 	<definition>
 		<key>entry_size</key>
-		<value><![CDATA[Velikost: <span class="help">izberite velikost posode, ki jo običajno uporabljate za pakiranje izdelkov, naročenih v vaši trgovini.</span>]]></value>
+		<value><![CDATA[Velikost:<span class="help">Izberite velikost posode, ki jo običajno uporabljate za pakiranje izdelkov, naročenih v vaši trgovini.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_container</key>
-		<value><![CDATA[Zabojnik: <span class="help">izberite vrsto zabojnika, ki ga običajno uporabljate za pakiranje izdelkov, naročenih v vaši trgovini. USPS bo dostavil samo pakete, ki tehtajo do 70 lbs</span>]]></value>
+		<value><![CDATA[Embalaža:<span class="help">Izberite vrsto embalaže, ki jo običajno uporabljate za pakiranje izdelkov, naročenih iz vaše trgovine. USPS bo dostavil le pakete s težo do 70 funtov</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_machinable</key>
-		<value><![CDATA[Obdelovalno: <br/><span class="help">Priporočljivo je, da izberete Da. Določite, ali je v redu, da se vaše pošiljke obravnavajo strojno. Če omogočite to možnost, zmanjšate stroške pošiljanja.</span>]]></value>
+		<value><![CDATA[Strojno obdelljivo:<br /><span class="help">Priporočamo, da izberete Da. Določite, ali je v redu, da stroji obdelujejo vaše pošiljke. Vklop te možnosti zmanjša stroške pošiljanja.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_dimension</key>
@@ -142,39 +142,39 @@
 	</definition>
 	<definition>
 		<key>entry_length</key>
-		<value><![CDATA[Mere Dolžina: <br/><span class="help">Povprečna dimenzija paketa za paket za pošiljanje.</span>]]></value>
+		<value><![CDATA[Dimenzije dolžina:<br /><span class="help">Povprečna dimenzija pošiljnega paketa.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_width</key>
-		<value><![CDATA[Mere Širina: <br/><span class="help">Povprečna dimenzija paketa za paket za pošiljanje.</span>]]></value>
+		<value><![CDATA[Širina dimenzij:<br /><span class="help">Povprečna dimenzija paketa za pošiljanje.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_height</key>
-		<value><![CDATA[Mere Višina: <br/><span class="help">Povprečna dimenzija paketa za paket za pošiljanje.</span>]]></value>
+		<value><![CDATA[Dimenzije Višina:<br /><span class="help">Povprečna dimenzija paketa za pošiljanje.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_girth</key>
-		<value><![CDATA[Obseg: <br/><span class="help">Če želite ugotoviti obseg vašega paketa, izmerite razdaljo okoli najdebelejšega dela paketa, ki ni pravokoten.</span>]]></value>
+		<value><![CDATA[Obseg:<br /><span class="help">Za izračun obsega vašega paketa izmerite razdaljo okoli najdebelejšega dela nepravokotnega paketa.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_display_time</key>
-		<value><![CDATA[Prikaz časa dostave: <br/><span class="help">Ali želite prikazati čas pošiljanja? (npr. pošiljanje v 3 do 5 dneh)</span>]]></value>
+		<value><![CDATA[Prikaži čas dostave:<br /><span class="help">Ali želite prikazati čas dostave? (npr. Dostava v 3 do 5 dneh)</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_display_weight</key>
-		<value><![CDATA[Prikaži težo dostave: <br/><span class="help">Ali želite prikazati težo pošiljke? (npr. teža dostave: 2,7674 kg)</span>]]></value>
+		<value><![CDATA[Prikaži težo dostave:<br /><span class="help">Ali želite prikazati težo pošiljke? (e.g. Delivery Weight : 2.7674 Kg's)</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight_class</key>
-		<value><![CDATA[Razred teže: <br/><span class="help">Nastavite na funte.</span>]]></value>
+		<value><![CDATA[Razred teže:<br /><span class="help">Nastavite na funte.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_length_class</key>
-		<value><![CDATA[Dolžinski razred: <br/><span class="help">Mera ali privzeti dolžinski razred vaše trgovine.</span>]]></value>
+		<value><![CDATA[Razred dolžine:<br /><span class="help">Dimenzija ali privzeti razred dolžine vaše trgovine.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax</key>
-		<value><![CDATA[Davčni razred: <br/><span class="help">Če morate na ta artikel obračunati davek, izberite davčni razred.</span>]]></value>
+		<value><![CDATA[Davčna skupina:<br /><span class="help">Če morate za ta izdelek zaračunati davek, izberite davčno skupino.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_location</key>
@@ -186,26 +186,26 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje poštne službe Združenih držav!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje Pošte Združenih držav Amerike!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_id</key>
-		<value><![CDATA[Potreben ID uporabnika!]]></value>
+		<value><![CDATA[ID uporabnika je obvezen!]]></value>
 	</definition>
 	<definition>
 		<key>error_postcode</key>
-		<value><![CDATA[Obvezna poštna številka!]]></value>
+		<value><![CDATA[Poštna številka je obvezna!]]></value>
 	</definition>
 	<definition>
 		<key>entry_free_domestic_method</key>
-		<value><![CDATA[Možnost brezplačne dostave <span class="help">Izberite, kateri način bo izbran za primer, ko so v košarici samo izdelki z brezplačno dostavo</span>]]></value>
+		<value><![CDATA[Možnost brezplačne dostave <span class="help">Prosimo, izberite, katera metoda bo izbrana v primeru, ko košarica vsebuje samo izdelke z brezplačno dostavo</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_free_international_method</key>
-		<value><![CDATA[Možnost brezplačne dostave mednarodnih paketov <span class="help">Izberite, kateri način bo izbran za primer, ko voziček vsebuje samo izdelke z brezplačno dostavo</span>]]></value>
+		<value><![CDATA[Možnost brezplačne dostave mednarodnih paketov <span class="help">Prosimo, izberite, katera metoda bo izbrana, če košarica vsebuje samo izdelke z brezplačno dostavo</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_usps_debug</key>
-		<value><![CDATA[Status beleženja odpravljanja napak]]></value>
+		<value><![CDATA[Stanje beleženja odpravljanja napak]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Bestill Totals]]></value>
+		<value><![CDATA[Ordresummer]]></value>
 	</definition>
 	<definition>
 		<key>text_install</key>
-		<value><![CDATA[Installere]]></value>
+		<value><![CDATA[Installer]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Bestill Totals]]></value>
+		<value><![CDATA[Ordresummer]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>column_calculation_order</key>
-		<value><![CDATA[beregning Bestill]]></value>
+		<value><![CDATA[Beregningens rekkefølge]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>

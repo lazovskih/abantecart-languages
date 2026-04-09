@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>2checkout_name</key>
-		<value><![CDATA[2Odjava]]></value>
+		<value><![CDATA[2Checkout]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,32 +10,29 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: izmijenili ste detalje računa 2Checkout!]]></value>
+		<value><![CDATA[Uspjeh: izmijenili ste podatke o 2Checkout računu!]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_note</key>
-		<value><![CDATA[
- S ovim proširenjem možete koristiti sustav plaćanja 2Checkout za prihvaćanje plaćanja od svojih kupaca. <br/> 
- <b>Prijavite se besplatno danas! Upotrijebite promotivni kod ABANTECART2CO za odricanje od naknade za uslugu prijave (ušteda od 10,99 USD) i počnite s prodajom online već danas!</b> Posjetite <a href="https://www.2checkout.com/signup/">www.2checkout.com</a> , ispunite prijavu, a zatim unesite kod u polje za promotivni kod kako biste već danas iskoristili ovu posebnu ponudu! 
- <br/> Nakon što se registrirate, prijavite se kako biste dobili vjerodajnice računa za konfiguriranje ovog proširenja 
- <br/> Ne zaboravite postaviti INS URL i URL za preusmjeravanje ovdje <a href="https://secure.2checkout.com/cpanel/webhooks_api.php">https://secure.2checkout.com/cpanel/webhooks_api.php</a>. 
- <br/><br/> Vaš INS URL je<h4> #storefront#rt=extension/2checkout/callback</h4> 
- <br/><br/> Također postavite URL za preusmjeravanje i odaberite metodu povratka &quot;Preusmjeravanje zaglavlja&quot;. 
- <br/><br/> Vaš URL za preusmjeravanje je<h4> #izlog#rt=odjava/uspjeh</h4> 
-		 ]]></value>
+		<value><![CDATA[Pomoću ovog proširenja možete koristiti 2Checkout sustav plaćanja za prihvat uplata od vaših kupaca.<br>
+<b>Prijavite se besplatno danas! Upotrijebite promotivni kod ABANTECART2CO za ukidanje naknade za usluge prijave (ušteda od $10.99) i počnite prodavati online već danas!</b> Posjetite <a href="https://www.2checkout.com/signup/">www.2checkout.com</a>, ispunite prijavu i zatim unesite kod u polje za promotivni kod kako biste danas iskoristili ovu posebnu ponudu!
+<br> Kad se registrirate, prijavite se kako biste dobili vjerodajnice računa za konfiguraciju ovog proširenja.
+<br> Ne zaboravite postaviti INS URL i Redirect URL ovdje <a href="https://secure.2checkout.com/cpanel/webhooks_api.php">https://secure.2checkout.com/cpanel/webhooks_api.php</a>.
+<br><br>Vaš INS URL je <h4>#storefront#rt=extension/2checkout/callback</h4>
+<br><br>Postavite također Redirect URL i odaberite metodu povratka "Header redirect".
+<br><br>Vaš Redirect URL je <h4>#storefront#rt=checkout/success</h4>]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_account</key>
-		<value><![CDATA[2Kôd trgovca Checkout:]]></value>
+		<value><![CDATA[2Checkout šifra trgovca:]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_secret</key>
-		<value><![CDATA[
- Tajni ključ: <br/><span class="help">Tajna riječ kojom se potvrđuju transakcije (mora biti ista kao definirana na stranici konfiguracije računa trgovca.</span>]]></value>
+		<value><![CDATA[Tajni ključ:<br /><span class="help">Tajna riječ kojom se potvrđuju transakcije (mora biti ista kao i ona definirana na stranici konfiguracije računa trgovca.</span>]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_test</key>
-		<value><![CDATA[Testni način rada:]]></value>
+		<value><![CDATA[Testni način:]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_test_1</key>
@@ -51,7 +48,7 @@
 	</definition>
 	<definition>
 		<key>2checkout_location_id</key>
-		<value><![CDATA[Mjesto:]]></value>
+		<value><![CDATA[Lokacija:]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_location_id_0</key>
@@ -59,11 +56,11 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu plaćanja 2Checkout!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu plaćanja 2Checkout!]]></value>
 	</definition>
 	<definition>
 		<key>error_account</key>
-		<value><![CDATA[Potreban je kod trgovca!]]></value>
+		<value><![CDATA[Šifra trgovca je obavezna!]]></value>
 	</definition>
 	<definition>
 		<key>error_secret</key>

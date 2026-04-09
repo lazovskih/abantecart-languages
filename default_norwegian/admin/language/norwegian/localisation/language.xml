@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[språk]]></value>
+		<value><![CDATA[Språk]]></value>
 	</definition>
 	<definition>
 		<key>text_language</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret språk!]]></value>
+		<value><![CDATA[Suksess: Du har endret språkene!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[språk Name]]></value>
+		<value><![CDATA[Språknavn]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Språk Navn:]]></value>
+		<value><![CDATA[Språknavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Kode: <br/><span class="help">Ikke endre hvis dette er standardspråket.</span>]]></value>
+		<value><![CDATA[Kode:<br /><span class="help">Ikke endre hvis dette er ditt standardspråk.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_locale</key>
-		<value><![CDATA[locale:]]></value>
+		<value><![CDATA[Lokalisering:]]></value>
 	</definition>
 	<definition>
 		<key>entry_image</key>
@@ -66,23 +66,23 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Språk Navn må være mellom 2 og 32 tegn!]]></value>
+		<value><![CDATA[Språknavn må være mellom 2 og 32 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
-		<value><![CDATA[Språkkode må minst 2 tegn!]]></value>
+		<value><![CDATA[Språkkode må være minst 2 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_locale</key>
-		<value><![CDATA[Locale nødvendig!]]></value>
+		<value><![CDATA[Locale påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>error_image</key>
-		<value><![CDATA[Bilde Filnavn må være mellom 2 og 64 tegn!]]></value>
+		<value><![CDATA[Bildefilnavnet må være mellom 2 og 64 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_directory</key>
-		<value><![CDATA[Directory kreves!]]></value>
+		<value><![CDATA[Katalog påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>error_filename</key>
@@ -90,56 +90,56 @@
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Advarsel: Dette språket kan ikke slettes som det er i dag tildelt som standard butikken språket!]]></value>
+		<value><![CDATA[Advarsel: Dette språket kan ikke slettes da det for øyeblikket er tildelt som butikkens standardspråk!]]></value>
 	</definition>
 	<definition>
 		<key>error_admin</key>
-		<value><![CDATA[Advarsel: Dette Språk kan ikke slettes som det er i dag tildelt som administrasjonen språket!]]></value>
+		<value><![CDATA[Advarsel: Dette språket kan ikke slettes da det for øyeblikket er satt som administrasjonsspråk!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Advarsel: Dette språket kan ikke slettes som det er i dag tildelt %s butikkene!]]></value>
+		<value><![CDATA[Advarsel: Dette språket kan ikke slettes da det for øyeblikket er tilordnet %s butikker!]]></value>
 	</definition>
 	<definition>
 		<key>error_order</key>
-		<value><![CDATA[Advarsel: Dette språket kan ikke slettes som det er i dag tildelt %s bestillinger!]]></value>
+		<value><![CDATA[Advarsel: Dette språket kan ikke slettes da det for tiden er tilordnet %s ordrer!]]></value>
 	</definition>
 	<definition>
 		<key>language_edit_title</key>
-		<value><![CDATA[Rediger Språk Detaljer]]></value>
+		<value><![CDATA[Rediger språkdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>load_language_title</key>
-		<value><![CDATA[Last manglende språk data]]></value>
+		<value><![CDATA[Last inn manglende språkdata]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_selector</key>
-		<value><![CDATA[Kilde Språk:]]></value>
+		<value><![CDATA[Kildespråk:]]></value>
 	</definition>
 	<definition>
 		<key>entry_translate_method_selector</key>
-		<value><![CDATA[Tekst oversettelse metode:]]></value>
+		<value><![CDATA[Tekstoversettelsesmetode:]]></value>
 	</definition>
 	<definition>
 		<key>load_language_note</key>
-		<value><![CDATA[MERK: Denne operasjonen kan ta noen minutter å kjøre. Ikke lukk nettleseren, forlate eller oppdatere siden!]]></value>
+		<value><![CDATA[MERK: Denne operasjonen kan ta noen minutter å kjøre. IKKE lukk nettleseren, forlat siden eller oppdater siden!]]></value>
 	</definition>
 	<definition>
 		<key>create_language_note</key>
-		<value><![CDATA[MERK: Vi anbefaler å lage språk som en forlengelse. Sjekk eksisterende språk utvidelser. Hvis du likevel ønsker å opprette nye språket manuelt, må du legge flaggene til admin/language/[Language Directory]/flag.png		storefront/language/[Language Directory]flag.png 
- Etter at språk er opprettet belastning mangler språk data å oversette eller kopiere tekstinnhold fra kildespråket.]]></value>
+		<value><![CDATA[MERK: Vi anbefaler å opprette et språk som en utvidelse. Sjekk eksisterende språkutvidelser. Hvis du fortsatt ønsker å opprette et nytt språk manuelt, må du legge språkflagg til admin/language/[Language Directory]/flag.png og storefront/language/[Language Directory]flag.png	
+Etter at språket er opprettet, last inn manglende språkdata for oversettelse eller kopier tekstinnholdet fra kildespråket.]]></value>
 	</definition>
 	<definition>
 		<key>button_load_language</key>
-		<value><![CDATA[Laste]]></value>
+		<value><![CDATA[Last inn]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete_tasks</key>
-		<value><![CDATA[ufullstendige Oppgaver]]></value>
+		<value><![CDATA[Ufullførte oppgaver]]></value>
 	</definition>
 	<definition>
 		<key>text_task_id</key>
-		<value><![CDATA[Oppgave ID:]]></value>
+		<value><![CDATA[Oppgave-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_title</key>
@@ -147,23 +147,23 @@
 	</definition>
 	<definition>
 		<key>text_last_time_run</key>
-		<value><![CDATA[Siste Kjør:]]></value>
+		<value><![CDATA[Sist kjørt:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[laget:]]></value>
+		<value><![CDATA[Opprettet:]]></value>
 	</definition>
 	<definition>
 		<key>text_starter_name</key>
-		<value><![CDATA[Laget av:]]></value>
+		<value><![CDATA[Opprettet av:]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[Omstart]]></value>
+		<value><![CDATA[Start på nytt]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Fjerne]]></value>
+		<value><![CDATA[Fjern]]></value>
 	</definition>
 	<definition>
 		<key>text_task_title</key>
@@ -171,14 +171,18 @@
 	</definition>
 	<definition>
 		<key>error_nothing_to_do</key>
-		<value><![CDATA[Feil: Vennligst Still Kilde Språk og Oversettelse metoden!]]></value>
+		<value><![CDATA[Feil: Vennligst angi kildespråk og oversettelsesmetode!]]></value>
 	</definition>
 	<definition>
 		<key>text_translate_override_existing</key>
-		<value><![CDATA[Merk: Alle eksisterende beskrivelser i målspråket vil bli erstattet med ny oversettelse. Du kan deaktivere overordnede i <a href="%s">System-&gt; Innstillinger&gt; Butikk Detaljer</a> .]]></value>
+		<value><![CDATA[Merk: Alle eksisterende beskrivelser på målspråket vil bli erstattet med den nye oversettelsen. Du kan deaktivere overstyring i <a href="%s">System->Innstillinger->Butikkdetaljer</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_copy_source_text</key>
 		<value><![CDATA[Kopier kildespråktekst]]></value>
+	</definition>
+	<definition>
+		<key>error_all_disabled</key>
+		<value><![CDATA[Minst ett språk må være aktivt!]]></value>
 	</definition>
 </definitions>

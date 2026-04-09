@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>forms_manager_status</key>
-		<value><![CDATA[Postavení:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_note</key>
-		<value><![CDATA[Chcete-li spravovat formuláře, povolte rozšíření a postupujte podle Návrh-&gt; <a href="#admin#rt=tool/forms_manager">Správce formulářů</a>]]></value>
+		<value><![CDATA[Chcete-li spravovat formuláře, povolte rozšíření a přejděte na Design-><a href="#admin#rt=tool/forms_manager">Správce formulářů</a>]]></value>
 	</definition>
 	<definition>
 		<key>custom_forms_block</key>
-		<value><![CDATA[Vlastní blok formulářů]]></value>
+		<value><![CDATA[Blok vlastních formulářů]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_name</key>
-		<value><![CDATA[Název formuláře <br/><span class="help">latinská písmena, podtržítko, pouze mínus</span>]]></value>
+		<value><![CDATA[Název formuláře<br/><span class="help">Pouze latinská písmena, podtržítko a pomlčka</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_controller_path</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>entry_success_page</key>
-		<value><![CDATA[Stránka úspěchu <br/><span class="help">Nechte pole prázdné, pokud chcete přesměrovat na stejnou stránku jako ovladač</span>]]></value>
+		<value><![CDATA[Success page<br/><span class="help">Nechte to prázdné, pokud chcete přesměrovat na stejnou stránku jako kontroler</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_description</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>text_contactus_page</key>
-		<value><![CDATA[Kontaktujte nás]]></value>
+		<value><![CDATA[Stránka Kontaktujte nás]]></value>
 	</definition>
 	<definition>
 		<key>text_form</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>filter_exact_match</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>filter_any_word</key>
-		<value><![CDATA[Kterékoli z těchto slov]]></value>
+		<value><![CDATA[Jakékoli z těchto slov]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_words</key>
@@ -74,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>filter_form</key>
-		<value><![CDATA[Vyhledejte formulář]]></value>
+		<value><![CDATA[Vyhledat formulář]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new_field</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[Resetovat]]></value>
+		<value><![CDATA[Obnovit]]></value>
 	</definition>
 	<definition>
 		<key>text_field_type</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>button_remove_field</key>
-		<value><![CDATA[Odebrat pole]]></value>
+		<value><![CDATA[Odstranit pole]]></value>
 	</definition>
 	<definition>
 		<key>entry_field</key>
@@ -102,15 +102,15 @@
 	</definition>
 	<definition>
 		<key>entry_field_name</key>
-		<value><![CDATA[Název pole (latinská písmena, podtržítko, pouze mínus)]]></value>
+		<value><![CDATA[Název pole (pouze latinská písmena, podtržítko a pomlčka)]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Řadit pořadí]]></value>
+		<value><![CDATA[Pořadí řazení]]></value>
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Požadovaný]]></value>
+		<value><![CDATA[Povinné]]></value>
 	</definition>
 	<definition>
 		<key>entry_edit_fields</key>
@@ -130,7 +130,7 @@
 	</definition>
 	<definition>
 		<key>error_duplicate_field_name</key>
-		<value><![CDATA[V aktuálním formuláři již pole s takovým názvem existuje.]]></value>
+		<value><![CDATA[V aktuálním formuláři již existuje pole se stejným názvem.]]></value>
 	</definition>
 	<definition>
 		<key>text_field_removed</key>
@@ -170,7 +170,7 @@
 	</definition>
 	<definition>
 		<key>entry_no_set_values</key>
-		<value><![CDATA[Pro tento typ pole nelze nastavit hodnoty.]]></value>
+		<value><![CDATA[Vy nemůžete nastavit hodnoty pro tento typ pole.]]></value>
 	</definition>
 	<definition>
 		<key>text_field_values</key>
@@ -178,19 +178,19 @@
 	</definition>
 	<definition>
 		<key>note_create_form_block</key>
-		<value><![CDATA[POZNÁMKA: Chcete-li vidět tento formulář zobrazený na výloze, vytvořte blok formuláře v části Návrh-&gt; <a href="%s">Bloky</a> a přidejte jej na příslušnou stránku na stránce Návrh-&gt; <a href="%s">Rozvržení</a> .]]></value>
+		<value><![CDATA[POZNÁMKA: Aby byl tento formulář zobrazen ve vitríně, vytvořte formulářový blok v Design-><a href="%s">Bloky</a> a přidejte jej na příslušnou stránku v Design-><a href="%s">Rozvržení</a>.]]></value>
 	</definition>
 	<definition>
 		<key>note_edit_layout</key>
-		<value><![CDATA[POZNÁMKA: Chcete-li vidět tento blok zobrazený na výloze, přidejte jej na příslušnou stránku v části Design-&gt; <a href="%s">Layouts</a>. Chcete-li vytvořit nový formulář, přejděte na stránku Návrh-&gt; <a href="%s">Správce formulářů</a> .]]></value>
+		<value><![CDATA[POZNÁMKA: Chcete-li tento blok zobrazit na stránce obchodu, přidejte jej na příslušnou stránku v Návrh-><a href="%s">Rozvržení</a>. Pro vytvoření nového formuláře přejděte na stránku Návrh-><a href="%s">Správce formulářů</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_field_type</key>
-		<value><![CDATA[--- Vyberte prosím ---]]></value>
+		<value><![CDATA[--- Prosím vyberte ---]]></value>
 	</definition>
 	<definition>
 		<key>entry_field_note</key>
-		<value><![CDATA[Terénní poznámka]]></value>
+		<value><![CDATA[Poznámka k poli]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_default_sender_name</key>
@@ -202,7 +202,7 @@
 	</definition>
 	<definition>
 		<key>entry_field_placeholder</key>
-		<value><![CDATA[zástupný symbol:]]></value>
+		<value><![CDATA[Zástupný text:]]></value>
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
@@ -218,11 +218,11 @@
 	</definition>
 	<definition>
 		<key>error_fill_required</key>
-		<value><![CDATA[Vyplňte prosím všechna povinná pole formuláře!]]></value>
+		<value><![CDATA[Prosím vyplňte všechna povinná pole formuláře!]]></value>
 	</definition>
 	<definition>
 		<key>error_form_name</key>
-		<value><![CDATA[Název formuláře nesmí být prázdný!]]></value>
+		<value><![CDATA[Název formuláře nemůže být prázdný!]]></value>
 	</definition>
 	<definition>
 		<key>error_form_description</key>
@@ -230,10 +230,98 @@
 	</definition>
 	<definition>
 		<key>error_field_name_exists</key>
-		<value><![CDATA[Pole s názvem %s je již ve formuláři přítomno!]]></value>
+		<value><![CDATA[Pole s názvem %s už se v tomto formuláři nachází!]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_error_empty_sender</key>
-		<value><![CDATA[Varování! Nastavte výchozí jméno odesílatele a výchozí e-mail odesílatele v <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">nastavení správce formulářů</a>]]></value>
+		<value><![CDATA[Varování! Prosím nastavte výchozí jméno odesílatele a výchozí e-mail odesílatele v <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">nastavení správce formulářů</a>]]></value>
+	</definition>
+	<definition>
+		<key>column_field_name</key>
+		<value><![CDATA[Název pole]]></value>
+	</definition>
+	<definition>
+		<key>entry_html_attributes</key>
+		<value><![CDATA[html-attributes:<br /><span class="help">Můžete přidat vlastní html-atributy pro prvek option. Příklad: data-some-attribute="nějaká hodnota"</span>]]></value>
+	</definition>
+	<definition>
+		<key>error_regexp_pattern</key>
+		<value><![CDATA[Vzor regulárního výrazu je neplatný!]]></value>
+	</definition>
+	<definition>
+		<key>text_groups</key>
+		<value><![CDATA[Skupiny]]></value>
+	</definition>
+	<definition>
+		<key>text_fields</key>
+		<value><![CDATA[Pole]]></value>
+	</definition>
+	<definition>
+		<key>text_assign_fields_to_groups</key>
+		<value><![CDATA[Přiřadit pole ke skupinám]]></value>
+	</definition>
+	<definition>
+		<key>text_add_new_group</key>
+		<value><![CDATA[Přidat novou skupinu polí]]></value>
+	</definition>
+	<definition>
+		<key>text_no_group</key>
+		<value><![CDATA[Nejsou k dispozici žádné skupiny polí]]></value>
+	</definition>
+	<definition>
+		<key>text_no_fields</key>
+		<value><![CDATA[Žádná pole nejsou k dispozici]]></value>
+	</definition>
+	<definition>
+		<key>text_action</key>
+		<value><![CDATA[Akce]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_name</key>
+		<value><![CDATA[Název skupiny]]></value>
+	</definition>
+	<definition>
+		<key>entry_group</key>
+		<value><![CDATA[Skupina]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_description</key>
+		<value><![CDATA[Popis skupiny]]></value>
+	</definition>
+	<definition>
+		<key>button_save</key>
+		<value><![CDATA[Uložit]]></value>
+	</definition>
+	<definition>
+		<key>button_cancel</key>
+		<value><![CDATA[Zrušit]]></value>
+	</definition>
+	<definition>
+		<key>error_group_name_required</key>
+		<value><![CDATA[Název skupiny je povinný!]]></value>
+	</definition>
+	<definition>
+		<key>error_unknown</key>
+		<value><![CDATA[Došlo k neznámé chybě]]></value>
+	</definition>
+	<definition>
+		<key>text_success_fields_assigned</key>
+		<value><![CDATA[Pole byla úspěšně přiřazena ke skupinám.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_added_group</key>
+		<value><![CDATA[Skupina byla úspěšně přidána.]]></value>
+	</definition>
+	<definition>
+		<key>column_text_id</key>
+		<value><![CDATA[ID textu]]></value>
+	</definition>
+	<definition>
+		<key>error_group_has_fields</key>
+		<value><![CDATA[Nelze odstranit skupinu. Jedno nebo více polí je přiřazeno této skupině.]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_field_values</key>
+		<value><![CDATA[Upravit hodnoty pole]]></value>
 	</definition>
 </definitions>

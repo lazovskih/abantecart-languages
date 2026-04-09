@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Order Frissítés %s]]></value>
+		<value><![CDATA[%s - Rendelés frissítése %s]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
@@ -10,22 +10,22 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Dátum-ig:]]></value>
+		<value><![CDATA[Megrendelés dátuma:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
-		<value><![CDATA[A rendelés frissült az állapot a következő:]]></value>
+		<value><![CDATA[Az Ön rendelése a következő állapotra frissült:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[A hozzászólások a sorrendben:]]></value>
+		<value><![CDATA[A rendelésed megjegyzései:]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Tekintsd meg a rendelési klikk az alábbi linkre:]]></value>
+		<value><![CDATA[A rendelés megtekintéséhez kattintson az alábbi hivatkozásra:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Kérjük válaszoljon erre a levélre, ha bármilyen kérdése van.]]></value>
+		<value><![CDATA[Ha bármilyen kérdése van, kérjük, válaszoljon erre az e-mailre.]]></value>
 	</definition>
 </definitions>

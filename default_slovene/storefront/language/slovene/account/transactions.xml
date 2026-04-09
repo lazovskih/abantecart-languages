@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Moje Transakcije]]></value>
+		<value><![CDATA[Moje transakcije]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_transactions</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_transaction_type</key>
-		<value><![CDATA[Vrsta]]></value>
+		<value><![CDATA[Tip]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_description</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum nastanka]]></value>
+		<value><![CDATA[Datum ustvarjanja]]></value>
 	</definition>
 	<definition>
 		<key>text_debit</key>
-		<value><![CDATA[debetne]]></value>
+		<value><![CDATA[Bremenitev]]></value>
 	</definition>
 	<definition>
 		<key>text_credit</key>
@@ -46,6 +46,6 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Nimate transakcij posnete na svoj račun!]]></value>
+		<value><![CDATA[Na vašem računu ni zabeleženih nobenih transakcij!]]></value>
 	</definition>
 </definitions>

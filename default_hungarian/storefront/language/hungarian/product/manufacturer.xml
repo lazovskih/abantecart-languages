@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_product</key>
@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Gyártó nem található!]]></value>
+		<value><![CDATA[Márka nem található!]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Nincs listázható termék Gyártó.]]></value>
+		<value><![CDATA[Ebből a márkából nincs listázható termék.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Az 5-ből!]]></value>
+		<value><![CDATA[%s az 5 csillagból!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
-		<value><![CDATA[Sorrend:]]></value>
+		<value><![CDATA[Rendezés:]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
@@ -26,15 +26,15 @@
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Név, A - Z]]></value>
+		<value><![CDATA[Név A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Név, Z - A]]></value>
+		<value><![CDATA[Név Z – A]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Ár Alacsony &gt; Magas]]></value>
+		<value><![CDATA[Ár alacsony > magas]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
@@ -42,10 +42,10 @@
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Értékelés, legrosszabb]]></value>
+		<value><![CDATA[Értékelés Legalacsonyabb]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Értékelés, legjobb]]></value>
+		<value><![CDATA[Legmagasabb értékelés]]></value>
 	</definition>
 </definitions>

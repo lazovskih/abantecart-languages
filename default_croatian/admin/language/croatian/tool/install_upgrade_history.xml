@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[instalirati / povijest Nadogradnja]]></value>
+		<value><![CDATA[Povijest instalacije/nadogradnje]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Datum dodan]]></value>
+		<value><![CDATA[Datum dodavanja]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Paket ključ]]></value>
+		<value><![CDATA[Ključ paketa]]></value>
 	</definition>
 	<definition>
 		<key>column_version</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>column_backup_date</key>
-		<value><![CDATA[Backup Datum]]></value>
+		<value><![CDATA[Datum sigurnosne kopije]]></value>
 	</definition>
 	<definition>
 		<key>column_backup_file</key>
-		<value><![CDATA[Backup datoteke]]></value>
+		<value><![CDATA[Sigurnosna kopija datoteke]]></value>
 	</definition>
 	<definition>
 		<key>column_user</key>
@@ -34,14 +34,14 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[za preuzimanje datoteka]]></value>
+		<value><![CDATA[preuzeti datoteku]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_history</key>
-		<value><![CDATA[Brisanje povijesti]]></value>
+		<value><![CDATA[Obriši povijest]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_success</key>
-		<value><![CDATA[Vaš Instalacija / Upgrade Povijest je uspješno obrisan.]]></value>
+		<value><![CDATA[Vaša povijest instalacija/nadogradnji je uspješno izbrisana.]]></value>
 	</definition>
 </definitions>

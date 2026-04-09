@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_account_already</key>
-		<value><![CDATA[Ha már van egy fiókot nálunk, kérjük jelentkezzen be a <a style="text-decoration: underline" href="%s">bejelentkezési oldalon</a> .]]></value>
+		<value><![CDATA[Ha már van fiókja nálunk, kérjük, jelentkezzen be a <a style="text-decoration: underline" href="%s">bejelentkezési oldalon</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_your_details</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_your_address</key>
-		<value><![CDATA[Címed]]></value>
+		<value><![CDATA[Az Ön címe]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
@@ -30,19 +30,15 @@
 	</definition>
 	<definition>
 		<key>text_your_password</key>
-		<value><![CDATA[A jelszavad]]></value>
+		<value><![CDATA[Az Ön jelszava]]></value>
 	</definition>
 	<definition>
 		<key>text_login_details</key>
-		<value><![CDATA[bejelentkezesi adatok]]></value>
+		<value><![CDATA[Bejelentkezési adatok]]></value>
 	</definition>
 	<definition>
 		<key>text_agree</key>
-		<value><![CDATA[Elolvastam és elfogadom a]]></value>
-	</definition>
-	<definition>
-		<key>entry_loginname</key>
-		<value><![CDATA[Bejelentkezési név:]]></value>
+		<value><![CDATA[Én elolvastam és egyetértek a(z)]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -54,47 +50,11 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email:]]></value>
-	</definition>
-	<definition>
-		<key>entry_telephone</key>
-		<value><![CDATA[Telefon:]]></value>
-	</definition>
-	<definition>
-		<key>entry_fax</key>
-		<value><![CDATA[Fax:]]></value>
-	</definition>
-	<definition>
-		<key>entry_company</key>
-		<value><![CDATA[Vállalat:]]></value>
-	</definition>
-	<definition>
-		<key>entry_address_1</key>
-		<value><![CDATA[Cím 1:]]></value>
-	</definition>
-	<definition>
-		<key>entry_address_2</key>
-		<value><![CDATA[Cím 2:]]></value>
-	</definition>
-	<definition>
-		<key>entry_postcode</key>
-		<value><![CDATA[Irányítószám:]]></value>
-	</definition>
-	<definition>
-		<key>entry_city</key>
-		<value><![CDATA[Város:]]></value>
-	</definition>
-	<definition>
-		<key>entry_country</key>
-		<value><![CDATA[Ország:]]></value>
-	</definition>
-	<definition>
-		<key>entry_zone</key>
-		<value><![CDATA[Régió / állam:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
-		<value><![CDATA[Iratkozz fel:]]></value>
+		<value><![CDATA[Feliratkozás:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -106,98 +66,62 @@
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Hiba: E-mail cím már regisztrálva van!]]></value>
-	</definition>
-	<definition>
-		<key>error_loginname</key>
-		<value><![CDATA[Bejelentkezés nevet kell alfanumerikus csak és 5 és 64 karakter!]]></value>
+		<value><![CDATA[Hiba: Az e-mail cím már regisztrálva van!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Ez a bejelentkezési név nem elérhető. Próbáljon másik névvel!]]></value>
-	</definition>
-	<definition>
-		<key>error_firstname</key>
-		<value><![CDATA[Utónév között kell lennie az 1. és 32 karakter!]]></value>
-	</definition>
-	<definition>
-		<key>error_lastname</key>
-		<value><![CDATA[Vezetéknév legyen 1 és 32 között karakter!]]></value>
-	</definition>
-	<definition>
-		<key>error_email</key>
-		<value><![CDATA[E-mail cím nem tűnik érvényesnek!]]></value>
+		<value><![CDATA[Ez a bejelentkezési név nem elérhető. Próbáljon másik bejelentkezési nevet!]]></value>
 	</definition>
 	<definition>
 		<key>error_email_exists</key>
-		<value><![CDATA[E-mail cím már létezik!]]></value>
+		<value><![CDATA[Az e-mail cím már létezik!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Azonosító hossza 4 és 20 karakter!]]></value>
+		<value><![CDATA[A jelszónak 4 és 20 karakter közötti hosszúságúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
-		<value><![CDATA[Jelszó megerősítés nem egyezik jelszó!]]></value>
-	</definition>
-	<definition>
-		<key>error_address_1</key>
-		<value><![CDATA[Cím 1 között kell lennie a 3. és 128 karakter!]]></value>
-	</definition>
-	<definition>
-		<key>error_city</key>
-		<value><![CDATA[Város között kell lennie a 3. és 128 karakter!]]></value>
-	</definition>
-	<definition>
-		<key>error_postcode</key>
-		<value><![CDATA[Zip / irányítószám között kell lennie a 3. és 10 karakter!]]></value>
-	</definition>
-	<definition>
-		<key>error_country</key>
-		<value><![CDATA[Kérjük, válasszon ki egy országot!]]></value>
-	</definition>
-	<definition>
-		<key>error_zone</key>
-		<value><![CDATA[Kérjük, válasszon régiót / állam!]]></value>
+		<value><![CDATA[A jelszó megerősítése nem egyezik a jelszóval!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon között kell lennie a 3. és 32 karakter!]]></value>
+		<value><![CDATA[A telefon csak számjegyeket tartalmazhat, és hossza 3 és 32 karakter között lehet!]]></value>
 	</definition>
 	<definition>
 		<key>error_agree</key>
-		<value><![CDATA[Hiba: El kell fogadnia a %s!]]></value>
+		<value><![CDATA[Hiba: El kell fogadnod a %s-et!]]></value>
 	</definition>
 	<definition>
 		<key>text_full_register</key>
-		<value><![CDATA[Legyen egy ügyfél, és regisztrálja az Ön adatait]]></value>
+		<value><![CDATA[Legyen Ön is ügyfelünk, és regisztráljon adataival!]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribe_register</key>
-		<value><![CDATA[Legyen egy hírlevél előfizető]]></value>
+		<value><![CDATA[Iratkozzon fel a hírlevélre]]></value>
 	</definition>
 	<definition>
 		<key>text_success_subscribe_heading</key>
-		<value><![CDATA[Ön előfizetett sikeres!]]></value>
+		<value><![CDATA[Sikeresen feliratkozott!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_subscribe</key>
-		<value><![CDATA[Siker: A hírlevél feliratkozás sikeresen létrejött!]]></value>
+		<value><![CDATA[Siker: Az Ön hírlevél-feliratkozása sikeresen létrejött!]]></value>
 	</definition>
 	<definition>
 		<key>error_subscriber_exists</key>
-		<value><![CDATA[A feljegyzések azt mutatják, hogy van egy fiókkal. Kérjük, jelentkezzen be a fiókjába, hogy kezelje a hírlevél feliratkozás.]]></value>
+		<value><![CDATA[A nyilvántartásunk szerint fiókja van nálunk. Kérjük, jelentkezzen be fiókjába, hogy kezelhesse a hírlevél-feliratkozását.]]></value>
 	</definition>
 	<definition>
 		<key>text_new_customer</key>
-		<value><![CDATA[Új vásárló regisztrációja jóváhagyására vár]]></value>
+		<value><![CDATA[Az új vásárló regisztrációjának jóváhagyása függőben van]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_customer_approval</key>
-		<value><![CDATA[Ügyfél %s regisztrált új fiókot. Action jóváhagyás szükséges! Kattintson ide #admin#rt=sale/customer/update&customer_id=%s]]></value>
+		<value><![CDATA[A vevő %s új fiókkal regisztrált. Jóváhagyás szükséges! Kattintson a megtekintéshez #admin#rt=sale/customer/update&customer_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_subscriber_approval</key>
-		<value><![CDATA[Előfizető %s regisztrált új fiókot. Action jóváhagyás szükséges! Kattintson ide #admin#rt=sale/customer/update&customer_id=%s]]></value>
+		<value><![CDATA[Előfizető %s új fiókkal regisztrált. Jóváhagyás szükséges! Kattintson a megtekintéshez #admin#rt=sale/customer/update&customer_id=%s]]></value>
 	</definition>
 </definitions>

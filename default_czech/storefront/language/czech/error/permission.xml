@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,6 +6,6 @@
 	</definition>
 	<definition>
 		<key>text_permission</key>
-		<value><![CDATA[Nemáte oprávnění k přístupu na tuto stránku naleznete na správce systému.]]></value>
+		<value><![CDATA[Nemáte oprávnění k přístupu na tuto stránku, obraťte se prosím na svého administrátora systému.]]></value>
 	</definition>
 </definitions>

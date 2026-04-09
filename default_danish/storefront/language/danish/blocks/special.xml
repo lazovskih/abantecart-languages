@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[specials]]></value>
+		<value><![CDATA[Tilbud]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Se Produkter On Sale]]></value>
+		<value><![CDATA[Se Produkter På Udsalg]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Ud af 5 stjerner!]]></value>
+		<value><![CDATA[%s ud af 5 stjerner!]]></value>
 	</definition>
 </definitions>

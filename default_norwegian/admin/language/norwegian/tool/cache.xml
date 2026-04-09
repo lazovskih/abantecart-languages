@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[cache Ledelse]]></value>
+		<value><![CDATA[Cache-administrasjon]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har slettet cache-filer!]]></value>
+		<value><![CDATA[Suksess: Du har med hell slettet cache-filene!]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration</key>
-		<value><![CDATA[konfigurasjon]]></value>
+		<value><![CDATA[Konfigurasjon]]></value>
 	</definition>
 	<definition>
 		<key>text_layouts_blocks</key>
-		<value><![CDATA[Utforminger &amp; blokker]]></value>
+		<value><![CDATA[Oppsett og blokker]]></value>
 	</definition>
 	<definition>
 		<key>text_flexyforms</key>
-		<value><![CDATA[Flexy Forms]]></value>
+		<value><![CDATA[Flexy skjemaer]]></value>
 	</definition>
 	<definition>
 		<key>text_images</key>
@@ -30,31 +30,31 @@
 	</definition>
 	<definition>
 		<key>text_categories</key>
-		<value><![CDATA[kategorier]]></value>
+		<value><![CDATA[Kategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[produsenter]]></value>
+		<value><![CDATA[Merker]]></value>
 	</definition>
 	<definition>
 		<key>text_localisations</key>
-		<value><![CDATA[lokaliseringer]]></value>
+		<value><![CDATA[Lokaliseringer]]></value>
 	</definition>
 	<definition>
 		<key>text_error_log</key>
-		<value><![CDATA[Feil logg]]></value>
+		<value><![CDATA[Feillogg]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_cache</key>
-		<value><![CDATA[Tøm valgt buffer]]></value>
+		<value><![CDATA[Tøm valgte hurtigbuffere]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_all_cache</key>
-		<value><![CDATA[Fjern alle Cache]]></value>
+		<value><![CDATA[Slett alle data]]></value>
 	</definition>
 	<definition>
 		<key>desc_configuration</key>
-		<value><![CDATA[System og lagre konfigurasjoner]]></value>
+		<value><![CDATA[System- og butikkkonfigurasjoner]]></value>
 	</definition>
 	<definition>
 		<key>desc_layouts_blocks</key>
@@ -62,35 +62,35 @@
 	</definition>
 	<definition>
 		<key>desc_flexyforms</key>
-		<value><![CDATA[Flexy former data]]></value>
+		<value><![CDATA[Flexy-skjemaer data]]></value>
 	</definition>
 	<definition>
 		<key>desc_images</key>
-		<value><![CDATA[miniatyrbilder]]></value>
+		<value><![CDATA[Miniatyrbilder]]></value>
 	</definition>
 	<definition>
 		<key>desc_products</key>
-		<value><![CDATA[Produktdata data]]></value>
+		<value><![CDATA[Produktdata]]></value>
 	</definition>
 	<definition>
 		<key>desc_categories</key>
-		<value><![CDATA[Kategori data]]></value>
+		<value><![CDATA[Kategoridata]]></value>
 	</definition>
 	<definition>
 		<key>desc_manufacturers</key>
-		<value><![CDATA[produsentens data]]></value>
+		<value><![CDATA[Merke data]]></value>
 	</definition>
 	<definition>
 		<key>desc_localisations</key>
-		<value><![CDATA[Valuta, språk, land, Zone, lengde, vekt, &amp; annen]]></value>
+		<value><![CDATA[Valuta, språk, land, sone, lengde, vekt og annet]]></value>
 	</definition>
 	<definition>
 		<key>desc_error_log</key>
-		<value><![CDATA[Feil logg]]></value>
+		<value><![CDATA[Feillogg]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[cache Type]]></value>
+		<value><![CDATA[Hurtigbuffertype]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[Installer / oppgradering Historie]]></value>
+		<value><![CDATA[Installer/Oppgrader Historikk]]></value>
 	</definition>
 	<definition>
 		<key>desc_install_upgrade_history</key>
-		<value><![CDATA[Fjern alle Installer / oppgradering Historie]]></value>
+		<value><![CDATA[Tøm all installasjons-/oppgraderingshistorikk]]></value>
 	</definition>
 	<definition>
 		<key>text_edits_history</key>
@@ -110,6 +110,6 @@
 	</definition>
 	<definition>
 		<key>desc_edits_history</key>
-		<value><![CDATA[Fjern all tekstredigeringshistorikk]]></value>
+		<value><![CDATA[Tøm all tekstredigeringshistorikk]]></value>
 	</definition>
 </definitions>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Produkter Kjøpt Rapporter]]></value>
+		<value><![CDATA[Rapport over kjøpte produkter]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -14,10 +14,10 @@
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[Mengde]]></value>
+		<value><![CDATA[Antall]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 </definitions>

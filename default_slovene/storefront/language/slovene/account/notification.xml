@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Obvestila in Novice]]></value>
+		<value><![CDATA[Obvestila in e-novice]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_notifications</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Nastavitve obvestil je bil uspešno posodobljen!]]></value>
+		<value><![CDATA[Uspeh: Vaše nastavitve obvestil so bile uspešno posodobljene!]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoint</key>

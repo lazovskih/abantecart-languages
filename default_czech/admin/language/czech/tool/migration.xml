@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Nákupní košík migrace]]></value>
+		<value><![CDATA[Migrace košíku]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_step_one</key>
@@ -18,35 +18,35 @@
 	</definition>
 	<definition>
 		<key>text_description</key>
-		<value><![CDATA[Migrační nástroj umožňuje importovat data z jiných vozíků. <br/> Poznámka: AbanteCart podpora importu pro MySQL pouze pro teď. <br/> Stiskněte tlačítko start migrace, aby i nadále ...]]></value>
+		<value><![CDATA[Nástroj pro migraci vám umožňuje importovat data z jiných nákupních košíků.<br>Poznámka: AbanteCart prozatím podporuje import pouze pro MySQL.<br>Stiskněte tlačítko Zahájit migraci pro pokračování...]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Vy dat úspěšně transfeerd na Abantecart!]]></value>
+		<value><![CDATA[Úspěch: Vaše data byla úspěšně přenesena do AbanteCart!]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_info</key>
-		<value><![CDATA[Zdroj <span class="help">Košík</span> Info <span class="help">zdroj detaily vozík aplikaci.</span>]]></value>
+		<value><![CDATA[Informace o zdrojovém košíku<span class="help">Podrobnosti o původní aplikaci nákupního košíku.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_db_info</key>
-		<value><![CDATA[Info databáze <span class="help">Poznámka: AbanteCart podpora importu pro MySQL jen prozatím.</span>]]></value>
+		<value><![CDATA[Informace o databázi<span class="help">Poznámka: AbanteCart zatím podporuje import pouze pro MySQL.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_type</key>
-		<value><![CDATA[Zdroj Typ košík:]]></value>
+		<value><![CDATA[Typ zdrojového košíku:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_url</key>
-		<value><![CDATA[Zdroj URL košík:]]></value>
+		<value><![CDATA[URL zdrojového košíku:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_host</key>
-		<value><![CDATA[Databáze Host:]]></value>
+		<value><![CDATA[Hostitel databáze:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_user</key>
-		<value><![CDATA[Databáze Uživatel:]]></value>
+		<value><![CDATA[Uživatel databáze:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_password</key>
@@ -58,19 +58,19 @@
 	</definition>
 	<definition>
 		<key>entry_db_prefix</key>
-		<value><![CDATA[Databáze Prefix:]]></value>
+		<value><![CDATA[Předpona databáze:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_select</key>
-		<value><![CDATA[- Vyberte typ vozík -]]></value>
+		<value><![CDATA[- vyberte typ košíku -]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_osc</key>
-		<value><![CDATA[OsCommerce 2.2RC2]]></value>
+		<value><![CDATA[Oscommerce 2.2RC2]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_oscmax</key>
-		<value><![CDATA[osCMax]]></value>
+		<value><![CDATA[OscMAX]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_zen</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>entry_cart_cre</key>
-		<value><![CDATA[CRE Načteno 6.4.1 STD]]></value>
+		<value><![CDATA[CRE Loaded 6.4.1 STD]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_opencart</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>entry_migrate_data</key>
-		<value><![CDATA[Vyberte data přenést]]></value>
+		<value><![CDATA[Vyberte data k migraci]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_categories</key>
@@ -94,23 +94,23 @@
 	</definition>
 	<definition>
 		<key>entry_migrate_data_products</key>
-		<value><![CDATA[Produkty, kategoriích Značky]]></value>
+		<value><![CDATA[Produkty, Kategorie, Značky]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_customers</key>
-		<value><![CDATA[zákazníci]]></value>
+		<value><![CDATA[Zákazníci]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_orders</key>
-		<value><![CDATA[objednávky]]></value>
+		<value><![CDATA[Objednávky]]></value>
 	</definition>
 	<definition>
 		<key>entry_erase_existing_data</key>
-		<value><![CDATA[Vymazat existující data?]]></value>
+		<value><![CDATA[Smazat existující data?]]></value>
 	</definition>
 	<definition>
 		<key>button_start_migration</key>
-		<value><![CDATA[spustit migraci]]></value>
+		<value><![CDATA[Spustit migraci]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
@@ -118,31 +118,31 @@
 	</definition>
 	<definition>
 		<key>button_back</key>
-		<value><![CDATA[Zadní]]></value>
+		<value><![CDATA[Zpět]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[zrušení]]></value>
+		<value><![CDATA[Zrušit]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění k provedení migrace!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění provést migraci!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_host</key>
-		<value><![CDATA[Hostitelské povinná!]]></value>
+		<value><![CDATA[Hostitel je povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_user</key>
-		<value><![CDATA[požadováno uživatel!]]></value>
+		<value><![CDATA[Uživatel povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_name</key>
-		<value><![CDATA[Název databáze nutná!]]></value>
+		<value><![CDATA[Název databáze je povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_connection</key>
-		<value><![CDATA[Chyba: Nelze se připojit k databázi, ujistěte se, že databázový server, uživatelské jméno a heslo je správné!]]></value>
+		<value><![CDATA[Chyba: Nelze se připojit k databázi, prosím ujistěte se, že server databáze, uživatelské jméno a heslo jsou správné!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_not_exist</key>
@@ -150,15 +150,15 @@
 	</definition>
 	<definition>
 		<key>error_cart_type</key>
-		<value><![CDATA[Chyba: Vyberte košíku typ!]]></value>
+		<value><![CDATA[Chyba: Prosím vyberte typ košíku!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_url</key>
-		<value><![CDATA[Chyba: Košík URL povinné!]]></value>
+		<value><![CDATA[Chyba: Je vyžadována URL košíku!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_not_supported</key>
-		<value><![CDATA[Upozornění: Zvolený vozík není podporována teď!]]></value>
+		<value><![CDATA[Varování: Vybraný košík nyní není podporován!]]></value>
 	</definition>
 	<definition>
 		<key>error_migrate_data</key>
@@ -166,27 +166,27 @@
 	</definition>
 	<definition>
 		<key>text_no_customers</key>
-		<value><![CDATA[Poznámka: Ne jeden zákazník byl importován.]]></value>
+		<value><![CDATA[Poznámka: Nebyl importován žádný zákazník.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_products</key>
-		<value><![CDATA[Poznámka: Ne jeden výrobek byl dovezen.]]></value>
+		<value><![CDATA[Poznámka: Nebyl importován žádný produkt.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_orders</key>
-		<value><![CDATA[Poznámka: nikdo objednávka byla importována.]]></value>
+		<value><![CDATA[Poznámka: Nebyla importována žádná objednávka.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_brands</key>
-		<value><![CDATA[Poznámka: Ne jedna značka byla importována.]]></value>
+		<value><![CDATA[Poznámka: Žádná značka nebyla importována.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_categories</key>
-		<value><![CDATA[Poznámka: Žádné kategorii jeden výrobek byl dovezen.]]></value>
+		<value><![CDATA[Poznámka: Nebyla importována žádná kategorie produktů.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_source_cart</key>
-		<value><![CDATA[Upozornění: Zvolený zdroj košík je prázdný! Prosím zkontrolujte databázi a předpony tabulek.]]></value>
+		<value><![CDATA[Varování: Vybraný zdrojový košík je prázdný! Zkontrolujte prosím databázi a předponu tabulek.]]></value>
 	</definition>
 	<definition>
 		<key>text_finished</key>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,6 +10,6 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<h1 style="text-align:center;"> V současné době provádí nějakou pravidelnou údržbu. <br/> Vrátíme se co nejdříve. Zkontrolujte brzy. </h1>]]></value>
+		<value><![CDATA[<h1 style="text-align:center;">Aktuálně provádíme plánovanou údržbu. <br/>Vrátíme se co nejdříve. Prosím, zkontrolujte to brzy znovu.</h1>]]></value>
 	</definition>
 </definitions>

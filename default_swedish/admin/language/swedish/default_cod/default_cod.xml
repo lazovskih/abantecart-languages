@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_cod_name</key>
-		<value><![CDATA[Postförskott]]></value>
+		<value><![CDATA[Kontant betalning vid leverans]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrat postförskottsbetalningsmodulen!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat betalningsmodulen Kontant vid leverans!]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_order_status_id</key>
@@ -26,6 +26,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra betalning efter postförskott!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra betalningen Cash On Delivery!]]></value>
 	</definition>
 </definitions>

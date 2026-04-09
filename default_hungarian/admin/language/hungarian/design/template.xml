@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,22 +6,22 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Beállított egy új kirakat sablont!]]></value>
+		<value><![CDATA[Siker: egy új áruház-sablont állított be!]]></value>
 	</definition>
 	<definition>
 		<key>text_storefront_templates</key>
-		<value><![CDATA[Elérhető Kirakat sablonok]]></value>
+		<value><![CDATA[Elérhető áruház sablonok]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_extension</key>
-		<value><![CDATA[Bővítmény beállításai]]></value>
+		<value><![CDATA[Bővítmény beállítások]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Hiba: Hiányzó szükséges paramétert a kérés]]></value>
+		<value><![CDATA[Hiba: A kérésében hiányzik egy kötelező paraméter!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítani sablonokat!]]></value>
+		<value><![CDATA[Figyelem: Nincs engedélye a sablonok módosítására!]]></value>
 	</definition>
 </definitions>

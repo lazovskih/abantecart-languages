@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[הירשם חשבון]]></value>
+		<value><![CDATA[הרשמה לחשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
@@ -18,15 +18,15 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[אפשרויות Checkout:]]></value>
+		<value><![CDATA[אפשרויות התשלום:]]></value>
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[אורח Checkout]]></value>
+		<value><![CDATA[תשלום כאורח]]></value>
 	</definition>
 	<definition>
 		<key>text_create_account</key>
-		<value><![CDATA[על ידי יצירת חשבון תוכל לקנות מהר יותר, להיות מעודכן על מצב ההזמנה, ולעקוב אחר ההזמנות שביצעת בעבר.]]></value>
+		<value><![CDATA[על-ידי יצירת חשבון תוכל לקנות מהר יותר, להתעדכן בסטטוס ההזמנה ולעקוב אחר ההזמנות שביצעת בעבר.]]></value>
 	</definition>
 	<definition>
 		<key>text_returning_customer</key>
@@ -38,19 +38,19 @@
 	</definition>
 	<definition>
 		<key>text_forgotten_login</key>
-		<value><![CDATA[שכחת את פרטי ההתחברות שלך?]]></value>
+		<value><![CDATA[שכחת את פרטי הכניסה שלך?]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_password</key>
-		<value><![CDATA[שכחת ססמה?]]></value>
+		<value><![CDATA[שכחת את הסיסמה שלך?]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[שם כניסה:]]></value>
+		<value><![CDATA[שם משתמש:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email_address</key>
-		<value><![CDATA[כתובת דוא&quot;ל:]]></value>
+		<value><![CDATA[כתובת דואר אלקטרוני:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -58,18 +58,22 @@
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[שגיאה: בתנאי התחברות או סיסמה שגויה.]]></value>
+		<value><![CDATA[שגיאה: שם משתמש או סיסמה שגויים.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_activated</key>
-		<value><![CDATA[הצלחה: חשבונך הופעל בהצלחה. בבקשה התחבר עם האישורים שלך.]]></value>
+		<value><![CDATA[הצלחה: החשבון שלך הופעל בהצלחה. אנא היכנס עם פרטי ההתחברות שלך.]]></value>
 	</definition>
 	<definition>
 		<key>text_already_activated</key>
-		<value><![CDATA[החשבון שלך כבר מופעל. בבקשה התחבר עם האישורים שלך.]]></value>
+		<value><![CDATA[חשבונך כבר הופעל. אנא התחבר באמצעות האישורים שלך.]]></value>
 	</definition>
 	<definition>
 		<key>text_resend_activation_email</key>
-		<value><![CDATA[שגיאה: כתובת הדוא&quot;ל שלך עדיין לא אישר. כדי לשלוח דוא&quot;ל אישור חדש אנא לחץ זה <a href=" %s ">קישור</a>]]></value>
+		<value><![CDATA[שגיאה: כתובת האימייל שלך עדיין לא אושרה. כדי לשלוח מחדש את מייל האישור, לחץ על הקישור הזה <a href=" %s ">קישור</a>]]></value>
+	</definition>
+	<definition>
+		<key>welcome_unauth_customer</key>
+		<value><![CDATA[ברוך הבא %s, אנא התחבר לחשבונך או <a href="%s">המשך לגלוש כאורח</a>]]></value>
 	</definition>
 </definitions>

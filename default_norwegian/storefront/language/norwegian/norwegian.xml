@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>date_format_short</key>
-		<value><![CDATA[d. M Y]]></value>
+		<value><![CDATA[d.m.Y]]></value>
 	</definition>
 	<definition>
 		<key>date_format_long</key>
-		<value><![CDATA[l, d. F Y]]></value>
+		<value><![CDATA[l, j F Y]]></value>
 	</definition>
 	<definition>
 		<key>time_format</key>
-		<value><![CDATA[h:i:s A]]></value>
+		<value><![CDATA[h:i:s]]></value>
 	</definition>
 	<definition>
 		<key>time_format_short</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>text_all_zones</key>
-		<value><![CDATA[alle soner]]></value>
+		<value><![CDATA[Alle soner]]></value>
 	</definition>
 	<definition>
 		<key>text_pagination</key>
-		<value><![CDATA[{start} - {end} av {total}]]></value>
+		<value><![CDATA[{start} - {end} of {total}]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
@@ -66,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>text_separator</key>
-		<value><![CDATA[&gt;]]></value>
+		<value><![CDATA[>]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Fortsette]]></value>
+		<value><![CDATA[Fortsett]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
@@ -82,19 +82,19 @@
 	</definition>
 	<definition>
 		<key>button_add_wishlist</key>
-		<value><![CDATA[Legg til ønskeliste]]></value>
+		<value><![CDATA[Legg til på ønskelisten]]></value>
 	</definition>
 	<definition>
 		<key>button_remove_wishlist</key>
-		<value><![CDATA[Fjern fra ønskelista]]></value>
+		<value><![CDATA[Fjern fra ønskeliste]]></value>
 	</definition>
 	<definition>
 		<key>text_wishlist_add_success</key>
-		<value><![CDATA[Lagt til i ønskeliste]]></value>
+		<value><![CDATA[Lagt til på ønskelisten]]></value>
 	</definition>
 	<definition>
 		<key>text_wishlist_remove_success</key>
-		<value><![CDATA[Fjernet fra ønskeliste]]></value>
+		<value><![CDATA[Fjernet fra ønskelisten]]></value>
 	</definition>
 	<definition>
 		<key>button_add_address</key>
@@ -106,11 +106,11 @@
 	</definition>
 	<definition>
 		<key>button_change_address</key>
-		<value><![CDATA[Bytt adresse]]></value>
+		<value><![CDATA[Endre adresse]]></value>
 	</definition>
 	<definition>
 		<key>button_edit</key>
-		<value><![CDATA[Redigere]]></value>
+		<value><![CDATA[Rediger]]></value>
 	</definition>
 	<definition>
 		<key>button_delete</key>
@@ -118,15 +118,15 @@
 	</definition>
 	<definition>
 		<key>button_reviews</key>
-		<value><![CDATA[anmeldelser]]></value>
+		<value><![CDATA[Anmeldelser]]></value>
 	</definition>
 	<definition>
 		<key>button_write</key>
-		<value><![CDATA[Skriv omtale]]></value>
+		<value><![CDATA[Skriv anmeldelse]]></value>
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Logg Inn]]></value>
+		<value><![CDATA[Logg inn]]></value>
 	</definition>
 	<definition>
 		<key>button_update</key>
@@ -134,31 +134,31 @@
 	</definition>
 	<definition>
 		<key>button_wish</key>
-		<value><![CDATA[Skulle ønske]]></value>
+		<value><![CDATA[Ønske]]></value>
 	</definition>
 	<definition>
 		<key>button_print</key>
-		<value><![CDATA[Skrive ut]]></value>
+		<value><![CDATA[Skriv ut]]></value>
 	</definition>
 	<definition>
 		<key>button_shopping</key>
-		<value><![CDATA[Fortsette å handle]]></value>
+		<value><![CDATA[Fortsett å handle]]></value>
 	</definition>
 	<definition>
 		<key>button_checkout</key>
-		<value><![CDATA[Sjekk ut]]></value>
+		<value><![CDATA[Kasse]]></value>
 	</definition>
 	<definition>
 		<key>button_confirm</key>
-		<value><![CDATA[Bekreft ordre]]></value>
+		<value><![CDATA[Bekreft bestilling]]></value>
 	</definition>
 	<definition>
 		<key>button_view</key>
-		<value><![CDATA[Utsikt]]></value>
+		<value><![CDATA[Vis]]></value>
 	</definition>
 	<definition>
 		<key>button_search</key>
-		<value><![CDATA[Søke]]></value>
+		<value><![CDATA[Søk]]></value>
 	</definition>
 	<definition>
 		<key>button_go</key>
@@ -166,19 +166,21 @@
 	</definition>
 	<definition>
 		<key>button_coupon</key>
-		<value><![CDATA[Påfør kupong]]></value>
+		<value><![CDATA[Bruk kupong]]></value>
 	</definition>
 	<definition>
 		<key>button_guest</key>
-		<value><![CDATA[gjesteutsjekk]]></value>
+		<value><![CDATA[Gjestekasse]]></value>
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_ttl</key>
-		<value><![CDATA[Ikke på lager varsel for: %s]]></value>
+		<value><![CDATA[Melding om utsolgt for: %s]]></value>
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_body</key>
-		<value><![CDATA[Produkt &quot;%s&quot; har nådd null eller negativ aksjeantall for hovedproduktet eller alle alternativene. <br/> Som et resultat av autodisable innstilling, produkt (%s) ble auto deaktivert!]]></value>
+		<value><![CDATA[Produkt "%s" har nådd null eller negativ lagerbeholdning for hovedproduktet eller alle alternativer.	
+Som følge av innstillingen for automatisk deaktivering ble produktet (%s) automatisk deaktivert!	
+For flere detaljer besøk %s]]></value>
 	</definition>
 	<definition>
 		<key>no_payment_required</key>
@@ -186,11 +188,11 @@
 	</definition>
 	<definition>
 		<key>gen_data_entry_error</key>
-		<value><![CDATA[Oops, det er en feil med informasjon gitt!]]></value>
+		<value><![CDATA[Oops, det er en feil med den oppgitte informasjonen!]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_asc</key>
-		<value><![CDATA[Navn A - Å]]></value>
+		<value><![CDATA[Navn A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_desc</key>
@@ -198,31 +200,31 @@
 	</definition>
 	<definition>
 		<key>text_sorting_price_asc</key>
-		<value><![CDATA[Pris Lav &gt; Høy]]></value>
+		<value><![CDATA[Pris Lav > Høy]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_price_desc</key>
-		<value><![CDATA[Pris Høy &gt; Lav]]></value>
+		<value><![CDATA[Pris Høy > Lav]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_rating_asc</key>
-		<value><![CDATA[Rating Laveste]]></value>
+		<value><![CDATA[Vurdering Laveste]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_rating_desc</key>
-		<value><![CDATA[Rangering høyest]]></value>
+		<value><![CDATA[Høyeste vurdering]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_asc</key>
-		<value><![CDATA[Dato Old &gt; Ny]]></value>
+		<value><![CDATA[Dato Eldste > Nyeste]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_desc</key>
-		<value><![CDATA[Dato New &gt; Gammel]]></value>
+		<value><![CDATA[Dato Ny > Gammel]]></value>
 	</definition>
 	<definition>
 		<key>text_add_cart_confirm</key>
-		<value><![CDATA[Lagt i handlevognen]]></value>
+		<value><![CDATA[Lagt i handlekurven]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
@@ -230,15 +232,15 @@
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Saldo]]></value>
+		<value><![CDATA[Kontosaldo]]></value>
 	</definition>
 	<definition>
 		<key>text_balance_checkout</key>
-		<value><![CDATA[Saldo:]]></value>
+		<value><![CDATA[Kontosaldo:]]></value>
 	</definition>
 	<definition>
 		<key>button_pay_with_balance</key>
-		<value><![CDATA[Betal med balanse]]></value>
+		<value><![CDATA[Betal med saldo]]></value>
 	</definition>
 	<definition>
 		<key>button_apply_balance</key>
@@ -250,19 +252,23 @@
 	</definition>
 	<definition>
 		<key>text_applied_balance</key>
-		<value><![CDATA[brukes for å bestille]]></value>
+		<value><![CDATA[gjelder for ordre]]></value>
 	</definition>
 	<definition>
 		<key>text_applied_balance_to_order</key>
-		<value><![CDATA[%s Brukt for bestilling #%s]]></value>
+		<value><![CDATA[%s brukt for ordre #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_maintenance_notice</key>
-		<value><![CDATA[Legg merke til: vedlikeholdsmodus er på.]]></value>
+		<value><![CDATA[Merk: Vedlikeholdsmodus er på.]]></value>
+	</definition>
+	<definition>
+		<key>text_act_on_behalf</key>
+		<value><![CDATA[Merk: Etterligningsmodus for kunde "%s" av "%s]]></value>
 	</definition>
 	<definition>
 		<key>text_browse</key>
-		<value><![CDATA[Velg Fil]]></value>
+		<value><![CDATA[Velg fil]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
@@ -270,11 +276,11 @@
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[tilbakestille]]></value>
+		<value><![CDATA[Tilbakestill]]></value>
 	</definition>
 	<definition>
 		<key>button_submit</key>
-		<value><![CDATA[Sende inn]]></value>
+		<value><![CDATA[Send inn]]></value>
 	</definition>
 	<definition>
 		<key>button_save</key>
@@ -282,19 +288,19 @@
 	</definition>
 	<definition>
 		<key>text_field_required</key>
-		<value><![CDATA[er obligatorisk felt!]]></value>
+		<value><![CDATA[er påkrevd felt!]]></value>
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Menneskelig verifisering mislyktes! Vær så snill, prøv på nytt.]]></value>
+		<value><![CDATA[Menneskelig verifisering mislyktes! Vennligst prøv igjen.]]></value>
 	</definition>
 	<definition>
 		<key>entry_attached</key>
-		<value><![CDATA[Vedlagte]]></value>
+		<value><![CDATA[Vedlagt]]></value>
 	</definition>
 	<definition>
 		<key>text_call_to_order</key>
-		<value><![CDATA[Ringe for å bestille]]></value>
+		<value><![CDATA[Ring for å bestille]]></value>
 	</definition>
 	<definition>
 		<key>text_discount</key>
@@ -302,7 +308,7 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[nedlasting]]></value>
+		<value><![CDATA[Last ned]]></value>
 	</definition>
 	<definition>
 		<key>text_free</key>
@@ -314,31 +320,27 @@
 	</definition>
 	<definition>
 		<key>price_with_tax</key>
-		<value><![CDATA[Inc Skatte]]></value>
+		<value><![CDATA[Inkludert skatt]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[utilgjengelig]]></value>
+		<value><![CDATA[Utilgjengelig]]></value>
 	</definition>
 	<definition>
 		<key>error_unknown</key>
-		<value><![CDATA[Ukjent feil oppstod. Vær så snill, prøv på nytt!]]></value>
+		<value><![CDATA[Ukjent feil oppsto. Vennligst prøv igjen!]]></value>
 	</definition>
 	<definition>
 		<key>text_click_browse_file</key>
-		<value><![CDATA[Klikk for å bla fil]]></value>
+		<value><![CDATA[Klikk for å bla gjennom fil]]></value>
 	</definition>
 	<definition>
 		<key>text_back_on_top</key>
 		<value><![CDATA[Tilbake til toppen]]></value>
 	</definition>
 	<definition>
-		<key>text_act_on_behalf</key>
-		<value><![CDATA[Merk: Etterlign modus for kunden &quot;%s&quot; med &quot;%s&quot;]]></value>
-	</definition>
-	<definition>
 		<key>text_out_of_stock</key>
-		<value><![CDATA[Ikke på lager]]></value>
+		<value><![CDATA[Utsolgt]]></value>
 	</definition>
 	<definition>
 		<key>text_badge_sale</key>
@@ -362,6 +364,10 @@
 	</definition>
 	<definition>
 		<key>text_previous</key>
-		<value><![CDATA[Tidligere]]></value>
+		<value><![CDATA[Forrige]]></value>
+	</definition>
+	<definition>
+		<key>warning_capslock</key>
+		<value><![CDATA[CapsLock er på!]]></value>
 	</definition>
 </definitions>

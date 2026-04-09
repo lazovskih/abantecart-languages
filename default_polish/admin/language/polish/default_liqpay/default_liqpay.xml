@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[Zapłata]]></value>
+		<value><![CDATA[Płatność]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmodyfikowano dane konta LIQPAY!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowałeś dane konta LIQPAY!]]></value>
 	</definition>
 	<definition>
 		<key>text_pay</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_type_pay</key>
-		<value><![CDATA[Płacić]]></value>
+		<value><![CDATA[Zapłać]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type_card</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>error_merchant</key>
-		<value><![CDATA[Wymagany jest identyfikator sprzedawcy!]]></value>
+		<value><![CDATA[Wymagany identyfikator sprzedawcy!]]></value>
 	</definition>
 	<definition>
 		<key>error_signature</key>

@@ -1,40 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Zajednička preuzimanja]]></value>
+		<value><![CDATA[Dijeljena preuzimanja]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Zajednička Preuzimanje]]></value>
+		<value><![CDATA[Dijeljeno preuzimanje]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
-		<value><![CDATA[Insert Preuzimanje]]></value>
+		<value><![CDATA[Umetni preuzimanje]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[Update Preuzimanje]]></value>
+		<value><![CDATA[Ažuriraj	
+Preuzmi]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Izmijenili ste downloads!]]></value>
+		<value><![CDATA[Uspjeh: Promijenili ste preuzimanja!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Preuzimanje Ime]]></value>
+		<value><![CDATA[Naziv preuzimanja]]></value>
 	</definition>
 	<definition>
 		<key>column_remaining</key>
-		<value><![CDATA[Ukupno preuzimanja dozvoljeni]]></value>
+		<value><![CDATA[Ukupno dozvoljenih preuzimanja]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Preuzimanje ime:]]></value>
+		<value><![CDATA[Naziv preuzimanja:]]></value>
 	</definition>
 	<definition>
 		<key>entry_filename</key>
@@ -42,15 +43,15 @@
 	</definition>
 	<definition>
 		<key>entry_remaining</key>
-		<value><![CDATA[Ukupno preuzimanja Dopušteno:]]></value>
+		<value><![CDATA[Ukupno dopuštenih preuzimanja:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[Pritisni za prethodnih kupaca: <br/><span class="help">Provjerite to ažurirati prethodno kupljene verzije, kao dobro.</span>]]></value>
+		<value><![CDATA[Proslijedi prethodnim kupcima:<br /><span class="help">Označite ovo da biste također ažurirali ranije kupljene verzije.</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu preuzimanja!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu preuzimanja!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
@@ -62,7 +63,7 @@
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Upozorenje: Ovo je preuzimanje ne može biti obrisan jer je trenutačno dodijeljena %s proizvode!]]></value>
+		<value><![CDATA[Upozorenje: Ovo preuzimanje se ne može izbrisati jer je trenutno dodijeljeno %s proizvodima!]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -70,6 +71,6 @@
 	</definition>
 	<definition>
 		<key>column_products_count</key>
-		<value><![CDATA[Proizvodi Count]]></value>
+		<value><![CDATA[Broj proizvoda]]></value>
 	</definition>
 </definitions>

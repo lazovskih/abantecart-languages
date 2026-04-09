@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret henting fra butikk!]]></value>
+		<value><![CDATA[Suksess: Du har endret henting i butikk!]]></value>
 	</definition>
 	<definition>
 		<key>default_store_pickup_location_id</key>
-		<value><![CDATA[Sted:]]></value>
+		<value><![CDATA[Plassering:]]></value>
 	</definition>
 	<definition>
 		<key>default_store_pickup_location_id_0</key>
-		<value><![CDATA[Alle steder]]></value>
+		<value><![CDATA[Alle lokasjoner]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>

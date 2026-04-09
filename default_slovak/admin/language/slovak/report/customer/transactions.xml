@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Transakcia so zákazníkmi]]></value>
+		<value><![CDATA[Zákaznícke transakcie]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_date</key>
-		<value><![CDATA[dátum transakcie]]></value>
+		<value><![CDATA[Dátum transakcie]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
@@ -18,14 +18,14 @@
 	</definition>
 	<definition>
 		<key>column_debit</key>
-		<value><![CDATA[Dlh]]></value>
+		<value><![CDATA[Debet]]></value>
 	</definition>
 	<definition>
 		<key>column_credit</key>
-		<value><![CDATA[úver]]></value>
+		<value><![CDATA[Kredit]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[Druh transakcie]]></value>
+		<value><![CDATA[Typ transakcie]]></value>
 	</definition>
 </definitions>

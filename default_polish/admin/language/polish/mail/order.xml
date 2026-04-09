@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Aktualizacja Zamówienie %s]]></value>
+		<value><![CDATA[%s - Aktualizacja Zamówienia %s]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Numer zamówienia:]]></value>
+		<value><![CDATA[ID zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Data A do Z:]]></value>
+		<value><![CDATA[Data zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
-		<value><![CDATA[Twoje zamówienie zostało zaktualizowane do następujących statusów:]]></value>
+		<value><![CDATA[Twoje zamówienie zostało zaktualizowane do następującego statusu:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[Uwagi do zamówienia są:]]></value>
+		<value><![CDATA[Komentarze do Twojego zamówienia to:]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Aby wyświetlić kliknięcie zamówienie na poniższy link:]]></value>
+		<value><![CDATA[Aby zobaczyć swoje zamówienie, kliknij poniższy link:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Proszę odpowiedzieć na ten e-mail, jeśli masz jakiekolwiek pytania.]]></value>
+		<value><![CDATA[Proszę odpowiedzieć na tę wiadomość e-mail, jeśli masz jakieś pytania.]]></value>
 	</definition>
 </definitions>

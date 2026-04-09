@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Voziček]]></value>
+		<value><![CDATA[Košarica]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_basket</key>
@@ -10,8 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_accept_agree</key>
-		<value><![CDATA[
- S klikom na Potrdi naročilo sprejemate in se strinjate z vsemi pogoji]]></value>
+		<value><![CDATA[S klikom na Potrdi naročilo sprejemate in soglašate z vsemi pogoji]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_items</key>
@@ -19,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Pošiljanje]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_shipping</key>
-		<value><![CDATA[Uredi pošiljanje]]></value>
+		<value><![CDATA[Uredi dostavo]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -39,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[Naslov za pošiljanje]]></value>
+		<value><![CDATA[Dostavni naslov]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
-		<value><![CDATA[Način pošiljanja]]></value>
+		<value><![CDATA[Način dostave]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
@@ -55,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_change</key>
-		<value><![CDATA[spremeniti]]></value>
+		<value><![CDATA[Spremeni]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
@@ -91,15 +90,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_name</key>
-		<value><![CDATA[Hitra blagajna]]></value>
+		<value><![CDATA[Hitri nakup]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_fast_checkout_title</key>
-		<value><![CDATA[Hitra blagajna]]></value>
+		<value><![CDATA[Hitro plačilo]]></value>
 	</definition>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Hitra blagajna]]></value>
+		<value><![CDATA[Hiter zaključek nakupa]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_buy_now</key>
@@ -107,15 +106,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_incorrect_request</key>
-		<value><![CDATA[Ups! Nepravilna zahteva.]]></value>
+		<value><![CDATA[Ojej! Napačna zahteva.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler</key>
-		<value><![CDATA[Ne morem najti upravljavca plačil! Preverite datoteke %s ali %s]]></value>
+		<value><![CDATA[Ni mogoče najti plačilnega upravljalnika! Prosimo, preverite datoteke %s ali %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_handler</key>
-		<value><![CDATA[Plačilni procesor ni na voljo.]]></value>
+		<value><![CDATA[Ni na voljo nobenega plačilnega procesorja.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unknown_payment</key>
@@ -123,47 +122,47 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected</key>
-		<value><![CDATA[Prišlo je do nepričakovane napake! prosim poskusite ponovno]]></value>
+		<value><![CDATA[Prišlo je do nepričakovane napake! Prosimo, poskusite znova.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected_log</key>
-		<value><![CDATA[Prišlo je do nepričakovane napake. Ni mogoče ustvariti podatkov o naročilu na podlagi niza: %s]]></value>
+		<value><![CDATA[Prišlo je do nepričakovane napake. Ni mogoče ustvariti podatkov o naročilu na podlagi polja: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler_object</key>
-		<value><![CDATA[Naročila ni mogoče potrditi. Izvajalec plačila ni predmet.]]></value>
+		<value><![CDATA[Ni mogoče potrditi naročila. Obdelovalec plačil ni objekt.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_system_issue</key>
-		<value><![CDATA[Ups! Sistemska težava. Obrnite se na skrbnika spletnega mesta.]]></value>
+		<value><![CDATA[Ups! Težava v sistemu. Kontaktirajte skrbnika spletnega mesta.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_payment</key>
-		<value><![CDATA[Plačila niso na voljo.]]></value>
+		<value><![CDATA[Na voljo ni nobenih plačil.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_product_option</key>
-		<value><![CDATA[Napaka možnosti izdelka. %s]]></value>
+		<value><![CDATA[Napaka pri možnosti izdelka. %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_address</key>
-		<value><![CDATA[V vašem računu ni naslovov! Dodajte naslov v svoj račun.]]></value>
+		<value><![CDATA[V vašem računu ni najdenih naslovov! Prosimo, dodajte naslov v vaš račun.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_low_balance</key>
-		<value><![CDATA[Nimate zadostnega stanja na računu za to naročilo!]]></value>
+		<value><![CDATA[Na vašem računu ni dovolj sredstev za to naročilo!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_pay</key>
-		<value><![CDATA[Obstaja težava pri obdelavi plačila kredita računa! prosim poskusite ponovno]]></value>
+		<value><![CDATA[Pri obdelavi plačila s kreditom na računu je prišlo do težave! Prosimo, poskusite znova.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_address</key>
-		<value><![CDATA[Naslov za plačilo manjka ali ni izbran.]]></value>
+		<value><![CDATA[Plačilni naslov manjka ali ni izbran.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_unavailable</key>
-		<value><![CDATA[Plačilo na vaši lokaciji ni na voljo.]]></value>
+		<value><![CDATA[Plačilo ni na voljo na vaši lokaciji.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_shipping_address</key>
@@ -183,39 +182,39 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_email</key>
-		<value><![CDATA[Vaš e-poštni naslov ni naveden ali je neveljaven.]]></value>
+		<value><![CDATA[Vaš e-poštni naslov ni podan ali je neveljaven.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_card_number</key>
-		<value><![CDATA[Številka kreditne kartice ni navedena.]]></value>
+		<value><![CDATA[Številka kreditne kartice ni podana.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_cvv</key>
-		<value><![CDATA[Številka CVV ni navedena.]]></value>
+		<value><![CDATA[Številka CVV ni bila posredovana.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_expire</key>
-		<value><![CDATA[Datum poteka veljavnosti kreditne košarice ni naveden ali je neveljaven.]]></value>
+		<value><![CDATA[Datum poteka kreditne kartice ni naveden ali ni veljaven.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_apply</key>
-		<value><![CDATA[Datum poteka veljavnosti kreditne košarice ni naveden ali je neveljaven.]]></value>
+		<value><![CDATA[Datum poteka veljavnosti kreditne kartice ni naveden ali je neveljaven.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_account_created</key>
-		<value><![CDATA[Račun je ustvarjen in navodila za prijavo so poslana na vaš e-poštni naslov.]]></value>
+		<value><![CDATA[Račun je bil ustvarjen in navodila za prijavo so bila poslana na vaš e-poštni naslov.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_mail_login_password</key>
-		<value><![CDATA[Vaše prijavno ime: %s <br/> Vaše geslo: %s]]></value>
+		<value><![CDATA[Vaše uporabniško ime: %s <br>Vaše geslo: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_success_message</key>
-		<value><![CDATA[uspeh! Vaše naročilo je bilo uspešno ustvarjeno!]]></value>
+		<value><![CDATA[Uspeh! Vaše naročilo je bilo uspešno ustvarjeno!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_processing_message</key>
-		<value><![CDATA[uspeh! Naročite zdaj v obdelavi!]]></value>
+		<value><![CDATA[Uspeh! Naročilo se zdaj obdeluje!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_payment_address</key>
@@ -223,7 +222,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_shipping_address</key>
-		<value><![CDATA[Naslov za dostavo]]></value>
+		<value><![CDATA[Dostavni naslov]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_shipping_method</key>
@@ -243,23 +242,23 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay</key>
-		<value><![CDATA[plačaj]]></value>
+		<value><![CDATA[Plačaj]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_enter_cc_details</key>
-		<value><![CDATA[Spodaj vnesite podatke o kreditni kartici]]></value>
+		<value><![CDATA[Vnesite spodaj podatke o kreditni kartici]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_your_balance</key>
-		<value><![CDATA[Dobroimetje vašega računa je]]></value>
+		<value><![CDATA[Dobroimetje na vašem računu je]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay_from_balance</key>
-		<value><![CDATA[Plačaj %s s kreditom]]></value>
+		<value><![CDATA[Plačajte %s s kreditom]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_telephone_placeholder</key>
-		<value><![CDATA[Kontaktna telefonska številka npr. +1.212.555.5555]]></value>
+		<value><![CDATA[Kontaktna telefonska številka, npr. +1.212.555.5555]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_same_as_shipping_address</key>
@@ -275,15 +274,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_bill_me_monthly</key>
-		<value><![CDATA[Zaračunaj mi mesečno]]></value>
+		<value><![CDATA[Zaračunajte mi mesečno.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_create_account</key>
-		<value><![CDATA[Ustvari račun]]></value>
+		<value><![CDATA[Ustvarite račun]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_please_login</key>
-		<value><![CDATA[Prijavite se s spodnjimi podatki]]></value>
+		<value><![CDATA[Prosimo, prijavite se s spodaj navedenimi podatki.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_login</key>
@@ -307,11 +306,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_new_customer</key>
-		<value><![CDATA[Sem nova stranka]]></value>
+		<value><![CDATA[Jaz sem nov kupec]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_loading</key>
-		<value><![CDATA[Nalaganje...]]></value>
+		<value><![CDATA[Nalagam...]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_is_completed</key>
@@ -319,7 +318,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_thank_you</key>
-		<value><![CDATA[Hvala za naročilo!]]></value>
+		<value><![CDATA[Hvala za vaše naročilo!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_start_download</key>
@@ -327,7 +326,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_downloads</key>
-		<value><![CDATA[Naročanje prenosov]]></value>
+		<value><![CDATA[Prenosi naročil]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_order_details</key>
@@ -335,27 +334,27 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_delivery</key>
-		<value><![CDATA[Prosimo izberite možnosti dostave]]></value>
+		<value><![CDATA[Prosimo, izberite možnosti dostave.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_payment</key>
-		<value><![CDATA[Prosimo izberite možnost plačila]]></value>
+		<value><![CDATA[Prosimo, izberite možnost plačila]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_download_pending</key>
-		<value><![CDATA[Prenos izdelka v vašem naročilu še ni na voljo. Počakajte na potrditev naročila!]]></value>
+		<value><![CDATA[Prenos izdelka v vašem naročilu še ni na voljo. Prosimo, počakajte na potrditev naročila!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_info_duplicate_order</key>
-		<value><![CDATA[Videti je, da ste pravkar oddali drugačno naročilo. <a href="%s">Oglejte si podrobnosti naročila</a>]]></value>
+		<value><![CDATA[Zdi se, da ste pravkar oddali drugo naročilo. <a href="%s">Oglejte si podrobnosti naročila</a>]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_email_start_download</key>
-		<value><![CDATA[Do svojih prenosov lahko dostopate s spodnjo povezavo.]]></value>
+		<value><![CDATA[Lahko dostopate do vaših prenos(ov) prek spodnje povezave.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_email_order_downloads</key>
-		<value><![CDATA[Do prenosov naročil lahko dostopate s spodnjo povezavo.]]></value>
+		<value><![CDATA[Z spodnjo povezavo lahko dostopate do prenosov naročil.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_download_subject</key>
@@ -363,7 +362,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_apply</key>
-		<value><![CDATA[Prijavite se]]></value>
+		<value><![CDATA[Uporabi]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_remove</key>
@@ -379,7 +378,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_coupon</key>
-		<value><![CDATA[Kupon je neveljaven ali potekel!]]></value>
+		<value><![CDATA[Kupon je neveljaven ali je potekel!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_back_to_cart</key>
@@ -391,7 +390,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_no_shipments_available</key>
-		<value><![CDATA[Pošiljke niso na voljo.]]></value>
+		<value><![CDATA[Na voljo ni nobenih pošiljk.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_telephone_placeholder</key>
@@ -399,7 +398,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_email_placeholder</key>
-		<value><![CDATA[Vaš email]]></value>
+		<value><![CDATA[Vaš e-poštni naslov]]></value>
 	</definition>
 	<definition>
 		<key>button_history</key>
@@ -407,15 +406,15 @@
 	</definition>
 	<definition>
 		<key>error_postcode</key>
-		<value><![CDATA[Poštna številka ni pravilna]]></value>
+		<value><![CDATA[Neveljavna poštna številka]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Voziček]]></value>
+		<value><![CDATA[Košarica]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_comment_placeholder</key>
-		<value><![CDATA[Dodajte komentar naročila]]></value>
+		<value><![CDATA[Dodajte komentar k naročilu]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_not_enough_stock</key>
@@ -435,31 +434,29 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_authenticating</key>
-		<value><![CDATA[Preverjanje pristnosti ... ]]></value>
+		<value><![CDATA[Preverjanje pristnosti ...]]></value>
 	</definition>
 	<definition>
 		<key>text_message_account</key>
-		<value><![CDATA[
-<p> Vaše naročilo #%s je bilo ustvarjeno!</p> 
-<p> Podrobnosti svojega naročila si lahko ogledate na <a href="%s">strani z računom</a> .</p> 
-<p> Vsa vprašanja naslovite na <a href="%s">lastnika trgovine</a> .</p> 
-<p> Hvala, ker nakupujete pri nas!</p>]]></value>
+		<value><![CDATA[<p>Vaše naročilo #%s je bilo ustvarjeno!</p>
+<p>Podrobnosti o vašem naročilu si lahko ogledate na <a href="%s">strani računa</a>.</p>
+<p>Prosimo, vsa vprašanja naslovite na <a href="%s">lastnika trgovine</a>.</p>
+<p>Hvala za nakup pri nas!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_message_guest</key>
-		<value><![CDATA[
-<p> Vaše naročilo je bilo uspešno obdelano!</p> 
-<p> Podrobnosti svojega naročila si lahko ogledate na <a href="%s">strani z računom</a> .</p> 
-<p> Vsa vprašanja naslovite na <a href="%s">lastnika trgovine</a> .</p> 
-<p> Hvala, ker nakupujete pri nas!</p>]]></value>
+		<value><![CDATA[<p>Vaše naročilo je bilo uspešno obdelano!</p>
+<p>Podrobnosti vašega naročila si lahko ogledate na <a href="%s">strani računa</a>.</p>
+<p>Vsa vprašanja prosimo naslovite na <a href="%s">lastnika trgovine</a>.</p>
+<p>Hvala, ker ste nakupovali pri nas!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Voziček]]></value>
+		<value><![CDATA[Košarica]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Pošiljanje]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -467,7 +464,7 @@
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[Odjava gostov]]></value>
+		<value><![CDATA[Nakup kot gost]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
@@ -479,14 +476,14 @@
 	</definition>
 	<definition>
 		<key>text_message_failed_order</key>
-		<value><![CDATA[Ups! Pri vaši transakciji smo imeli težave. Vaše naročilo bo skrbnik ročno preveril.]]></value>
+		<value><![CDATA[Ups! Prišlo je do napake pri vaši transakciji. Vaše naročilo bo ročno preveril administrator.]]></value>
 	</definition>
 	<definition>
 		<key>text_title_failed_order_to_admin</key>
-		<value><![CDATA[Neuspelo naročilo #%s]]></value>
+		<value><![CDATA[Neuspešno naročilo #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_message_failed_order_to_admin</key>
-		<value><![CDATA[Neuspešen ali manjkajoč odgovor pri preverjanju plačila. Zahtevano je ročno preverjanje!]]></value>
+		<value><![CDATA[Odgovor pri verifikaciji plačila ni uspel ali manjka. Potrebna je ročna verifikacija!]]></value>
 	</definition>
 </definitions>

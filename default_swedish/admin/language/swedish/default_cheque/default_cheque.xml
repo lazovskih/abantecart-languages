@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_cheque_name</key>
-		<value><![CDATA[Check / postanvisning]]></value>
+		<value><![CDATA[Check / Postanvisning]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrat check-/postanvisningskontouppgifter!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat kontouppgifterna för check / postanvisning!]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_payable</key>
-		<value><![CDATA[Betalbar till: <br/><span class="help">Ange namnkontroll måste skrivas till</span>]]></value>
+		<value><![CDATA[Betalas till:<br /><span class="help">Ange namnet som checken ska skrivas ut på</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_address</key>
-		<value><![CDATA[Maila eller skicka till: <br/><span class="help">Ange adressen dit checken ska skickas. Huvudbutiksadress kommer att användas om den är tom</span>]]></value>
+		<value><![CDATA[Skicka med post eller till:<br /><span class="help">Ange adressen dit checken ska skickas. Huvudbutikens adress används om den lämnas tom</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_order_status_id</key>
@@ -34,10 +34,10 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra betalningscheck/postanvisning!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra betalningscheck / postanvisning!]]></value>
 	</definition>
 	<definition>
 		<key>error_payable</key>
-		<value><![CDATA[Betalas till Obligatoriskt!]]></value>
+		<value><![CDATA[Betalas till krävs!]]></value>
 	</definition>
 </definitions>

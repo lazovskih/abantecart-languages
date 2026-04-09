@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[Nadzorna plošča račun]]></value>
+		<value><![CDATA[Nadzorna plošča računa]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_my_account</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Urejanje podrobnosti računa]]></value>
+		<value><![CDATA[Uredi podatke računa]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Upravljanje adresar]]></value>
+		<value><![CDATA[Upravljanje imenika naslovov]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[zgodovina transakcij]]></value>
+		<value><![CDATA[Zgodovina transakcij]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Newsletter Naročnina]]></value>
+		<value><![CDATA[Naročnina na glasilo]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>

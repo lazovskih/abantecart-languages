@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_signup</key>
-		<value><![CDATA[הרשם לניוזלטר שלנו &amp; לקבל הצעות אטרקטיביות על ידי עשיית מנוי לקבלת עלוני המידע שלנו.]]></value>
+		<value><![CDATA[הרשמו לניוזלטר שלנו & קבלו הצעות אטרקטיביות באמצעות הרשמה לניוזלטר שלנו.]]></value>
 	</definition>
 	<definition>
 		<key>text_sign_in</key>
-		<value><![CDATA[היכנס]]></value>
+		<value><![CDATA[התחבר]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribe</key>
-		<value><![CDATA[הירשם לעדכונים]]></value>
+		<value><![CDATA[הירשם לעלון]]></value>
 	</definition>
 	<definition>
 		<key>button_subscribe</key>

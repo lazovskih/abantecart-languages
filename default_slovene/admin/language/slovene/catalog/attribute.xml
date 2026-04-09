@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,27 +6,27 @@
 	</definition>
 	<definition>
 		<key>text_attribute</key>
-		<value><![CDATA[globalna Lastnost]]></value>
+		<value><![CDATA[Globalni atribut]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Imate spremenjene atribute!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste atribute!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_type</key>
-		<value><![CDATA[- Izberite vrsto -]]></value>
+		<value><![CDATA[- Izberi vrsto -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_parent</key>
-		<value><![CDATA[- Izberite Parent -]]></value>
+		<value><![CDATA[- Izberite nadrejenega -]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[ime]]></value>
+		<value><![CDATA[Ime]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[Vrsta]]></value>
+		<value><![CDATA[Tip]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
@@ -38,23 +38,27 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Ukrep]]></value>
+		<value><![CDATA[Akcija]]></value>
+	</definition>
+	<definition>
+		<key>column_txt_id</key>
+		<value><![CDATA[Edinstveni ID besedila]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[ime:]]></value>
+		<value><![CDATA[Ime:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_parent</key>
-		<value><![CDATA[Lastnost Parent:]]></value>
+		<value><![CDATA[Nadrejeni atribut:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_group</key>
-		<value><![CDATA[Lastnost skupino:]]></value>
+		<value><![CDATA[Skupina atributov:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_type</key>
-		<value><![CDATA[Vrsta atributa:]]></value>
+		<value><![CDATA[Tip atributa:]]></value>
 	</definition>
 	<definition>
 		<key>entry_element_type</key>
@@ -62,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>entry_element_values</key>
-		<value><![CDATA[Element Vrednosti:]]></value>
+		<value><![CDATA[Vrednosti elementa:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -70,23 +74,23 @@
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Obvezno:]]></value>
+		<value><![CDATA[Zahtevano:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Stanje:]]></value>
+		<value><![CDATA[Status:]]></value>
 	</definition>
 	<definition>
 		<key>entry_children_attributes</key>
-		<value><![CDATA[Otroci atributi:]]></value>
+		<value><![CDATA[Atributi otrok:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje globalnih atribute!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje globalnih atributov!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Ime skupine mora biti med 2 in 32 znakov!]]></value>
+		<value><![CDATA[Ime skupine mora imeti od 2 do 32 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_required</key>
@@ -94,15 +98,15 @@
 	</definition>
 	<definition>
 		<key>text_parent_note</key>
-		<value><![CDATA[Če je to matično atribut z otroki atributi, je lahko le tipa možnost izbire, več hkrati polje, polje in Checkbox skupine. <br/> Otroci vrednosti kombinacija bo prikazan kot en niz.]]></value>
+		<value><![CDATA[Če gre za nadrejeni atribut z otroškimi atributi, je lahko samo tipa SelectBox, MultiSelect Box, Checkbox in Checkbox group. Kombinacija vrednosti otroških atributov bo prikazana kot en nabor.]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_extensions</key>
-		<value><![CDATA[Dovoljene končnice datotek (txt, jpg ...)]]></value>
+		<value><![CDATA[Dovoljene pripone datotek (txt, jpg …)]]></value>
 	</definition>
 	<definition>
 		<key>entry_min_size</key>
-		<value><![CDATA[Min velikost datoteke (Kb)]]></value>
+		<value><![CDATA[Najmanjša velikost datoteke (Kb)]]></value>
 	</definition>
 	<definition>
 		<key>entry_max_size</key>
@@ -110,43 +114,39 @@
 	</definition>
 	<definition>
 		<key>entry_upload_dir</key>
-		<value><![CDATA[Pošiljanje ime imenika <br/> %s]]></value>
+		<value><![CDATA[Ime imenika za nalaganje<br>%s]]></value>
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
-		<value><![CDATA[Regular Expression Vzorec za validacijo vrednot:]]></value>
+		<value><![CDATA[Vzorec regularnega izraza za preverjanje vrednosti:]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
-		<value><![CDATA[Sporočilo o napaki neveljavnega Vrednost:]]></value>
+		<value><![CDATA[Sporočilo o napaki neveljavne vrednosti:]]></value>
 	</definition>
 	<definition>
 		<key>entry_placeholder</key>
-		<value><![CDATA[ograda:]]></value>
+		<value><![CDATA[Nadomestni tekst:]]></value>
 	</definition>
 	<definition>
 		<key>error_attribute_name</key>
-		<value><![CDATA[Lastnost Ime mora biti med 2 in 64 znakov!]]></value>
+		<value><![CDATA[Ime atributa mora biti med 2 in 64 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_error_text</key>
-		<value><![CDATA[Napaka tekst o neveljavnih vrednosti atributa mora biti med 2 in 255 znakov!]]></value>
+		<value><![CDATA[Besedilo napake o neveljavni vrednosti atributa mora biti dolgo med 2 in 255 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_regexp_pattern</key>
-		<value><![CDATA[Regular Expression Vzorec je neveljaven!]]></value>
+		<value><![CDATA[Vzorec regularnega izraza ni veljaven!]]></value>
 	</definition>
 	<definition>
 		<key>entry_show_to_customer</key>
-		<value><![CDATA[Pokaži naročniku]]></value>
-	</definition>
-	<definition>
-		<key>column_txt_id</key>
-		<value><![CDATA[Enolični ID besedila]]></value>
+		<value><![CDATA[Prikaži stranki]]></value>
 	</definition>
 	<definition>
 		<key>entry_price_prefix</key>
-		<value><![CDATA[Spremenite ceno z:]]></value>
+		<value><![CDATA[Prilagodi ceno za:]]></value>
 	</definition>
 	<definition>
 		<key>entry_price_modifier</key>

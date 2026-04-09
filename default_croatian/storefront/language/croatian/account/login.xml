@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Registracija račun]]></value>
+		<value><![CDATA[Registriraj račun]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Prijaviti se]]></value>
+		<value><![CDATA[Prijava]]></value>
 	</definition>
 	<definition>
 		<key>text_i_am_new_customer</key>
@@ -18,27 +18,27 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Blagajna opcije:]]></value>
+		<value><![CDATA[Opcije naplate:]]></value>
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[Ocjene Blagajna]]></value>
+		<value><![CDATA[Plaćanje kao gost]]></value>
 	</definition>
 	<definition>
 		<key>text_create_account</key>
-		<value><![CDATA[Otvaranje računa moći ćete bržu kupnju, informiranost o statusu narudžbe i pratiti narudžbe koje ste prethodno napravili.]]></value>
+		<value><![CDATA[Kreiranjem računa moći ćete kupovati brže, biti u tijeku sa statusom narudžbe te pratiti narudžbe koje ste prethodno napravili.]]></value>
 	</definition>
 	<definition>
 		<key>text_returning_customer</key>
-		<value><![CDATA[stari kupac]]></value>
+		<value><![CDATA[Povratni kupac]]></value>
 	</definition>
 	<definition>
 		<key>text_i_am_returning_customer</key>
-		<value><![CDATA[Ja sam povratka kupaca.]]></value>
+		<value><![CDATA[Ja sam ponovni kupac.]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_login</key>
-		<value><![CDATA[Zaboravili ste podatke za prijavu?]]></value>
+		<value><![CDATA[Zaboravili ste svoje korisničko ime?]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_password</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>entry_email_address</key>
-		<value><![CDATA[Email adresa:]]></value>
+		<value><![CDATA[E-Mail adresa:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -58,18 +58,22 @@
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Pogreška: Neispravna prijavu ili zaporka pruža.]]></value>
+		<value><![CDATA[Greška: Neispravno korisničko ime ili lozinka.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_activated</key>
-		<value><![CDATA[Uspjeh: Vaš korisnički račun je uspješno aktiviran. Molimo, prijavite se sa svojim vjerodajnice.]]></value>
+		<value><![CDATA[Uspjeh: Vaš račun je uspješno aktiviran. Molimo prijavite se sa svojim vjerodajnicama.]]></value>
 	</definition>
 	<definition>
 		<key>text_already_activated</key>
-		<value><![CDATA[Vaš račun već je aktiviran. Molimo, prijavite se sa svojim vjerodajnice.]]></value>
+		<value><![CDATA[Vaš je račun već aktiviran. Molimo prijavite se svojim vjerodajnicama.]]></value>
 	</definition>
 	<definition>
 		<key>text_resend_activation_email</key>
-		<value><![CDATA[Pogreška: Vaša e-mail adresa još nije potvrđena. Za ponovno slanje novu e-poštu potvrde molimo kliknite ovaj <a href=" %s ">vezu</a>]]></value>
+		<value><![CDATA[Greška: Vaša e-mail adresa još nije potvrđena. Za ponovno slanje novog potvrđujućeg e-maila kliknite na ovaj <a href=" %s ">link</a>]]></value>
+	</definition>
+	<definition>
+		<key>welcome_unauth_customer</key>
+		<value><![CDATA[Dobrodošli %s, molimo prijavite se na svoj račun ili <a href="%s">nastavite pregledavati kao gost</a>]]></value>
 	</definition>
 </definitions>

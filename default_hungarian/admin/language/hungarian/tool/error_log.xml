@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[error Log]]></value>
+		<value><![CDATA[Hibanapló]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Sikeresen törölte a hibát a mérésre!]]></value>
+		<value><![CDATA[Siker: Sikeresen törölte a hibanaplót!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_tail</key>
-		<value><![CDATA[Mivel a nagy méret a log fájlt, csak a múlt 500Kb Az adatok megtekinthetők itt. 
- megtekintéséhez teljes napló, kap ez a szerver közvetlenül. 
- Path:]]></value>
+		<value><![CDATA[A naplófájl nagy mérete miatt itt csak az utolsó 500Kb adat tekinthető meg.<br>A teljes napló megtekintéséhez szerezze be azt közvetlenül a szerveréről. Útvonal:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_error</key>
-		<value><![CDATA[ A fájl nem létezik vagy nem olvasható! ]]></value>
+		<value><![CDATA[A fájl nem létezik vagy nem olvasható!]]></value>
 	</definition>
 </definitions>

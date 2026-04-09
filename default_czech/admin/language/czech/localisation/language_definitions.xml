@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Jazykové Definice]]></value>
+		<value><![CDATA[Jazykové definice]]></value>
 	</definition>
 	<definition>
 		<key>text_definition</key>
-		<value><![CDATA[jazyk Definition]]></value>
+		<value><![CDATA[Definice jazyka]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste jazyk!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste jazyky!]]></value>
 	</definition>
 	<definition>
 		<key>column_language</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[datum aktualizace]]></value>
+		<value><![CDATA[Datum aktualizace]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -58,27 +58,27 @@
 	</definition>
 	<definition>
 		<key>text_admin</key>
-		<value><![CDATA[admin]]></value>
+		<value><![CDATA[Administrátor]]></value>
 	</definition>
 	<definition>
 		<key>text_storefront</key>
-		<value><![CDATA[výkladní skříň]]></value>
+		<value><![CDATA[vzhled obchodu]]></value>
 	</definition>
 	<definition>
 		<key>error_language_key</key>
-		<value><![CDATA[požadovaný jazyk klíč!]]></value>
+		<value><![CDATA[Je vyžadován jazykový klíč!]]></value>
 	</definition>
 	<definition>
 		<key>error_language_value</key>
-		<value><![CDATA[Překlad zapotřebí!]]></value>
+		<value><![CDATA[Překlad požadován!]]></value>
 	</definition>
 	<definition>
 		<key>error_block</key>
-		<value><![CDATA[zapotřebí blok!]]></value>
+		<value><![CDATA[Blok je povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_section</key>
-		<value><![CDATA[Sekce povinná!]]></value>
+		<value><![CDATA[Sekce je povinná!]]></value>
 	</definition>
 	<definition>
 		<key>text_all_section</key>
@@ -90,6 +90,6 @@
 	</definition>
 	<definition>
 		<key>error_already exists</key>
-		<value><![CDATA[Chyba! <br/> definice Language tlačítkem &quot;%s&quot; a blok &quot;%s&quot; %s pro oddíl již existuje! <br/> Kliknutím <a target="_blank" href="%s">na tento odkaz</a> pro zobrazení]]></value>
+		<value><![CDATA[Chyba!<br>Definice jazyka s klíčem "%s" a blokem "%s" pro sekci %s již existuje!<br>Klikněte na <a target="_blank" href="%s">tento odkaz</a> pro zobrazení]]></value>
 	</definition>
 </definitions>

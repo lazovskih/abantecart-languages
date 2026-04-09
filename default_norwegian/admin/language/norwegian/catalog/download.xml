@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Felles Last ned]]></value>
+		<value><![CDATA[Delt nedlasting]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
-		<value><![CDATA[Sett ned]]></value>
+		<value><![CDATA[Sett inn nedlasting]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[oppdatering Last ned]]></value>
+		<value><![CDATA[Oppdatering Nedlasting]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Last ned Name]]></value>
+		<value><![CDATA[Nedlastingsnavn]]></value>
 	</definition>
 	<definition>
 		<key>column_remaining</key>
-		<value><![CDATA[Totalt nedlastinger tillatt]]></value>
+		<value><![CDATA[Totalt antall nedlastinger tillatt]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Dataoverføre Navnet:]]></value>
+		<value><![CDATA[Nedlastingsnavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_filename</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>entry_remaining</key>
-		<value><![CDATA[Totalt nedlastinger tillatt:]]></value>
+		<value><![CDATA[Totalt tillatte nedlastinger:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[Trykk og tidligere kunder: <br/><span class="help">Sjekk denne for å oppdatere tidligere kjøpte versjoner også.</span>]]></value>
+		<value><![CDATA[Send til tidligere kunder:<br /><span class="help">Merk av for å oppdatere tidligere kjøpte versjoner også.</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -54,15 +54,15 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Navnet må være mellom 2 og 64 tegn!]]></value>
+		<value><![CDATA[Navn må være mellom 2 og 64 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_file</key>
-		<value><![CDATA[Vennligst sett filen for nedlasting.]]></value>
+		<value><![CDATA[Vennligst gjør filen tilgjengelig for nedlasting.]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Advarsel: Denne nedlastingen kan ikke slettes som det er i dag tildelt %s produkter!]]></value>
+		<value><![CDATA[Advarsel: Denne nedlastingen kan ikke slettes da den for øyeblikket er tilordnet %s produkter!]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -70,6 +70,6 @@
 	</definition>
 	<definition>
 		<key>column_products_count</key>
-		<value><![CDATA[produkter Count]]></value>
+		<value><![CDATA[Antall produkter]]></value>
 	</definition>
 </definitions>

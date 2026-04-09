@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[uporabniki]]></value>
+		<value><![CDATA[Uporabniki]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_details</key>
-		<value><![CDATA[Urejanje profila Podrobnosti]]></value>
+		<value><![CDATA[Uredi podrobnosti profila]]></value>
 	</definition>
 	<definition>
 		<key>text_user</key>
-		<value><![CDATA[uporabnik]]></value>
+		<value><![CDATA[Uporabnik]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Imate spremenjene uporabnike!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste uporabnike!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_details</key>
-		<value><![CDATA[Uspeh: ste spremenili profil!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste svoj profil!]]></value>
 	</definition>
 	<definition>
 		<key>column_username</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[skupina]]></value>
+		<value><![CDATA[Skupina]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Datum vpisa]]></value>
+		<value><![CDATA[Datum dodajanja]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Ukrep]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>entry_password</key>
-		<value><![CDATA[geslo:]]></value>
+		<value><![CDATA[Geslo:]]></value>
 	</definition>
 	<definition>
 		<key>entry_confirm</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[E-naslov:]]></value>
+		<value><![CDATA[E-pošta:]]></value>
 	</definition>
 	<definition>
 		<key>entry_user_group</key>
-		<value><![CDATA[Skupina uporabnikov:]]></value>
+		<value><![CDATA[Uporabniška skupina:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -78,23 +78,23 @@
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Vnesite kodo v polje spodaj:]]></value>
+		<value><![CDATA[Vnesite kodo v spodnje polje:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje uporabnike!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje uporabnikov!]]></value>
 	</definition>
 	<definition>
 		<key>error_account</key>
-		<value><![CDATA[Opozorilo: Ne morete izbrisati svoj račun!]]></value>
+		<value><![CDATA[Opozorilo: Ne morete izbrisati svojega računa!]]></value>
 	</definition>
 	<definition>
 		<key>error_username</key>
-		<value><![CDATA[Uporabniško ime mora biti med 2 in 20 znakov!]]></value>
+		<value><![CDATA[Uporabniško ime mora biti dolgo med 2 in 20 znaki in mora biti edinstveno!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Geslo mora biti več kot 3 znaki!]]></value>
+		<value><![CDATA[Geslo mora imeti več kot 3 znake!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
@@ -102,23 +102,23 @@
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Ime mora biti med 2 in 32 znakov!]]></value>
+		<value><![CDATA[Ime mora biti med 2 in 32 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Priimek mora biti med 2 in 32 znakov!]]></value>
+		<value><![CDATA[Priimek mora imeti med 2 in 32 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail naslov ne zdi, da je veljavna!]]></value>
+		<value><![CDATA[E-poštni naslov se ne zdi veljaven!]]></value>
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Human preverjanje ni uspelo!]]></value>
+		<value><![CDATA[Človeška verifikacija ni uspela!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_group</key>
-		<value><![CDATA[Nimate dovoljenja za spreminjanje skupine uporabnikov.]]></value>
+		<value><![CDATA[Nimate dovoljenj za spremembo uporabniške skupine.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
@@ -126,22 +126,22 @@
 	</definition>
 	<definition>
 		<key>entry_im_email</key>
-		<value><![CDATA[E-Mail: <span class="help">Ena ali več ločenih z vejico e-poštni naslovi</span>]]></value>
+		<value><![CDATA[E-pošta:<span class="help">En ali več e-poštnih naslovov, ločenih z vejicami</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_im_sms</key>
-		<value><![CDATA[Mobilni telefon: <span class="help">Telefonska številka v mednarodni obliki. ex. +14566887777</span>]]></value>
+		<value><![CDATA[Mobilni telefon:<span class="help">Telefonska številka v mednarodni obliki, npr. +14566887777</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_im</key>
-		<value><![CDATA[Urejanje Obvestila]]></value>
+		<value><![CDATA[Uredi obvestila]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoints</key>
-		<value><![CDATA[nastavitve obvestil]]></value>
+		<value><![CDATA[Nastavitve obvestil]]></value>
 	</definition>
 	<definition>
 		<key>text_change_im_addresses</key>
-		<value><![CDATA[Uredi Obvestilo Naslovi za to SendPoint]]></value>
+		<value><![CDATA[Uredi naslove obvestil za ta SendPoint]]></value>
 	</definition>
 </definitions>

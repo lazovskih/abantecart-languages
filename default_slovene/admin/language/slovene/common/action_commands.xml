@@ -1,48 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_possible_commands</key>
-		<value><![CDATA[Spodaj so možni ukazi. Lahko speek več podrobnosti po ključnih besedah ​​ukaza. Primer, &quot;odprti strani sporočila&quot; ali &quot;vložek izdelek&quot;]]></value>
+		<value><![CDATA[Spodaj so možni ukazi. Za ključno besedo ukaza lahko navedete več podrobnosti. Primer: "odpri stran sporočil" ali "vstavi izdelek]]></value>
 	</definition>
 	<definition>
 		<key>text_multiple_result_found</key>
-		<value><![CDATA[Multiple akcija rezultat je pokazala:]]></value>
+		<value><![CDATA[Najdenih je več rezultatov dejanja:]]></value>
 	</definition>
 	<definition>
 		<key>text_action_confirm</key>
-		<value><![CDATA[Prosimo, da potrdite svojo zahtevo:]]></value>
+		<value><![CDATA[Prosimo, potrdite vašo zahtevo:]]></value>
 	</definition>
 	<definition>
 		<key>command_open</key>
-		<value><![CDATA[odprta, odprto stran, odprt meni]]></value>
+		<value><![CDATA[odpri, odpri stran, odpri meni]]></value>
 	</definition>
 	<definition>
 		<key>command_find</key>
-		<value><![CDATA[iskanje, iskanje, iskanje, iskanje, iskanje 4]]></value>
+		<value><![CDATA[locirati, poiskati, iskati, iskati, iskanje 4]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_cache</key>
-		<value><![CDATA[jasno cache, predpomnilnik jasno, jasno, vse predpomnilnika]]></value>
+		<value><![CDATA[počisti predpomnilnik, počisti predpomnilnik, počisti vse predpomnilnike]]></value>
 	</definition>
 	<definition>
 		<key>command_view_log</key>
-		<value><![CDATA[Pogled log, log pogled, preglejte dnevnik, glej log, ogledati dnevnik napak, prikaz napak]]></value>
+		<value><![CDATA[poglej dnevnik, pogled v dnevnik, preglej dnevnik, oglej si dnevnik, poglej dnevnik napak, poglej napake]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_log</key>
-		<value><![CDATA[Jasno log, log jasno, izbrisati dnevnik, se prijavite brisanje]]></value>
+		<value><![CDATA[počisti dnevnik, dnevnik počisti, izbriši dnevnik, dnevnik izbriši]]></value>
 	</definition>
 	<definition>
 		<key>command_view_order</key>
-		<value><![CDATA[Pogled Da, zaporedna številka, odprto naročilo, kažejo, da bi, število odprtih nalog, številka pogled red, število oddaja naročil, da #]]></value>
+		<value><![CDATA[ogled naročila, številka naročila, odpri naročilo, prikaži naročilo, odpri številko naročila, ogled številke naročila, prikaži številko naročila, naročilo #]]></value>
 	</definition>
 	<definition>
 		<key>command_view_product</key>
-		<value><![CDATA[Pogled izdelek, številka izdelka, odprt izdelek, kažejo izdelek, odprt številka izdelka, številka pogled na izdelek, številka kažejo izdelek, izdelek #]]></value>
+		<value><![CDATA[ogled izdelka, številka izdelka, odpri izdelek, prikaži izdelek, odpri številko izdelka, ogled številke izdelka, prikaži številko izdelka, izdelek #]]></value>
 	</definition>
 	<definition>
 		<key>command_create_new</key>
-		<value><![CDATA[vstaviti, ustvarjanje, dodajanje, novo, vstavite novo, ustvarjanje novih, dodajanje novih]]></value>
+		<value><![CDATA[vstavi, ustvari, dodaj, novo, vstavi novo, ustvari novo, dodaj novo]]></value>
 	</definition>
 	<definition>
 		<key>category</key>
@@ -54,15 +54,15 @@
 	</definition>
 	<definition>
 		<key>brand</key>
-		<value><![CDATA[blagovne znamke]]></value>
+		<value><![CDATA[Znamka]]></value>
 	</definition>
 	<definition>
 		<key>manufacturer</key>
-		<value><![CDATA[proizvajalec]]></value>
+		<value><![CDATA[znamka]]></value>
 	</definition>
 	<definition>
 		<key>review</key>
-		<value><![CDATA[pregled]]></value>
+		<value><![CDATA[ocena]]></value>
 	</definition>
 	<definition>
 		<key>download</key>
@@ -74,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>customer</key>
-		<value><![CDATA[stranke]]></value>
+		<value><![CDATA[stranka]]></value>
 	</definition>
 	<definition>
 		<key>coupon</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>banner</key>
-		<value><![CDATA[transparent]]></value>
+		<value><![CDATA[pasica]]></value>
 	</definition>
 	<definition>
 		<key>page</key>

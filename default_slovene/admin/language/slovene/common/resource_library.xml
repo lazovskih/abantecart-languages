@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,31 +6,31 @@
 	</definition>
 	<definition>
 		<key>view_title</key>
-		<value><![CDATA[Ogled objekta Resources]]></value>
+		<value><![CDATA[Prikaži vire objekta]]></value>
 	</definition>
 	<definition>
 		<key>confirm_title</key>
-		<value><![CDATA[Potrdi vir (e) brisanje]]></value>
+		<value><![CDATA[Potrdite brisanje vira(ov)]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_delete</key>
-		<value><![CDATA[Nekatera sredstva se lahko vključijo v besedilo. Ne moremo samodejno preveri to. Izbrisati?]]></value>
+		<value><![CDATA[V besedilu so lahko vključeni nekateri viri. To ne moremo samodejno preveriti. Izbriši?]]></value>
 	</definition>
 	<definition>
 		<key>text_cant_delete_title</key>
-		<value><![CDATA[Vir (i) brisanje]]></value>
+		<value><![CDATA[Izbriši vir(e)]]></value>
 	</definition>
 	<definition>
 		<key>text_cant_delete</key>
-		<value><![CDATA[Moremo izbrisati vir (e), ker je eden ali več virov povezana s predmetom]]></value>
+		<value><![CDATA[Ni mogoče izbrisati vira(ov), ker je en ali več virov povezanih z objektom]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_resource</key>
-		<value><![CDATA[edit Resource]]></value>
+		<value><![CDATA[Uredi vir]]></value>
 	</definition>
 	<definition>
 		<key>text_resource_details</key>
-		<value><![CDATA[Podrobnosti virov]]></value>
+		<value><![CDATA[Podrobnosti vira]]></value>
 	</definition>
 	<definition>
 		<key>text_mapped_to</key>
@@ -38,15 +38,15 @@
 	</definition>
 	<definition>
 		<key>text_products</key>
-		<value><![CDATA[izdelki]]></value>
+		<value><![CDATA[Izdelki]]></value>
 	</definition>
 	<definition>
 		<key>text_add_file</key>
-		<value><![CDATA[Dodaj Resource datoteko]]></value>
+		<value><![CDATA[Dodaj datoteko virov]]></value>
 	</definition>
 	<definition>
 		<key>text_add_code</key>
-		<value><![CDATA[Dodaj Resource HTML]]></value>
+		<value><![CDATA[Dodaj vir HTML]]></value>
 	</definition>
 	<definition>
 		<key>text_add_files</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>text_upload_files</key>
-		<value><![CDATA[Prenos datotek]]></value>
+		<value><![CDATA[Naloži datoteke]]></value>
 	</definition>
 	<definition>
 		<key>text_drag</key>
-		<value><![CDATA[ali pa jih povlecite tukaj, da začnete nalaganje]]></value>
+		<value><![CDATA[ali jih povlecite sem, da začnete nalaganje]]></value>
 	</definition>
 	<definition>
 		<key>text_start_upload</key>
@@ -66,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>text_cancel_upload</key>
-		<value><![CDATA[Preklic prenosa]]></value>
+		<value><![CDATA[Prekliči nalaganje]]></value>
 	</definition>
 	<definition>
 		<key>text_start</key>
-		<value><![CDATA[Začetek]]></value>
+		<value><![CDATA[Začni]]></value>
 	</definition>
 	<definition>
 		<key>text_cancel</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>text_save_sort_order</key>
-		<value><![CDATA[Prihranite Sort Order]]></value>
+		<value><![CDATA[Shrani vrstni red razvrščanja]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -86,11 +86,11 @@
 	</definition>
 	<definition>
 		<key>text_delete_files</key>
-		<value><![CDATA[brisanje datotek]]></value>
+		<value><![CDATA[Izbriši datoteke]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Iskanje]]></value>
+		<value><![CDATA[iskanje]]></value>
 	</definition>
 	<definition>
 		<key>text_type</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_resource_code</key>
-		<value><![CDATA[vir HTML]]></value>
+		<value><![CDATA[HTML vir]]></value>
 	</definition>
 	<definition>
 		<key>text_name</key>
-		<value><![CDATA[ime]]></value>
+		<value><![CDATA[Ime]]></value>
 	</definition>
 	<definition>
 		<key>text_title</key>
@@ -114,7 +114,7 @@
 	</definition>
 	<definition>
 		<key>text_uploaded</key>
-		<value><![CDATA[Uspeh: Resource je bila naložena!]]></value>
+		<value><![CDATA[Uspeh: Vir je bil naložen!]]></value>
 	</definition>
 	<definition>
 		<key>text_add</key>
@@ -126,23 +126,23 @@
 	</definition>
 	<definition>
 		<key>text_map</key>
-		<value><![CDATA[Povezava na Object]]></value>
+		<value><![CDATA[Povezava do objekta]]></value>
 	</definition>
 	<definition>
 		<key>text_map_to</key>
-		<value><![CDATA[Povezava na %s]]></value>
+		<value><![CDATA[Povezava do %s]]></value>
 	</definition>
 	<definition>
 		<key>text_unmap</key>
-		<value><![CDATA[Prekiniti povezavo z Object]]></value>
+		<value><![CDATA[Odstrani povezavo z objektom]]></value>
 	</definition>
 	<definition>
 		<key>text_unmap_from</key>
-		<value><![CDATA[Prekiniti povezavo z %s]]></value>
+		<value><![CDATA[Prekini povezavo z %s]]></value>
 	</definition>
 	<definition>
 		<key>text_success_unmap</key>
-		<value><![CDATA[Uspeh: Resource je bila izbrisana.]]></value>
+		<value><![CDATA[Uspešno: povezava do vira je bila odstranjena.]]></value>
 	</definition>
 	<definition>
 		<key>text_file_delete</key>
@@ -150,15 +150,15 @@
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[Uspeh: Vaš virov je bila izbrisana!]]></value>
+		<value><![CDATA[Uspeh: Vaš vir je bil izbrisan!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_type</key>
-		<value><![CDATA[Opozorilo: Napačna vrsta datoteke!]]></value>
+		<value><![CDATA[Opozorilo: Nepravilen tip datoteke!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_size</key>
-		<value><![CDATA[Opozorilo: Datoteka za velik vas prosimo, da spodaj 300KB in ne več kot 1000px višine ali širine!]]></value>
+		<value><![CDATA[Opozorilo: datoteka je prevelika, prosimo, naj bo pod 300kb in ne višja ali širša od 1000px!]]></value>
 	</definition>
 	<definition>
 		<key>error_maxFileSize</key>
@@ -170,83 +170,83 @@
 	</definition>
 	<definition>
 		<key>error_acceptFileTypes</key>
-		<value><![CDATA[Vrsta datoteke ni dovoljeno]]></value>
+		<value><![CDATA[Vrsta datoteke ni dovoljena]]></value>
 	</definition>
 	<definition>
 		<key>error_maxNumberOfFiles</key>
-		<value><![CDATA[Največje število datotek presežena]]></value>
+		<value><![CDATA[Maksimalno število datotek je prekoračeno]]></value>
 	</definition>
 	<definition>
 		<key>error_uploadedBytes</key>
-		<value><![CDATA[Prenesene bajtov presega velikost datoteke]]></value>
+		<value><![CDATA[Naloženi bajti presegajo velikost datoteke]]></value>
 	</definition>
 	<definition>
 		<key>error_emptyResult</key>
-		<value><![CDATA[Prazna rezultat file upload. Morebiti je datoteka poškodovana ali prevelika. velikost datoteke omejena na 16 MB. Če je datoteka manjša od omejitve preverite nastavitve php za upload_max_filesize &amp; post_max_size]]></value>
+		<value><![CDATA[Prazen rezultat prenosa datoteke. Datoteka je morda poškodovana ali prevelika. Velikost datoteke je omejena na 16 MB. Če je velikost datoteke manjša od omejitve, preverite PHP nastavitve za upload_max_filesize in post_max_size.]]></value>
 	</definition>
 	<definition>
 		<key>error_1</key>
-		<value><![CDATA[Datoteka večja upload_max_filesize (php.ini direktivo)]]></value>
+		<value><![CDATA[Datoteka presega upload_max_filesize (php.ini direktiva)]]></value>
 	</definition>
 	<definition>
 		<key>error_2</key>
-		<value><![CDATA[Datoteka večja MAX_FILE_SIZE (HTML direktivo oblika)]]></value>
+		<value><![CDATA[Datoteka presega MAX_FILE_SIZE (HTML form directive)]]></value>
 	</definition>
 	<definition>
 		<key>error_3</key>
-		<value><![CDATA[Datoteka je bila samo delno naložena]]></value>
+		<value><![CDATA[Datoteka je bila samo delno naložena.]]></value>
 	</definition>
 	<definition>
 		<key>error_4</key>
-		<value><![CDATA[Ne Datoteka je bila naložena]]></value>
+		<value><![CDATA[Nobena datoteka ni bila naložena]]></value>
 	</definition>
 	<definition>
 		<key>error_5</key>
-		<value><![CDATA[Manjka začasno mapo]]></value>
+		<value><![CDATA[Manjka začasna mapa]]></value>
 	</definition>
 	<definition>
 		<key>error_6</key>
-		<value><![CDATA[Napaka pri pisanju datoteke na disk]]></value>
+		<value><![CDATA[Pisanje datoteke na disk ni uspelo.]]></value>
 	</definition>
 	<definition>
 		<key>error_7</key>
-		<value><![CDATA[Nalaganje datoteke je ustavila razširitev]]></value>
+		<value><![CDATA[Nalaganje datoteke je bilo ustavljeno zaradi razširitve]]></value>
 	</definition>
 	<definition>
 		<key>error_uploaded</key>
-		<value><![CDATA[Opozorilo: datoteke ni bilo mogoče prenesti iz neznanega razloga!]]></value>
+		<value><![CDATA[Opozorilo: Datoteke ni bilo mogoče naložiti iz neznanega razloga!]]></value>
 	</definition>
 	<definition>
 		<key>error_no_type</key>
-		<value><![CDATA[Izberite vrsto virov]]></value>
+		<value><![CDATA[Prosimo, izberite vrsto vira]]></value>
 	</definition>
 	<definition>
 		<key>error_required_data</key>
-		<value><![CDATA[Zahtevani podatki ni bila vpisana]]></value>
+		<value><![CDATA[Zahtevani podatki niso bili vnešeni]]></value>
 	</definition>
 	<definition>
 		<key>error_not_added</key>
-		<value><![CDATA[Virov ni dodal. Preverite dnevnik napak, za več informacij]]></value>
+		<value><![CDATA[Vir ni bil dodan. Prosimo, preverite dnevnik napak za več informacij.]]></value>
 	</definition>
 	<definition>
 		<key>error_ajax</key>
-		<value><![CDATA[napaka v podatkih obremenitev. Preverite dnevnik napak, za več informacij]]></value>
+		<value><![CDATA[Napaka pri nalaganju podatkov. Prosimo, preverite dnevnik napak za več informacij.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Dovoljenje zavrnjeno!]]></value>
+		<value><![CDATA[Opozorilo: Dostop zavrnjen!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Napaka: je potrebno Ime polja!]]></value>
+		<value><![CDATA[Napaka: polje Ime je obvezno!]]></value>
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Brisanje]]></value>
+		<value><![CDATA[Izbriši]]></value>
 	</definition>
 	<definition>
 		<key>button_add</key>
-		<value><![CDATA[Dodaj Resource]]></value>
+		<value><![CDATA[Dodaj vir]]></value>
 	</definition>
 	<definition>
 		<key>button_done</key>
@@ -254,7 +254,7 @@
 	</definition>
 	<definition>
 		<key>button_select</key>
-		<value><![CDATA[izberite Resources]]></value>
+		<value><![CDATA[Izberite vire]]></value>
 	</definition>
 	<definition>
 		<key>text_with_selected</key>
@@ -262,27 +262,31 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sredstvo je uspešno posodobljen]]></value>
+		<value><![CDATA[Vir je bil uspešno posodobljen]]></value>
 	</definition>
 	<definition>
 		<key>text_map_success</key>
-		<value><![CDATA[Resource uspešno povezali]]></value>
+		<value><![CDATA[Vir je bil uspešno povezan.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_resources</key>
-		<value><![CDATA[Ni razpoložljivih virih]]></value>
+		<value><![CDATA[Ni razpoložljivih virov]]></value>
 	</definition>
 	<definition>
 		<key>text_preview</key>
-		<value><![CDATA[Predogled / Prenos]]></value>
+		<value><![CDATA[Predogled/Prenos]]></value>
 	</definition>
 	<definition>
 		<key>error_file size</key>
-		<value><![CDATA[Pozor: največja velikost datoteke za nalaganje je %s. Lahko povečati to vrednost v php.ini.]]></value>
+		<value><![CDATA[Pozor: Največja velikost datoteke za nalaganje je %s. To vrednost lahko povečate v php.ini.]]></value>
 	</definition>
 	<definition>
 		<key>text_product_option_value</key>
-		<value><![CDATA[Opcije izdelka vrednost]]></value>
+		<value><![CDATA[Vrednost možnosti izdelka]]></value>
+	</definition>
+	<definition>
+		<key>text_products</key>
+		<value><![CDATA[Izdelki]]></value>
 	</definition>
 	<definition>
 		<key>text_categories</key>
@@ -290,31 +294,31 @@
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Proizvajalci]]></value>
+		<value><![CDATA[Blagovne znamke]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[brisanje virov ni mogoče povezati z več predmetov]]></value>
+		<value><![CDATA[Ne morete izbrisati vira, ki je povezan z več objekti]]></value>
 	</definition>
 	<definition>
 		<key>error_unmap</key>
-		<value><![CDATA[ne more razdružiti vir. Predmet ni bil določen.]]></value>
+		<value><![CDATA[Ni mogoče prekiniti povezave z virom. Objekt ni bil nastavljen.]]></value>
 	</definition>
 	<definition>
 		<key>text_replace_file</key>
-		<value><![CDATA[zamenjajte datoteko]]></value>
+		<value><![CDATA[Zamenjaj datoteko]]></value>
 	</definition>
 	<definition>
 		<key>error_not_replaced</key>
-		<value><![CDATA[Datoteka zamenjava napake. ID obvezna!]]></value>
+		<value><![CDATA[Napaka pri zamenjavi datoteke. ID je obvezen!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_exists</key>
-		<value><![CDATA[Datoteka zamenjava napake. Vir ne obstaja!]]></value>
+		<value><![CDATA[Napaka pri zamenjavi datoteke. Vir ne obstaja!]]></value>
 	</definition>
 	<definition>
 		<key>error_cannot_move</key>
-		<value><![CDATA[Napaka: Ne morem premakniti datoteke %s imenik virov.]]></value>
+		<value><![CDATA[Napaka: Ne more premakniti datoteke %s v imenik virov.]]></value>
 	</definition>
 	<definition>
 		<key>button_save_n_apply</key>
@@ -334,19 +338,19 @@
 	</definition>
 	<definition>
 		<key>text_file_path</key>
-		<value><![CDATA[lokacija datoteke:]]></value>
+		<value><![CDATA[Lokacija datoteke:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_url</key>
-		<value><![CDATA[URL virov:]]></value>
+		<value><![CDATA[URL vira:]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_asc</key>
-		<value><![CDATA[Datum Old &gt; New]]></value>
+		<value><![CDATA[Datum od najstarejšega do najnovejšega]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_desc</key>
-		<value><![CDATA[Datum Nov &gt; Star]]></value>
+		<value><![CDATA[Datum Najnovejši > Najstarejši]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_asc</key>
@@ -358,10 +362,10 @@
 	</definition>
 	<definition>
 		<key>text_sorting_asc</key>
-		<value><![CDATA[Sort Order Low &gt; visoka]]></value>
+		<value><![CDATA[Vrstni red razvrščanja Nizko > Visoko]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_desc</key>
-		<value><![CDATA[Sort Order Visoko &gt; nizka]]></value>
+		<value><![CDATA[Vrstni red: visoko > nizko]]></value>
 	</definition>
 </definitions>

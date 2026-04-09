@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - שם כניסת תזכורת]]></value>
+		<value><![CDATA[%s - תזכורת לשם המשתמש]]></value>
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[תזכורת שם כניסה התבקשה מ %s.]]></value>
+		<value><![CDATA[בקשת תזכורת לשם הכניסה נשלחה מ%s.]]></value>
 	</definition>
 	<definition>
 		<key>text_your_loginname</key>

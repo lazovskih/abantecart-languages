@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Globální skupiny Atribut]]></value>
+		<value><![CDATA[Globální skupiny atributů]]></value>
 	</definition>
 	<definition>
 		<key>text_group</key>
-		<value><![CDATA[skupina atributů]]></value>
+		<value><![CDATA[Skupina atributů]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Máte modifikované skupiny!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste skupiny!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Skupinové jméno]]></value>
+		<value><![CDATA[Název skupiny]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -30,22 +30,22 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Skupinové jméno:]]></value>
+		<value><![CDATA[Název skupiny:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Skupina Uspořádání:]]></value>
+		<value><![CDATA[Pořadí řazení skupiny:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Skupina Status:]]></value>
+		<value><![CDATA[Stav skupiny:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění ke změně atributů skupiny!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat skupiny atributů!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Název skupiny musí být mezi 2 a 32 znaků!]]></value>
+		<value><![CDATA[Název skupiny musí mít mezi 2 a 32 znaky!]]></value>
 	</definition>
 </definitions>

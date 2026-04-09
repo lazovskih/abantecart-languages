@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[cone]]></value>
+		<value><![CDATA[Območja]]></value>
 	</definition>
 	<definition>
 		<key>text_zone</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Imate spremenjene cone!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste cone!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Ime Zone]]></value>
+		<value><![CDATA[Ime cone]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
-		<value><![CDATA[Zonska koda]]></value>
+		<value><![CDATA[Koda cone]]></value>
 	</definition>
 	<definition>
 		<key>column_country</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Ukrep]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Status Cona:]]></value>
+		<value><![CDATA[Stanje cone:]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Cona Code:]]></value>
+		<value><![CDATA[Koda cone:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -50,30 +50,30 @@
 	</definition>
 	<definition>
 		<key>text_select_country</key>
-		<value><![CDATA[- Izberi državo -]]></value>
+		<value><![CDATA[- Izberite državo -]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje območij!]]></value>
+		<value><![CDATA[Opozorilo: nimate dovoljenja za spreminjanje con!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Cona Ime mora biti med 2 in 128 znakov!]]></value>
+		<value><![CDATA[Ime cone mora imeti med 2 in 128 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Opozorilo: Ta cona ni mogoče izbrisati, kot je trenutno dodeljen kot privzeti trgovini coni!]]></value>
+		<value><![CDATA[Opozorilo: To cono ni mogoče izbrisati, ker je trenutno dodeljena kot privzeta cona trgovine!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Opozorilo: Ta cona ni mogoče izbrisati, saj je trenutno dodeljen %s trgovinah!]]></value>
+		<value><![CDATA[Opozorilo: Ta cona ne more biti izbrisana, ker je trenutno dodeljena %s trgovinam!]]></value>
 	</definition>
 	<definition>
 		<key>error_address</key>
-		<value><![CDATA[Opozorilo: Ta cona ni mogoče izbrisati, saj je trenutno dodeljen %s vnosov naslov knjige!]]></value>
+		<value><![CDATA[Opozorilo: To območje ni mogoče izbrisati, saj je trenutno dodeljeno %s zapisom v imeniku naslovov!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone_to_location</key>
-		<value><![CDATA[Opozorilo: Ta cona ni mogoče izbrisati, saj je trenutno dodeljen %s con na lokacijah!]]></value>
+		<value><![CDATA[Opozorilo: Ta cona ne more biti izbrisana, ker je trenutno dodeljena %s conam lokacijam!]]></value>
 	</definition>
 </definitions>

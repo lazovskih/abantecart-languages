@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,22 +10,22 @@
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
-		<value><![CDATA[odinštalovať]]></value>
+		<value><![CDATA[Odinštalovať]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[spôsob dopravy]]></value>
+		<value><![CDATA[Spôsob dopravy]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[poradie zoradenia]]></value>
+		<value><![CDATA[Poradie zoradenia]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_weight</key>
-		<value><![CDATA[Košík Hmotnost:]]></value>
+		<value><![CDATA[Hmotnost košíku:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -26,15 +26,19 @@
 	</definition>
 	<definition>
 		<key>column_image</key>
-		<value><![CDATA[obraz]]></value>
+		<value><![CDATA[Obrázek]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[název]]></value>
+		<value><![CDATA[Jméno]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[model]]></value>
+		<value><![CDATA[Model]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[SKU]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
@@ -46,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Celkový]]></value>
+		<value><![CDATA[Celkem]]></value>
 	</definition>
 	<definition>
 		<key>text_continue_shopping</key>
@@ -54,11 +58,11 @@
 	</definition>
 	<definition>
 		<key>text_coupon_codes</key>
-		<value><![CDATA[Použít Kupon Kód]]></value>
+		<value><![CDATA[Použít slevový kód]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipping_tax</key>
-		<value><![CDATA[Odhad Dodávky Daně]]></value>
+		<value><![CDATA[Odhad poštovného a daní]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_country</key>
@@ -66,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_estimate_postcode</key>
-		<value><![CDATA[ZIP / PSČ]]></value>
+		<value><![CDATA[PSČ/Poštovní směrovací číslo]]></value>
 	</definition>
 	<definition>
 		<key>button_text_estimate</key>
@@ -74,31 +78,31 @@
 	</definition>
 	<definition>
 		<key>text_estimate_shipments</key>
-		<value><![CDATA[zásilky]]></value>
+		<value><![CDATA[Zásilky]]></value>
 	</definition>
 	<definition>
 		<key>error_coupon</key>
-		<value><![CDATA[Chyba: Kupón je buď neplatné, jejichž platnost skončila nebo dosáhla je to omezení použití!]]></value>
+		<value><![CDATA[Chyba: Kupón je buď neplatný, propadl nebo dosáhl svého limitu použití!]]></value>
 	</definition>
 	<definition>
 		<key>error_stock</key>
-		<value><![CDATA[Výrobky označené *** nejsou k dispozici v požadovaném množství, nebo je vyprodán!]]></value>
+		<value><![CDATA[Produkty označené *** nejsou k dispozici v požadovaném množství nebo jsou vyprodané!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_options</key>
-		<value><![CDATA[Prosím, vyberte všechny požadované možnosti!]]></value>
+		<value><![CDATA[Prosím vyberte všechny požadované možnosti!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_minimum</key>
-		<value><![CDATA[Vaše objednávka nižší než celková částka nesplňuje minimální výši %s požadováno. Prosím, přidejte další produkty do nákupního košíku!]]></value>
+		<value><![CDATA[Částka mezisoučtu Vaší objednávky nedosahuje požadované minimální částky %s. Prosím, přidejte do košíku více produktů!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_maximum</key>
-		<value><![CDATA[Vaše objednávka nižší než celková částka přesahuje maximální výši %s povolenou na objednávku. Odeberte některé položky z košíku!]]></value>
+		<value><![CDATA[Mezisoučet vaší objednávky překračuje maximální povolenou částku %s na jednu objednávku. Prosím, odstraňte některé položky z vašeho košíku!]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_data</key>
-		<value><![CDATA[datový soubor je poškozen nebo prázdné.]]></value>
+		<value><![CDATA[Data souboru jsou poškozená nebo prázdná.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_name</key>
@@ -106,19 +110,19 @@
 	</definition>
 	<definition>
 		<key>error_file_extension</key>
-		<value><![CDATA[Pouze soubory s příponou (y) %s je (jsou) povolen!]]></value>
+		<value><![CDATA[Pouze soubory s příponou(příponami) %s je(jsou) povoleno!]]></value>
 	</definition>
 	<definition>
 		<key>error_min_file_size</key>
-		<value><![CDATA[Minimální velikost souboru pro upload je %s Kb.]]></value>
+		<value><![CDATA[Minimální velikost souboru pro nahrání je %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>error_max_file_size</key>
-		<value><![CDATA[Maximální velikost souboru pro upload je %s Kb.]]></value>
+		<value><![CDATA[Maximální velikost souboru pro nahrání je %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_success</key>
-		<value><![CDATA[Úspěch: Váš kupón sleva byla použita!]]></value>
+		<value><![CDATA[Úspěch: Vaše sleva z kupónu byla uplatněna!]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_removal</key>
@@ -126,14 +130,10 @@
 	</definition>
 	<definition>
 		<key>error_quantity_maximum</key>
-		<value><![CDATA[povoleného množství produktu překročí. Množství byla nastavena na maximum.]]></value>
+		<value><![CDATA[Povolené množství produktu bylo překročeno. Množství bylo nastaveno na maximum.]]></value>
 	</definition>
 	<definition>
 		<key>error_quantity_minimum</key>
-		<value><![CDATA[povoleného množství výrobku je nižší než požadované minimum. Množství byla nastavena na minimální výši.]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Povolené množství produktu je nižší než požadované minimum. Množství bylo nastaveno na minimální hodnotu.]]></value>
 	</definition>
 </definitions>

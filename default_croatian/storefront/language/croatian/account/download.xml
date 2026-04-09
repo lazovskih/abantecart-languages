@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[preuzimanja računa]]></value>
+		<value><![CDATA[Preuzimanja računa]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_downloads</key>
-		<value><![CDATA[preuzimanja]]></value>
+		<value><![CDATA[Preuzimanja]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum dodan:]]></value>
+		<value><![CDATA[Datum dodavanja:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_purchased</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_remaining</key>
-		<value><![CDATA[Preostali:]]></value>
+		<value><![CDATA[Preostalo:]]></value>
 	</definition>
 	<definition>
 		<key>text_size</key>
@@ -38,34 +38,34 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Preuzimanje]]></value>
+		<value><![CDATA[Preuzmi]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Niste napravili nikakve prethodne preuzimanje narudžbe!]]></value>
+		<value><![CDATA[Vi niste napravili nijednu prethodnu narudžbu za preuzimanje!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
-		<value><![CDATA[Rok trajanja:]]></value>
+		<value><![CDATA[Datum isteka:]]></value>
 	</definition>
 	<definition>
 		<key>text_expired</key>
-		<value><![CDATA[Istekao]]></value>
+		<value><![CDATA[Isteklo]]></value>
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[U tijeku]]></value>
+		<value><![CDATA[Na čekanju]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[nedostupan]]></value>
+		<value><![CDATA[Nedostupno]]></value>
 	</definition>
 	<definition>
 		<key>text_reached_limit</key>
-		<value><![CDATA[limit]]></value>
+		<value><![CDATA[Dosegnuto ograničenje]]></value>
 	</definition>
 	<definition>
 		<key>error_download_not_exists</key>
-		<value><![CDATA[Traženi datoteka ne postoji!]]></value>
+		<value><![CDATA[Tražena datoteka ne postoji!]]></value>
 	</definition>
 </definitions>

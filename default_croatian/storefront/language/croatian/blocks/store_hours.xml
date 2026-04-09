@@ -10,27 +10,27 @@
 	</definition>
 	<definition>
 		<key>open</key>
-		<value><![CDATA[Otvoriti]]></value>
+		<value><![CDATA[Otvori]]></value>
 	</definition>
 	<definition>
 		<key>sunday</key>
-		<value><![CDATA[nedjelja]]></value>
+		<value><![CDATA[Nedjelja]]></value>
 	</definition>
 	<definition>
 		<key>monday</key>
-		<value><![CDATA[ponedjeljak]]></value>
+		<value><![CDATA[Ponedjeljak]]></value>
 	</definition>
 	<definition>
 		<key>tuesday</key>
-		<value><![CDATA[utorak]]></value>
+		<value><![CDATA[Utorak]]></value>
 	</definition>
 	<definition>
 		<key>wednesday</key>
-		<value><![CDATA[srijeda]]></value>
+		<value><![CDATA[Srijeda]]></value>
 	</definition>
 	<definition>
 		<key>thursday</key>
-		<value><![CDATA[četvrtak]]></value>
+		<value><![CDATA[Četvrtak]]></value>
 	</definition>
 	<definition>
 		<key>friday</key>
@@ -38,6 +38,6 @@
 	</definition>
 	<definition>
 		<key>saturday</key>
-		<value><![CDATA[subota]]></value>
+		<value><![CDATA[Subota]]></value>
 	</definition>
 </definitions>

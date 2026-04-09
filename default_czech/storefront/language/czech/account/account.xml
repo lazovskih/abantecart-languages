@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[Dashboard účet]]></value>
+		<value><![CDATA[Přehled účtu]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -18,15 +18,15 @@
 	</definition>
 	<definition>
 		<key>text_my_orders</key>
-		<value><![CDATA[Mé objednávky]]></value>
+		<value><![CDATA[Moje objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_my_notifications</key>
-		<value><![CDATA[oznámení]]></value>
+		<value><![CDATA[Upozornění]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Úprava podrobností účtu]]></value>
+		<value><![CDATA[Upravit údaje účtu]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Správa adresáře]]></value>
+		<value><![CDATA[Spravovat adresní knihu]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -46,14 +46,14 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Ke stažení]]></value>
+		<value><![CDATA[Stahování]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Přihlášení k odběru bulletinu]]></value>
+		<value><![CDATA[Odběr newsletteru]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>
-		<value><![CDATA[Můj list přání]]></value>
+		<value><![CDATA[Můj seznam přání]]></value>
 	</definition>
 </definitions>

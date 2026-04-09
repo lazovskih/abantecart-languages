@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>default_banktransfer_instructions</key>
-		<value><![CDATA[Pokyny pro bankovní převod: <span class="help">Pokyny zobrazené zákazníkům, aby provedli bankovní nebo bankovní převod na váš bankovní účet</span>]]></value>
+		<value><![CDATA[Pokyny pro bankovní převod:<span class="help">Pokyny zobrazené zákazníkům k provedení bankovního nebo bezhotovostního převodu na váš bankovní účet</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_min</key>
-		<value><![CDATA[Celkový limit objednávky: <span class="help">Minimální částka objednávky, která má být dosažena, aby bylo možné provést tuto platbu</span>]]></value>
+		<value><![CDATA[Celkový limit objednávky:<span class="help">Minimální částka objednávky, kterou je nutné dosáhnout, aby bylo možné tuto platbu povolit</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_status_id</key>
@@ -30,14 +30,14 @@
 	</definition>
 	<definition>
 		<key>default_banktransfer_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechna umístění]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat platbu bankovním převodem!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění měnit platbu bankovním převodem!]]></value>
 	</definition>
 	<definition>
 		<key>error_instructions</key>
-		<value><![CDATA[Jsou vyžadovány pokyny k bankovnímu převodu!]]></value>
+		<value><![CDATA[Pokyny k bankovnímu převodu jsou povinné!]]></value>
 	</definition>
 </definitions>

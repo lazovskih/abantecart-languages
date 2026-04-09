@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Košarica migracije]]></value>
+		<value><![CDATA[Migracija košarice]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_step_one</key>
@@ -18,35 +18,35 @@
 	</definition>
 	<definition>
 		<key>text_description</key>
-		<value><![CDATA[Migracija alat vam omogućiti uvoz podataka iz drugih kola. <br/> Napomena: AbanteCart podrška uvoz za MySQL je samo za sada. <br/> Pritisnite gumb Start migracije za nastavak ...]]></value>
+		<value><![CDATA[Alat za migraciju omogućuje vam uvoz podataka iz drugih košarica.<br>Napomena: AbanteCart za sada podržava uvoz samo za MySQL.<br>Pritisnite gumb Započni migraciju da nastavite...]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Vi podaci uspješno transfeerd da Abantecart!]]></value>
+		<value><![CDATA[Uspjeh: Vaši podaci su uspješno preneseni u Abantecart!]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_info</key>
-		<value><![CDATA[Izvor košarice Info <span class="help">Izvor trgovački detalji košarice primjene.</span>]]></value>
+		<value><![CDATA[Informacije o izvornoj košarici<span class="help">Detalji aplikacije izvorne košarice.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_db_info</key>
-		<value><![CDATA[Baza podataka Info <span class="help">Napomena: AbanteCart podrška uvoz za MySQL je samo za sada.</span>]]></value>
+		<value><![CDATA[Informacije o bazi podataka<span class="help">Napomena: AbanteCart za sada podržava uvoz samo za mysql.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_type</key>
-		<value><![CDATA[Izvor vrsta košaricu:]]></value>
+		<value><![CDATA[Tip izvorne košarice:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_url</key>
-		<value><![CDATA[Izvor košaricu URL:]]></value>
+		<value><![CDATA[URL izvorne košarice:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_host</key>
-		<value><![CDATA[Baza podataka Host:]]></value>
+		<value><![CDATA[Poslužitelj baze podataka:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_user</key>
-		<value><![CDATA[Baza podataka korisnika:]]></value>
+		<value><![CDATA[Korisnik baze podataka:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_password</key>
@@ -58,19 +58,19 @@
 	</definition>
 	<definition>
 		<key>entry_db_prefix</key>
-		<value><![CDATA[Baza podataka Prefiks:]]></value>
+		<value><![CDATA[Prefiks baze podataka:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_select</key>
-		<value><![CDATA[- Odaberite košaricu tipa -]]></value>
+		<value><![CDATA[- odaberite tip košarice -]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_osc</key>
-		<value><![CDATA[oscommerce 2.2RC2]]></value>
+		<value><![CDATA[Oscommerce 2.2RC2]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_oscmax</key>
-		<value><![CDATA[osCMax]]></value>
+		<value><![CDATA[OscMAX]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_zen</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>entry_cart_cre</key>
-		<value><![CDATA[CRE učitano 6.4.1 STD]]></value>
+		<value><![CDATA[CRE Loaded 6.4.1 STD]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_opencart</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>entry_migrate_data_products</key>
-		<value><![CDATA[Proizvoda, kategorija, brendovi]]></value>
+		<value><![CDATA[Proizvodi, Kategorije, Marke]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_customers</key>
@@ -106,90 +106,90 @@
 	</definition>
 	<definition>
 		<key>entry_erase_existing_data</key>
-		<value><![CDATA[Brisanje postojeće podatke?]]></value>
+		<value><![CDATA[Izbrisati postojeće podatke?]]></value>
 	</definition>
 	<definition>
 		<key>button_start_migration</key>
-		<value><![CDATA[Početak migracije]]></value>
+		<value><![CDATA[Pokreni migraciju]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Nastaviti]]></value>
+		<value><![CDATA[Nastavi]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
-		<value><![CDATA[Nazad]]></value>
+		<value><![CDATA[Natrag]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[Otkazati]]></value>
+		<value><![CDATA[Otkaži]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za obavljanje migraciju!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izvođenje migracije!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_host</key>
-		<value><![CDATA[Domaćin je potrebno!]]></value>
+		<value><![CDATA[Poslužitelj je obavezan!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_user</key>
-		<value><![CDATA[Korisnik obavezna!]]></value>
+		<value><![CDATA[Korisnik je obavezan!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_name</key>
-		<value><![CDATA[Ime baze podataka je potrebno!]]></value>
+		<value><![CDATA[Naziv baze podataka je obavezan!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_connection</key>
-		<value><![CDATA[Pogreška: Nije moguće spajanje na bazu podataka provjerite poslužitelj baze podataka, korisničko ime i lozinka ispravna!]]></value>
+		<value><![CDATA[Pogreška: Nije moguće povezati se s bazom podataka, molimo provjerite jesu li poslužitelj baze podataka, korisničko ime i lozinka ispravni!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_not_exist</key>
-		<value><![CDATA[Pogreška: Baza podataka ne postoji!]]></value>
+		<value><![CDATA[Greška: Baza podataka ne postoji!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_type</key>
-		<value><![CDATA[Greška: Molimo odaberite košaricu tip!]]></value>
+		<value><![CDATA[Pogreška: Molimo odaberite vrstu košarice!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_url</key>
-		<value><![CDATA[Pogreška: potrebna Košarica URL!]]></value>
+		<value><![CDATA[Pogreška: potreban je URL košarice!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_not_supported</key>
-		<value><![CDATA[Upozorenje: Izabrano košarice sada nije podržan!]]></value>
+		<value><![CDATA[Upozorenje: Odabrana košarica trenutno nije podržana!]]></value>
 	</definition>
 	<definition>
 		<key>error_migrate_data</key>
-		<value><![CDATA[Greška: Molimo odaberite barem jednu stavku!]]></value>
+		<value><![CDATA[Pogreška: Molimo odaberite barem jednu stavku!]]></value>
 	</definition>
 	<definition>
 		<key>text_no_customers</key>
-		<value><![CDATA[Napomena: Ne jedan kupac je uvezen.]]></value>
+		<value><![CDATA[Napomena: Nijedan kupac nije uvezen.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_products</key>
-		<value><![CDATA[Napomena: Nitko proizvod je uvezen.]]></value>
+		<value><![CDATA[Napomena: Niti jedan proizvod nije uvezen.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_orders</key>
-		<value><![CDATA[Napomena: Nitko red je uvezen.]]></value>
+		<value><![CDATA[Napomena: Nijedna narudžba nije uvezena.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_brands</key>
-		<value><![CDATA[Napomena: Nitko brand je uvezen.]]></value>
+		<value><![CDATA[Napomena: Nijedan brend nije uvezen.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_categories</key>
-		<value><![CDATA[Napomena: Ne kategorija jedan proizvod uvezen.]]></value>
+		<value><![CDATA[Napomena: Nijedna kategorija proizvoda nije uvezena.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_source_cart</key>
-		<value><![CDATA[Upozorenje: Odabrani izvor košarica je prazna! Molimo provjerite baze podataka i tablice prefiks.]]></value>
+		<value><![CDATA[Upozorenje: Odabrana izvorna košarica je prazna! Molimo provjerite bazu podataka i prefiks tablica.]]></value>
 	</definition>
 	<definition>
 		<key>text_finished</key>
-		<value><![CDATA[Migracija je završio.]]></value>
+		<value><![CDATA[Migracija je završena.]]></value>
 	</definition>
 </definitions>

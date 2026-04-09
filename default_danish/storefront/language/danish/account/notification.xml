@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Bemærkninger og Nyhedsbrev]]></value>
+		<value><![CDATA[Underretninger og Nyhedsbrev]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,14 +10,14 @@
 	</definition>
 	<definition>
 		<key>text_notifications</key>
-		<value><![CDATA[underretninger]]></value>
+		<value><![CDATA[Underretninger]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Succes: Indstillinger din anmeldelse er blevet opdateret!]]></value>
+		<value><![CDATA[Succes: Dine underretningsindstillinger er blevet opdateret med succes!]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoint</key>
-		<value><![CDATA[underretninger]]></value>
+		<value><![CDATA[Underretninger]]></value>
 	</definition>
 </definitions>

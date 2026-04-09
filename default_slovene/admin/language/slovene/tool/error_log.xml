@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,16 +6,14 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Uspešno ste počistili dnevnik napak!]]></value>
+		<value><![CDATA[Uspeh: Uspešno ste izpraznili dnevnik napak!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_tail</key>
-		<value><![CDATA[Zaradi velikega obsega log datoteko, lahko le zadnji 500KB podatkov lahko ogledate tukaj. 
- Če si želite ogledati celoten dnevnik, ga dobili od strežnika neposredno. 
- poti:]]></value>
+		<value><![CDATA[Zaradi velike velikosti datoteke dnevnika je mogoče tukaj ogledati le zadnjih 500Kb podatkov.<br>Za ogled celotnega dnevnika ga pridobite neposredno s svojega strežnika. Pot:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_error</key>
-		<value><![CDATA[ Datoteka ne obstaja ali ni berljiva! ]]></value>
+		<value><![CDATA[Datoteka ne obstaja ali je ni mogoče prebrati!]]></value>
 	</definition>
 </definitions>

@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>cardconnect_note</key>
-		<value><![CDATA[Az API hitelesítő adatok beszerzéséhez látogasson el a https://cardconnect.com/signup/developer webhelyre]]></value>
+		<value><![CDATA[Az API-hitelesítő adatok megszerzéséhez kérjük, látogasson el a https://cardconnect.com/signup/developer weboldalra.]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_merchant_id</key>
-		<value><![CDATA[Kereskedő azonosítója]]></value>
+		<value><![CDATA[Kereskedői azonosító]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_username</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>cardconnect_logging</key>
-		<value><![CDATA[Naplózás: <br/><span class="help">A naplófájl a system/logs/cardconnect.txt fájlban található</span>]]></value>
+		<value><![CDATA[Naplózás:<br /><span class="help">A naplófájl a system/logs/cardconnect.txt fájlban található</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_test</key>
@@ -34,63 +34,64 @@
 	</definition>
 	<definition>
 		<key>cardconnect_get_test_api_credentials</key>
-		<value><![CDATA[Szerezze be a Test API hitelesítő adatait]]></value>
+		<value><![CDATA[Teszt API-hitelesítő adatok lekérése]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_test_mode</key>
-		<value><![CDATA[Teszt mód]]></value>
+		<value><![CDATA[Teszt üzemmód]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_site</key>
-		<value><![CDATA[Domain rész API-ra: <br/><span class="help">Ezt az értéket nem szabad megváltoztatni, kivéve, ha a cardConnent ettől eltérően határozza meg.</span>]]></value>
+		<value><![CDATA[Domain rész az API-hoz:
+Ezt az értéket nem szabad módosítani, kivéve, ha a cardConnent másként határozza meg.]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_connection_success</key>
-		<value><![CDATA[A csatlakozás sikeres, és az API hitelesítő adatok megfelelően vannak konfigurálva.]]></value>
+		<value><![CDATA[A kapcsolat sikeres, és az API-hitelesítő adatok helyesen vannak konfigurálva.]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_location_id_0</key>
-		<value><![CDATA[Minden hely]]></value>
+		<value><![CDATA[Minden helyszín]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_location_id</key>
-		<value><![CDATA[Elhelyezkedés]]></value>
+		<value><![CDATA[Hely]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_refund</key>
-		<value><![CDATA[Visszatérítve: <br/><span class="help">Megrendelés állapota, amelyet be kíván állítani, ha a fizetés visszatérítésre kerül az admin/orderben</span>]]></value>
+		<value><![CDATA[Visszatérítve:<br /><span class="help">Rendelés állapota, amelyet be szeretne állítani, ha a fizetés visszatérítésre kerül az admin/order felületen</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_decline</key>
-		<value><![CDATA[Elutasítás: <br/><span class="help">Az előzményekben rögzíteni kívánt rendelési állapot válaszul a fizetésfeldolgozó állapotára. A főrendelés állapotát ez nem érinti. A megrendelés csak a fizetés sikeressége után kerül feladásra.</span>]]></value>
+		<value><![CDATA[Elutasítás:<br /><span class="help">A rendelés olyan státusza, amelyet a fizetésfeldolgozó állapotára válaszul szeretné rögzíteni a rendelés előzményeiben. A fő rendelésállapot nem változik. A rendelés csak akkor kerül leadásra, ha a fizetés sikeres.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_success_unsettled</key>
-		<value><![CDATA[Sikeres és nincs rendezve: <br/><span class="help">Válassza ki a fő megrendelés állapotát, amelyet be kíván állítani a fizetésfeldolgozó állapotára válaszul</span>]]></value>
+		<value><![CDATA[Sikeres és nincs elszámolva:<br /><span class="help">Válassza ki a fő rendelési állapotot, amelyet a fizetési processzor státusza alapján szeretne beállítani</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_success_settled</key>
-		<value><![CDATA[Sikeres és rendezett: <br/><span class="help">Válassza ki azt a fő rendelési állapotot, amelyet a fizetésfeldolgozó állapota alapján be szeretne állítani</span>]]></value>
+		<value><![CDATA[Sikeres és kiegyenlített:<br /><span class="help">Válassza ki azt a fő rendelésállapotot, amelyet a fizetési feldolgozó állapotára válaszul szeretne beállítani</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_void</key>
-		<value><![CDATA[Érvénytelen: <br/><span class="help">Megrendelés állapota, amelyet be kíván állítani, ha a fizetés érvénytelen az admin/orderben.</span>]]></value>
+		<value><![CDATA[Érvénytelenítve:<br /><span class="help">A rendelés állapota, amelyet be szeretne állítani, ha a fizetést érvénytelenítik az admin/order oldalon.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_settlement_payment</key>
-		<value><![CDATA[Automatikus (engedélyezés és rögzítés)]]></value>
+		<value><![CDATA[Automatikus (authorize and capture)]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_settlement_auth</key>
-		<value><![CDATA[Késik (csak engedélyezés)]]></value>
+		<value><![CDATA[Késleltetett (csak jóváhagyás)]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_settlement</key>
-		<value><![CDATA[Elszámolás típusa: <br/><span class="help">Ha &quot;automatikus&quot;-ra van állítva, akkor a tranzakció bekerül a mai elszámolásba. Ha &#39;késleltetett&#39; értékre van állítva, akkor a tranzakció engedélyezve lesz, de nincs kiegyenlítve (rögzítve). Az engedélyezéstől számított 7 napon belül manuálisan kell rögzítenie a tranzakciókat</span>]]></value>
+		<value><![CDATA[Elszámolás típusa:<br /><span class="help">Ha "auto"-ra van állítva, a tranzakciót a mai elszámolásba felveszi. Ha 'delayed'-re van állítva, a tranzakció engedélyezve lesz, de nem kerül elszámolásra (foglalás). Az engedélyezést követő 7 napon belül manuálisan kell foglalni a tranzakciókat.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_save_cards_limit</key>
-		<value><![CDATA[Maximum elmentett hitelkártyák: <br/><span class="help">Állítsa be az ügyfelek által menthető hitelkártyák maximális számát (legfeljebb 100). Ha 0-ra van állítva vagy üres, a kártyák mentése nem engedélyezett. Biztonsági megjegyzés: Az ügyfél hitelkártya-adatait a CardConnect biztonságos szerverein mentjük a maximális adatbiztonság érdekében. A webhelyén nem mentjük el a hitelkártyaadatokat.</span>]]></value>
+		<value><![CDATA[Maximálisan elmenthető hitelkártyák száma: <br/><span class="help">Állítsa be a vásárlók által elmenthető hitelkártyák maximális számát (legfeljebb 100). Ha az értéke 0 vagy üres, a kártyák mentése nem engedélyezett. Biztonsági megjegyzés: A vásárlók hitelkártya-adatait a CardConnect biztonságos szerverein tároljuk, hogy a lehető legmagasabb szintű adatbiztonsági intézkedéseket biztosítsuk. A hitelkártya-adatok nem kerülnek mentésre az ön webhelyén.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -102,27 +103,27 @@
 	</definition>
 	<definition>
 		<key>text_captured_ok</key>
-		<value><![CDATA[A pénzeszközöket sikeresen lefoglalták]]></value>
+		<value><![CDATA[A pénzeszközök sikeresen megterhelésre kerültek.]]></value>
 	</definition>
 	<definition>
 		<key>text_captured_order</key>
-		<value><![CDATA[A rögzítés sikeres volt, a rendelés állapota sikeresen frissítve – rendezve]]></value>
+		<value><![CDATA[A pénzlevonás sikeres volt, a rendelés állapota sikeres - kiegyenlítve értékre frissült]]></value>
 	</definition>
 	<definition>
 		<key>text_refunded_ok</key>
-		<value><![CDATA[A visszatérítés sikeresen feldolgozva]]></value>
+		<value><![CDATA[A visszatérítés sikeresen feldolgozásra került]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_order</key>
-		<value><![CDATA[A visszatérítés sikeres volt, a rendelés állapota frissítve visszatérített értékre]]></value>
+		<value><![CDATA[A visszatérítés sikeres volt, a rendelés státusza visszatérítve frissült.]]></value>
 	</definition>
 	<definition>
 		<key>text_voided</key>
-		<value><![CDATA[Az érvénytelenítés sikeres volt, a rendelés állapotát érvénytelenítettük]]></value>
+		<value><![CDATA[Az érvénytelenítés sikeres volt, a rendelés állapota érvénytelenítve frissült.]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
-		<value><![CDATA[Fizetési részletek]]></value>
+		<value><![CDATA[Fizetési adatok]]></value>
 	</definition>
 	<definition>
 		<key>text_capture_status</key>
@@ -130,7 +131,7 @@
 	</definition>
 	<definition>
 		<key>text_void_status</key>
-		<value><![CDATA[A fizetés érvénytelen]]></value>
+		<value><![CDATA[Fizetés érvénytelenítve]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_status</key>
@@ -138,7 +139,7 @@
 	</definition>
 	<definition>
 		<key>text_capture_amount</key>
-		<value><![CDATA[Rögzítési mennyiség]]></value>
+		<value><![CDATA[Foglalás összege]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_amount</key>
@@ -146,11 +147,11 @@
 	</definition>
 	<definition>
 		<key>text_order_ref</key>
-		<value><![CDATA[CardConnect Charge ID]]></value>
+		<value><![CDATA[CardConnect terhelésazonosító]]></value>
 	</definition>
 	<definition>
 		<key>text_authorized_ammount</key>
-		<value><![CDATA[Teljes engedélyezett összeg]]></value>
+		<value><![CDATA[Engedélyezett teljes összeg]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
@@ -158,19 +159,19 @@
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[Tranzakciók visszatérítése]]></value>
+		<value><![CDATA[Visszatérítési tranzakciók]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_void</key>
-		<value><![CDATA[Kérjük, erősítse meg, hogy érvényteleníteni szeretné a fizetést?]]></value>
+		<value><![CDATA[Kérjük, erősítse meg, hogy valóban érvényteleníteni kívánja a fizetést?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_capture</key>
-		<value><![CDATA[Kérjük, erősítse meg, hogy rögzíteni szeretné a fizetést?]]></value>
+		<value><![CDATA[Kérjük, erősítse meg, hogy le szeretné vonni a fizetést?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_refund</key>
-		<value><![CDATA[Kérjük, erősítse meg, hogy vissza szeretné téríteni a fizetést?]]></value>
+		<value><![CDATA[Kérjük, erősítse meg, hogy szeretné visszatéríteni a kifizetést?]]></value>
 	</definition>
 	<definition>
 		<key>button_refund</key>
@@ -178,11 +179,11 @@
 	</definition>
 	<definition>
 		<key>button_void</key>
-		<value><![CDATA[Üres]]></value>
+		<value><![CDATA[Érvénytelen]]></value>
 	</definition>
 	<definition>
 		<key>button_capture</key>
-		<value><![CDATA[Elfog]]></value>
+		<value><![CDATA[Rögzítés]]></value>
 	</definition>
 	<definition>
 		<key>error_system</key>
@@ -190,22 +191,22 @@
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Kérjük, adja meg a pozitív összeget]]></value>
+		<value><![CDATA[Kérjük, adjon meg pozitív összeget.]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_void</key>
-		<value><![CDATA[Nem lehet érvényteleníteni a tranzakciót, frissíteni és ellenőrizni a tranzakció részleteit]]></value>
+		<value><![CDATA[Nem lehet érvényteleníteni a tranzakciót, frissítse az oldalt, és ellenőrizze a tranzakció részleteit.]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_capture</key>
-		<value><![CDATA[Nem sikerült rögzíteni, frissíteni a tranzakció részleteit és ellenőrizni a rögzítési összeget]]></value>
+		<value><![CDATA[Nem sikerült terhelést végrehajtani, frissíteni a tranzakció részleteit és ellenőrizni a terhelés összegét]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_refund</key>
-		<value><![CDATA[Nem sikerült a visszatérítés, frissítse a tranzakció adatait és ellenőrizze a visszatérítés összegét]]></value>
+		<value><![CDATA[Nem lehet visszatérítést végrehajtani, frissítse a tranzakció részleteit és ellenőrizze a visszatérítendő összeget.]]></value>
 	</definition>
 	<definition>
 		<key>text_settlement_status</key>
-		<value><![CDATA[Az elszámolás jelenlegi állapota]]></value>
+		<value><![CDATA[Jelenlegi elszámolási állapot]]></value>
 	</definition>
 </definitions>

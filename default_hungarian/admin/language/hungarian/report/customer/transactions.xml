@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Ügyfél tranzakciók]]></value>
+		<value><![CDATA[Vásárlói tranzakciók]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_date</key>
-		<value><![CDATA[a tranzakció időpontja]]></value>
+		<value><![CDATA[Tranzakció dátuma]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Ügyfél neve]]></value>
+		<value><![CDATA[Vásárló neve]]></value>
 	</definition>
 	<definition>
 		<key>column_created_by</key>
-		<value><![CDATA[Készítette]]></value>
+		<value><![CDATA[Létrehozta]]></value>
 	</definition>
 	<definition>
 		<key>column_debit</key>
-		<value><![CDATA[tartozás]]></value>
+		<value><![CDATA[Betéti kártya]]></value>
 	</definition>
 	<definition>
 		<key>column_credit</key>
@@ -26,6 +26,6 @@
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[Tranzakció Típusa]]></value>
+		<value><![CDATA[Tranzakció típusa]]></value>
 	</definition>
 </definitions>

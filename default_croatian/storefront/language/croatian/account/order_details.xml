@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Dostavnica]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice_id</key>
-		<value><![CDATA[ID fakture]]></value>
+		<value><![CDATA[ID računa]]></value>
 	</definition>
 	<definition>
 		<key>text_order_id</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_mobile_phone</key>
-		<value><![CDATA[Mobitel:]]></value>
+		<value><![CDATA[Mobilni telefon:]]></value>
 	</definition>
 	<definition>
 		<key>text_fax</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[Adresa za dostavu]]></value>
+		<value><![CDATA[Adresa dostave]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>text_price</key>
-		<value><![CDATA[Jedinična cijena]]></value>
+		<value><![CDATA[Jedinčna cijena]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[Komentari na narudžbu]]></value>
+		<value><![CDATA[Komentari narudžbe]]></value>
 	</definition>
 	<definition>
 		<key>text_image</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Narudžba koju ste tražili nije pronađena!]]></value>
+		<value><![CDATA[Naručba koju ste zatražili nije pronađena!]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
@@ -106,36 +106,35 @@
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[Komentar narudžbe kupca]]></value>
+		<value><![CDATA[Kupčev komentar narudžbe]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation</key>
-		<value><![CDATA[Zatražite otkazivanje narudžbe]]></value>
+		<value><![CDATA[Zahtjev za otkazivanje narudžbe]]></value>
 	</definition>
 	<definition>
 		<key>text_request_cancellation_from_customer</key>
-		<value><![CDATA[Zatražite otkazivanje narudžbe od kupca ]]></value>
+		<value><![CDATA[Zatražite otkazivanje narudžbe od kupca]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_confirm</key>
-		<value><![CDATA[
- Vaš zahtjev za otkazivanje možda neće biti podnesen u nekim slučajevima, na primjer, kada je roba otpremljena. Nastaviti?]]></value>
+		<value><![CDATA[Vaš zahtjev za otkazivanje možda neće biti moguće podnijeti u nekim slučajevima, na primjer kada je roba otpremljena. Nastaviti?]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_success</key>
-		<value><![CDATA[Zahtjev za otkazivanje narudžbe je predan]]></value>
+		<value><![CDATA[Zahtjev za otkazivanje narudžbe je podnesen]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_title</key>
-		<value><![CDATA[Narudžba #%s zahtjev za otkazivanje]]></value>
+		<value><![CDATA[Zahtjev za otkazivanje narudžbe #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_body</key>
-		<value><![CDATA[Kupac %s je zatražio otkazivanje narudžbe za narudžbu #%s. Za recenziju idite na %s]]></value>
+		<value><![CDATA[Kupac %s je zatražio otkazivanje narudžbe #%s. Za pregled idite na %s]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Čini se da adresa e-pošte nije važeća!]]></value>
+		<value><![CDATA[E-mail adresa se ne čini valjanom!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_id</key>

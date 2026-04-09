@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Transaktioner]]></value>
+		<value><![CDATA[Kundtransaktioner]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_date</key>
-		<value><![CDATA[Transaktions Datum]]></value>
+		<value><![CDATA[Transaktionsdatum]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Köparens namn]]></value>
+		<value><![CDATA[Kundnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_created_by</key>
@@ -18,14 +18,14 @@
 	</definition>
 	<definition>
 		<key>column_debit</key>
-		<value><![CDATA[Debitera]]></value>
+		<value><![CDATA[Debet]]></value>
 	</definition>
 	<definition>
 		<key>column_credit</key>
-		<value><![CDATA[Kreditera]]></value>
+		<value><![CDATA[Kredit]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[Överföringstyp]]></value>
+		<value><![CDATA[Transaktionstyp]]></value>
 	</definition>
 </definitions>

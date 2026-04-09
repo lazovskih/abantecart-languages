@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kupóny]]></value>
+		<value><![CDATA[Kupóny]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon</key>
-		<value><![CDATA[kupón]]></value>
+		<value><![CDATA[Kupón]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Zmenili ste kupóny!]]></value>
+		<value><![CDATA[Úspech: Upravili ste kupóny!]]></value>
 	</definition>
 	<definition>
 		<key>text_percent</key>
-		<value><![CDATA[percento]]></value>
+		<value><![CDATA[Percento]]></value>
 	</definition>
 	<definition>
 		<key>text_amount</key>
-		<value><![CDATA[pevná suma]]></value>
+		<value><![CDATA[Pevná čiastka]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[kupón Meno]]></value>
+		<value><![CDATA[Názov kupónu]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
-		<value><![CDATA[kód]]></value>
+		<value><![CDATA[Kód]]></value>
 	</definition>
 	<definition>
 		<key>column_discount</key>
-		<value><![CDATA[zľava]]></value>
+		<value><![CDATA[Zľava]]></value>
 	</definition>
 	<definition>
 		<key>column_date_start</key>
@@ -42,35 +42,35 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Kupón Meno:]]></value>
+		<value><![CDATA[Názov kupónu:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Kupón Popis:]]></value>
+		<value><![CDATA[Popis kupónu:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Code: <br/><span class="help">The kódu zákazník zadá získať zľavu</span>]]></value>
+		<value><![CDATA[Code:<br /><span class="help">Kód, ktorý zákazník zadá, aby získal zľavu</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_type</key>
-		<value><![CDATA[Typ: <br/><span class="help">Percentuálne alebo pevnou sumou</span>]]></value>
+		<value><![CDATA[Typ:<br /><span class="help">Percentuálna alebo pevná suma</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_discount</key>
-		<value><![CDATA[zľava:]]></value>
+		<value><![CDATA[Zľava:]]></value>
 	</definition>
 	<definition>
 		<key>entry_logged</key>
-		<value><![CDATA[Zákazník Login: <br/><span class="help">zákazník musí byť prihlásený používať kupón.</span>]]></value>
+		<value><![CDATA[Prihlásenie zákazníka:<br /><span class="help">Zákazník musí byť prihlásený, aby mohol použiť kupón.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping</key>
@@ -78,15 +78,19 @@
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[Celková suma: <br/><span class="help">Množstvo sub-total, ktoré musia prejsť pred dosiahnutím kupón je platný.</span>]]></value>
+		<value><![CDATA[Celková suma:<br/><span class="help">Podčiastková suma, ktorú je potrebné dosiahnuť, aby bol kupón platný.</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_category</key>
+		<value><![CDATA[Kategórie:<br/><span class="help">Použiť kupón, keď sú produkty z jednej z vybraných kategórií.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_product</key>
-		<value><![CDATA[Vybrané produkty:]]></value>
+		<value><![CDATA[Produkty:<br/><span class="help">Aplikovať kupón, ak košík obsahuje jeden z vybraných produktov.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Termín nástupu:]]></value>
+		<value><![CDATA[Dátum začiatku:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
@@ -94,43 +98,39 @@
 	</definition>
 	<definition>
 		<key>entry_uses_total</key>
-		<value><![CDATA[Per používa kupón: <br/><span class="help">Maximálny počet, koľkokrát je kupón môže byť použitý akýmkoľvek zákazníkom. Nechajte prázdne pre neobmedzený</span>]]></value>
+		<value><![CDATA[Použitia na kupón:<br /><span class="help">Maximálny počet použití kupónu jedným zákazníkom. Nechajte prázdne pre neobmedzené</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_uses_customer</key>
-		<value><![CDATA[Používa na zákazníka: <br/><span class="help">Maximálny počet, koľkokrát je kupón môže byť použitý podľa jedného zákazníka. Nechajte prázdne pre neobmedzený</span>]]></value>
+		<value><![CDATA[Použitie na zákazníka:<br /><span class="help">Maximálny počet použití kupónu jedným zákazníkom. Nechajte prázdne pre neobmedzené použitie</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavenie:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_total_coupon_usage</key>
-		<value><![CDATA[Celkom Kupón Využitie: <br/><span class="help">Počet všetkých objednávok pomocou tohto kupónu</span>]]></value>
+		<value><![CDATA[Celkové použitie kupónu:<br /><span class="help">Počet všetkých objednávok uskutočnených pomocou tohto kupónu</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varovanie: Nemáte oprávnenie k úprave kupóny!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upravovať kupóny!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Kupón Meno musí byť medzi 2 a 64 znakov!]]></value>
+		<value><![CDATA[Názov kupónu musí mať od 2 do 64 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_description</key>
-		<value><![CDATA[Kupón Opis musí byť medzi 2 znaky!]]></value>
+		<value><![CDATA[Popis kupónu musí mať dĺžku medzi 2 znakmi!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
-		<value><![CDATA[Kód musí byť medzi 2 a 10 znakov!]]></value>
+		<value><![CDATA[Kód musí mať medzi 2 a 10 znakmi!]]></value>
 	</definition>
 	<definition>
 		<key>error_date</key>
-		<value><![CDATA[Prosím nastaviť časové obdobie!]]></value>
-	</definition>
-	<definition>
-		<key>entry_category</key>
-		<value><![CDATA[Kategórie: <br/><span class="help">Uplatnite kupón pri produktoch z jednej z vybraných kategórií.</span>]]></value>
+		<value><![CDATA[Prosím, nastavte rozsah dátumov!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>

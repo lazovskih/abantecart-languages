@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[Id]]></value>
+		<value><![CDATA[Azonosító]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[Megragadt]]></value>
+		<value><![CDATA[Elakadt]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_running</key>
-		<value><![CDATA[Futás]]></value>
+		<value><![CDATA[Fut]]></value>
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>text_disabled</key>
-		<value><![CDATA[Tiltva]]></value>
+		<value><![CDATA[Letiltva]]></value>
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[nem sikerült]]></value>
+		<value><![CDATA[Sikertelen]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>text_completed</key>
-		<value><![CDATA[befejezték]]></value>
+		<value><![CDATA[Befejezve]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[Újraindítás Feladat]]></value>
+		<value><![CDATA[Feladat újraindítása]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
@@ -66,18 +66,18 @@
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[feladat kezdődött]]></value>
+		<value><![CDATA[Feladat elindult]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
-		<value><![CDATA[Feladat nem talált.]]></value>
+		<value><![CDATA[Feladat nem található.]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_task</key>
-		<value><![CDATA[Feladat nem tartalmaz lépéseket. Távolítani.]]></value>
+		<value><![CDATA[A feladat nem tartalmaz lépéseket. Eltávolítva.]]></value>
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[Tiltott újraindításához!]]></value>
+		<value><![CDATA[Az újraindítás tiltott!]]></value>
 	</definition>
 </definitions>

@@ -1,44 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Zabudol si heslo?]]></value>
+		<value><![CDATA[Zabudli ste svoje heslo?]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_loginname</key>
-		<value><![CDATA[Zabudli ste prihlasovacie meno?]]></value>
+		<value><![CDATA[Zabudli ste svoje prihlasovacie meno?]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[účet]]></value>
+		<value><![CDATA[Účet]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten</key>
-		<value><![CDATA[zabudnuté heslo]]></value>
+		<value><![CDATA[Zabudnuté heslo]]></value>
 	</definition>
 	<definition>
 		<key>text_your_email</key>
-		<value><![CDATA[Vaša emailová adresa]]></value>
+		<value><![CDATA[Vaša e-mailová adresa]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[Zadajte e-mailovú adresu spojenú s vaším účtom. Kliknutím na tlačidlo Odoslať sa, že vaše heslo e-mailom na vás]]></value>
+		<value><![CDATA[Zadajte e-mailovú adresu priradenú k vášmu účtu. Kliknite na tlačidlo Odoslať a vaše heslo vám bude zaslané e-mailom.]]></value>
 	</definition>
 	<definition>
 		<key>text_loginname_email</key>
-		<value><![CDATA[Zadať adresu prihlasovacie meno a e-mailovú spojený s vašim účtom. Kliknutím na tlačidlo Odoslať Žiadosť o resetovanie hesla]]></value>
+		<value><![CDATA[Zadajte prihlasovacie meno a e-mailovú adresu priradenú k vášmu účtu. Kliknite na Odoslať a požiadajte o obnovenie hesla.]]></value>
 	</definition>
 	<definition>
 		<key>text_lastname_email</key>
-		<value><![CDATA[Zadajte poslednú adresu, meno a e-mailovú spojený s vašim účtom. Kliknutím na tlačidlo Odoslať mať svoje prihlasovacie meno, e-mailovou adresou]]></value>
+		<value><![CDATA[Zadajte priezvisko a e-mailovú adresu priradené k vášmu účtu. Kliknite na Odoslať a vaše prihlasovacie meno vám bude zaslané e-mailom.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: resetovanie hesla odkaz bol odoslaný na vašu e-mailovú adresu.]]></value>
+		<value><![CDATA[Úspech: Odkaz na obnovenie hesla bol odoslaný na vašu e-mailovú adresu.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_loginname</key>
-		<value><![CDATA[Úspech: Vaše prihlasovacie meno pripomienka bola odoslaná na Vašu e-mailovú adresu.]]></value>
+		<value><![CDATA[Úspech: Pripomenutie prihlasovacieho mena bolo odoslané na vašu e-mailovú adresu.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
@@ -50,26 +50,26 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Emailová adresa:]]></value>
+		<value><![CDATA[E-mailová adresa:]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Chyba: E-mailová adresa nebol poskytnutý alebo nebola nájdená v našich záznamoch, skúste to znova!]]></value>
+		<value><![CDATA[Chyba: E-mailová adresa nebola poskytnutá alebo nebola nájdená v našich záznamoch, skúste to prosím znova!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Chyba: Názov Vstup nebol poskytnutý alebo nebola nájdená v našich záznamoch, skúste to znova!]]></value>
+		<value><![CDATA[Chyba: Prihlasovacie meno nebolo zadané alebo sa nenašlo v našich záznamoch, skúste to prosím znova!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Chyba: Priezvisko nebol poskytnutý alebo nebola nájdená v našich záznamoch, skúste to znova!]]></value>
+		<value><![CDATA[Chyba: Priezvisko nebolo zadané alebo sa nenašlo v našich záznamoch, skúste to prosím znova!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_found</key>
-		<value><![CDATA[Chyba: nájdené zodpovedajúce informácie o vašej poskytnuté žiadne záznamy, skontrolujte svoje údaje a skúste to znova!]]></value>
+		<value><![CDATA[Chyba: Neboli nájdené žiadne záznamy zodpovedajúce poskytnutým informáciám, skontrolujte svoje údaje a skúste to znova!]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_loginname</key>
-		<value><![CDATA[Zabudol som prihlasovacie meno]]></value>
+		<value><![CDATA[Zabudnuté prihlasovacie meno]]></value>
 	</definition>
 </definitions>

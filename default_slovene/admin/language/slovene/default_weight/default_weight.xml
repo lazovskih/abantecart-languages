@@ -2,27 +2,27 @@
 <definitions>
 	<definition>
 		<key>default_weight_name</key>
-		<value><![CDATA[Pošiljanje na podlagi teže]]></value>
+		<value><![CDATA[Dostava glede na težo]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Pošiljanje]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
-		<value><![CDATA[ Dodatne nastavitve ]]></value>
+		<value><![CDATA[Dodatne nastavitve]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste pošiljanje na podlagi teže!]]></value>
+		<value><![CDATA[Uspeh: spremenili ste dostavo glede na težo!]]></value>
 	</definition>
 	<definition>
 		<key>entry_rate</key>
-		<value><![CDATA[Cene: <br/><span class="help">Primer: 5:10.00,7:12.00 Teža:strošek, teža:strošek itd. V tem primeru je 5 funtov = 10,00 USD. Kjer je funt vaš razred teže trgovine, $ pa osnovna valuta trgovine. Oboje lahko spremenite v nastavitvah trgovine</span>]]></value>
+		<value><![CDATA[Stopnje:<br /><span class="help">Primer: 5:10.00,7:12.00 Weight:Cost,Weight:Cost itd. V tem primeru 5 pounds = $10.00. Kjer je Pound vaš razred teže v trgovini in $ osnovna valuta trgovine. Oboje lahko spremenite v nastavitvah trgovine.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[status:]]></value>
+		<value><![CDATA[Stanje:]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax</key>
@@ -38,14 +38,14 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje pošiljanja glede na težo!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje dostave glede na težo!]]></value>
 	</definition>
 	<definition>
 		<key>example_weight_text</key>
-		<value><![CDATA[Teža: ]]></value>
+		<value><![CDATA[Teža:]]></value>
 	</definition>
 	<definition>
 		<key>example_currency_text</key>
-		<value><![CDATA[Valuta: ]]></value>
+		<value><![CDATA[Valuta:]]></value>
 	</definition>
 </definitions>

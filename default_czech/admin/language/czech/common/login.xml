@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Správa]]></value>
+		<value><![CDATA[Administrace]]></value>
 	</definition>
 	<definition>
 		<key>text_heading</key>
-		<value><![CDATA[Správa]]></value>
+		<value><![CDATA[Administrace]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Prosím, zadejte své přihlašovací údaje.]]></value>
+		<value><![CDATA[Prosím zadejte své přihlašovací údaje.]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
@@ -22,30 +22,30 @@
 	</definition>
 	<definition>
 		<key>entry_forgot_password</key>
-		<value><![CDATA[Zapomenuté heslo?]]></value>
+		<value><![CDATA[Zapomněli jste heslo?]]></value>
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Přihlásit se]]></value>
+		<value><![CDATA[Přihlášení]]></value>
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[zápas pro uživatelské jméno a / nebo heslo ne.]]></value>
+		<value><![CDATA[Žádná shoda pro uživatelské jméno a/nebo heslo.]]></value>
 	</definition>
 	<definition>
 		<key>error_token</key>
-		<value><![CDATA[Neplatný Token relace. Prosím přihlašte se znovu.]]></value>
+		<value><![CDATA[Neplatná relace tokenu. Prosím, přihlaste se znovu.]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message</key>
-		<value><![CDATA[Nepodařilo přihlášení k pokusu admin z IP:]]></value>
+		<value><![CDATA[Neúspěšný pokus o přihlášení do administrace z IP:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message_text</key>
-		<value><![CDATA[Vzhledem k přihlášení uživatele:]]></value>
+		<value><![CDATA[Zadané uživatelské přihlášení:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_secure</key>
-		<value><![CDATA[Pokoušíte se přihlásit v nezabezpečeném nebezpečném režimu! Chcete-li pokračovat, přepněte na zabezpečený <a href="%s">protokol HTTPS</a> ]]></value>
+		<value><![CDATA[Snažíte se přihlásit v nezabezpečeném a nebezpečném režimu! Přepněte prosím na zabezpečené <a href="%s">HTTPS</a> pro pokračování.]]></value>
 	</definition>
 </definitions>

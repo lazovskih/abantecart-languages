@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kunder Online]]></value>
+		<value><![CDATA[Kunder online]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Köparens namn]]></value>
+		<value><![CDATA[Kundnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_ip</key>
-		<value><![CDATA[kund IP]]></value>
+		<value><![CDATA[Kund IP]]></value>
 	</definition>
 	<definition>
 		<key>column_time</key>
-		<value><![CDATA[senast tillgängliga]]></value>
+		<value><![CDATA[Senast åtkomst]]></value>
 	</definition>
 	<definition>
 		<key>column_url</key>
-		<value><![CDATA[uRL som]]></value>
+		<value><![CDATA[Åtkomst till Url]]></value>
 	</definition>
 	<definition>
 		<key>text_referer</key>
-		<value><![CDATA[Referent:]]></value>
+		<value><![CDATA[Referer:]]></value>
 	</definition>
 </definitions>

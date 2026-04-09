@@ -1,28 +1,20 @@
 <?xml version="1.0"?>
 <definitions>
 	<definition>
-		<key>heading_title</key>
-		<value><![CDATA[Otevírací doba prodejny]]></value>
-	</definition>
-	<definition>
 		<key>closed</key>
-		<value><![CDATA[ZAVŘENO]]></value>
-	</definition>
-	<definition>
-		<key>open</key>
-		<value><![CDATA[OTEVŘENO]]></value>
+		<value><![CDATA[Uzavřeno]]></value>
 	</definition>
 	<definition>
 		<key>sunday</key>
-		<value><![CDATA[neděle]]></value>
+		<value><![CDATA[Neděle]]></value>
 	</definition>
 	<definition>
 		<key>monday</key>
-		<value><![CDATA[pondělí]]></value>
+		<value><![CDATA[Pondělí]]></value>
 	</definition>
 	<definition>
 		<key>tuesday</key>
-		<value><![CDATA[úterý]]></value>
+		<value><![CDATA[Úterý]]></value>
 	</definition>
 	<definition>
 		<key>wednesday</key>
@@ -34,10 +26,18 @@
 	</definition>
 	<definition>
 		<key>friday</key>
-		<value><![CDATA[pátek]]></value>
+		<value><![CDATA[Pátek]]></value>
 	</definition>
 	<definition>
 		<key>saturday</key>
-		<value><![CDATA[sobota]]></value>
+		<value><![CDATA[Sobota]]></value>
+	</definition>
+	<definition>
+		<key>heading_title</key>
+		<value><![CDATA[Otevírací doba]]></value>
+	</definition>
+	<definition>
+		<key>open</key>
+		<value><![CDATA[Otevřít]]></value>
 	</definition>
 </definitions>

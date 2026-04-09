@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[vevői megrendelések]]></value>
+		<value><![CDATA[Vásárlói Rendelések]]></value>
 	</definition>
 	<definition>
 		<key>column_customer_id</key>
-		<value><![CDATA[Ügyfél-azonosító]]></value>
+		<value><![CDATA[Vevő azonosító]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Ügyfél neve]]></value>
+		<value><![CDATA[Vásárló neve]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[Ügyfél nevében]]></value>
+		<value><![CDATA[Vevőcsoport]]></value>
 	</definition>
 	<definition>
 		<key>column_order_count</key>
-		<value><![CDATA[megrendelések száma]]></value>
+		<value><![CDATA[Rendelések száma]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 </definitions>

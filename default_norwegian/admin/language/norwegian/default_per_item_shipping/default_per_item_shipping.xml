@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret fraktpriser per vare!]]></value>
+		<value><![CDATA[Suksess: Du har endret fraktsatser per vare!]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_cost</key>
-		<value><![CDATA[Koste:]]></value>
+		<value><![CDATA[Kostnad:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax</key>
@@ -26,14 +26,14 @@
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id</key>
-		<value><![CDATA[Sted:]]></value>
+		<value><![CDATA[Lokasjon:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id_0</key>
-		<value><![CDATA[Alle steder]]></value>
+		<value><![CDATA[Alle lokasjoner]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre fraktpriser per vare!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre fraktsatser per vare!]]></value>
 	</definition>
 </definitions>

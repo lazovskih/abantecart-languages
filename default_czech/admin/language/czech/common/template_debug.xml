@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[Blok číslo:]]></value>
+		<value><![CDATA[ID bloku:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_name</key>
-		<value><![CDATA[Název:]]></value>
+		<value><![CDATA[Jméno:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_controller</key>
-		<value><![CDATA[Ovladač:]]></value>
+		<value><![CDATA[Kontrolér:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_path</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_block_parent</key>
-		<value><![CDATA[Rodič:]]></value>
+		<value><![CDATA[Nadřazený:]]></value>
 	</definition>
 	<definition>
 		<key>text_parent_id</key>

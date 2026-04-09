@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id</key>
-		<value><![CDATA[Mjesto:]]></value>
+		<value><![CDATA[Lokacija:]]></value>
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id_0</key>
@@ -22,6 +22,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: nemate dopuštenje za izmjenu besplatne dostave!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu besplatne dostave!]]></value>
 	</definition>
 </definitions>

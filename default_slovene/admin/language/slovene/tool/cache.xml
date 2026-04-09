@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[cache upravljanje]]></value>
+		<value><![CDATA[Upravljanje predpomnilnika]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: ste uspešno izbrisal datoteke predpomnilnika!]]></value>
+		<value><![CDATA[Uspeh: datoteke predpomnilnika ste uspešno izbrisali!]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration</key>
-		<value><![CDATA[konfiguracija]]></value>
+		<value><![CDATA[Konfiguracija]]></value>
 	</definition>
 	<definition>
 		<key>text_layouts_blocks</key>
-		<value><![CDATA[Postavitve &amp; Blocks]]></value>
+		<value><![CDATA[Postavitve & Bloki]]></value>
 	</definition>
 	<definition>
 		<key>text_flexyforms</key>
-		<value><![CDATA[Flexy Obrazci]]></value>
+		<value><![CDATA[Prilagodljivi obrazci]]></value>
 	</definition>
 	<definition>
 		<key>text_images</key>
-		<value><![CDATA[slike]]></value>
+		<value><![CDATA[Slike]]></value>
 	</definition>
 	<definition>
 		<key>text_products</key>
-		<value><![CDATA[izdelki]]></value>
+		<value><![CDATA[Izdelki]]></value>
 	</definition>
 	<definition>
 		<key>text_categories</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Proizvajalci]]></value>
+		<value><![CDATA[Znamke]]></value>
 	</definition>
 	<definition>
 		<key>text_localisations</key>
-		<value><![CDATA[lokalizacija]]></value>
+		<value><![CDATA[Lokalizacije]]></value>
 	</definition>
 	<definition>
 		<key>text_error_log</key>
@@ -46,15 +46,15 @@
 	</definition>
 	<definition>
 		<key>text_clear_cache</key>
-		<value><![CDATA[Počisti Izbrano Cache]]></value>
+		<value><![CDATA[Počisti izbrani predpomnilnik]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_all_cache</key>
-		<value><![CDATA[Počisti vse Cache]]></value>
+		<value><![CDATA[Počisti vse podatke]]></value>
 	</definition>
 	<definition>
 		<key>desc_configuration</key>
-		<value><![CDATA[Sistemske in shranjevanje konfiguracije]]></value>
+		<value><![CDATA[Konfiguracije sistema in trgovine]]></value>
 	</definition>
 	<definition>
 		<key>desc_layouts_blocks</key>
@@ -62,27 +62,27 @@
 	</definition>
 	<definition>
 		<key>desc_flexyforms</key>
-		<value><![CDATA[Podatki Flexy obrazci]]></value>
+		<value><![CDATA[Podatki Flexy Forms]]></value>
 	</definition>
 	<definition>
 		<key>desc_images</key>
-		<value><![CDATA[slika sličice]]></value>
+		<value><![CDATA[Sličice slik]]></value>
 	</definition>
 	<definition>
 		<key>desc_products</key>
-		<value><![CDATA[podatki o izdelku]]></value>
+		<value><![CDATA[Podatki o izdelku]]></value>
 	</definition>
 	<definition>
 		<key>desc_categories</key>
-		<value><![CDATA[podatki kategorije]]></value>
+		<value><![CDATA[Podatki kategorije]]></value>
 	</definition>
 	<definition>
 		<key>desc_manufacturers</key>
-		<value><![CDATA[podatki proizvajalca]]></value>
+		<value><![CDATA[Podatki o znamki]]></value>
 	</definition>
 	<definition>
 		<key>desc_localisations</key>
-		<value><![CDATA[Valuta, jezik, država, Zone, dolžina, teža, &amp; druga]]></value>
+		<value><![CDATA[Valuta, Jezik, Država, Cona, Dolžina, Teža & Druge]]></value>
 	</definition>
 	<definition>
 		<key>desc_error_log</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[cache Type]]></value>
+		<value><![CDATA[Vrsta predpomnilnika]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[Namestitev / Nadgradnja Zgodovina]]></value>
+		<value><![CDATA[Zgodovina namestitev/nadgradenj]]></value>
 	</definition>
 	<definition>
 		<key>desc_install_upgrade_history</key>
-		<value><![CDATA[Počisti vse Namestitev / Nadgradnja Zgodovina]]></value>
+		<value><![CDATA[Počisti vso zgodovino namestitev/posodobitev]]></value>
 	</definition>
 	<definition>
 		<key>text_edits_history</key>

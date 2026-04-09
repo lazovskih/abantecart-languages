@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Zarządzanie cache]]></value>
+		<value><![CDATA[Zarządzanie pamięcią podręczną]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Pomyślnie usunięte pliki cache!]]></value>
+		<value><![CDATA[Sukces: Pomyślnie usunięto pliki pamięci podręcznej!]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_layouts_blocks</key>
-		<value><![CDATA[Podzial &amp; Bloki]]></value>
+		<value><![CDATA[Układy i bloki]]></value>
 	</definition>
 	<definition>
 		<key>text_flexyforms</key>
-		<value><![CDATA[Formularze elastyczne]]></value>
+		<value><![CDATA[Elastyczne Formularze]]></value>
 	</definition>
 	<definition>
 		<key>text_images</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[producenci]]></value>
+		<value><![CDATA[Marki]]></value>
 	</definition>
 	<definition>
 		<key>text_localisations</key>
-		<value><![CDATA[lokalizacje]]></value>
+		<value><![CDATA[Lokalizacje]]></value>
 	</definition>
 	<definition>
 		<key>text_error_log</key>
@@ -46,15 +46,15 @@
 	</definition>
 	<definition>
 		<key>text_clear_cache</key>
-		<value><![CDATA[Usuń wybrane Cache]]></value>
+		<value><![CDATA[Wyczyść wybraną pamięć podręczną]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_all_cache</key>
-		<value><![CDATA[Wyczyść wszystko Cache]]></value>
+		<value><![CDATA[Wyczyść wszystkie dane]]></value>
 	</definition>
 	<definition>
 		<key>desc_configuration</key>
-		<value><![CDATA[Konfiguracje systemu i przechowywać]]></value>
+		<value><![CDATA[Konfiguracje systemu i sklepu]]></value>
 	</definition>
 	<definition>
 		<key>desc_layouts_blocks</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>desc_flexyforms</key>
-		<value><![CDATA[Dane formy Flexy]]></value>
+		<value><![CDATA[Dane formularzy Flexy]]></value>
 	</definition>
 	<definition>
 		<key>desc_images</key>
-		<value><![CDATA[miniatury obrazu]]></value>
+		<value><![CDATA[Miniaturki obrazów]]></value>
 	</definition>
 	<definition>
 		<key>desc_products</key>
@@ -74,15 +74,15 @@
 	</definition>
 	<definition>
 		<key>desc_categories</key>
-		<value><![CDATA[Kategoria dane]]></value>
+		<value><![CDATA[Dane kategorii]]></value>
 	</definition>
 	<definition>
 		<key>desc_manufacturers</key>
-		<value><![CDATA[dane producenta]]></value>
+		<value><![CDATA[Dane marki]]></value>
 	</definition>
 	<definition>
 		<key>desc_localisations</key>
-		<value><![CDATA[Waluty, języka, kraju, Zone, długość, waga, &amp; inny]]></value>
+		<value><![CDATA[Waluta, Język, Kraj, Strefa, Długość, Waga & inne]]></value>
 	</definition>
 	<definition>
 		<key>desc_error_log</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[Typ skrzynki]]></value>
+		<value><![CDATA[Typ pamięci podręcznej]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[Install / Upgrade Historia]]></value>
+		<value><![CDATA[Historia instalacji/aktualizacji]]></value>
 	</definition>
 	<definition>
 		<key>desc_install_upgrade_history</key>
-		<value><![CDATA[Clear All Install / Upgrade Historia]]></value>
+		<value><![CDATA[Wyczyść całą historię instalacji/aktualizacji]]></value>
 	</definition>
 	<definition>
 		<key>text_edits_history</key>

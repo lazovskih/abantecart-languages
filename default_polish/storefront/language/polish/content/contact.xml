@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -22,42 +22,42 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Twoje zapytanie zostało pomyślnie wysłane do właściciela sklepu! </p>]]></value>
+		<value><![CDATA[<p>Twoje zapytanie zostało pomyślnie wysłane właścicielowi sklepu!</p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Pierwsze imię:]]></value>
+		<value><![CDATA[Imię:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[E-mail:]]></value>
+		<value><![CDATA[Adres e-mail:]]></value>
 	</definition>
 	<definition>
 		<key>entry_enquiry</key>
-		<value><![CDATA[Zapytanie ofertowe:]]></value>
+		<value><![CDATA[Zapytanie:]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Wpisz kod w polu poniżej:]]></value>
+		<value><![CDATA[Wprowadź kod w poniższym polu:]]></value>
 	</definition>
 	<definition>
 		<key>email_subject</key>
-		<value><![CDATA[Zapytanie %s]]></value>
+		<value><![CDATA[Zapytanie od %s]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Nazwa musi być od 3 do 32 znaków!]]></value>
+		<value><![CDATA[Nazwa musi mieć od 3 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail nie wydaje się być ważne!]]></value>
+		<value><![CDATA[Adres e-mail wydaje się być nieprawidłowy!]]></value>
 	</definition>
 	<definition>
 		<key>error_enquiry</key>
-		<value><![CDATA[Zapytanie może być od 10 do 3000 znaków!]]></value>
+		<value><![CDATA[Zapytanie musi mieć od 10 do 3000 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>entry_duplicate_message_subject</key>
-		<value><![CDATA[Nowy Zapytanie Od %s (%s)]]></value>
+		<value><![CDATA[Nowe zapytanie od %s (%s)]]></value>
 	</definition>
 </definitions>

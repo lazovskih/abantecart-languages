@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_block_id</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_block_name</key>
-		<value><![CDATA[ime:]]></value>
+		<value><![CDATA[Ime:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_controller</key>
-		<value><![CDATA[krmilnik:]]></value>
+		<value><![CDATA[Krmilnik:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_path</key>
-		<value><![CDATA[pot:]]></value>
+		<value><![CDATA[Pot:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_template</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>text_block_parent</key>
-		<value><![CDATA[Starš:]]></value>
+		<value><![CDATA[Nadrejeni:]]></value>
 	</definition>
 	<definition>
 		<key>text_parent_id</key>
-		<value><![CDATA[ID starša:]]></value>
+		<value><![CDATA[ID nadrejenega:]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>

@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[manažér aktualizácií]]></value>
+		<value><![CDATA[Správca aktualizácií]]></value>
 	</definition>
 	<definition>
 		<key>text_checkupdates</key>
-		<value><![CDATA[skontroluj aktualizácie]]></value>
+		<value><![CDATA[Skontrolovať aktualizácie]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[rozšírenie Name]]></value>
+		<value><![CDATA[Názov rozšírenia]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[typ]]></value>
+		<value><![CDATA[Typ]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
-		<value><![CDATA[kategórie]]></value>
+		<value><![CDATA[Kategória]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_version</key>
@@ -34,70 +34,70 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Rozšírenie bolo úspešne aktualizované!]]></value>
+		<value><![CDATA[Úspech: Rozšírenia boli úspešne aktualizované!]]></value>
 	</definition>
 	<definition>
 		<key>text_update</key>
-		<value><![CDATA[aktualizovať]]></value>
+		<value><![CDATA[Aktualizovať]]></value>
 	</definition>
 	<definition>
 		<key>entry_restore_exts</key>
-		<value><![CDATA[Obnovenie zálohovaných rozšírenie:]]></value>
+		<value><![CDATA[Obnoviť zálohované rozšírenie:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[aktualizácia:]]></value>
+		<value><![CDATA[Aktualizácie:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varovanie: Nemáte oprávnenie na zmenu adresára:]]></value>
+		<value><![CDATA[Varovanie: Nemáte oprávnenie na úpravu adresára:]]></value>
 	</definition>
 	<definition>
 		<key>warning_server</key>
-		<value><![CDATA[Server aktualizácií je prístupná.]]></value>
+		<value><![CDATA[Server s aktualizáciami je nedostupný.]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_title</key>
-		<value><![CDATA[Aktualizácia Upozornenie pre% PREDĹŽENIA%]]></value>
+		<value><![CDATA[Oznámenie o aktualizácii pre %EXTENSION%]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_text</key>
-		<value><![CDATA[&quot;Nová verzia rozšírenia&quot;% EXTENSION% &quot;je k dispozícii. Prosím, choďte na% LINK% a upgrade to. &quot;]]></value>
+		<value><![CDATA[Nová verzia rozšírenia "%EXTENSION%" je k dispozícii. Prosím, prejdite na %LINK% a aktualizujte ho.]]></value>
 	</definition>
 	<definition>
 		<key>warning_updates</key>
-		<value><![CDATA[Nemožno získať informácie o aktualizáciách.]]></value>
+		<value><![CDATA[Nedá sa získať informácie o aktualizáciách.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[Varovanie: Súbor, ktorý ste nahral bol prázdny!]]></value>
+		<value><![CDATA[Upozornenie: Súbor, ktorý ste nahrali, bol prázdny!]]></value>
 	</definition>
 	<definition>
 		<key>error_exts_list</key>
-		<value><![CDATA[Upozornenie: Zoznam rozšírenie nie je array!]]></value>
+		<value><![CDATA[Upozornenie: Zoznam rozšírení nie je pole!]]></value>
 	</definition>
 	<definition>
 		<key>text_nothing_todo</key>
-		<value><![CDATA[Vas rozšírenia sú aktuálne. Nič na práci.]]></value>
+		<value><![CDATA[Vaše rozšírenia sú aktuálne. Nie je čo robiť.]]></value>
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[pripojiť]]></value>
+		<value><![CDATA[Pripojiť]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect</key>
-		<value><![CDATA[Pripojenie k trhu]]></value>
+		<value><![CDATA[Pripojte sa k trhovisku]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect_your_store</key>
-		<value><![CDATA[Pripojte prosím Store Marketplace]]></value>
+		<value><![CDATA[Prosím, prepojte svoj obchod s trhoviskom.]]></value>
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[Poznámka: Aktualizácia je k dispozícii len pre pripojené predajniach s zakúpeného histórii.]]></value>
+		<value><![CDATA[Poznámka: Aktualizácia je k dispozícii iba pre pripojené obchody s históriou nákupov.]]></value>
 	</definition>
 </definitions>

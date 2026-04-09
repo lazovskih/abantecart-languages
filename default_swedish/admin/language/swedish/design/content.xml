@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Content manager]]></value>
+		<value><![CDATA[Innehållshanterare]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrat innehåll!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat innehållet!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Framgång: Du har ändrat innehåll sidlayout.]]></value>
+		<value><![CDATA[Framgång: Du har ändrat innehållssidans layout.]]></value>
 	</definition>
 	<definition>
 		<key>text_hidden</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[innehåll Titel]]></value>
+		<value><![CDATA[Innehållstitel]]></value>
 	</definition>
 	<definition>
 		<key>column_parent</key>
-		<value><![CDATA[Moder innehåll]]></value>
+		<value><![CDATA[Föräldrainnehåll]]></value>
 	</definition>
 	<definition>
 		<key>entry_parent</key>
-		<value><![CDATA[Förälder innehåll Sida]]></value>
+		<value><![CDATA[Överordnad Innehållssida]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
@@ -49,16 +49,20 @@
 		<value><![CDATA[Status]]></value>
 	</definition>
 	<definition>
+		<key>column_publish_date</key>
+		<value><![CDATA[Publiceringsdatum]]></value>
+	</definition>
+	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Innehåll Titel:]]></value>
+		<value><![CDATA[Innehållstitel:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Beskrivning:]]></value>
+		<value><![CDATA[Beskrivning:<br /><span class="help">HTML-taggar rekommenderas inte för innehållsbeskrivningen! Detta beror på din butiksmall</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_content</key>
@@ -66,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>entry_store</key>
-		<value><![CDATA[butiker:]]></value>
+		<value><![CDATA[Butiker:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -74,59 +78,11 @@
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO-sökord:]]></value>
+		<value><![CDATA[SEO-nyckelord:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
 		<value><![CDATA[Sorteringsordning:]]></value>
-	</definition>
-	<definition>
-		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra innehåll!]]></value>
-	</definition>
-	<definition>
-		<key>error_title</key>
-		<value><![CDATA[Innehåll Titel måste vara mellan 2 och 64 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_description</key>
-		<value><![CDATA[Beskrivning måste vara mer än 1 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_content</key>
-		<value><![CDATA[Innehållet måste vara mer än 1 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_seo_url</key>
-		<value><![CDATA[SEO URL måste vara mer än 1 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_account</key>
-		<value><![CDATA[Varning: Det här innehållet kan inte tas bort eftersom det är för närvarande tilldelas som standard lagra kontovillkoren!]]></value>
-	</definition>
-	<definition>
-		<key>error_checkout</key>
-		<value><![CDATA[Varning: Det här innehållet kan inte tas bort eftersom det är för närvarande tilldelas som standard butik kassan villkor!]]></value>
-	</definition>
-	<definition>
-		<key>error_required_data</key>
-		<value><![CDATA[Begärda uppgifterna har inte angetts. Kontrollera om fält fel!]]></value>
-	</definition>
-	<definition>
-		<key>text_top_level</key>
-		<value><![CDATA[Högsta nivån]]></value>
-	</definition>
-	<definition>
-		<key>text_any</key>
-		<value><![CDATA[några]]></value>
-	</definition>
-	<definition>
-		<key>tab_form</key>
-		<value><![CDATA[Redigera]]></value>
-	</definition>
-	<definition>
-		<key>column_publish_date</key>
-		<value><![CDATA[Publiceringsdatum]]></value>
 	</definition>
 	<definition>
 		<key>entry_publish_date</key>
@@ -138,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>entry_content_bar</key>
-		<value><![CDATA[Innehållsinformationsfält: <br/><span class="help">Aktivera den här inställningen för att visa fältet med författaren och publiceringsdatum på innehållssidan</span>]]></value>
+		<value><![CDATA[Innehållsdetaljfält:<br /><span class="help">Aktivera den här inställningen för att visa fältet med författaren och publiceringsdatum på innehållssidan</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_icon</key>
@@ -146,47 +102,90 @@
 	</definition>
 	<definition>
 		<key>entry_tags</key>
-		<value><![CDATA[Innehåll Taggar: <br/><span class="help">kommaseparerad lista</span>]]></value>
+		<value><![CDATA[Innehållstaggar:<br /><span class="help">kommaseparerad lista</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_author</key>
 		<value><![CDATA[Författare:]]></value>
 	</definition>
 	<definition>
+		<key>error_permission</key>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra innehållet!]]></value>
+	</definition>
+	<definition>
+		<key>error_title</key>
+		<value><![CDATA[Innehållstitel måste vara mellan 2 och 255 tecken!]]></value>
+	</definition>
+	<definition>
 		<key>error_title_html</key>
 		<value><![CDATA[Innehållstitel får inte innehålla HTML-taggar!]]></value>
 	</definition>
 	<definition>
+		<key>error_description</key>
+		<value><![CDATA[Beskrivningen måste innehålla fler än 1 tecken!]]></value>
+	</definition>
+	<definition>
 		<key>error_description_html</key>
-		<value><![CDATA[Innehållsbeskrivning HTML-taggar stöds inte!]]></value>
+		<value><![CDATA[HTML-taggar stöds inte i innehållsbeskrivningen!]]></value>
+	</definition>
+	<definition>
+		<key>error_content</key>
+		<value><![CDATA[Innehållet måste vara mer än 1 tecken!]]></value>
+	</definition>
+	<definition>
+		<key>error_seo_url</key>
+		<value><![CDATA[SEO-URL måste innehålla mer än 1 tecken!]]></value>
+	</definition>
+	<definition>
+		<key>error_account</key>
+		<value><![CDATA[Varning: Detta innehåll kan inte raderas eftersom det för närvarande är tilldelat som butikskontots standardvillkor!]]></value>
+	</definition>
+	<definition>
+		<key>error_checkout</key>
+		<value><![CDATA[Varning: Det här innehållet kan inte tas bort eftersom det för närvarande är tilldelat som standardvillkor för butikskassan!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete_parent</key>
-		<value><![CDATA[
- Varning: Förälders innehåll kan inte raderas! Flytta eller ta bort underordnade innehållssidor först.]]></value>
+		<value><![CDATA[Varning: Föräldrainnehåll kan inte raderas! Flytta eller radera underordnade innehållssidor först.]]></value>
+	</definition>
+	<definition>
+		<key>error_required_data</key>
+		<value><![CDATA[Obligatoriska uppgifter har inte fyllts i. Kontrollera fältfel!]]></value>
+	</definition>
+	<definition>
+		<key>text_top_level</key>
+		<value><![CDATA[Toppnivå]]></value>
+	</definition>
+	<definition>
+		<key>text_any</key>
+		<value><![CDATA[någon]]></value>
+	</definition>
+	<definition>
+		<key>tab_form</key>
+		<value><![CDATA[Redigera]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[ Metataggbeskrivning: ]]></value>
+		<value><![CDATA[Meta-taggbeskrivning:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Metatagg-sökord:]]></value>
+		<value><![CDATA[Meta-tagg nyckelord:]]></value>
 	</definition>
 	<definition>
 		<key>text_clone</key>
-		<value><![CDATA[Klona]]></value>
+		<value><![CDATA[Klon]]></value>
 	</definition>
 	<definition>
 		<key>text_success_copy</key>
-		<value><![CDATA[Framgång: Du har lyckats kopiera innehållssidan <b>%s</b> !]]></value>
+		<value><![CDATA[Framgång: Du har framgångsrikt kopierat innehållssidan <b>%s</b>!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_copy_layout</key>
-		<value><![CDATA[ Obs! Innehållssidans layout har också klonats.]]></value>
+		<value><![CDATA[Notera: Layouten för innehållssidan har också klonats.]]></value>
 	</definition>
 	<definition>
 		<key>text_error_copy</key>
-		<value><![CDATA[Kloning har misslyckats! Originalinnehållssidan är inte tillgänglig]]></value>
+		<value><![CDATA[Kloningen har misslyckats! Den ursprungliga innehållssidan är inte tillgänglig]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Odhlášení účet]]></value>
+		<value><![CDATA[Odhlášení z účtu]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Byli jste ze svého účtu. Nyní je bezpečné nechat počítač. </p><p> Váš nákupní košík byl uložen, položky v něm bude obnoven kdykoli znovu přihlásit ke svému účtu. </p>]]></value>
+		<value><![CDATA[<p>Byli jste odhlášeni ze svého účtu. Nyní je bezpečné opustit počítač.</p>
+<p>Váš nákupní košík byl uložen, položky v něm budou obnoveny, kdykoli se znovu přihlásíte ke svému účtu.</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_product</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Producent ikke fundet!]]></value>
+		<value><![CDATA[Mærke ikke fundet!]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Der er ikke nogen produkter fra denne producent.]]></value>
+		<value><![CDATA[Der er ingen produkter at liste fra dette mærke.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Ud af 5 stjerner!]]></value>
+		<value><![CDATA[%s ud af 5 stjerner!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -34,18 +34,18 @@
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Pris Lav &gt; Høj]]></value>
+		<value><![CDATA[Pris Lav > Høj]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Pris høj &gt; Lav]]></value>
+		<value><![CDATA[Pris Høj > Lav]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Bedømmelse Laveste]]></value>
+		<value><![CDATA[Laveste vurdering]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Bedømmelse Højeste]]></value>
+		<value><![CDATA[Højeste bedømmelse]]></value>
 	</definition>
 </definitions>

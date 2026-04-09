@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_send_email</key>
-		<value><![CDATA[שלח מייל]]></value>
+		<value><![CDATA[שלח דוא"ל]]></value>
 	</definition>
 	<definition>
 		<key>text_send_sms</key>
-		<value><![CDATA[שלח מסרון]]></value>
+		<value><![CDATA[שלח SMS]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -14,19 +14,19 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[בְּרִירַת מֶחדָל]]></value>
+		<value><![CDATA[ברירת מחדל]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_send</key>
-		<value><![CDATA[ללקוחות נבחרים manualy]]></value>
+		<value><![CDATA[לקוחות שנבחרו ידנית]]></value>
 	</definition>
 	<definition>
 		<key>text_all_subscribers</key>
-		<value><![CDATA[בהכל]]></value>
+		<value><![CDATA[כל המנויים]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribers_only</key>
-		<value><![CDATA[מנוי עלון רק (לא לקוחות)]]></value>
+		<value><![CDATA[רק לנמעני הניוזלטר (שאינם לקוחות)]]></value>
 	</definition>
 	<definition>
 		<key>text_customers_only</key>
@@ -34,23 +34,23 @@
 	</definition>
 	<definition>
 		<key>entry_store</key>
-		<value><![CDATA[מחנות: <span class="help">כתובת דוא&quot;ל חנות לשלוח בדוא&quot;ל. ערך מוגדר בהגדרות חנות</span>]]></value>
+		<value><![CDATA[מאת החנות:<span class="help">כתובת האימייל של החנות שממנה נשלחים המיילים. הערך מוגדר בהגדרות החנות</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_customers_who_ordered</key>
-		<value><![CDATA[ללקוחות שהורה מוצרים נבחרים]]></value>
+		<value><![CDATA[ללקוחות שהזמינו מוצרים נבחרים]]></value>
 	</definition>
 	<definition>
 		<key>entry_to</key>
-		<value><![CDATA[<span class="help">כדי: רשימת הלקוחות לקבל את ההודעה הזו. הערה: רשימות לקוחות גדולות תדרושנה זמן רב להיות מעובד עשוי לדרוש שיטות חלופיות. עיין תצורות שרת אינטרנט ודואר אלקטרוני שלך</span>]]></value>
+		<value><![CDATA[אל:<span class="help">רשימת לקוחות שיקבלו הודעה זו. שים לב: רשימות לקוחות גדולות יידרשו זמן רב לעיבוד ועשויות לדרוש שיטות אלטרנטיביות. עיין בתצורות שרת האינטרנט ושרת הדואר האלקטרוני שלך</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_customers_from_lookup</key>
-		<value><![CDATA[התחל שם הלקוח להקליד כדי לחפש ולבחור]]></value>
+		<value><![CDATA[התחל להקליד את שם הלקוח כדי לחפש ולבחור]]></value>
 	</definition>
 	<definition>
 		<key>text_products_from_lookup</key>
-		<value><![CDATA[התחל שם המוצר להקליד כדי לחפש ולבחור]]></value>
+		<value><![CDATA[התחילו להקליד את שם המוצר כדי לאתר ולבחור]]></value>
 	</definition>
 	<definition>
 		<key>entry_subject</key>
@@ -66,31 +66,31 @@
 	</definition>
 	<definition>
 		<key>error_subject</key>
-		<value><![CDATA[נושא דוא&quot;ל נדרש!]]></value>
+		<value><![CDATA[נושא הדוא"ל נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>error_message_email</key>
-		<value><![CDATA[בגוף הודעת דוא&quot;ל נדרש!]]></value>
+		<value><![CDATA[גוף הודעת האימייל נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>error_message_sms</key>
-		<value><![CDATA[בגוף הודעת SMS נדרש!]]></value>
+		<value><![CDATA[גוף הודעת ה-SMS נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>error_recipients</key>
-		<value><![CDATA[רשימת נמענים, מנויים או מוצרים שהוזמנו נדרשים!]]></value>
+		<value><![CDATA[נדרשת רשימת נמענים, מנויים או מוצרים שהוזמנו!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_sent</key>
-		<value><![CDATA[&#39;שגיאה: אין מיילים נשלחו! עיין ביומן שגיאות לפרטים. &quot;]]></value>
+		<value><![CDATA[שגיאה: לא נשלחו הודעות דוא"ל! אנא עיין ביומן השגיאות לפרטים.]]></value>
 	</definition>
 	<definition>
 		<key>text_unsubscribe</key>
-		<value><![CDATA[האימייל הזה נשלח %s, בגלל העדפות הדוא&quot;ל שלך נקבעים לקבל עלונים. לחץ <a href="%s">כאן לביטול המינוי</a> .]]></value>
+		<value><![CDATA[הדואר האלקטרוני הזה נשלח אל %s, כיוון שהעדפות הדואר האלקטרוני שלך מוגדרות לקבל ניוזלטרים. לחץ <a href="%s">כאן כדי לבטל את ההרשמה</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_total_to_be_sent</key>
-		<value><![CDATA[(סה&quot;כ להישלח: %s)]]></value>
+		<value><![CDATA[(סך הכול שישלח אל: %s )]]></value>
 	</definition>
 	<definition>
 		<key>text_select_products</key>
@@ -102,11 +102,11 @@
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[אֶלֶקטרוֹנִי]]></value>
+		<value><![CDATA[דואר אלקטרוני]]></value>
 	</definition>
 	<definition>
 		<key>text_sms</key>
-		<value><![CDATA[סמס]]></value>
+		<value><![CDATA[מסרון]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete_tasks</key>
@@ -118,7 +118,11 @@
 	</definition>
 	<definition>
 		<key>text_last_time_run</key>
-		<value><![CDATA[זמן ההפעלה אחרונה:]]></value>
+		<value><![CDATA[המועד האחרון להרצה:]]></value>
+	</definition>
+	<definition>
+		<key>text_date_added</key>
+		<value><![CDATA[נוצר:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -130,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[הוֹדָעָה:]]></value>
+		<value><![CDATA[הודעה:]]></value>
 	</definition>
 	<definition>
 		<key>text_starter_name</key>
@@ -138,27 +142,27 @@
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[איתחול]]></value>
+		<value><![CDATA[הפעל מחדש]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[לְהַסִיר]]></value>
+		<value><![CDATA[הסר]]></value>
 	</definition>
 	<definition>
 		<key>error_email_no_recipients</key>
-		<value><![CDATA[תשומת הלב! הודעה לא תישלח.]]></value>
+		<value><![CDATA[שימו לב! ההודעה לא תישלח.]]></value>
 	</definition>
 	<definition>
 		<key>error_sms_no_recipients</key>
-		<value><![CDATA[תשומת הלב! אין לקוחות עם מספרי טלפון ניידים.]]></value>
+		<value><![CDATA[שימו לב! אין לקוחות עם מספרי טלפון ניידים.]]></value>
 	</definition>
 	<definition>
 		<key>text_attention_recipients_count</key>
-		<value><![CDATA[תשומת הלב! המסר יישלחו ללקוחות %s.]]></value>
+		<value><![CDATA[שים לב! ההודעה תישלח ל-%s לקוחות.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_abort</key>
-		<value><![CDATA[המשימות קטע בהצלחה.]]></value>
+		<value><![CDATA[המשימה הופסקה בהצלחה.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_sent</key>
@@ -166,10 +170,10 @@
 	</definition>
 	<definition>
 		<key>text_task_failed</key>
-		<value><![CDATA[אירעו שגיאות במהלך תהליך משימה. עיין להיכנס לפרטים או מחדש למשימה זו.]]></value>
+		<value><![CDATA[אירעו מספר שגיאות במהלך עיבוד המשימה. אנא עיין ביומן לפרטים או אתחל מחדש את המשימה הזו.]]></value>
 	</definition>
 	<definition>
 		<key>text_sent</key>
-		<value><![CDATA[%s של %s הודעות נשלחות]]></value>
+		<value><![CDATA[%s מתוך %s הודעות נשלחו]]></value>
 	</definition>
 </definitions>

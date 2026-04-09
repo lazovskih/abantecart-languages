@@ -648,4 +648,8 @@
 		<key>entry_html_attributes</key>
 		<value><![CDATA[html-attributter: <br/><span class="help">Du kan tilføje dine brugerdefinerede html-attributter for option element. Eksempel: data-some-attribute=&quot;en eller anden værdi&quot;</span>]]></value>
 	</definition>
+	<definition>
+		<key>text_warning_empty_set</key>
+		<value><![CDATA[Vælg venligst mindst et produkt]]></value>
+	</definition>
 </definitions>

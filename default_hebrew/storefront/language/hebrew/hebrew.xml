@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>time_format</key>
-		<value><![CDATA[h:i:s א]]></value>
+		<value><![CDATA[h:i:s]]></value>
 	</definition>
 	<definition>
 		<key>time_format_short</key>
@@ -26,15 +26,15 @@
 	</definition>
 	<definition>
 		<key>decimal_point</key>
-		<value><![CDATA[.]]></value>
-	</definition>
-	<definition>
-		<key>thousand_point</key>
 		<value><![CDATA[,]]></value>
 	</definition>
 	<definition>
+		<key>thousand_point</key>
+		<value><![CDATA[.]]></value>
+	</definition>
+	<definition>
 		<key>text_home</key>
-		<value><![CDATA[בית]]></value>
+		<value><![CDATA[דף הבית]]></value>
 	</definition>
 	<definition>
 		<key>text_yes</key>
@@ -46,11 +46,11 @@
 	</definition>
 	<definition>
 		<key>text_none</key>
-		<value><![CDATA[--- אף אחד ---]]></value>
+		<value><![CDATA[--- ללא ---]]></value>
 	</definition>
 	<definition>
 		<key>text_select</key>
-		<value><![CDATA[--- בבקשה תבחר ---]]></value>
+		<value><![CDATA[--- נא לבחור ---]]></value>
 	</definition>
 	<definition>
 		<key>text_all_zones</key>
@@ -58,19 +58,19 @@
 	</definition>
 	<definition>
 		<key>text_pagination</key>
-		<value><![CDATA[{start} - {end} מתוך {total}]]></value>
+		<value><![CDATA[{start} - {end} of {total}]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
-		<value><![CDATA[לעמוד]]></value>
+		<value><![CDATA[לכל עמוד]]></value>
 	</definition>
 	<definition>
 		<key>text_separator</key>
-		<value><![CDATA[&gt;]]></value>
+		<value><![CDATA[>]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[לְהַמשִׁיך]]></value>
+		<value><![CDATA[המשך]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
@@ -82,15 +82,15 @@
 	</definition>
 	<definition>
 		<key>button_add_wishlist</key>
-		<value><![CDATA[רשימת המשאלות שלי]]></value>
+		<value><![CDATA[הוסף לרשימת המשאלות]]></value>
 	</definition>
 	<definition>
 		<key>button_remove_wishlist</key>
-		<value><![CDATA[הסרה מרשימת המשאלות]]></value>
+		<value><![CDATA[הסר מרשימת המשאלות]]></value>
 	</definition>
 	<definition>
 		<key>text_wishlist_add_success</key>
-		<value><![CDATA[נוסף לרשימה]]></value>
+		<value><![CDATA[נוסף לרשימת המשאלות]]></value>
 	</definition>
 	<definition>
 		<key>text_wishlist_remove_success</key>
@@ -106,15 +106,15 @@
 	</definition>
 	<definition>
 		<key>button_change_address</key>
-		<value><![CDATA[שינוי כתובת]]></value>
+		<value><![CDATA[שנה כתובת]]></value>
 	</definition>
 	<definition>
 		<key>button_edit</key>
-		<value><![CDATA[לַעֲרוֹך]]></value>
+		<value><![CDATA[ערוך]]></value>
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[לִמְחוֹק]]></value>
+		<value><![CDATA[מחק]]></value>
 	</definition>
 	<definition>
 		<key>button_reviews</key>
@@ -122,7 +122,7 @@
 	</definition>
 	<definition>
 		<key>button_write</key>
-		<value><![CDATA[כתוב סקירה]]></value>
+		<value><![CDATA[כתוב ביקורת]]></value>
 	</definition>
 	<definition>
 		<key>button_login</key>
@@ -134,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>button_wish</key>
-		<value><![CDATA[בַּקָשָׁה]]></value>
+		<value><![CDATA[משאלה]]></value>
 	</definition>
 	<definition>
 		<key>button_print</key>
@@ -142,27 +142,27 @@
 	</definition>
 	<definition>
 		<key>button_shopping</key>
-		<value><![CDATA[המשך בקניות]]></value>
+		<value><![CDATA[המשך קניות]]></value>
 	</definition>
 	<definition>
 		<key>button_checkout</key>
-		<value><![CDATA[לבדוק]]></value>
+		<value><![CDATA[קופה]]></value>
 	</definition>
 	<definition>
 		<key>button_confirm</key>
-		<value><![CDATA[אשר הזמנה]]></value>
+		<value><![CDATA[אשר את ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>button_view</key>
-		<value><![CDATA[נוף]]></value>
+		<value><![CDATA[הצג]]></value>
 	</definition>
 	<definition>
 		<key>button_search</key>
-		<value><![CDATA[חפש]]></value>
+		<value><![CDATA[חיפוש]]></value>
 	</definition>
 	<definition>
 		<key>button_go</key>
-		<value><![CDATA[ללכת]]></value>
+		<value><![CDATA[לך]]></value>
 	</definition>
 	<definition>
 		<key>button_coupon</key>
@@ -170,23 +170,23 @@
 	</definition>
 	<definition>
 		<key>button_guest</key>
-		<value><![CDATA[אורח Checkout]]></value>
+		<value><![CDATA[תשלום כאורח]]></value>
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_ttl</key>
-		<value><![CDATA[מתוך הודעת מניות: %s]]></value>
+		<value><![CDATA[הודעה על אזל מהמלאי עבור: %s]]></value>
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_body</key>
-		<value><![CDATA[מוצר &quot;%s&quot; הגיע אפס או ספירה מלאי שלילית עבור המוצר עיקרי או את כל האופציות. <br/> כתוצאת הגדרת autodisable, מוצר (%s) הושבה אוטומטית!]]></value>
+		<value><![CDATA[מוצר "%s" הגיע למלאי אפס או ערך שלילי עבור המוצר הראשי או כל האפשרויות. <br> בעקבות הגדרת השבתה אוטומטית, המוצר (%s) הושבת אוטומטית!<br> לפרטים נוספים בקרו ב-%s]]></value>
 	</definition>
 	<definition>
 		<key>no_payment_required</key>
-		<value><![CDATA[לא נדרש תשלום]]></value>
+		<value><![CDATA[ללא תשלום]]></value>
 	</definition>
 	<definition>
 		<key>gen_data_entry_error</key>
-		<value><![CDATA[אופס, יש שגיאה עם המידע הנמסר!]]></value>
+		<value><![CDATA[אופס, יש שגיאה במידע שסופק!]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_asc</key>
@@ -198,11 +198,11 @@
 	</definition>
 	<definition>
 		<key>text_sorting_price_asc</key>
-		<value><![CDATA[מחיר נמוך &gt; גָבוֹהַ]]></value>
+		<value><![CDATA[מחיר נמוך > גבוה]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_price_desc</key>
-		<value><![CDATA[מחיר מהגבוה &gt; נָמוּך]]></value>
+		<value><![CDATA[מחיר גבוה > נמוך]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_rating_asc</key>
@@ -214,19 +214,19 @@
 	</definition>
 	<definition>
 		<key>text_sorting_date_asc</key>
-		<value><![CDATA[תאריך ישן &gt; חָדָשׁ]]></value>
+		<value><![CDATA[תאריך ישן > חדש]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_desc</key>
-		<value><![CDATA[תאריך חדש &gt; ישן]]></value>
+		<value><![CDATA[תאריך חדש > ישן]]></value>
 	</definition>
 	<definition>
 		<key>text_add_cart_confirm</key>
-		<value><![CDATA[הוספה לעגלה]]></value>
+		<value><![CDATA[נוסף לעגלה]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[לִסְגוֹר]]></value>
+		<value><![CDATA[סגור]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
@@ -238,11 +238,11 @@
 	</definition>
 	<definition>
 		<key>button_pay_with_balance</key>
-		<value><![CDATA[שלם עם מאזן]]></value>
+		<value><![CDATA[שלם עם היתרה]]></value>
 	</definition>
 	<definition>
 		<key>button_apply_balance</key>
-		<value><![CDATA[החל לפי הזמנה]]></value>
+		<value><![CDATA[החל על ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>button_disapply_balance</key>
@@ -250,15 +250,19 @@
 	</definition>
 	<definition>
 		<key>text_applied_balance</key>
-		<value><![CDATA[הוחל על הזמנה]]></value>
+		<value><![CDATA[הוחל על ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_applied_balance_to_order</key>
-		<value><![CDATA[%s המשמש כדי #%s]]></value>
+		<value><![CDATA[%s שימש עבור הזמנה #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_maintenance_notice</key>
-		<value><![CDATA[שים לב: מצב תחזוקה מופעל.]]></value>
+		<value><![CDATA[הודעה: מצב תחזוקה פעיל.]]></value>
+	</definition>
+	<definition>
+		<key>text_act_on_behalf</key>
+		<value><![CDATA[הודעה: מצב התחזות ללקוח "%s" על ידי "%s]]></value>
 	</definition>
 	<definition>
 		<key>text_browse</key>
@@ -266,11 +270,11 @@
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[לְבַטֵל]]></value>
+		<value><![CDATA[ביטול]]></value>
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[אִתחוּל]]></value>
+		<value><![CDATA[איפוס]]></value>
 	</definition>
 	<definition>
 		<key>button_submit</key>
@@ -278,7 +282,7 @@
 	</definition>
 	<definition>
 		<key>button_save</key>
-		<value><![CDATA[להציל]]></value>
+		<value><![CDATA[שמור]]></value>
 	</definition>
 	<definition>
 		<key>text_field_required</key>
@@ -286,15 +290,15 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[אימות אנושית נכשלה! בבקשה נסה שוב.]]></value>
+		<value><![CDATA[אימות אנושי נכשל! אנא נסה שוב.]]></value>
 	</definition>
 	<definition>
 		<key>entry_attached</key>
-		<value><![CDATA[מְצוֹרָף]]></value>
+		<value><![CDATA[מצורף]]></value>
 	</definition>
 	<definition>
 		<key>text_call_to_order</key>
-		<value><![CDATA[התקשר להזמין]]></value>
+		<value><![CDATA[להתקשר להזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_discount</key>
@@ -306,7 +310,7 @@
 	</definition>
 	<definition>
 		<key>text_free</key>
-		<value><![CDATA[חופשי]]></value>
+		<value><![CDATA[חינם]]></value>
 	</definition>
 	<definition>
 		<key>text_free_shipping</key>
@@ -314,7 +318,7 @@
 	</definition>
 	<definition>
 		<key>price_with_tax</key>
-		<value><![CDATA[Inc מס]]></value>
+		<value><![CDATA[כולל מס]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
@@ -322,7 +326,7 @@
 	</definition>
 	<definition>
 		<key>error_unknown</key>
-		<value><![CDATA[שגיאה בלתי מוכרת. בבקשה נסה שוב!]]></value>
+		<value><![CDATA[אירעה שגיאה לא ידועה. אנא נסה שוב!]]></value>
 	</definition>
 	<definition>
 		<key>text_click_browse_file</key>
@@ -330,11 +334,7 @@
 	</definition>
 	<definition>
 		<key>text_back_on_top</key>
-		<value><![CDATA[חזרה למעלה]]></value>
-	</definition>
-	<definition>
-		<key>text_act_on_behalf</key>
-		<value><![CDATA[שים לב: התחזות למצב עבור הלקוח &quot;%s&quot; על ידי &quot;%s&quot;]]></value>
+		<value><![CDATA[חזור למעלה]]></value>
 	</definition>
 	<definition>
 		<key>text_out_of_stock</key>
@@ -342,26 +342,34 @@
 	</definition>
 	<definition>
 		<key>text_badge_sale</key>
-		<value><![CDATA[מְכִירָה]]></value>
+		<value><![CDATA[מבצע]]></value>
 	</definition>
 	<definition>
 		<key>text_pagination_pages_info</key>
-		<value><![CDATA[מציג {start} to {end} of {total} ({pages} דפים)]]></value>
+		<value><![CDATA[מציג {start} to {end} of {total} ({pages} עמודים)]]></value>
 	</definition>
 	<definition>
 		<key>text_first</key>
-		<value><![CDATA[רֵאשִׁית]]></value>
+		<value><![CDATA[ראשון]]></value>
 	</definition>
 	<definition>
 		<key>text_last</key>
-		<value><![CDATA[אַחֲרוֹן]]></value>
+		<value><![CDATA[אחרון]]></value>
 	</definition>
 	<definition>
 		<key>text_next</key>
-		<value><![CDATA[הַבָּא]]></value>
+		<value><![CDATA[הבא]]></value>
 	</definition>
 	<definition>
 		<key>text_previous</key>
-		<value><![CDATA[קוֹדֵם]]></value>
+		<value><![CDATA[הקודם]]></value>
+	</definition>
+	<definition>
+		<key>warning_capslock</key>
+		<value><![CDATA[CapsLock מופעל!]]></value>
+	</definition>
+	<definition>
+		<key>text_pagination</key>
+		<value><![CDATA[{start} - {end} of {total}]]></value>
 	</definition>
 </definitions>

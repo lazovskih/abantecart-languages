@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>collection_column_date_added</key>
-		<value><![CDATA[Date d&#39;ajout]]></value>
+		<value><![CDATA[Date d’ajout]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Statut:]]></value>
+		<value><![CDATA[Statut :]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>conditions_title</key>
-		<value><![CDATA[Conditions:]]></value>
+		<value><![CDATA[Conditions :]]></value>
 	</definition>
 	<definition>
 		<key>text_if_1</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[N&#39;importe lequel]]></value>
+		<value><![CDATA[Tout]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
@@ -66,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[FAUX]]></value>
+		<value><![CDATA[Faux]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
-		<value><![CDATA[Ajouter une condition :]]></value>
+		<value><![CDATA[Ajouter une condition :]]></value>
 	</definition>
 	<definition>
 		<key>text_product_price</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>text_tags</key>
-		<value><![CDATA[Mots clés]]></value>
+		<value><![CDATA[Étiquettes]]></value>
 	</definition>
 	<definition>
 		<key>entry_categories</key>
@@ -134,19 +134,19 @@
 	</definition>
 	<definition>
 		<key>text_less</key>
-		<value><![CDATA[Moins]]></value>
+		<value><![CDATA[Plus petit]]></value>
 	</definition>
 	<definition>
 		<key>entry_brands</key>
-		<value><![CDATA[Marques :]]></value>
+		<value><![CDATA[Marques:]]></value>
 	</definition>
 	<definition>
 		<key>entry_products</key>
-		<value><![CDATA[Produits:]]></value>
+		<value><![CDATA[Produits :]]></value>
 	</definition>
 	<definition>
 		<key>entry_tags</key>
-		<value><![CDATA[Mots clés:]]></value>
+		<value><![CDATA[Balises :]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
@@ -154,7 +154,7 @@
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[-Sélectionner une balise-]]></value>
+		<value><![CDATA[-Sélectionner une étiquette-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
@@ -162,11 +162,11 @@
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Mots-clés méta :]]></value>
+		<value><![CDATA[Mots-clés méta :]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Méta description :]]></value>
+		<value><![CDATA[Méta description:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
@@ -194,10 +194,10 @@
 	</definition>
 	<definition>
 		<key>entry_collection_id</key>
-		<value><![CDATA[Sélectionnez la collection :]]></value>
+		<value><![CDATA[Sélectionnez la collection :]]></value>
 	</definition>
 	<definition>
 		<key>save_error_unique_keyword</key>
-		<value><![CDATA[Le mot clé doit être unique !]]></value>
+		<value><![CDATA[Le mot clé doit être unique !]]></value>
 	</definition>
 </definitions>

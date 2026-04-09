@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_note</key>
-		<value><![CDATA[Za dokončanje nastavitve plačila Authorize.Net so potrebne dodatne nastavitve. Oglejte si zavihek z dodatnimi nastavitvami.]]></value>
+		<value><![CDATA[Za dokončanje nastavitve plačila Authorize.Net so potrebne dodatne nastavitve. Poglejte zavihek Dodatne nastavitve.]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Spremenili ste nastavitve plačila Authorize.Net!]]></value>
+		<value><![CDATA[Uspeh: spremenili ste nastavitve plačil Authorize.Net!]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_location_id</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_api_login_id</key>
-		<value><![CDATA[API prijavni ID:]]></value>
+		<value><![CDATA[API ID za prijavo:]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_test_mode</key>
@@ -42,17 +42,15 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_autoselect</key>
-		<value><![CDATA[
- Samodejna izbira: <br/><span class="help">Nastavite lahko preskok strani za izbiro plačila, če obstaja samo ena možnost plačila. Ta način plačila bo izbran samodejno</span>]]></value>
+		<value><![CDATA[Samodejni izbor:<br /><span class="help">Lahko nastavite, da se preskoči stran z izbiro načina plačila, če je na voljo le ena možnost plačila. Ta način plačila bo izbran samodejno</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_save_cards_limit</key>
-		<value><![CDATA[
- Lahko shrani kreditne kartice: <br/><span class="help">Nastavite največje število kreditnih kartic, ki jih lahko shranijo stranke (do 100). Če je nastavljeno na 0 ali prazno, shranjevanje kartic ne bo dovoljeno. Varnostna opomba: Podatki o kreditni kartici stranke so shranjeni na varnih strežnikih Authorizenet, da se zagotovi največja varnost podatkov. Na vašem spletnem mestu ne bodo shranjeni nobeni podatki o kreditni kartici.</span>]]></value>
+		<value><![CDATA[Omogoči shranjevanje kreditnih kartic:<br /><span class="help">Nastavite največje število kreditnih kartic, ki jih lahko stranke shranijo (do 100). Če je nastavljeno na 0 ali je polje prazno, shranjevanje kartic ne bo dovoljeno. Varnostna opomba: Podatki o kreditnih karticah strank so shranjeni na varnih strežnikih authorizenet, da se zagotovi najvišja raven varnosti podatkov. Nobeni podatki o kreditnih karticah ne bodo shranjeni na vaši spletni strani.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_authorizenet_connect</key>
-		<value><![CDATA[Za nastavitev podrobnosti plačila se morate povezati z Authorizenet]]></value>
+		<value><![CDATA[Morate se povezati z authorizenet, da nastavite podrobnosti plačila.]]></value>
 	</definition>
 	<definition>
 		<key>text_authorizenet_settings</key>
@@ -60,23 +58,23 @@
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Povežite se z Authorize.Net	]]></value>
+		<value><![CDATA[Povežite se z Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect</key>
-		<value><![CDATA[Prekinite povezavo Authorize.Net]]></value>
+		<value><![CDATA[Prekini povezavo z Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>text_skip_connect</key>
-		<value><![CDATA[Se ne morete povezati?]]></value>
+		<value><![CDATA[Ne morem vzpostaviti povezave?]]></value>
 	</definition>
 	<definition>
 		<key>text_connect_success</key>
-		<value><![CDATA[Uspešna povezava z Authorize.Net]]></value>
+		<value><![CDATA[Uspešno povezano z Authorize.Net]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect_success</key>
-		<value><![CDATA[Povezava z Authorize.Net je bila uspešno prekinjena]]></value>
+		<value><![CDATA[Povezava z Authorize.Net je bila uspešno prekinjena.]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_sort_order</key>
@@ -88,39 +86,39 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_sk_live</key>
-		<value><![CDATA[Skrivni ključ v živo: <br/><span class="help">Poiščite to v razdelku s ključi API Authorize.Net. Ključ se začne s sk_live_...</span>]]></value>
+		<value><![CDATA[Live Secret Key:<br /><span class="help">Poiščite ga v razdelku API ključev storitve Authorize.Net. Ključ se začne z sk_live_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_pk_live</key>
-		<value><![CDATA[Ključ za objavo v živo: <br/><span class="help">Poiščite to v razdelku s ključi API-ja Authorize.Net. Ključ se začne s pk_live_...</span>]]></value>
+		<value><![CDATA[Ključ za objavo v živo:<br /><span class="help">Poiščite ga v razdelku API ključev Authorize.Net. Ključ se začne s pk_live_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_sk_test</key>
-		<value><![CDATA[Testni skrivni ključ: <br/><span class="help">Poiščite to v razdelku s ključi API Authorize.Net. Ključ se začne s sk_test_...</span>]]></value>
+		<value><![CDATA[Testni skrivni ključ:<br /><span class="help">Poiščite ga v razdelku API ključev Authorize.Net. Ključ se začne z sk_test_...</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_pk_test</key>
-		<value><![CDATA[Preizkusite ključ za objavo: <br/><span class="help">Poiščite to v razdelku s ključi API-ja Authorize.Net. Ključ se začne s pk_test_...</span>]]></value>
+		<value><![CDATA[Testni ključ za objavo:<br /><span class="help">Poiščite ga v razdelku API ključev pri Authorize.Net. Ključ se začne s pk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement</key>
-		<value><![CDATA[Vrsta naselja:]]></value>
+		<value><![CDATA[Vrsta poravnave:]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_auth</key>
-		<value><![CDATA[Samo avtoriziraj]]></value>
+		<value><![CDATA[Samo odobritev]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_authcapture</key>
-		<value><![CDATA[Pooblasti in zajemi ]]></value>
+		<value><![CDATA[Avtoriziraj & zabeleži]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_status_success_settled</key>
-		<value><![CDATA[Uspešno in poravnano: <br/><span class="help">Izberite status glavnega naročila, ki ga želite nastaviti glede na status plačilnega procesorja</span>]]></value>
+		<value><![CDATA[Uspešno in poravnano:<br /><span class="help">Izberite glavni status naročila, ki ga želite nastaviti kot odziv na status procesorja plačila</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_status_success_unsettled</key>
-		<value><![CDATA[Uspešno in ni poravnano: <br/><span class="help">Izberite glavno stanje naročila, ki ga želite nastaviti glede na stanje plačilnega procesorja</span>]]></value>
+		<value><![CDATA[Uspeh & neporavnano:<br /><span class="help">Izberite glavni status naročila, ki ga želite nastaviti kot odziv na status plačilnega procesorja</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -132,11 +130,11 @@
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_auto</key>
-		<value><![CDATA[Samodejno (avtoriziraj in zajemaj)]]></value>
+		<value><![CDATA[Samodejno (avtoriziraj in zaračunaj)]]></value>
 	</definition>
 	<definition>
 		<key>default_authorizenet_settlement_delayed</key>
-		<value><![CDATA[Zakasnjen (samo avtorizacija)]]></value>
+		<value><![CDATA[Zamuda (samo avtorizacija)]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
@@ -156,7 +154,7 @@
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Stanje zneska]]></value>
+		<value><![CDATA[Znesek stanja]]></value>
 	</definition>
 	<definition>
 		<key>error_system</key>
@@ -164,18 +162,18 @@
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Vnesite pozitiven znesek]]></value>
+		<value><![CDATA[Prosimo, vnesite pozitiven znesek]]></value>
 	</definition>
 	<definition>
 		<key>error_authorizenet_sk_test</key>
-		<value><![CDATA[Potreben je testni ključ Authorize.Net]]></value>
+		<value><![CDATA[Authorize.Net testni ključ je obvezen]]></value>
 	</definition>
 	<definition>
 		<key>error_authorizenet_sk_live</key>
-		<value><![CDATA[Potreben je ključ Authorize.Net live]]></value>
+		<value><![CDATA[Authorize.Net live ključ je zahtevan.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje plačila Authorize.Net!]]></value>
+		<value><![CDATA[Opozorilo: nimate dovoljenja za spreminjanje Authorize.Net plačila!]]></value>
 	</definition>
 </definitions>

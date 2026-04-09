@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Lav Order Fee]]></value>
+		<value><![CDATA[Lav bestillingsgebyr]]></value>
 	</definition>
 	<definition>
 		<key>total_name</key>
-		<value><![CDATA[Lav Order Fee]]></value>
+		<value><![CDATA[Lav ordregebyr]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Bestill Totals]]></value>
+		<value><![CDATA[Ordresummer]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret totalt lav ordregebyr!]]></value>
+		<value><![CDATA[Suksess: Du har endret det totale lave bestillingsgebyret!]]></value>
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[Bestill Totalt:]]></value>
+		<value><![CDATA[Ordresum:]]></value>
 	</definition>
 	<definition>
 		<key>entry_fee</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>entry_tax</key>
-		<value><![CDATA[Skatt Klasse:]]></value>
+		<value><![CDATA[Skatteklasse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -38,10 +38,10 @@
 	</definition>
 	<definition>
 		<key>entry_calculation_order</key>
-		<value><![CDATA[Beregning Order:]]></value>
+		<value><![CDATA[Beregningens rekkefølge:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre total lav ordregebyr!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre total lavordreavgift!]]></value>
 	</definition>
 </definitions>

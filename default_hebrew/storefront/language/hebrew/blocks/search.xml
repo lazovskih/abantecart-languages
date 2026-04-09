@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[חפש]]></value>
+		<value><![CDATA[חיפוש]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[מילות מפתח חיפוש]]></value>
+		<value><![CDATA[מילות מפתח לחיפוש]]></value>
 	</definition>
 	<definition>
 		<key>text_advanced</key>

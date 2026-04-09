@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kategorier]]></value>
+		<value><![CDATA[Kategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Misligholde]]></value>
+		<value><![CDATA[Standard]]></value>
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[image manager]]></value>
+		<value><![CDATA[Bildebehandling]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[Oppdater Kategori]]></value>
+		<value><![CDATA[Oppdater kategori]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -42,23 +42,23 @@
 	</definition>
 	<definition>
 		<key>column_products</key>
-		<value><![CDATA[produkter teller]]></value>
+		<value><![CDATA[Antall produkter]]></value>
 	</definition>
 	<definition>
 		<key>column_subcategories</key>
-		<value><![CDATA[Underkategorier kategorier teller]]></value>
+		<value><![CDATA[Antall underkategorier]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Kategori Navn:]]></value>
+		<value><![CDATA[Kategorinavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Meta Tag Nøkkelord:]]></value>
+		<value><![CDATA[Meta-tagg nøkkelord:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Meta Tag Beskrivelse:]]></value>
+		<value><![CDATA[Meta-taggbeskrivelse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -66,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Kategori Status:]]></value>
+		<value><![CDATA[Kategoristatus:]]></value>
 	</definition>
 	<definition>
 		<key>entry_parent_category</key>
@@ -74,11 +74,11 @@
 	</definition>
 	<definition>
 		<key>entry_store</key>
-		<value><![CDATA[butikker:]]></value>
+		<value><![CDATA[Butikker:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO nøkkelord:]]></value>
+		<value><![CDATA[SEO-nøkkelord:]]></value>
 	</definition>
 	<definition>
 		<key>entry_image</key>
@@ -98,26 +98,30 @@
 	</definition>
 	<definition>
 		<key>error_required_data</key>
-		<value><![CDATA[Nødvendig Data har ikke lagt inn. Sjekk for feltfeil!]]></value>
+		<value><![CDATA[Påkrevde data er ikke angitt. Sjekk for feltfeil!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_all</key>
-		<value><![CDATA[- Alle Kategorier -]]></value>
+		<value><![CDATA[- Alle kategorier -]]></value>
+	</definition>
+	<definition>
+		<key>text_top_level</key>
+		<value><![CDATA[- Toppnivå -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_parent</key>
-		<value><![CDATA[- Velg Parent -]]></value>
+		<value><![CDATA[- Velg overordnet -]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Suksess: Du har endret kategori sideoppsettet.]]></value>
+		<value><![CDATA[Suksess: Du har endret oppsettet for kategorisiden.]]></value>
 	</definition>
 	<definition>
 		<key>tab_image</key>
 		<value><![CDATA[Bilder]]></value>
 	</definition>
 	<definition>
-		<key>text_top_level</key>
-		<value><![CDATA[- Toppnivå -]]></value>
+		<key>error_deadlock</key>
+		<value><![CDATA[Kan ikke tilordne til overordnet kategori, fordi den er en underkategori!]]></value>
 	</definition>
 </definitions>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_royal_mail_name</key>
-		<value><![CDATA[Królewska Poczta]]></value>
+		<value><![CDATA[Royal Mail]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,43 +10,43 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmodyfikowano wysyłkę Royal Mail!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowano wysyłkę Royal Mail!]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_1st_class</key>
-		<value><![CDATA[1. klasa (tylko dla Wielkiej Brytanii) <br/><span class="help">Dostawa następnego dnia dla listów i paczek</span>]]></value>
+		<value><![CDATA[1. klasa (tylko dla GB)<br/><span class="help">Dostawa następnego dnia dla listów i paczek</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_1st_class_rates</key>
-		<value><![CDATA[Stawki 1. klasy: <br/><span class="help">Przykład: .1:1,58,.25:1,96,.5:2,48 Waga:Koszt,Waga:Koszt, itd. W tym przykładzie 0,1 kg = 1,58 GBP. Gdzie KG to Twoja klasa wagowa ustawiona w ustawieniach Royal Mail, a £ to waluta bazowa sklepu. Klasa wagowa sklepu zostanie zignorowana.</span>]]></value>
+		<value><![CDATA[Stawki pierwszej klasy:<br/><span class="help">Przykład: .1:1.58,.25:1.96,.5:2.48 Waga:Koszt,Waga:Koszt, itd. W tym przykładzie 0.1kg = £1.58. Gdzie KG to Twoja klasa wagi ustawiona w ustawieniach Royal Mail, a £ to podstawowa waluta sklepu. Klasa wagi sklepu zostanie zignorowana.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_1st_class_compensation_rates</key>
-		<value><![CDATA[Stawki wynagrodzeń 1. klasy]]></value>
+		<value><![CDATA[Stawki odszkodowań klasy pierwszej]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_2nd_class</key>
-		<value><![CDATA[2. klasa (tylko dla GB)]]></value>
+		<value><![CDATA[2. klasa (tylko dla Wielkiej Brytanii)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_2nd_class_rates</key>
-		<value><![CDATA[Stawki 2 klasy]]></value>
+		<value><![CDATA[Stawki drugiej klasy]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_2nd_class_compensation_rates</key>
-		<value><![CDATA[Stawki wynagrodzeń 2. klasy]]></value>
+		<value><![CDATA[Stawki odszkodowań II klasy]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked24</key>
-		<value><![CDATA[Śledzony 24® (tylko dla Wielkiej Brytanii)]]></value>
+		<value><![CDATA[Tracked 24® (tylko dla GB)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked24_rates</key>
-		<value><![CDATA[Śledzone stawki 24®]]></value>
+		<value><![CDATA[Stawki Tracked 24®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked24_compensation_rates</key>
-		<value><![CDATA[Śledzone stawki wynagrodzeń 24®]]></value>
+		<value><![CDATA[Stawki wynagrodzeń Tracked 24®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked48</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked48_rates</key>
-		<value><![CDATA[Śledzone stawki 48®]]></value>
+		<value><![CDATA[Stawki Tracked 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked48_compensation_rates</key>
-		<value><![CDATA[Śledzone stawki wynagrodzeń 48®]]></value>
+		<value><![CDATA[Stawki kompensacyjne Tracked 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail24</key>
@@ -66,27 +66,27 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail24_rates</key>
-		<value><![CDATA[Stawki Poczty 24®]]></value>
+		<value><![CDATA[Stawki Mail 24®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail24_compensation_rates</key>
-		<value><![CDATA[Stawki wynagrodzeń Mail 24®]]></value>
+		<value><![CDATA[Mail 24® Stawki kompensacyjne]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail48</key>
-		<value><![CDATA[Mail 48® (tylko dla Wielkiej Brytanii)]]></value>
+		<value><![CDATA[Mail 48® (tylko dla GB)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail48_rates</key>
-		<value><![CDATA[Stawki pocztowe 48®]]></value>
+		<value><![CDATA[Stawki Mail 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail48_compensation_rates</key>
-		<value><![CDATA[Stawki wynagrodzeń Mail 48®]]></value>
+		<value><![CDATA[Stawki rekompensat Mail 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_sameday</key>
-		<value><![CDATA[Sameday® (tylko dla Wielkiej Brytanii)]]></value>
+		<value><![CDATA[Sameday® (tylko dla GB)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_sameday_rates</key>
@@ -94,35 +94,35 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_sameday_compensation_rates</key>
-		<value><![CDATA[Stawki wynagrodzeń Sameday®]]></value>
+		<value><![CDATA[Stawki rekompensat Sameday®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_special_delivery_guaranteed</key>
-		<value><![CDATA[Gwarancja Specjalnej Dostawy® (tylko dla Wielkiej Brytanii)]]></value>
+		<value><![CDATA[Specjalna dostawa gwarantowana® (tylko dla Wielkiej Brytanii)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_special_delivery_guaranteed_rates</key>
-		<value><![CDATA[Stawki Special Delivery Guaranteed®]]></value>
+		<value><![CDATA[Stawki Specjalnej Dostawy Gwarantowanej®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_special_delivery_guaranteed_compensation_rates</key>
-		<value><![CDATA[Stawki rekompensaty za gwarantowaną dostawę specjalną®]]></value>
+		<value><![CDATA[Stawki odszkodowania Special Delivery Guaranteed®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb</key>
-		<value><![CDATA[Metoda wysyłki dla darmowej wysyłki (tylko GB) <span class="help">Wybierz metodę, która zostanie wybrana w przypadku, gdy w koszyku znajdują się wyłącznie produkty z darmową wysyłką</span>]]></value>
+		<value><![CDATA[Metoda wysyłki dla darmowej wysyłki (tylko Wielka Brytania)<span class="help">Wybierz metodę, która zostanie wybrana, gdy koszyk zawiera tylko produkty z darmową wysyłką</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_1st_class</key>
-		<value><![CDATA[1 klasa]]></value>
+		<value><![CDATA[Pierwsza klasa]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_2nd_class</key>
-		<value><![CDATA[2 klasa]]></value>
+		<value><![CDATA[Druga klasa]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_tracked24</key>
-		<value><![CDATA[Śledzony 24®]]></value>
+		<value><![CDATA[Tracked 24®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_tracked48</key>
@@ -138,63 +138,63 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_sameday</key>
-		<value><![CDATA[Tego samego dnia®]]></value>
+		<value><![CDATA[Sameday®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_special_delivery_guaranteed</key>
-		<value><![CDATA[Gwarancja Specjalnej Dostawy®]]></value>
+		<value><![CDATA[Specjalna dostawa z gwarancją®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_europe_zone_1</key>
-		<value><![CDATA[Międzynarodowe ceny Strefa Europy 1]]></value>
+		<value><![CDATA[Międzynarodowe ceny Europa strefa 1]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_europe_zone_2</key>
-		<value><![CDATA[Międzynarodowe ceny Strefa Europy 2]]></value>
+		<value><![CDATA[Międzynarodowe ceny – Europa strefa 2]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_europe_zone_3</key>
-		<value><![CDATA[Międzynarodowe ceny Strefa Europy 3]]></value>
+		<value><![CDATA[Cennik międzynarodowy – strefa 3 Europy]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_world_zone_1</key>
-		<value><![CDATA[Międzynarodowe ceny Strefa światowa 1]]></value>
+		<value><![CDATA[Ustalanie cen międzynarodowych Strefa światowa 1]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_world_zone_2</key>
-		<value><![CDATA[Międzynarodowe ceny Strefa światowa 2]]></value>
+		<value><![CDATA[Cennik Międzynarodowy Światowa Strefa 2]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_world_zone_3</key>
-		<value><![CDATA[Międzynarodowe ceny Strefa światowa 3]]></value>
+		<value><![CDATA[Międzynarodowy Cennik Strefa Świata 3]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_1</key>
-		<value><![CDATA[Międzynarodowa Standardowa Ekonomia (Strefa Europejska 1)]]></value>
+		<value><![CDATA[Międzynarodowy standard ekonomiczny (Strefa 1 – Europa)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_1_rates</key>
-		<value><![CDATA[Standardowe stawki ekonomiczne (strefa europejska 1)]]></value>
+		<value><![CDATA[Standardowe stawki ekonomiczne (Strefa 1 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_2</key>
-		<value><![CDATA[Międzynarodowa Standardowa Ekonomia (Strefa Europejska 2)]]></value>
+		<value><![CDATA[Międzynarodowy Standard Ekonomiczny (Europa Strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_2_rates</key>
-		<value><![CDATA[Standardowe stawki ekonomiczne (strefa europejska 2)]]></value>
+		<value><![CDATA[Standardowe stawki ekonomiczne (Europa Strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_3</key>
-		<value><![CDATA[Międzynarodowa Standardowa Ekonomia (Strefa Europejska 3)]]></value>
+		<value><![CDATA[Międzynarodowy standard ekonomiczny (Strefa Europa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_3_rates</key>
-		<value><![CDATA[Standardowe stawki ekonomiczne (strefa europejska 3)]]></value>
+		<value><![CDATA[Standardowe stawki ekonomiczne (Strefa 3 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_1</key>
-		<value><![CDATA[Międzynarodowa Standardowa Ekonomia (Strefa Światowa 1)]]></value>
+		<value><![CDATA[Międzynarodowy Standard Ekonomiczny (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_1_rates</key>
@@ -202,47 +202,47 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_2</key>
-		<value><![CDATA[Międzynarodowa Standardowa Ekonomia (Strefa Światowa 2)]]></value>
+		<value><![CDATA[Międzynarodowa ekonomiczna przesyłka standardowa (Strefa świata 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_2_rates</key>
-		<value><![CDATA[Standardowe stawki ekonomiczne (Strefa światowa 2)]]></value>
+		<value><![CDATA[Standardowe stawki ekonomiczne (Światowa strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_3</key>
-		<value><![CDATA[Międzynarodowa Standardowa Ekonomia (Strefa Światowa 3)]]></value>
+		<value><![CDATA[Międzynarodowa ekonomiczna przesyłka standardowa (Strefa świata 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_3_rates</key>
-		<value><![CDATA[Standardowe stawki ekonomiczne (Strefa światowa 3)]]></value>
+		<value><![CDATA[Standardowe stawki ekonomiczne (Światowa Strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_1</key>
-		<value><![CDATA[Międzynarodowy standard priorytetowy (strefa europejska 1)]]></value>
+		<value><![CDATA[Międzynarodowy priorytet standardowy (Strefa Europy 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_1_rates</key>
-		<value><![CDATA[Standardowe stawki priorytetowe (strefa europejska 1)]]></value>
+		<value><![CDATA[Standardowe stawki priorytetowe (Strefa 1 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_2</key>
-		<value><![CDATA[Międzynarodowy standard priorytetowy (strefa europejska 2)]]></value>
+		<value><![CDATA[Międzynarodowy standard priorytetowy (Europa strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_2_rates</key>
-		<value><![CDATA[Standardowe stawki priorytetowe (strefa europejska 2)]]></value>
+		<value><![CDATA[Standardowe stawki priorytetowe (Strefa 2 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_3</key>
-		<value><![CDATA[Międzynarodowy standard priorytetowy (strefa europejska 3)]]></value>
+		<value><![CDATA[Międzynarodowy Priorytet Standardowy (Europa, strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_3_rates</key>
-		<value><![CDATA[Standardowe stawki priorytetowe (strefa europejska 3)]]></value>
+		<value><![CDATA[Standardowe stawki priorytetowe (Europa strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_1</key>
-		<value><![CDATA[Międzynarodowy standard priorytetowy (strefa światowa 1)]]></value>
+		<value><![CDATA[Międzynarodowy Standard Priorytetowy (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_1_rates</key>
@@ -250,7 +250,7 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_2</key>
-		<value><![CDATA[Międzynarodowy standard priorytetowy (strefa światowa 2)]]></value>
+		<value><![CDATA[Międzynarodowy priorytet standardowy (Strefa Światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_2_rates</key>
@@ -258,135 +258,135 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_3</key>
-		<value><![CDATA[Międzynarodowy standard priorytetowy (strefa światowa 3)]]></value>
+		<value><![CDATA[Międzynarodowy priorytet standardowy (Strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_3_rates</key>
-		<value><![CDATA[Standardowe stawki priorytetowe (Strefa światowa 3)]]></value>
+		<value><![CDATA[Standardowe stawki priorytetowe (Strefa Światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_1</key>
-		<value><![CDATA[Międzynarodowy podpisany (Strefa Europa 1)]]></value>
+		<value><![CDATA[Przesyłka międzynarodowa polecona (Europa strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_1_rates</key>
-		<value><![CDATA[Podpisane stawki (Strefa Europy 1)]]></value>
+		<value><![CDATA[Stawki z potwierdzeniem (Strefa Europy 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_2</key>
-		<value><![CDATA[Międzynarodowy podpisany (Strefa Europa 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka z potwierdzeniem odbioru (Europa Strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_2_rates</key>
-		<value><![CDATA[Podpisane stawki (Strefa Europa 2)]]></value>
+		<value><![CDATA[Stawki z potwierdzeniem odbioru (Europa Strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_3</key>
-		<value><![CDATA[Międzynarodowy podpisany (Strefa Europa 3)]]></value>
+		<value><![CDATA[Przesyłka międzynarodowa z potwierdzeniem odbioru (Strefa Europa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_3_rates</key>
-		<value><![CDATA[Podpisane stawki (Strefa Europy 3)]]></value>
+		<value><![CDATA[Podpisane stawki (Strefa 3 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_1</key>
-		<value><![CDATA[Międzynarodowy podpisany (Strefa światowa 1)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka polecona za potwierdzeniem odbioru (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_1_rates</key>
-		<value><![CDATA[Podpisane stawki (Strefa światowa 1)]]></value>
+		<value><![CDATA[Stawki z potwierdzeniem odbioru (Światowa strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_2</key>
-		<value><![CDATA[Międzynarodowy podpisany (Strefa światowa 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka polecona (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_2_rates</key>
-		<value><![CDATA[Podpisane stawki (Strefa światowa 2)]]></value>
+		<value><![CDATA[Stawki z potwierdzeniem odbioru (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_3</key>
-		<value><![CDATA[Międzynarodowy podpisany (Strefa światowa 3)]]></value>
+		<value><![CDATA[Przesyłka międzynarodowa z potwierdzeniem odbioru (Strefa Światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_3_rates</key>
-		<value><![CDATA[Podpisane stawki (Strefa światowa 3)]]></value>
+		<value><![CDATA[Stawki z potwierdzeniem odbioru (Strefa świata 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_1</key>
-		<value><![CDATA[Międzynarodowy śledzony i podpisany (Strefa Europa 1)]]></value>
+		<value><![CDATA[Międzynarodowy śledzony z potwierdzeniem odbioru (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_1_rates</key>
-		<value><![CDATA[Śledzone stawki podpisane (Strefa Europa 1)]]></value>
+		<value><![CDATA[Stawki przesyłek śledzonych z potwierdzeniem odbioru (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_2</key>
-		<value><![CDATA[Międzynarodowy śledzony i podpisany (Strefa Europa 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka śledzona z potwierdzeniem odbioru (Strefa Europa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_2_rates</key>
-		<value><![CDATA[Śledzone stawki podpisane (Strefa Europa 2)]]></value>
+		<value><![CDATA[Stawki przesyłek rejestrowanych z potwierdzeniem odbioru (Strefa 2 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_3</key>
-		<value><![CDATA[Międzynarodowy śledzony i podpisany (Europa Strefa 3)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka z numerem śledzenia i potwierdzeniem odbioru (Strefa 3 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_3_rates</key>
-		<value><![CDATA[Śledzone stawki podpisane (Strefa Europy 3)]]></value>
+		<value><![CDATA[Stawki przesyłek rejestrowanych z potwierdzeniem odbioru (Strefa 3 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_1</key>
-		<value><![CDATA[Międzynarodowy śledzony i podpisany (Strefa światowa 1)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka śledzona z potwierdzeniem odbioru (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_1_rates</key>
-		<value><![CDATA[Śledzone stawki podpisane (Strefa światowa 1)]]></value>
+		<value><![CDATA[Stawki przesyłek śledzonych z potwierdzeniem odbioru (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_2</key>
-		<value><![CDATA[Międzynarodowy śledzony i podpisany (Strefa światowa 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka śledzona z potwierdzeniem odbioru (Strefa Światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_2_rates</key>
-		<value><![CDATA[Śledzone stawki podpisane (Strefa światowa 2)]]></value>
+		<value><![CDATA[Śledzone stawki z potwierdzeniem doręczenia (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_3</key>
-		<value><![CDATA[Międzynarodowy śledzony i podpisany (Strefa światowa 3)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka rejestrowana z potwierdzeniem odbioru (Strefa 3 światowa)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_3_rates</key>
-		<value><![CDATA[Śledzone stawki podpisane (Strefa światowa 3)]]></value>
+		<value><![CDATA[Stawki przesyłek ze śledzeniem i potwierdzeniem odbioru (Strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_1</key>
-		<value><![CDATA[Międzynarodowy śledzony (Strefa Europa 1)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka śledzona (Europa, strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_1_rates</key>
-		<value><![CDATA[Stawki śledzone (strefa 1 Europy)]]></value>
+		<value><![CDATA[Śledzone stawki (Europa, strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_2</key>
-		<value><![CDATA[Śledzenie międzynarodowe (strefa europejska 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka rejestrowana (Europa strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_2_rates</key>
-		<value><![CDATA[Stawki śledzone (strefa europejska 2)]]></value>
+		<value><![CDATA[Śledzone stawki (Strefa Europy 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_3</key>
-		<value><![CDATA[Śledzenie międzynarodowe (strefa europejska 3)]]></value>
+		<value><![CDATA[Śledzona przesyłka międzynarodowa (strefa 3 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_3_rates</key>
-		<value><![CDATA[Stawki śledzone (strefa 3 Europy)]]></value>
+		<value><![CDATA[Śledzone stawki (Europa – strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_1</key>
-		<value><![CDATA[Śledzone międzynarodowe (strefa światowa 1)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka rejestrowana (Strefa światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_1_rates</key>
@@ -394,7 +394,7 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_2</key>
-		<value><![CDATA[Śledzone międzynarodowe (strefa światowa 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka śledzona (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_2_rates</key>
@@ -402,251 +402,247 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_3</key>
-		<value><![CDATA[Śledzony międzynarodowy (strefa światowa 3)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka z śledzeniem (Strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_3_rates</key>
-		<value><![CDATA[Śledzone stawki (Strefa światowa 3)]]></value>
+		<value><![CDATA[Śledzone stawki (Strefa Światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_1</key>
-		<value><![CDATA[Międzynarodowy ciężarowy pojazd gąsienicowy (strefa europejska 1)]]></value>
+		<value><![CDATA[Międzynarodowy Śledzony Cięższy (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_1_rates</key>
-		<value><![CDATA[Śledzone wyższe stawki (strefa 1 Europy)]]></value>
+		<value><![CDATA[Śledzone stawki dla cięższych przesyłek (Strefa Europa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_2</key>
-		<value><![CDATA[Międzynarodowy ciężarowy pojazd gąsienicowy (strefa europejska 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka z śledzeniem – cięższa (Strefa 2 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_2_rates</key>
-		<value><![CDATA[Śledzone wyższe stawki (strefa europejska 2)]]></value>
+		<value><![CDATA[Śledzone stawki dla cięższych przesyłek (Strefa 2 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_3</key>
-		<value><![CDATA[Międzynarodowy ciężarowy pojazd gąsienicowy (strefa europejska 3)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka rejestrowana cięższa (Europa strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_3_rates</key>
-		<value><![CDATA[Śledzone wyższe stawki (strefa 3 Europy)]]></value>
+		<value><![CDATA[Śledzone stawki dla cięższych przesyłek (Strefa Europa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_1</key>
-		<value><![CDATA[Międzynarodowy cięższy gąsienicowy (strefa światowa 1)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka rejestrowana cięższa (Światowa strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_1_rates</key>
-		<value><![CDATA[Śledzone wyższe stawki (Strefa światowa 1)]]></value>
+		<value><![CDATA[Śledzone stawki za cięższe przesyłki (Strefa światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_2</key>
-		<value><![CDATA[Międzynarodowy cięższy gąsienicowy (strefa światowa 2)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka śledzona cięższa (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_2_rates</key>
-		<value><![CDATA[Śledzone cięższe stawki (Strefa światowa 2)]]></value>
+		<value><![CDATA[Śledzone stawki dla cięższych przesyłek (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_3</key>
-		<value><![CDATA[Międzynarodowy cięższy gąsienicowy (strefa światowa 3)]]></value>
+		<value><![CDATA[Międzynarodowa przesyłka rejestrowana cięższa (strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_3_rates</key>
-		<value><![CDATA[Śledzone wyższe stawki (Strefa światowa 3)]]></value>
+		<value><![CDATA[Śledzone stawki dla cięższych przesyłek (Strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free</key>
-		<value><![CDATA[
- Międzynarodowa metoda wysyłki z darmową wysyłką <span class="help">Wybierz metodę, która zostanie wybrana w przypadku, gdy koszyk zawiera wyłącznie produkty z darmową wysyłką</span>]]></value>
+		<value><![CDATA[Metoda wysyłki międzynarodowej dla darmowej wysyłki <span class="help">Proszę wybrać metodę, która zostanie wybrana w przypadku, gdy koszyk zawiera tylko produkty z darmową wysyłką</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_1</key>
-		<value><![CDATA[Standardowa ekonomiczna (strefa europejska 1)]]></value>
+		<value><![CDATA[Standardowa przesyłka ekonomiczna (Strefa 1 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_1</key>
-		<value><![CDATA[Standardowa ekonomiczna (strefa europejska 1)]]></value>
+		<value><![CDATA[Standard Ekonomiczny (Strefa 1 – Europa)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_2</key>
-		<value><![CDATA[Standardowa ekonomiczna (strefa europejska 2)]]></value>
+		<value><![CDATA[Standardowa ekonomiczna (Strefa Europy 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_3</key>
-		<value><![CDATA[Standardowa ekonomiczna (strefa europejska 3)]]></value>
+		<value><![CDATA[Standardowa ekonomiczna (Strefa 3 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_world_zone_1</key>
-		<value><![CDATA[Standardowa ekonomia (Strefa światowa 1)]]></value>
+		<value><![CDATA[Standard ekonomiczny (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_world_zone_2</key>
-		<value><![CDATA[Standardowa ekonomia (Strefa światowa 2)]]></value>
+		<value><![CDATA[Standardowa ekonomiczna (Strefa Światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_world_zone_3</key>
-		<value><![CDATA[Standardowa ekonomia (Strefa światowa 3)]]></value>
+		<value><![CDATA[Standardowy Ekonomiczny (Światowa Strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_1</key>
-		<value><![CDATA[Standardowy priorytet (strefa europejska 1)]]></value>
+		<value><![CDATA[Priorytet standardowy (Strefa Europa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_1</key>
-		<value><![CDATA[Standardowy priorytet (strefa europejska 1)]]></value>
+		<value><![CDATA[Priorytet Standardowy (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_2</key>
-		<value><![CDATA[Standardowy priorytet (strefa europejska 2)]]></value>
+		<value><![CDATA[Priorytet standardowy (Strefa 2 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_3</key>
-		<value><![CDATA[Standardowy priorytet (strefa europejska 3)]]></value>
+		<value><![CDATA[Priorytet standardowy (Europa strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_world_zone_1</key>
-		<value><![CDATA[Standardowy priorytet (Strefa światowa 1)]]></value>
+		<value><![CDATA[Priorytet standardowy (Światowa strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_world_zone_2</key>
-		<value><![CDATA[Standardowy priorytet (Strefa światowa 2)]]></value>
+		<value><![CDATA[Priorytet standardowy (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_world_zone_3</key>
-		<value><![CDATA[Standardowy priorytet (strefa światowa 3)]]></value>
+		<value><![CDATA[Priorytet standardowy (Strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_1</key>
-		<value><![CDATA[Podpisano (Strefa Europa 1)]]></value>
+		<value><![CDATA[Z potwierdzeniem odbioru (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_1</key>
-		<value><![CDATA[Podpisano (Strefa Europa 1)]]></value>
+		<value><![CDATA[Podpisany (Europe Zone 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_2</key>
-		<value><![CDATA[Podpisano (Strefa Europa 2)]]></value>
+		<value><![CDATA[Potwierdzenie odbioru (Europa strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_3</key>
-		<value><![CDATA[Podpisano (Strefa Europa 3)]]></value>
+		<value><![CDATA[Z potwierdzeniem odbioru (Strefa Europy 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_world_zone_1</key>
-		<value><![CDATA[Podpisano (Strefa światowa 1)]]></value>
+		<value><![CDATA[Podpisany (Strefa świata 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_world_zone_2</key>
-		<value><![CDATA[Podpisano (Strefa światowa 2)]]></value>
+		<value><![CDATA[Z potwierdzeniem odbioru (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_world_zone_3</key>
-		<value><![CDATA[Podpisano (Strefa światowa 3)]]></value>
+		<value><![CDATA[Za potwierdzeniem odbioru (Strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_1</key>
-		<value><![CDATA[Śledzony i podpisany (Strefa 1 Europy)]]></value>
+		<value><![CDATA[Śledzona ze zwrotnym potwierdzeniem odbioru (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_1</key>
-		<value><![CDATA[Śledzony i podpisany (Strefa 1 Europy)]]></value>
+		<value><![CDATA[Śledzony z potwierdzeniem odbioru (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_2</key>
-		<value><![CDATA[Śledzony i podpisany (Strefa Europa 2)]]></value>
+		<value><![CDATA[Śledzone z potwierdzeniem odbioru (Strefa 2 Europy)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_3</key>
-		<value><![CDATA[Śledzony i podpisany (Strefa Europa 3)]]></value>
+		<value><![CDATA[Śledzona z potwierdzeniem odbioru (Europa Strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_world_zone_1</key>
-		<value><![CDATA[Śledzone podpisane (Strefa światowa 1)]]></value>
+		<value><![CDATA[Śledzona z potwierdzeniem odbioru (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_world_zone_2</key>
-		<value><![CDATA[Śledzony podpisany (Strefa światowa 2)]]></value>
+		<value><![CDATA[Śledzona z podpisem (Strefa Światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_world_zone_3</key>
-		<value><![CDATA[Śledzony podpisany (Strefa światowa 3)]]></value>
+		<value><![CDATA[Śledzony z potwierdzeniem odbioru (Światowa Strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_1</key>
-		<value><![CDATA[Śledzone (Strefa 1 Europy)]]></value>
+		<value><![CDATA[Śledzone (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_1</key>
-		<value><![CDATA[Śledzone (Strefa 1 Europy)]]></value>
+		<value><![CDATA[Śledzona (Strefa Europy 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_2</key>
-		<value><![CDATA[Śledzone (Strefa Europa 2)]]></value>
+		<value><![CDATA[Śledzona (Europa Strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_3</key>
-		<value><![CDATA[Śledzone (Strefa Europa 3)]]></value>
+		<value><![CDATA[Śledzone (Europa strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_world_zone_1</key>
-		<value><![CDATA[Śledzone (Strefa światowa 1)]]></value>
+		<value><![CDATA[Śledzony (Strefa Światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_world_zone_2</key>
-		<value><![CDATA[Śledzony (Strefa światowa 2)]]></value>
+		<value><![CDATA[Śledzony (Światowa strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_world_zone_3</key>
-		<value><![CDATA[Śledzony (Strefa światowa 3)]]></value>
+		<value><![CDATA[Śledzony (Światowa strefa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_1</key>
-		<value><![CDATA[Cięższy gąsienicowy (strefa 1 Europy)]]></value>
+		<value><![CDATA[Cięższa przesyłka śledzona (Strefa Europa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_1</key>
-		<value><![CDATA[Cięższy gąsienicowy (strefa 1 Europy)]]></value>
+		<value><![CDATA[Cięższa Przesyłka Rejestrowana (Europa Strefa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_2</key>
-		<value><![CDATA[Cięższy gąsienicowy (strefa europejska 2)]]></value>
+		<value><![CDATA[Cięższa przesyłka śledzona (Europa Strefa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_3</key>
-		<value><![CDATA[Cięższy gąsienicowy (strefa europejska 3)]]></value>
+		<value><![CDATA[Cięższa przesyłka rejestrowana (Strefa 3, Europa)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_world_zone_1</key>
-		<value><![CDATA[Cięższy gąsienicowy (Strefa światowa 1)]]></value>
+		<value><![CDATA[Śledzony cięższy (Strefa światowa 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_world_zone_2</key>
-		<value><![CDATA[Cięższy gąsienicowy (Strefa światowa 2)]]></value>
+		<value><![CDATA[Śledzone cięższe (Strefa światowa 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_world_zone_3</key>
-		<value><![CDATA[Cięższy gąsienicowy (Strefa światowa 3)]]></value>
+		<value><![CDATA[Cięższa przesyłka ze śledzeniem (Strefa światowa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_display_weight</key>
-		<value><![CDATA[
- Wyświetl wagę przesyłki: <br/><span class="help">Czy chcesz wyświetlić wagę przesyłki? (np. Waga przesyłki: 2,7674 kg)</span>]]></value>
+		<value><![CDATA[Wyświetl wagę dostawy:<br /><span class="help">Czy chcesz wyświetlić wagę wysyłki? (np. Waga dostawy : 2.7674 Kg's)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_display_insurance</key>
-		<value><![CDATA[
- Wyświetl ubezpieczenie: <br/><span class="help">Czy chcesz wyświetlić ubezpieczenie przesyłki? (np. Ubezpieczone do &pound; 500)</span>]]></value>
+		<value><![CDATA[Wyświetl ubezpieczenie:<br /><span class="help">Czy chcesz wyświetlić ubezpieczenie przesyłki? (np. Ubezpieczone do &pound;500)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_display_time</key>
-		<value><![CDATA[
- Wyświetl czas dostawy: <br/><span class="help">Czy chcesz wyświetlić czas wysyłki? (np. Wysyłka w ciągu 3 do 5 dni)</span>]]></value>
+		<value><![CDATA[Pokaż czas dostawy:<br /><span class="help">Czy chcesz wyświetlić czas wysyłki? (np. Wysyłka w ciągu 3 do 5 dni)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_weight_class</key>
-		<value><![CDATA[Klasa wagowa: <br/><span class="help">Twoja klasa wagowa. Klasa wagowa sklepu zostanie zignorowana</span>]]></value>
+		<value><![CDATA[Klasa wagi:<br /><span class="help">Klasa wagi Twoich stawek. Klasa wagi sklepu zostanie zignorowana</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tax</key>
@@ -654,7 +650,7 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_tax_0</key>
-		<value><![CDATA[---Nic---]]></value>
+		<value><![CDATA[---Brak---]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_location_id</key>
@@ -666,6 +662,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania przesyłek Royal Mail!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania wysyłki Royal Mail!]]></value>
 	</definition>
 </definitions>

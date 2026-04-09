@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Opinie]]></value>
+		<value><![CDATA[Recenzje]]></value>
 	</definition>
 	<definition>
 		<key>text_review</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>insert_title</key>
-		<value><![CDATA[Włóż weryfikacja]]></value>
+		<value><![CDATA[Dodaj recenzję]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[aktualizacja weryfikacja]]></value>
+		<value><![CDATA[Aktualizuj recenzję]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Masz opinie zmodyfikowanych!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowałeś recenzje!]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -61,10 +61,6 @@
 		<value><![CDATA[Status:]]></value>
 	</definition>
 	<definition>
-		<key>entry_text</key>
-		<value><![CDATA[Tekst:]]></value>
-	</definition>
-	<definition>
 		<key>entry_good</key>
 		<value><![CDATA[Dobry]]></value>
 	</definition>
@@ -74,23 +70,23 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania opinie!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania recenzji!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Wymagane produkt!]]></value>
+		<value><![CDATA[Produkt wymagany!]]></value>
 	</definition>
 	<definition>
 		<key>error_author</key>
-		<value><![CDATA[Autor musi wynosić od 2 do 64 znaków!]]></value>
+		<value><![CDATA[Autor musi mieć od 2 do 64 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Tekst ocena musi wynosić między 25 a 1000 znaków!]]></value>
+		<value><![CDATA[Tekst recenzji musi mieć od 25 do 1000 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[wymagana ocena opinię!]]></value>
+		<value><![CDATA[Wymagana ocena recenzji!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -107,5 +103,39 @@
 	<definition>
 		<key>entry_verified_purchase</key>
 		<value><![CDATA[Zweryfikowany zakup:]]></value>
+	</definition>
+	<definition>
+		<key>entry_text</key>
+		<value><![CDATA[Opłata za pobranie"
+"Karta kredytowa"
+"Razem"
+"Użyj kuponu"
+"Łączna zniżka"
+"Opisy"
+"Razem"
+"Kod kuponu"
+"Kupon"
+"Rabat na zamówienie"
+"Użyj bonu podarunkowego"
+"Bon podarunkowy"
+"Bony podarunkowe"
+"Bony podarunkowe"
+"Proces zakupu"
+
+"Każdy produkt można kupić osobno lub jako zestaw produktów.
+	 To jest „Proces zakupu”."
+
+"Akceptacja Twojego zamówienia"
+"Zanim sfinalizujesz zamówienie, prosimy o zapoznanie się z podanymi informacjami potwierdzającymi zamówienie.
+	 Upewnij się, że wszystkie dane są poprawne.
+	 Jeśli wystąpią jakiekolwiek błędy, skorzystaj z funkcji „Edytuj” (poniżej), aby zmienić zamówienie."
+"Zakończ zamówienie"
+"Nieprawidłowe warunki"
+"Potwierdzenie zamówienia"
+"Prosimy użyć domyślnej stawki podatku systemu, jeśli stawka podatku Twoich produktów nie jest prawidłowo obliczana."
+"Przejdź do kasy"
+
+"Jeśli bieżąca strona nie wspiera wymuszenia HTTPS, zostanie przekierowana na stronę zabezpieczoną.
+	 Jeśli strona koszyka/kasy już działa w trybie HTTPS, strona zabezpieczona będzie używana przez cały czas.]]></value>
 	</definition>
 </definitions>

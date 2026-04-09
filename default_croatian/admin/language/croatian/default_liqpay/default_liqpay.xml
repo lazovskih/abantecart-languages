@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: izmijenili ste detalje LIQPAY računa!]]></value>
+		<value><![CDATA[Uspjeh: Promijenili ste podatke LIQPAY računa!]]></value>
 	</definition>
 	<definition>
 		<key>text_pay</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_type_pay</key>
-		<value><![CDATA[Platiti]]></value>
+		<value><![CDATA[Plati]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type_card</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_test_mode</key>
-		<value><![CDATA[Testni način rada:]]></value>
+		<value><![CDATA[Testni način:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_order_status_id</key>
@@ -62,18 +62,18 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_location_id</key>
-		<value><![CDATA[Mjesto:]]></value>
+		<value><![CDATA[Lokacija:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu plaćanja LIQPAY!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu plaćanja LIQPAY!]]></value>
 	</definition>
 	<definition>
 		<key>error_merchant</key>
-		<value><![CDATA[Potreban ID trgovca!]]></value>
+		<value><![CDATA[Potreban je ID trgovca!]]></value>
 	</definition>
 	<definition>
 		<key>error_signature</key>
-		<value><![CDATA[Potreban potpis!]]></value>
+		<value><![CDATA[Potpis je obavezan!]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Termékek A feltételeknek megfelelő]]></value>
+		<value><![CDATA[Keresési feltételeknek megfelelő termékek]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_category</key>
-		<value><![CDATA[Minden kategória]]></value>
+		<value><![CDATA[Összes kategória]]></value>
 	</definition>
 	<definition>
 		<key>text_critea</key>
-		<value><![CDATA[Keresési feltétel]]></value>
+		<value><![CDATA[Keresési feltételek]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Az 5-ből!]]></value>
+		<value><![CDATA[%s az 5 csillagból!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
-		<value><![CDATA[Sorrend:]]></value>
+		<value><![CDATA[Rendezés:]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
@@ -38,27 +38,27 @@
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Név, A - Z]]></value>
+		<value><![CDATA[Név A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Név, Z - A]]></value>
+		<value><![CDATA[Név Z - A]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Ár Alacsony &gt; Magas]]></value>
+		<value><![CDATA[Ár alacsony &gt; magas]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Ár Magas &gt; Alacsony]]></value>
+		<value><![CDATA[Ár Magas > Alacsony]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Értékelés, legrosszabb]]></value>
+		<value><![CDATA[Legalacsonyabb értékelés]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Értékelés, legjobb]]></value>
+		<value><![CDATA[Legmagasabb értékelés]]></value>
 	</definition>
 	<definition>
 		<key>entry_search</key>
@@ -66,10 +66,10 @@
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Keresés a termék leírását]]></value>
+		<value><![CDATA[Keresés a termékleírásokban]]></value>
 	</definition>
 	<definition>
 		<key>entry_model</key>
-		<value><![CDATA[Keresés termék modellek]]></value>
+		<value><![CDATA[Keresés a termékmodellben]]></value>
 	</definition>
 </definitions>

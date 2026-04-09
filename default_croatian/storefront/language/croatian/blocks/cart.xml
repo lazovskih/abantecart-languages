@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
-		<value><![CDATA[Podzbroj:]]></value>
+		<value><![CDATA[Međuzbroj:]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 proizvoda]]></value>
+		<value><![CDATA[0 stavki]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Potvrdi?]]></value>
+		<value><![CDATA[Potvrditi?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Ukloniti]]></value>
+		<value><![CDATA[Ukloni]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Provjeri]]></value>
+		<value><![CDATA[Blagajna]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>

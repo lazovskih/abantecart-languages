@@ -18,10 +18,10 @@
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechny lokace]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat dopravu zdarma!]]></value>
+		<value><![CDATA[Upozornění: Nemáte oprávnění měnit dopravu zdarma!]]></value>
 	</definition>
 </definitions>

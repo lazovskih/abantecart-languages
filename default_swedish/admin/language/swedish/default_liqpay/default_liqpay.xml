@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrat LIQPAY-kontouppgifter!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat dina LIQPAY-kontouppgifter!]]></value>
 	</definition>
 	<definition>
 		<key>text_pay</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_merchant</key>
-		<value><![CDATA[Säljar-ID:]]></value>
+		<value><![CDATA[Handlar-ID:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_signature</key>
@@ -66,14 +66,14 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra betalning LIQPAY!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra betalningsmetoden LIQPAY!]]></value>
 	</definition>
 	<definition>
 		<key>error_merchant</key>
-		<value><![CDATA[Säljar-ID krävs!]]></value>
+		<value><![CDATA[Handlar-ID krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_signature</key>
-		<value><![CDATA[Signatur krävs!]]></value>
+		<value><![CDATA[Underskrift krävs!]]></value>
 	</definition>
 </definitions>

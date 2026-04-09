@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,16 +6,14 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך בהצלחת פינת יומן השגיאות שלך!]]></value>
+		<value><![CDATA[הצלחה: ניקית בהצלחה את יומן השגיאות שלך!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_tail</key>
-		<value><![CDATA[בשל גודלו של קובץ היומן, רק 500KB של הנתונים האחרונים ניתן לראות כאן. 
- כדי להציג יומן שלם, לקבל את זה מהשרת שלך ישירות. 
- נתיב:]]></value>
+		<value><![CDATA[בשל הגודל הגדול של קובץ היומן, ניתן לצפות כאן רק ב-500Kb האחרונים של הנתונים.<br>כדי לצפות ביומן המלא, הורד אותו ישירות מהשרת שלך. נתיב:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_error</key>
-		<value><![CDATA[ הקובץ לא קיים או לא קריא! ]]></value>
+		<value><![CDATA[הקובץ לא קיים או לא ניתן לקריאה!]]></value>
 	</definition>
 </definitions>

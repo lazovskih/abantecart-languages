@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>text_review</key>
-		<value><![CDATA[Pregled]]></value>
+		<value><![CDATA[Recenzija]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
-		<value><![CDATA[Insert pregled]]></value>
+		<value><![CDATA[Unesite recenziju]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[Update pregled]]></value>
+		<value><![CDATA[Ažuriraj recenziju]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Morate modificirane mišljenja!]]></value>
+		<value><![CDATA[Uspjeh: Izmijenili ste recenzije!]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Datum dodan]]></value>
+		<value><![CDATA[Datum dodavanja]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_product</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>entry_text</key>
-		<value><![CDATA[Tekst:]]></value>
+		<value><![CDATA[Nema teksta za prevesti.]]></value>
 	</definition>
 	<definition>
 		<key>entry_good</key>
@@ -74,11 +74,11 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu mišljenja!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu recenzija!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[potreban proizvod!]]></value>
+		<value><![CDATA[Proizvod je obavezan!]]></value>
 	</definition>
 	<definition>
 		<key>error_author</key>
@@ -86,11 +86,11 @@
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Pregled Tekst mora biti između 25 i 1000 znakova!]]></value>
+		<value><![CDATA[Tekst recenzije mora biti između 25 i 1000 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Pregled ocjena obavezna!]]></value>
+		<value><![CDATA[Ocjena recenzije je obavezna!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>text_select_category</key>
-		<value><![CDATA[- Odaberi kategoriju -]]></value>
+		<value><![CDATA[- Odaberite kategoriju -]]></value>
 	</definition>
 	<definition>
 		<key>column_verified_purchase</key>

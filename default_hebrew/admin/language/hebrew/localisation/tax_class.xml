@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[חוגי מס]]></value>
+		<value><![CDATA[סיווגי מס]]></value>
 	</definition>
 	<definition>
 		<key>text_class</key>
-		<value><![CDATA[מחלקה מס]]></value>
+		<value><![CDATA[קטגוריית מס]]></value>
 	</definition>
 	<definition>
 		<key>text_rate</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית כיתות מס!]]></value>
+		<value><![CDATA[הצלחה: שינית את מחלקות המס!]]></value>
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[כותרת מחלקה מס]]></value>
+		<value><![CDATA[כותרת סוג המס]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[כותרת מחלקה מס:]]></value>
+		<value><![CDATA[כותרת סוג המס:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>entry_location</key>
-		<value><![CDATA[מקום]]></value>
+		<value><![CDATA[מיקום]]></value>
 	</definition>
 	<definition>
 		<key>entry_zone</key>
@@ -62,15 +62,15 @@
 	</definition>
 	<definition>
 		<key>error_tax_title</key>
-		<value><![CDATA[מח&#39; מס הכותרת חייבת להיות בין 2 ו -32 תווים!]]></value>
+		<value><![CDATA[כותרת סוג המס חייבת להיות בין 2 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_rate</key>
-		<value><![CDATA[שיעור המס הנדרש!]]></value>
+		<value><![CDATA[שיעור מס נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[אזהרה: סוויטה מס זה לא ניתן למחוק כפי שהוא מוקצה כעת %s מוצרים!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק את סיווג המס הזה כיוון שהוא כעת מוקצה ל-%s מוצרים!]]></value>
 	</definition>
 	<definition>
 		<key>text_tax_all_zones</key>
@@ -78,18 +78,18 @@
 	</definition>
 	<definition>
 		<key>entry_tax_rate_threshold</key>
-		<value><![CDATA[להחיל מס אם <br/><span class="help">להחיל מס זה רק אם, סכום המס (מוצר, משלוח, סיכומי ביניים, וכו &#39;) הוא ...</span>]]></value>
+		<value><![CDATA[החל מס אם<br /><span class="help">החל מס זה רק אם הסכום החייב במס (מוצר, משלוח, סך ביניים וכו') הוא ...</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_exempt_groups</key>
-		<value><![CDATA[קבוצות פטורות מס <br/><span class="help">קבוצות לקוחות בחרו לפטור ממס זה</span>]]></value>
+		<value><![CDATA[קבוצות פטורות ממס<br /><span class="help">בחר קבוצות לקוחות שיהיו פטורות ממס זה</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_absolute</key>
-		<value><![CDATA[מוּחלָט]]></value>
+		<value><![CDATA[מוחלט]]></value>
 	</definition>
 	<definition>
 		<key>text_percent</key>
-		<value><![CDATA[אָחוּז]]></value>
+		<value><![CDATA[אחוז]]></value>
 	</definition>
 </definitions>

@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kundorder]]></value>
+		<value><![CDATA[Kundbeställningar]]></value>
 	</definition>
 	<definition>
 		<key>column_customer_id</key>
-		<value><![CDATA[Kundnummer]]></value>
+		<value><![CDATA[Kund-ID]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Köparens namn]]></value>
+		<value><![CDATA[Kundnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[kundgrupp]]></value>
+		<value><![CDATA[Kundgrupp]]></value>
 	</definition>
 	<definition>
 		<key>column_order_count</key>
-		<value><![CDATA[order Count]]></value>
+		<value><![CDATA[Antal beställningar]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 </definitions>

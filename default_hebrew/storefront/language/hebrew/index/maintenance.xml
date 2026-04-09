@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,6 +10,6 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<h1 style="text-align:center;;text-align:right;direction:rtl"> בשלב זה אנו מבצעים כמה תחזוקה מתוכננת. <br/> אנחנו נחזור בהקדם האפשרי. אנא בדוק שוב בקרוב. </h1>]]></value>
+		<value><![CDATA[<h1 style="text-align:center;">כרגע אנו מבצעים תחזוקה מתוזמנת.<br/>נחזור בהקדם האפשרי. אנא בדקו שוב בקרוב.</h1>]]></value>
 	</definition>
 </definitions>

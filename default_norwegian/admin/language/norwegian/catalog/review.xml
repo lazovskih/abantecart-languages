@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[anmeldelser]]></value>
+		<value><![CDATA[Anmeldelser]]></value>
 	</definition>
 	<definition>
 		<key>text_review</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>insert_title</key>
-		<value><![CDATA[Sett inn omtale]]></value>
+		<value><![CDATA[Sett inn anmeldelse]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[Oppdater omtale]]></value>
+		<value><![CDATA[Oppdater anmeldelse]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -61,36 +61,32 @@
 		<value><![CDATA[Status:]]></value>
 	</definition>
 	<definition>
-		<key>entry_text</key>
-		<value><![CDATA[Tekst:]]></value>
-	</definition>
-	<definition>
 		<key>entry_good</key>
-		<value><![CDATA[Flink]]></value>
+		<value><![CDATA[Bra]]></value>
 	</definition>
 	<definition>
 		<key>entry_bad</key>
-		<value><![CDATA[dårlig]]></value>
+		<value><![CDATA[Dårlig]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre vurderingene!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre anmeldelser!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Produkt kreves!]]></value>
+		<value><![CDATA[Produkt påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>error_author</key>
-		<value><![CDATA[Forfatteren må være mellom 2 og 64 tegn!]]></value>
+		<value><![CDATA[Forfatter må være mellom 2 og 64 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Vurdering tekst må være mellom 25 og 1000 tegn!]]></value>
+		<value><![CDATA[Anmeldelsestekst må være mellom 25 og 1000 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Vurdering fra besøkende kreves!]]></value>
+		<value><![CDATA[Vurdering av anmeldelse er påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -102,10 +98,14 @@
 	</definition>
 	<definition>
 		<key>column_verified_purchase</key>
-		<value><![CDATA[Verifisert kjøp]]></value>
+		<value><![CDATA[Bekreftet kjøp]]></value>
 	</definition>
 	<definition>
 		<key>entry_verified_purchase</key>
-		<value><![CDATA[Verifisert kjøp:]]></value>
+		<value><![CDATA[Bekreftet kjøp:]]></value>
+	</definition>
+	<definition>
+		<key>entry_text</key>
+		<value><![CDATA[Tekst:]]></value>
 	</definition>
 </definitions>

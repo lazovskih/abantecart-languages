@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_flat_rate_shipping_name</key>
-		<value><![CDATA[Jednolita stawka]]></value>
+		<value><![CDATA[Stawka ryczałtowa]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś stałą stawkę wysyłki!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowano wysyłkę o stałej stawce!]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_rates</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id_0</key>
-		<value><![CDATA[ ---Nic---]]></value>
+		<value><![CDATA[---Brak---]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id</key>
@@ -42,6 +42,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania stałej stawki za wysyłkę!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania wysyłki ryczałtowej!]]></value>
 	</definition>
 </definitions>

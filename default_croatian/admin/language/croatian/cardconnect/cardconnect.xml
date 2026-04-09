@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>cardconnect_note</key>
-		<value><![CDATA[Za dobivanje API vjerodajnica posjetite https://cardconnect.com/signup/developer]]></value>
+		<value><![CDATA[Da biste dobili API vjerodajnice, molimo posjetite https://cardconnect.com/signup/developer]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_merchant_id</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>cardconnect_logging</key>
-		<value><![CDATA[Zapisivanje: <br/><span class="help">Dnevnik se nalazi u datoteci system/logs/cardconnect.txt</span>]]></value>
+		<value><![CDATA[Zapisivanje:<br /><span class="help">Datoteka zapisnika se nalazi u datoteci system/logs/cardconnect.txt</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_test</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>cardconnect_test_connection</key>
-		<value><![CDATA[Testirajte vezu]]></value>
+		<value><![CDATA[Testiraj vezu]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_get_test_api_credentials</key>
-		<value><![CDATA[Nabavite testne API vjerodajnice]]></value>
+		<value><![CDATA[Preuzmite testne API vjerodajnice]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_test_mode</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>cardconnect_site</key>
-		<value><![CDATA[Dio domene prema API-ju: <br/><span class="help">Ova se vrijednost ne bi trebala mijenjati, osim ako cardConnent ne odredi drugačije.</span>]]></value>
+		<value><![CDATA[Dio domene za API:<br /><span class="help">Ova se vrijednost ne smije mijenjati, osim ako cardConnent ne specificira drugačije.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_connection_success</key>
@@ -54,31 +54,31 @@
 	</definition>
 	<definition>
 		<key>cardconnect_location_id</key>
-		<value><![CDATA[Mjesto]]></value>
+		<value><![CDATA[Lokacija]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_refund</key>
-		<value><![CDATA[Refundirano: <br/><span class="help">Status narudžbe koji želite postaviti ako je uplata vraćena u admin/order</span>]]></value>
+		<value><![CDATA[Povraćeno:<br /><span class="help">Stanje narudžbe koje želite postaviti ako je uplata vraćena u admin/order]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_decline</key>
-		<value><![CDATA[Odbijanje: <br/><span class="help">Status narudžbe koji želite zabilježiti u povijesti kao odgovor na status procesora plaćanja. To ne utječe na status glavne narudžbe. Narudžba se neće izvršiti samo nakon uspješnog plaćanja.</span>]]></value>
+		<value><![CDATA[Odbijeno:<br /><span class="help">Status narudžbe koji želite zabilježiti u povijesti kao odgovor na status procesora plaćanja. Glavni status narudžbe nije promijenjen. Narudžba će biti postavljena tek nakon uspješne uplate.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_success_unsettled</key>
-		<value><![CDATA[Uspjeh i nije namireno: <br/><span class="help">Odaberite status glavnog naloga koji želite postaviti kao odgovor na status procesora plaćanja</span>]]></value>
+		<value><![CDATA[Uspjeh & nije podmireno:<br /><span class="help">Odaberite glavni status narudžbe koji želite postaviti kao odgovor na status procesora plaćanja</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_success_settled</key>
-		<value><![CDATA[Uspjeh i poravnanje: <br/><span class="help">Odaberite status glavne narudžbe koji želite postaviti kao odgovor na status procesora plaćanja</span>]]></value>
+		<value><![CDATA[Uspjeh i poravnato:<br /><span class="help">Odaberite glavni status narudžbe koji želite postaviti kao odgovor na status platnog procesora</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_status_void</key>
-		<value><![CDATA[Poništeno: <br/><span class="help">status narudžbe koji želite postaviti ako je plaćanje poništeno u administratoru/narudžbi.</span>]]></value>
+		<value><![CDATA[Poništeno:<br /><span class="help">Status narudžbe koji želite postaviti ako je uplata poništena u admin/order.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_settlement_payment</key>
-		<value><![CDATA[Automatski (autoriziraj i uhvati)]]></value>
+		<value><![CDATA[Automatski (autoriziraj i naplati)]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_settlement_auth</key>
@@ -86,11 +86,11 @@
 	</definition>
 	<definition>
 		<key>cardconnect_settlement</key>
-		<value><![CDATA[Vrsta namire: <br/><span class="help">Ako je postavljeno na &quot;auto&quot;, tada će transakcija biti uključena u današnju namiru. Ako je postavljeno na &#39;odgođeno&#39;, tada će transakcija biti autorizirana, ali ne i namirena (zabilježena). Morate ručno zabilježiti transakcije u roku od 7 dana od autorizacije</span>]]></value>
+		<value><![CDATA[Tip poravnanja:<br /><span class="help">Ako je postavljeno na "auto", tada će se transakcija uvrstiti u današnje poravnanje. Ako je postavljeno na 'delayed', transakcija će biti odobrena, ali neće biti poravnata (naplaćena). Morate ručno naplatiti transakcije unutar 7 dana od odobrenja</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardconnect_save_cards_limit</key>
-		<value><![CDATA[Maksimalan broj spremljenih kreditnih kartica: <br/><span class="help">Postavite najveći broj kreditnih kartica koje korisnici mogu spremiti (do 100). Ako je postavljeno na 0 ili prazno, spremanje kartica neće biti dopušteno. Sigurnosna napomena: Podaci o kreditnoj kartici kupca spremaju se na CardConnect sigurne poslužitelje kako bi se osigurale maksimalne mjere sigurnosti podataka. Podaci o kreditnoj kartici neće biti spremljeni na vašoj stranici.</span>]]></value>
+		<value><![CDATA[Maksimalni broj spremljenih kreditnih kartica: <br/><span class="help">Postavite maksimalni broj kreditnih kartica koje kupci mogu spremiti (do 100). Ako je postavljeno na 0 ili ostavljeno prazno, spremanje kartica neće biti dozvoljeno. Napomena o sigurnosti: Podaci kreditnih kartica kupaca spremaju se na sigurnim poslužiteljima CardConnect kako bi se osigurale maksimalne mjere zaštite podataka. Nijedni podaci kreditnih kartica neće se spremati na vašoj stranici.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -98,15 +98,15 @@
 	</definition>
 	<definition>
 		<key>text_column_amount</key>
-		<value><![CDATA[Iznositi]]></value>
+		<value><![CDATA[Iznos]]></value>
 	</definition>
 	<definition>
 		<key>text_captured_ok</key>
-		<value><![CDATA[Sredstva su uspješno prikupljena]]></value>
+		<value><![CDATA[Sredstva su uspješno naplaćena]]></value>
 	</definition>
 	<definition>
 		<key>text_captured_order</key>
-		<value><![CDATA[Snimanje je uspješno, status narudžbe ažuriran na uspjeh - riješeno]]></value>
+		<value><![CDATA[Naplata je bila uspješna, status narudžbe ažuriran na uspjeh - poravnato]]></value>
 	</definition>
 	<definition>
 		<key>text_refunded_ok</key>
@@ -114,19 +114,19 @@
 	</definition>
 	<definition>
 		<key>text_refund_order</key>
-		<value><![CDATA[Povrat je bio uspješan, status narudžbe je ažuriran na povrat novca]]></value>
+		<value><![CDATA[Povrat sredstava je bio uspješan, status narudžbe je ažuriran na vraćeno.]]></value>
 	</definition>
 	<definition>
 		<key>text_voided</key>
-		<value><![CDATA[Poništenje je uspješno, status narudžbe ažuriran na poništena]]></value>
+		<value><![CDATA[Poništenje je uspjelo, status narudžbe je ažuriran na poništeno]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
-		<value><![CDATA[Podaci o plaćanju]]></value>
+		<value><![CDATA[Detalji plaćanja]]></value>
 	</definition>
 	<definition>
 		<key>text_capture_status</key>
-		<value><![CDATA[Uplata snimljena]]></value>
+		<value><![CDATA[Plaćanje naplaćeno]]></value>
 	</definition>
 	<definition>
 		<key>text_void_status</key>
@@ -134,11 +134,11 @@
 	</definition>
 	<definition>
 		<key>text_refund_status</key>
-		<value><![CDATA[Uplata vraćena]]></value>
+		<value><![CDATA[Plaćanje vraćeno]]></value>
 	</definition>
 	<definition>
 		<key>text_capture_amount</key>
-		<value><![CDATA[Iznos snimanja]]></value>
+		<value><![CDATA[Iznos za naplatu]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_amount</key>
@@ -146,11 +146,11 @@
 	</definition>
 	<definition>
 		<key>text_order_ref</key>
-		<value><![CDATA[CardConnect ID naplate]]></value>
+		<value><![CDATA[ID naplate CardConnect]]></value>
 	</definition>
 	<definition>
 		<key>text_authorized_ammount</key>
-		<value><![CDATA[Ukupni odobreni iznos]]></value>
+		<value><![CDATA[Ukupan odobreni iznos]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
@@ -158,19 +158,19 @@
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[Povrat transakcija]]></value>
+		<value><![CDATA[Transakcije povrata]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_void</key>
-		<value><![CDATA[Potvrdite da želite poništiti plaćanje?]]></value>
+		<value><![CDATA[Molimo potvrdite želite li poništiti uplatu?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_capture</key>
-		<value><![CDATA[Potvrdite da želite zabilježiti uplatu?]]></value>
+		<value><![CDATA[Molimo potvrdite želite li naplatiti uplatu?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_refund</key>
-		<value><![CDATA[Potvrdite da želite povrat novca?]]></value>
+		<value><![CDATA[Molimo potvrdite želite li izvršiti povrat uplate?]]></value>
 	</definition>
 	<definition>
 		<key>button_refund</key>
@@ -178,34 +178,34 @@
 	</definition>
 	<definition>
 		<key>button_void</key>
-		<value><![CDATA[Poništiti]]></value>
+		<value><![CDATA[Poništi]]></value>
 	</definition>
 	<definition>
 		<key>button_capture</key>
-		<value><![CDATA[Hvatanje]]></value>
+		<value><![CDATA[Naplati]]></value>
 	</definition>
 	<definition>
 		<key>error_system</key>
-		<value><![CDATA[Interna greška. Provjerite zapisnik grešaka ili ulazne parametre!]]></value>
+		<value><![CDATA[Interna pogreška. Provjerite zapisnik pogrešaka ili ulazne parametre!]]></value>
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Unesite pozitivan iznos]]></value>
+		<value><![CDATA[Molimo unesite pozitivan iznos]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_void</key>
-		<value><![CDATA[Nije moguće poništiti transakciju, osvježiti i provjeriti detalje transakcije]]></value>
+		<value><![CDATA[Nije moguće poništiti transakciju, osvježite i provjerite detalje transakcije]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_capture</key>
-		<value><![CDATA[Nije moguće uhvatiti, osvježiti detalje transakcije i provjeriti snimljeni iznos]]></value>
+		<value><![CDATA[Nije moguće izvršiti naplatu, osvježiti detalje transakcije i provjeriti iznos naplate]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_refund</key>
-		<value><![CDATA[Nije moguće izvršiti povrat, osvježiti detalje transakcije i provjeriti iznos povrata]]></value>
+		<value><![CDATA[Nemoguće je izvršiti povrat, osvježite detalje transakcije i provjerite iznos povrata]]></value>
 	</definition>
 	<definition>
 		<key>text_settlement_status</key>
-		<value><![CDATA[Trenutačni status naselja]]></value>
+		<value><![CDATA[Trenutni status poravnanja]]></value>
 	</definition>
 </definitions>

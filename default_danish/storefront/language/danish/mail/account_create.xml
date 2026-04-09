@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
@@ -6,24 +6,24 @@
 	</definition>
 	<definition>
 		<key>text_welcome</key>
-		<value><![CDATA[Velkommen og tak for registrering på %s!]]></value>
+		<value><![CDATA[Velkommen og tak for at du har registreret dig hos %s!]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[er nu oprettet din konto, og du kan få adgang til det ved at besøge vores hjemmeside eller på følgende webadresse:]]></value>
+		<value><![CDATA[Din konto er nu blevet oprettet, og du kan få adgang til den ved at besøge vores hjemmeside eller på følgende URL:]]></value>
 	</definition>
 	<definition>
 		<key>text_approval</key>
-		<value><![CDATA[Din konto skal godkendes, før du kan logge ind. Når du er godkendt, kan du logge ind ved hjælp af din e-mailadresse og adgangskode ved at besøge vores hjemmeside eller på følgende webadresse:]]></value>
+		<value><![CDATA[Din konto skal godkendes, før du kan logge ind. Når den er godkendt, kan du logge ind ved at bruge din e-mailadresse og adgangskode ved at besøge vores hjemmeside eller på følgende URL:]]></value>
 	</definition>
 	<definition>
 		<key>text_activate</key>
-		<value><![CDATA[Før vi kan aktivere din konto skal tages en sidste skridt til at fuldføre din registrering. <br/> 
- Du skal udfylde dette sidste trin til at blive registreret som medlem. Klik på følgende link for at aktivere din konto %s.]]></value>
+		<value><![CDATA[Før vi kan aktivere din konto, skal der tages ét sidste skridt for at fuldføre din registrering.<br>
+Du skal fuldføre dette sidste skridt for at blive et registreret medlem. Klik venligst på følgende link for at aktivere din konto %s .]]></value>
 	</definition>
 	<definition>
 		<key>text_services</key>
-		<value><![CDATA[Når du logger ind, vil du være i stand til at få adgang til andre tjenester, herunder gennemgå tidligere ordrer, trykning fakturaer og redigere dine kontooplysninger.]]></value>
+		<value><![CDATA[Når du logger ind, kan du få adgang til andre tjenester, herunder at gennemse tidligere ordrer, udskrive fakturaer og redigere dine kontooplysninger.]]></value>
 	</definition>
 	<definition>
 		<key>text_thanks</key>

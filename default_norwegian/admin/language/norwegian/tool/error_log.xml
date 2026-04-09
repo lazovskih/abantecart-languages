@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Feil logg]]></value>
+		<value><![CDATA[Feillogg]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har fjernet din feilloggen!]]></value>
+		<value><![CDATA[Suksess: Du har tømt feilloggen din!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_tail</key>
-		<value><![CDATA[På grunn av store størrelsen på loggfilen, kan bare siste 500kb av data sees her. 
- Hvis du vil vise hele loggen, få det fra serveren din direkte. 
- Sti:]]></value>
+		<value><![CDATA[På grunn av loggfilens store størrelse kan kun de siste 500Kb med data vises her.<br>For å se hele loggen, hent den direkte fra serveren din. Sti:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_error</key>
-		<value><![CDATA[ Filen eksisterer ikke eller kan ikke leses! ]]></value>
+		<value><![CDATA[Filen finnes ikke eller er ikke lesbar!]]></value>
 	</definition>
 </definitions>

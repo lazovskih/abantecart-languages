@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>no_results_message</key>
-		<value><![CDATA[מצטער, אבל אין לנו תוצאות.]]></value>
+		<value><![CDATA[מצטערים, אך אין לנו תוצאות.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך רשות לחפש!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לחפש!]]></value>
 	</definition>
 	<definition>
 		<key>text_orders</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_pages</key>
-		<value><![CDATA[עמודים]]></value>
+		<value><![CDATA[דפים]]></value>
 	</definition>
 	<definition>
 		<key>text_settings</key>
@@ -58,7 +58,7 @@
 	</definition>
 	<definition>
 		<key>text_extensions</key>
-		<value><![CDATA[רחבות]]></value>
+		<value><![CDATA[תוספים]]></value>
 	</definition>
 	<definition>
 		<key>text_commands</key>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_cod_name</key>
-		<value><![CDATA[Utánvét]]></value>
+		<value><![CDATA[Utánvétel]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: módosította az Utánvétes fizetési modult!]]></value>
+		<value><![CDATA[Siker: Ön módosította az utánvétes fizetési modult!]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_order_status_id</key>
@@ -18,14 +18,14 @@
 	</definition>
 	<definition>
 		<key>default_cod_location_id</key>
-		<value><![CDATA[Elhelyezkedés:]]></value>
+		<value><![CDATA[Helyszín:]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_location_id_0</key>
-		<value><![CDATA[Minden hely]]></value>
+		<value><![CDATA[Minden helyszín]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: Nincs engedélye a fizetés módosítására, utánvéttel!]]></value>
+		<value><![CDATA[Figyelmeztetés: Önnek nincs jogosultsága az utánvétes fizetési mód módosításához!]]></value>
 	</definition>
 </definitions>

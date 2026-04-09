@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_product</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[יצרן לא נמצא!]]></value>
+		<value><![CDATA[מותג לא נמצא!]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[אין מוצרים לרשימה מיצרן זה.]]></value>
+		<value><![CDATA[אין מוצרים להציג מהמותג הזה.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[בְּרִירַת מֶחדָל]]></value>
+		<value><![CDATA[ברירת מחדל]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
@@ -34,15 +34,15 @@
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[מחיר נמוך &gt; גָבוֹהַ]]></value>
+		<value><![CDATA[מחיר מהנמוך לגבוה]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[מחיר מהגבוה &gt; נָמוּך]]></value>
+		<value><![CDATA[מחיר גבוה > נמוך]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[הדירוג הנמוך ביותר]]></value>
+		<value><![CDATA[דירוג הנמוך ביותר]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>

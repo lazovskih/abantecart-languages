@@ -38,15 +38,15 @@
 	</definition>
 	<definition>
 		<key>text_fax</key>
-		<value><![CDATA[faks]]></value>
+		<value><![CDATA[Faks]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[Naslov za pošiljanje]]></value>
+		<value><![CDATA[Naslov za dostavo]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
-		<value><![CDATA[Način pošiljanja]]></value>
+		<value><![CDATA[Način dostave]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[ŠIFRA ARTIKLA]]></value>
 	</definition>
 	<definition>
 		<key>text_quantity</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Naročila, ki ste ga zahtevali, ni bilo mogoče najti!]]></value>
+		<value><![CDATA[Naročilo, ki ste ga zahtevali, ni bilo mogoče najti!]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
@@ -106,24 +106,23 @@
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[Komentar naročila stranke]]></value>
+		<value><![CDATA[Komentar strankinega naročila]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation</key>
-		<value><![CDATA[Zahtevajte preklic naročila]]></value>
+		<value><![CDATA[Zahteva za preklic naročila]]></value>
 	</definition>
 	<definition>
 		<key>text_request_cancellation_from_customer</key>
-		<value><![CDATA[Od stranke zahtevajte preklic naročila ]]></value>
+		<value><![CDATA[Zahtevaj preklic naročila od kupca]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_confirm</key>
-		<value><![CDATA[
- Vaša zahteva za preklic morda ne bo vložena v nekaterih primerih, na primer, ko je blago odpremljeno. Nadaljevati?]]></value>
+		<value><![CDATA[Zahtevo za preklic morda ne bo mogoče oddati v nekaterih primerih, na primer ko je blago že odposlano. Nadaljujete?]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_success</key>
-		<value><![CDATA[Zahteva za preklic naročila je bila poslana]]></value>
+		<value><![CDATA[Zahteva za preklic naročila je bila oddana]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_title</key>
@@ -131,11 +130,11 @@
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_body</key>
-		<value><![CDATA[Stranka %s je zahtevala preklic naročila za naročilo #%s. Za pregled pojdite na %s]]></value>
+		<value><![CDATA[Stranka %s je zahtevala preklic naročila št. %s. Za pregled pojdite na %s]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Zdi se, da e-poštni naslov ni veljaven!]]></value>
+		<value><![CDATA[E-poštni naslov se zdi neveljaven!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_id</key>

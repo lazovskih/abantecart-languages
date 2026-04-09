@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Schemalagda aktiviteter]]></value>
+		<value><![CDATA[Schemalagda uppgifter]]></value>
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[id]]></value>
+		<value><![CDATA[Id]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[namn]]></value>
+		<value><![CDATA[Namn]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[Fastnat]]></value>
+		<value><![CDATA[Fast]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_running</key>
-		<value><![CDATA[Löpning]]></value>
+		<value><![CDATA[Körs]]></value>
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
-		<value><![CDATA[planerad]]></value>
+		<value><![CDATA[Schemalagd]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[misslyckades]]></value>
+		<value><![CDATA[Misslyckades]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>text_completed</key>
-		<value><![CDATA[Avslutad]]></value>
+		<value><![CDATA[Slutförd]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[Starta om Task]]></value>
+		<value><![CDATA[Starta om uppgift]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
@@ -66,18 +66,18 @@
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[uppgiften började]]></value>
+		<value><![CDATA[Uppgift påbörjad]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
-		<value><![CDATA[Uppgift inte hittas.]]></value>
+		<value><![CDATA[Uppgiften hittades inte.]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_task</key>
-		<value><![CDATA[Uppgift inte innehåller steg. Tog bort.]]></value>
+		<value><![CDATA[Uppgiften innehåller inga steg. Borttagen.]]></value>
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[Förbjudet att starta!]]></value>
+		<value><![CDATA[Otillåtet att starta om!]]></value>
 	</definition>
 </definitions>

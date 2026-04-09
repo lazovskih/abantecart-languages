@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[Kontodashboard]]></value>
+		<value><![CDATA[Kontooversikt]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_my_orders</key>
-		<value><![CDATA[Mine ordre]]></value>
+		<value><![CDATA[Mine ordrer]]></value>
 	</definition>
 	<definition>
 		<key>text_my_notifications</key>
@@ -26,15 +26,15 @@
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Rediger kontodetaljer]]></value>
+		<value><![CDATA[Rediger kontoopplysninger]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
-		<value><![CDATA[Bytt passord]]></value>
+		<value><![CDATA[Endre passord]]></value>
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Administrer Adressebok]]></value>
+		<value><![CDATA[Administrer adressebok]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[Betalingshistorie]]></value>
+		<value><![CDATA[Transaksjonshistorikk]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Nyhetsbrev abonnement]]></value>
+		<value><![CDATA[Abonnement på nyhetsbrev]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>

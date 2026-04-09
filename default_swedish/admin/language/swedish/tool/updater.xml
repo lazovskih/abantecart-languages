@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[förlängning Namn]]></value>
+		<value><![CDATA[Tilläggsnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
@@ -34,23 +34,23 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Extensions har uppdaterats!]]></value>
+		<value><![CDATA[Framgång: Tilläggen uppdaterades framgångsrikt!]]></value>
 	</definition>
 	<definition>
 		<key>text_update</key>
-		<value><![CDATA[Uppdatering]]></value>
+		<value><![CDATA[Uppdatera]]></value>
 	</definition>
 	<definition>
 		<key>entry_restore_exts</key>
-		<value><![CDATA[Återställ backuped förlängning:]]></value>
+		<value><![CDATA[Återställ säkerhetskopierat tillägg:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[uppdateringar:]]></value>
+		<value><![CDATA[Uppdateringar:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -58,19 +58,19 @@
 	</definition>
 	<definition>
 		<key>warning_server</key>
-		<value><![CDATA[Server med uppdateringar är inaccesible.]]></value>
+		<value><![CDATA[Servern med uppdateringar är otillgänglig.]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_title</key>
-		<value><![CDATA[Uppdatera Meddelande% FÖRLÄNGNING%]]></value>
+		<value><![CDATA[Uppdateringsmeddelande för %EXTENSION%]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_text</key>
-		<value><![CDATA[&quot;Ny version av tillägget&quot;% töjning% &quot;finns. Vänligen gå till% LINK% och uppgradera den. &quot;]]></value>
+		<value><![CDATA[Ny version av tillägget "%EXTENSION%" finns tillgänglig. Vänligen gå till %LINK% och uppgradera det.]]></value>
 	</definition>
 	<definition>
 		<key>warning_updates</key>
-		<value><![CDATA[Det går inte att få information om uppdateringar.]]></value>
+		<value><![CDATA[Kan inte hämta information om uppdateringar.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
@@ -78,26 +78,26 @@
 	</definition>
 	<definition>
 		<key>error_exts_list</key>
-		<value><![CDATA[Varning: Förlängning lista är inte matris!]]></value>
+		<value><![CDATA[Varning: Tilläggslistan är inte en array!]]></value>
 	</definition>
 	<definition>
 		<key>text_nothing_todo</key>
-		<value><![CDATA[Dina Extensions är uppdaterade. Inget att göra.]]></value>
+		<value><![CDATA[Dina tillägg är uppdaterade. Inget att göra.]]></value>
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Ansluta]]></value>
+		<value><![CDATA[Anslut]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect</key>
-		<value><![CDATA[Anslut till marknaden]]></value>
+		<value><![CDATA[Anslut till marknadsplatsen]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect_your_store</key>
-		<value><![CDATA[Anslut din butik till Marknads]]></value>
+		<value><![CDATA[Vänligen anslut din butik till marknadsplatsen]]></value>
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[Obs: Uppdatering endast för anslutna butiker med köpt historia.]]></value>
+		<value><![CDATA[Observera: Uppdatering är endast tillgänglig för anslutna butiker med köphistorik.]]></value>
 	</definition>
 </definitions>

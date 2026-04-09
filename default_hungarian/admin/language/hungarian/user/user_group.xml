@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[felhasználói csoportok]]></value>
+		<value><![CDATA[Felhasználói csoportok]]></value>
 	</definition>
 	<definition>
 		<key>text_group</key>
@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Ön módosította felhasználói csoportok!]]></value>
+		<value><![CDATA[Siker: módosította a felhasználói csoportokat!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_group_added</key>
-		<value><![CDATA[Siker: Létrehozott felhasználói csoport sikeresen!]]></value>
+		<value><![CDATA[Siker: Ön sikeresen létrehozta a felhasználói csoportot!]]></value>
 	</definition>
 	<definition>
 		<key>text_go_to_page</key>
-		<value><![CDATA[Menj az oldalra]]></value>
+		<value><![CDATA[Ugrás az oldalra]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Felhasználó törlése Csoport?]]></value>
+		<value><![CDATA[Felhasználói csoport törlése?]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akció]]></value>
+		<value><![CDATA[Művelet]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -50,14 +50,14 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítani a felhasználói csoportok!]]></value>
+		<value><![CDATA[Figyelmeztetés: nincs jogosultságod a felhasználói csoportok módosításához!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Felhasználói csoport neve legyen a 2 és 64 karakter!]]></value>
+		<value><![CDATA[A felhasználócsoport nevének 2 és 64 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_user</key>
-		<value><![CDATA[Figyelem: Ez a csoport nem törölhető, mert jelenleg hozzárendelt %s felhasználók számára!]]></value>
+		<value><![CDATA[Figyelmeztetés: Ez a felhasználói csoport nem törölhető, mivel jelenleg %s felhasználó(k)hoz van rendelve!]]></value>
 	</definition>
 </definitions>

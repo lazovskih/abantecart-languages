@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Koszyk Migration]]></value>
+		<value><![CDATA[Migracja koszyka]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_step_one</key>
@@ -14,35 +14,35 @@
 	</definition>
 	<definition>
 		<key>heading_title_step_three</key>
-		<value><![CDATA[- Koniec]]></value>
+		<value><![CDATA[- Zakończ]]></value>
 	</definition>
 	<definition>
 		<key>text_description</key>
-		<value><![CDATA[Narzędzie migracji umożliwia import danych z innych wozów. <br/> Uwaga: import wsparcie AbanteCart dla mysql tylko na razie. <br/> Naciśnij przycisk Start, aby kontynuować migracji ...]]></value>
+		<value><![CDATA[Narzędzie migracji pozwala Ci importować dane z innych sklepów.<br>Uwaga: AbanteCart obsługuje import tylko dla MySQL.<br> Naciśnij przycisk Rozpocznij migrację, aby kontynuować...]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Wy Dane powodzeniem transfeerd do Abantecart!]]></value>
+		<value><![CDATA[Sukces: Twoje dane zostały pomyślnie przeniesione do AbanteCart!]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_info</key>
-		<value><![CDATA[Źródło Koszyk Info <span class="help">Source Koszyka Właściwości aplikacji.</span>]]></value>
+		<value><![CDATA[Informacje o koszyku źródłowym<span class="help">Szczegóły źródłowej aplikacji koszyka zakupowego.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_db_info</key>
-		<value><![CDATA[Information Database <span class="help">Uwaga: import wsparcie AbanteCart dla mysql tylko na razie.</span>]]></value>
+		<value><![CDATA[Informacje o bazie danych<span class="help">Uwaga: Obecnie AbanteCart obsługuje import tylko dla mysql.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_type</key>
-		<value><![CDATA[Źródło Typ koszyk:]]></value>
+		<value><![CDATA[Rodzaj koszyka źródłowego:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_url</key>
-		<value><![CDATA[Źródło koszyk URL:]]></value>
+		<value><![CDATA[Źródłowy adres URL koszyka:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_host</key>
-		<value><![CDATA[Baza Host:]]></value>
+		<value><![CDATA[Host bazy danych:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_user</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>entry_cart_select</key>
-		<value><![CDATA[- Wybierz koszyk typ -]]></value>
+		<value><![CDATA[- wybierz typ koszyka -]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_osc</key>
-		<value><![CDATA[oscommerce 2.2RC2]]></value>
+		<value><![CDATA[Oscommerce 2.2RC2]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_oscmax</key>
@@ -78,11 +78,11 @@
 	</definition>
 	<definition>
 		<key>entry_cart_cre</key>
-		<value><![CDATA[CRE Załadowano 6.4.1 STD]]></value>
+		<value><![CDATA[CRE Loaded 6.4.1 STD]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_opencart</key>
-		<value><![CDATA[Wersja 1.4.9]]></value>
+		<value><![CDATA[OpenCart 1.4.9]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>entry_migrate_data_products</key>
-		<value><![CDATA[Produkty, kategorie, Marki]]></value>
+		<value><![CDATA[Produkty, Kategorie, Marki]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_customers</key>
@@ -102,11 +102,11 @@
 	</definition>
 	<definition>
 		<key>entry_migrate_data_orders</key>
-		<value><![CDATA[Święcenia]]></value>
+		<value><![CDATA[Zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>entry_erase_existing_data</key>
-		<value><![CDATA[Erase istniejące dane?]]></value>
+		<value><![CDATA[Usunąć istniejące dane?]]></value>
 	</definition>
 	<definition>
 		<key>button_start_migration</key>
@@ -114,11 +114,11 @@
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Kontyntynuj]]></value>
+		<value><![CDATA[Kontynuuj]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
-		<value><![CDATA[Plecy]]></value>
+		<value><![CDATA[Wstecz]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
@@ -126,23 +126,23 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do wykonania migracji!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do przeprowadzenia migracji!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_host</key>
-		<value><![CDATA[Host wymagane!]]></value>
+		<value><![CDATA[Host wymagany!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_user</key>
-		<value><![CDATA[Użytkownik nie wymagane!]]></value>
+		<value><![CDATA[Użytkownik wymagany!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_name</key>
-		<value><![CDATA[Nazwa bazy danych wymagane!]]></value>
+		<value><![CDATA[Wymagana nazwa bazy danych!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_connection</key>
-		<value><![CDATA[Błąd: Nie można połączyć się z bazą danych należy upewnić się, że serwer bazy danych, nazwę użytkownika i hasło są prawidłowe!]]></value>
+		<value><![CDATA[Błąd: Nie można połączyć się z bazą danych, proszę upewnić się, czy serwer bazy danych, nazwa użytkownika i hasło są poprawne!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_not_exist</key>
@@ -150,43 +150,43 @@
 	</definition>
 	<definition>
 		<key>error_cart_type</key>
-		<value><![CDATA[Błąd: Proszę wybrać wózek typ!]]></value>
+		<value><![CDATA[Błąd: Proszę wybrać typ koszyka!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_url</key>
-		<value><![CDATA[Błąd: wymagane Koszyk domową!]]></value>
+		<value><![CDATA[Błąd: wymagany adres URL koszyka!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_not_supported</key>
-		<value><![CDATA[Uwaga: Wybrany koszyk nie jest obsługiwana teraz!]]></value>
+		<value><![CDATA[Ostrzeżenie: wybrany koszyk nie jest obecnie obsługiwany!]]></value>
 	</definition>
 	<definition>
 		<key>error_migrate_data</key>
-		<value><![CDATA[Błąd: Proszę wybrać przynajmniej jeden element!]]></value>
+		<value><![CDATA[Błąd: Proszę wybrać co najmniej jeden element!]]></value>
 	</definition>
 	<definition>
 		<key>text_no_customers</key>
-		<value><![CDATA[Uwaga: Nie jeden klient został przywieziony.]]></value>
+		<value><![CDATA[Uwaga: Nie zaimportowano żadnego klienta.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_products</key>
-		<value><![CDATA[Uwaga: Nie jeden produkt został przywieziony.]]></value>
+		<value><![CDATA[Uwaga: Żaden produkt nie został zaimportowany.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_orders</key>
-		<value><![CDATA[Uwaga: Nikt zamówienie zostało przywiezione.]]></value>
+		<value><![CDATA[Uwaga: Nie zaimportowano żadnego zamówienia.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_brands</key>
-		<value><![CDATA[Uwaga: Nikt marka została importowana.]]></value>
+		<value><![CDATA[Uwaga: Nie zaimportowano żadnej marki.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_categories</key>
-		<value><![CDATA[Uwaga: Bez kategorii jeden produkt został przywieziony.]]></value>
+		<value><![CDATA[Uwaga: nie zaimportowano żadnej kategorii produktów.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_source_cart</key>
-		<value><![CDATA[Uwaga: Wybrany koszyk źródłem jest pusty! Proszę sprawdzić bazę danych i tabel prefiks.]]></value>
+		<value><![CDATA[Ostrzeżenie: wybrany koszyk źródłowy jest pusty! Proszę sprawdzić bazę danych i prefiks tabel.]]></value>
 	</definition>
 	<definition>
 		<key>text_finished</key>

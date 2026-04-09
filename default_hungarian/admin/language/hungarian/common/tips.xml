@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_tip</key>
@@ -6,21 +6,21 @@
 	</definition>
 	<definition>
 		<key>no_enabled_payments_tip</key>
-		<value><![CDATA[<div class="info alert alert-warning"><i class="fa fa fa-exclamation-triangle fa-fw"></i> Ön nincs fizetési mód engedélyezve van még. </div> 
- <label class="h4 heading">Ellenőrizze leggyakoribb kifizetések:</label> 
- <div class="row"> 
- <div class="col-sm-4 h5 center"> 
- <a href="#admin#rt=extension/extensions/install&extension=default_stripe">
- <img src="extensions/default_stripe/image/icon.png"><br/> Telepítse Stripe Extension</a> 
- </div> 
- <div class="col-sm-4 h5 center"> 
- <a href="#admin#rt=extension/extensions/install&extension=default_pp_standart">
- <img src="extensions/default_pp_standart/image/icon.png"><br/> Telepítse Paypal Extension</a> 
- </div> 
- <div class="col-sm-4 h5 center"> 
- <a href="#admin#rt=extension/extensions/payment" target="_extension">
- <img src="admin/view/default/image/default_extension.png"><br/> Több Kifizetések</a> 
- </div> 
- </div>]]></value>
+		<value><![CDATA[<div class="info alert alert-warning"><i class="fa fa fa-exclamation-triangle fa-fw"></i> Még nincs engedélyezve fizetési mód.</div>
+<label class="h4 heading">Ellenőrizze a leggyakoribb fizetési lehetőségeket:</label>
+<div class="row">
+		<div class="col-sm-4 h5 center">
+				<a href="#admin#rt=extension/extensions/install&amp;extension=stripe">
+				<img src="extensions/stripe/image/icon.png"><br>Telepítse a Stripe-kiegészítőt</a>
+		</div>
+		<div class="col-sm-4 h5 center">
+				<a href="#admin#rt=extension/extensions/install&amp;extension=paypal_commerce">
+				<img src="extensions/paypal_commerce/image/icon.png"><br>Telepítse a PayPal-kiegészítőt</a>
+		</div>
+		<div class="col-sm-4 h5 center">
+				<a href="#admin#rt=extension/extensions/payment" target="_extension">
+				<img src="admin/view/default/image/default_extension.png"><br>További fizetések</a>
+		</div>
+</div>]]></value>
 	</definition>
 </definitions>

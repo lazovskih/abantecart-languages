@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Status: ]]></value>
+		<value><![CDATA[Status:]]></value>
 	</definition>
 	<definition>
 		<key>entry_text_id</key>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_local_delivery_name</key>
-		<value><![CDATA[Helyi kiszállítás]]></value>
+		<value><![CDATA[Helyi kézbesítés]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sikeres: Módosította a helyi szállítást!]]></value>
+		<value><![CDATA[Siker: Módosította a helyi kézbesítést!]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>
-		<value><![CDATA[Minimális rendelési összeg: <br/><span class="help">Minimális részösszeg, amelyet teljesíteni kell ahhoz, hogy elérhető legyen a szállítási lehetőség.</span>]]></value>
+		<value><![CDATA[Minimális rendelési összeg:<br /><span class="help">A kézbesítési opció elérhetővé válásához el kell érni a minimális részösszeget.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_cost</key>
@@ -26,14 +26,14 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>
-		<value><![CDATA[Irányítószámok: <br/><span class="help">Vesszővel elválasztott irányítószámok listája. Helyettesítő karakter * támogatott. Példa 30001,3002,40*,*ND</span>]]></value>
+		<value><![CDATA[Irányítószámok:<br /><span class="help"> Vesszővel elválasztott irányítószámok listája. Helyettesítő karakter (*) használható. Példa: 30001,3002,40*,*ND</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: Nincs engedélye a helyi szállítás módosítására!]]></value>
+		<value><![CDATA[Figyelmeztetés: Nincs jogosultsága a helyi kézbesítés módosítására!]]></value>
 	</definition>
 </definitions>

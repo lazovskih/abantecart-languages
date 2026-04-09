@@ -428,4 +428,12 @@
 		<key>text_max_order_subtotal</key>
 		<value><![CDATA[Maksimal ordresubtotal: <span class="help">Indtast den maksimale ordresubtotalværdi for forsendelsesmulighed, der skal være tilgængelig for kunden. Dette felt er valgfrit.</span>]]></value>
 	</definition>
+	<definition>
+		<key>text_customer_groups</key>
+		<value><![CDATA[Kun tilladt for kundegruppe(r):]]></value>
+	</definition>
+	<definition>
+		<key>button_load_more_languages</key>
+		<value><![CDATA[Indlæs flere sprog]]></value>
+	</definition>
 </definitions>

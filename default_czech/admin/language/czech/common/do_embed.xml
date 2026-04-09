@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_get_product_embed_code</key>
-		<value><![CDATA[Product Code Vložte]]></value>
+		<value><![CDATA[Vkládací kód produktu]]></value>
 	</definition>
 	<definition>
 		<key>text_get_category_embed_code</key>
-		<value><![CDATA[Kategorie Embed kód]]></value>
+		<value><![CDATA[Vložený kód kategorie]]></value>
 	</definition>
 	<definition>
 		<key>text_get_manufacturer_embed_code</key>
-		<value><![CDATA[Výrobce Embed kód]]></value>
+		<value><![CDATA[Vkládací kód značky]]></value>
 	</definition>
 	<definition>
 		<key>entry_image</key>
@@ -22,19 +22,23 @@
 	</definition>
 	<definition>
 		<key>entry_price</key>
-		<value><![CDATA[Ukaž ceny]]></value>
+		<value><![CDATA[Zobrazit cenu]]></value>
+	</definition>
+	<definition>
+		<key>entry_limit</key>
+		<value><![CDATA[Omezení]]></value>
 	</definition>
 	<definition>
 		<key>entry_rating</key>
-		<value><![CDATA[Zobrazit recenze a stanovení sazeb]]></value>
+		<value><![CDATA[Zobrazit recenze a hodnocení]]></value>
 	</definition>
 	<definition>
 		<key>entry_blurb</key>
-		<value><![CDATA[Show reklama]]></value>
+		<value><![CDATA[Zobrazit popis]]></value>
 	</definition>
 	<definition>
 		<key>entry_quantity</key>
-		<value><![CDATA[Show Množství]]></value>
+		<value><![CDATA[Zobrazit množství]]></value>
 	</definition>
 	<definition>
 		<key>entry_addtocart</key>
@@ -42,18 +46,14 @@
 	</definition>
 	<definition>
 		<key>entry_language</key>
-		<value><![CDATA[Zvolte jazyk]]></value>
+		<value><![CDATA[Vyberte jazyk]]></value>
 	</definition>
 	<definition>
 		<key>entry_currency</key>
-		<value><![CDATA[Výběr měny]]></value>
+		<value><![CDATA[Vyberte měnu]]></value>
 	</definition>
 	<definition>
 		<key>entry_products_count</key>
-		<value><![CDATA[produkty Count]]></value>
-	</definition>
-	<definition>
-		<key>entry_limit</key>
-		<value><![CDATA[Omezit ]]></value>
+		<value><![CDATA[Počet produktů]]></value>
 	</definition>
 </definitions>

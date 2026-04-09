@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Izgled &amp; blokovi Manager]]></value>
+		<value><![CDATA[Upravitelj izgleda i blokova]]></value>
 	</definition>
 	<definition>
 		<key>text_select_template</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Izmijenili ste izgledu &amp; blokovi!]]></value>
+		<value><![CDATA[Uspjeh: Promijenili ste raspored i blokove!]]></value>
 	</definition>
 	<definition>
 		<key>text_preview_generated</key>
-		<value><![CDATA[Pregled generiran!]]></value>
+		<value><![CDATA[Pretpregled je generiran!]]></value>
 	</definition>
 	<definition>
 		<key>text_click_here</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_create_new_layout</key>
-		<value><![CDATA[Stvorite novi izgled stranice]]></value>
+		<value><![CDATA[Stvori novi izgled stranice]]></value>
 	</definition>
 	<definition>
 		<key>entry_page_name</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>entry_key_parameter_value</key>
-		<value><![CDATA[Ključna vrijednost parametra:]]></value>
+		<value><![CDATA[Ključ Parametar Vrijednost:]]></value>
 	</definition>
 	<definition>
 		<key>error_template</key>
@@ -66,23 +66,23 @@
 	</definition>
 	<definition>
 		<key>error_page_exists</key>
-		<value><![CDATA[Naziv stranice &quot;%s&quot; već postoji.]]></value>
+		<value><![CDATA[Naziv stranice "%s" već postoji.]]></value>
 	</definition>
 	<definition>
 		<key>error_page_rt</key>
-		<value><![CDATA[&#39;Page Route is Required!&#39;]]></value>
+		<value><![CDATA[Ruta stranice je obavezna!]]></value>
 	</definition>
 	<definition>
 		<key>error_key_parameter_name</key>
-		<value><![CDATA[Naziv parametra potreban je ako vrijednost postoji.]]></value>
+		<value><![CDATA[Naziv parametra je obavezan ako postoji vrijednost.]]></value>
 	</definition>
 	<definition>
 		<key>error_key_parameter_value</key>
-		<value><![CDATA[Vrijednost parametra je obavezna kada je postavljen naziv.]]></value>
+		<value><![CDATA[Vrijednost parametra je obavezna kada je ime postavljeno.]]></value>
 	</definition>
 	<definition>
 		<key>error_seo_keyword</key>
-		<value><![CDATA[SEO-ključna riječ &quot;%s&quot; je već zauzeta.]]></value>
+		<value><![CDATA[SEO-ključna riječ "%s" je već zauzeta.]]></value>
 	</definition>
 	<definition>
 		<key>error_page_parameters</key>

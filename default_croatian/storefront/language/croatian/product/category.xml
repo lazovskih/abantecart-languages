@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_product</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Postoje Nema proizvoda u ovoj kategoriji.]]></value>
+		<value><![CDATA[Nema proizvoda za prikaz u ovoj kategoriji.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Od 5 zvjezdica!]]></value>
+		<value><![CDATA[%s od 5 zvjezdica!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
-		<value><![CDATA[Sortiraj prema:]]></value>
+		<value><![CDATA[Razvrstaj po:]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
@@ -34,22 +34,22 @@
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Cijena Niska &gt; visok]]></value>
+		<value><![CDATA[Cijena niska > visoka]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Cijena viša &gt; nizak]]></value>
+		<value><![CDATA[Cijena od najviše do najniže]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Ocjena najniža]]></value>
+		<value><![CDATA[Najniža ocjena]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Ocjena najviša]]></value>
+		<value><![CDATA[Najviša ocjena]]></value>
 	</definition>
 	<definition>
 		<key>text_top_category</key>
-		<value><![CDATA[Vrh Kategorija]]></value>
+		<value><![CDATA[Najbolja kategorija]]></value>
 	</definition>
 </definitions>

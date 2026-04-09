@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_home</key>
-		<value><![CDATA[Dom]]></value>
+		<value><![CDATA[Početna]]></value>
 	</definition>
 	<definition>
 		<key>text_special</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_sitemap</key>
-		<value><![CDATA[Mapa]]></value>
+		<value><![CDATA[Karta web-lokacije]]></value>
 	</definition>
 	<definition>
 		<key>text_bookmark</key>
-		<value><![CDATA[Označite]]></value>
+		<value><![CDATA[Označi]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -26,39 +26,39 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Prijaviti se]]></value>
+		<value><![CDATA[Prijava]]></value>
 	</definition>
 	<definition>
 		<key>text_logout</key>
-		<value><![CDATA[Odjaviti se]]></value>
+		<value><![CDATA[Odjava]]></value>
 	</definition>
 	<definition>
 		<key>text_cart</key>
-		<value><![CDATA[Košara]]></value>
+		<value><![CDATA[Košarica]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Provjeri]]></value>
+		<value><![CDATA[Plaćanje]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[ključne riječi]]></value>
+		<value><![CDATA[Ključne riječi]]></value>
 	</definition>
 	<definition>
 		<key>text_advanced</key>
-		<value><![CDATA[Napredna pretraga]]></value>
+		<value><![CDATA[Napredno pretraživanje]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
-		<value><![CDATA[sve kategorije]]></value>
+		<value><![CDATA[Sve kategorije]]></value>
 	</definition>
 	<definition>
 		<key>entry_search</key>
-		<value><![CDATA[Traži:]]></value>
+		<value><![CDATA[Pretraživanje:]]></value>
 	</definition>
 	<definition>
 		<key>text_welcome</key>
-		<value><![CDATA[Dobrodošao natrag]]></value>
+		<value><![CDATA[Dobrodošli natrag]]></value>
 	</definition>
 	<definition>
 		<key>text_not</key>
@@ -66,6 +66,6 @@
 	</definition>
 	<definition>
 		<key>text_login_or_register</key>
-		<value><![CDATA[Prijavite se ili registrirajte]]></value>
+		<value><![CDATA[Prijavi se ili registriraj se]]></value>
 	</definition>
 </definitions>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_per_item_shipping_name</key>
-		<value><![CDATA[Po artiklu]]></value>
+		<value><![CDATA[Po stavci]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: izmijenili ste cijene dostave po artiklu!]]></value>
+		<value><![CDATA[Uspjeh: izmijenili ste cijene dostave po stavci!]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_cost</key>
-		<value><![CDATA[Cijena:]]></value>
+		<value><![CDATA[Trošak:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax_0</key>
-		<value><![CDATA[---Ništa---]]></value>
+		<value><![CDATA[---Nijedno---]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id</key>
-		<value><![CDATA[Mjesto:]]></value>
+		<value><![CDATA[Lokacija:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id_0</key>
@@ -34,6 +34,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: nemate dopuštenje za izmjenu cijena dostave po artiklu!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu stopa dostave po artiklu!]]></value>
 	</definition>
 </definitions>

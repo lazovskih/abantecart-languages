@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Produkter som opfylder dine kriterier]]></value>
+		<value><![CDATA[Produkter, der opfylder søgekriterierne]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[nøgleord]]></value>
+		<value><![CDATA[Nøgleord]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
-		<value><![CDATA[alle kategorier]]></value>
+		<value><![CDATA[Alle kategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_critea</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Der er ingen produkter der matcher dine kriterier.]]></value>
+		<value><![CDATA[Der er ingen produkter, der matcher søgekriterierne.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Ud af 5 stjerner!]]></value>
+		<value><![CDATA[%s ud af 5 stjerner!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -46,19 +46,19 @@
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Pris Lav &gt; Høj]]></value>
+		<value><![CDATA[Pris Lav > Høj]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Pris høj &gt; Lav]]></value>
+		<value><![CDATA[Pris Høj > Lav]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Bedømmelse Laveste]]></value>
+		<value><![CDATA[Laveste bedømmelse]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Bedømmelse Højeste]]></value>
+		<value><![CDATA[Højeste bedømmelse]]></value>
 	</definition>
 	<definition>
 		<key>entry_search</key>

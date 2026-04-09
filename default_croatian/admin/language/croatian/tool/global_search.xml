@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Globalni Rezultati pretraživanja]]></value>
+		<value><![CDATA[Rezultati globalnog pretraživanja]]></value>
 	</definition>
 	<definition>
 		<key>no_results_message</key>
-		<value><![CDATA[Žao nam je, ali nemamo rezultate.]]></value>
+		<value><![CDATA[Žao nam je, ali nemamo rezultata.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za traženje!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za pretraživanje!]]></value>
 	</definition>
 	<definition>
 		<key>text_orders</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_downloads</key>
-		<value><![CDATA[preuzimanja]]></value>
+		<value><![CDATA[Preuzimanja]]></value>
 	</definition>
 	<definition>
 		<key>text_product_categories</key>
@@ -38,15 +38,15 @@
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Brendovi]]></value>
+		<value><![CDATA[Marke]]></value>
 	</definition>
 	<definition>
 		<key>text_languages</key>
-		<value><![CDATA[jezici]]></value>
+		<value><![CDATA[Jezici]]></value>
 	</definition>
 	<definition>
 		<key>text_pages</key>
-		<value><![CDATA[stranice]]></value>
+		<value><![CDATA[Stranice]]></value>
 	</definition>
 	<definition>
 		<key>text_settings</key>
@@ -62,10 +62,10 @@
 	</definition>
 	<definition>
 		<key>text_commands</key>
-		<value><![CDATA[Brzi Naredbe]]></value>
+		<value><![CDATA[Brze naredbe]]></value>
 	</definition>
 	<definition>
 		<key>text_contents</key>
-		<value><![CDATA[Stranice sa sadržajem]]></value>
+		<value><![CDATA[Stranice sadržaja]]></value>
 	</definition>
 </definitions>

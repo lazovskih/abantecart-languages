@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_send_email</key>
-		<value><![CDATA[Pošlji pošto]]></value>
+		<value><![CDATA[Pošlji e-pošto]]></value>
 	</definition>
 	<definition>
 		<key>text_send_sms</key>
@@ -14,43 +14,43 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[privzeto]]></value>
+		<value><![CDATA[Privzeto]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_send</key>
-		<value><![CDATA[Ročno popraviti izbrane stranke]]></value>
+		<value><![CDATA[Ročno izbrani kupci]]></value>
 	</definition>
 	<definition>
 		<key>text_all_subscribers</key>
-		<value><![CDATA[Vse Naročniki]]></value>
+		<value><![CDATA[Vsi naročniki]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribers_only</key>
-		<value><![CDATA[Newsletter Naročniki samo (ne-stranke)]]></value>
+		<value><![CDATA[Samo naročniki na e-novice (ne-stranke)]]></value>
 	</definition>
 	<definition>
 		<key>text_customers_only</key>
-		<value><![CDATA[Vse stranke]]></value>
+		<value><![CDATA[Vsi kupci]]></value>
 	</definition>
 	<definition>
 		<key>entry_store</key>
-		<value><![CDATA[Iz skladišča: <span class="help">Store e-poštni naslov za pošiljanje e-pošto. Vrednost je nastavljena v nastavitvah shranjevanje</span>]]></value>
+		<value><![CDATA[Iz trgovine:<span class="help">E-poštni naslov trgovine, s katerega se pošilja e-pošta. Vrednost je nastavljena v nastavitvah trgovine</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_customers_who_ordered</key>
-		<value><![CDATA[Za stranke, ki je odredil izbrane izdelke]]></value>
+		<value><![CDATA[Strankam, ki so naročile izbrane izdelke]]></value>
 	</definition>
 	<definition>
 		<key>entry_to</key>
-		<value><![CDATA[Za: <span class="help">Seznam stranke, da prejme to sporočilo. OPOMBA: Velike seznami odjemalcev bo potrebno veliko časa, da se obdelujejo, in lahko zahtevajo alternativne metode. Nanašajo na svojih spletnih in e-poštnih konfiguracije strežnika</span>]]></value>
+		<value><![CDATA[Za:<span class="help">Seznam strank, ki bodo prejele to sporočilo. OPOMBA: Veliki seznami strank bodo potrebovali veliko časa za obdelavo in morda bodo zahtevali alternativne metode. Oglejte si konfiguracije vašega spletnega in e-poštnega strežnika</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_customers_from_lookup</key>
-		<value><![CDATA[Začnite tipkati ime stranke za iskanje in izberite]]></value>
+		<value><![CDATA[Začnite vnašati ime stranke, da ga poiščete in izberete]]></value>
 	</definition>
 	<definition>
 		<key>text_products_from_lookup</key>
-		<value><![CDATA[Začnite tipkati ime izdelka za iskanje in izberite]]></value>
+		<value><![CDATA[Začnite vnašati ime izdelka, da ga poiščete in izberete.]]></value>
 	</definition>
 	<definition>
 		<key>entry_subject</key>
@@ -66,43 +66,43 @@
 	</definition>
 	<definition>
 		<key>error_subject</key>
-		<value><![CDATA[Email predmet je potrebno!]]></value>
+		<value><![CDATA[Zadeva e-pošte je obvezna!]]></value>
 	</definition>
 	<definition>
 		<key>error_message_email</key>
-		<value><![CDATA[E-poštno sporočilo telo je potrebno!]]></value>
+		<value><![CDATA[Telo e-poštnega sporočila je obvezno!]]></value>
 	</definition>
 	<definition>
 		<key>error_message_sms</key>
-		<value><![CDATA[SMS sporočila telo je potrebno!]]></value>
+		<value><![CDATA[Vsebina SMS-sporočila je obvezna!]]></value>
 	</definition>
 	<definition>
 		<key>error_recipients</key>
-		<value><![CDATA[Prejemniki seznam, naročniki ali izdelki, naročeni so obvezna!]]></value>
+		<value><![CDATA[Seznam prejemnikov, naročniki ali naročeni izdelki so obvezni!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_sent</key>
-		<value><![CDATA[&quot;Napaka: Ni e-poštna sporočila so bila poslana! Oglejte si dnevnik napak za podrobnosti. &quot;]]></value>
+		<value><![CDATA[Napaka: Ni bilo poslano nobenih e-poštnih sporočil! Za podrobnosti si oglejte dnevnik napak.]]></value>
 	</definition>
 	<definition>
 		<key>text_unsubscribe</key>
-		<value><![CDATA[Ta e-poštni naslov je bilo poslano %s, saj so vaši nastavitev e-pošte nastavljeno na prejemanje glasila. Kliknite <a href="%s">tukaj za odjavo</a> .]]></value>
+		<value><![CDATA[To e-poštno sporočilo je bilo poslano na %s, ker so vaše e-poštne nastavitve nastavljene na prejemanje novic. Kliknite <a href="%s">tukaj za odjavo</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_total_to_be_sent</key>
-		<value><![CDATA[(Skupaj je treba poslati na naslov: %s)]]></value>
+		<value><![CDATA[(Skupaj za pošiljanje na: %s )]]></value>
 	</definition>
 	<definition>
 		<key>text_select_products</key>
-		<value><![CDATA[- Izberite izdelke -]]></value>
+		<value><![CDATA[- Izberi izdelke -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_customers</key>
-		<value><![CDATA[- Izberite Stranke -]]></value>
+		<value><![CDATA[- Izberite stranke -]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[E-naslov]]></value>
+		<value><![CDATA[E-pošta]]></value>
 	</definition>
 	<definition>
 		<key>text_sms</key>
@@ -110,15 +110,19 @@
 	</definition>
 	<definition>
 		<key>text_incomplete_tasks</key>
-		<value><![CDATA[nepopolne Naloge]]></value>
+		<value><![CDATA[Nezaključene naloge]]></value>
 	</definition>
 	<definition>
 		<key>text_task_id</key>
-		<value><![CDATA[ID naloga:]]></value>
+		<value><![CDATA[ID naloge:]]></value>
 	</definition>
 	<definition>
 		<key>text_last_time_run</key>
-		<value><![CDATA[Zadnji čas Run:]]></value>
+		<value><![CDATA[Čas zadnjega zagona:]]></value>
+	</definition>
+	<definition>
+		<key>text_date_added</key>
+		<value><![CDATA[Ustvarjeno:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -130,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[sporočilo:]]></value>
+		<value><![CDATA[Sporočilo:]]></value>
 	</definition>
 	<definition>
 		<key>text_starter_name</key>
@@ -138,38 +142,38 @@
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[Ponovni zagon]]></value>
+		<value><![CDATA[Ponovno zaženi]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Odstraniti]]></value>
+		<value><![CDATA[Odstrani]]></value>
 	</definition>
 	<definition>
 		<key>error_email_no_recipients</key>
-		<value><![CDATA[Pozor! Sporočilo ne bo poslan.]]></value>
+		<value><![CDATA[Pozor! Sporočilo ne bo poslano.]]></value>
 	</definition>
 	<definition>
 		<key>error_sms_no_recipients</key>
-		<value><![CDATA[Pozor! Ni stranke z mobilnimi telefonskimi številkami.]]></value>
+		<value><![CDATA[Pozor! Ni strank z mobilnimi telefonskimi številkami.]]></value>
 	</definition>
 	<definition>
 		<key>text_attention_recipients_count</key>
-		<value><![CDATA[Pozor! Sporočilo bo poslano %s stranke.]]></value>
+		<value><![CDATA[Pozor! Sporočilo bo poslano %s strankam.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_abort</key>
-		<value><![CDATA[Nalogo uspešno prekinjena.]]></value>
+		<value><![CDATA[Naloga je bila uspešno prekinjena.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_sent</key>
-		<value><![CDATA[%s Poslana sporočila.]]></value>
+		<value><![CDATA[%s sporočil je bilo poslano.]]></value>
 	</definition>
 	<definition>
 		<key>text_task_failed</key>
-		<value><![CDATA[Nekatere napake prišlo med postopkom opravil. Prosimo, glej dnevnik za podrobnosti ali ponovno zagnati to nalogo.]]></value>
+		<value><![CDATA[Med izvajanjem naloge je prišlo do nekaterih napak. Prosimo, oglejte si dnevnik za podrobnosti ali znova zaženite to nalogo.]]></value>
 	</definition>
 	<definition>
 		<key>text_sent</key>
-		<value><![CDATA[%s Za %s sporočila so poslana]]></value>
+		<value><![CDATA[%s od %s sporočil je poslanih]]></value>
 	</definition>
 </definitions>

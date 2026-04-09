@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>collection_column_name</key>
-		<value><![CDATA[Samlingens namn]]></value>
+		<value><![CDATA[Kollektionsnamn]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_status</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Samlingens namn:]]></value>
+		<value><![CDATA[Kollektionsnamn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>save_error_name</key>
-		<value><![CDATA[Samlingens namn krävs.]]></value>
+		<value><![CDATA[Kollektionens namn krävs.]]></value>
 	</definition>
 	<definition>
 		<key>collection_new</key>
-		<value><![CDATA[Ny samling]]></value>
+		<value><![CDATA[Ny kollektion]]></value>
 	</definition>
 	<definition>
 		<key>collection_update</key>
-		<value><![CDATA[Uppdatera samling]]></value>
+		<value><![CDATA[Uppdatera kollektion]]></value>
 	</definition>
 	<definition>
 		<key>conditions_title</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[Några]]></value>
+		<value><![CDATA[Någon]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>text_true</key>
-		<value><![CDATA[Sann]]></value>
+		<value><![CDATA[Sant]]></value>
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[Falsk]]></value>
+		<value><![CDATA[Falskt]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>text_in</key>
-		<value><![CDATA[I]]></value>
+		<value><![CDATA[i]]></value>
 	</definition>
 	<definition>
 		<key>text_not_in</key>
@@ -118,15 +118,15 @@
 	</definition>
 	<definition>
 		<key>text_not_equal</key>
-		<value><![CDATA[Inte lika]]></value>
+		<value><![CDATA[Inte lika med]]></value>
 	</definition>
 	<definition>
 		<key>text_equal_or_less</key>
-		<value><![CDATA[Lika eller mindre]]></value>
+		<value><![CDATA[Lika med eller mindre än]]></value>
 	</definition>
 	<definition>
 		<key>text_equal_or_greater</key>
-		<value><![CDATA[Lika eller större]]></value>
+		<value><![CDATA[Lika med eller större]]></value>
 	</definition>
 	<definition>
 		<key>text_greater</key>
@@ -138,7 +138,7 @@
 	</definition>
 	<definition>
 		<key>entry_brands</key>
-		<value><![CDATA[Märken:]]></value>
+		<value><![CDATA[Varumärken:]]></value>
 	</definition>
 	<definition>
 		<key>entry_products</key>
@@ -150,19 +150,19 @@
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
-		<value><![CDATA[-Välj Tag-]]></value>
+		<value><![CDATA[-Välj tagg-]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[-Välj Tag-]]></value>
+		<value><![CDATA[-Välj Tagg-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Spara komplett]]></value>
+		<value><![CDATA[Sparande slutfört]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Meta nyckelord:]]></value>
+		<value><![CDATA[Meta-nyckelord:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
@@ -170,7 +170,7 @@
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO-sökord:]]></value>
+		<value><![CDATA[SEO-nyckelord:]]></value>
 	</definition>
 	<definition>
 		<key>tab_design</key>
@@ -182,7 +182,7 @@
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Layout Spara färdig]]></value>
+		<value><![CDATA[Layout Spara Slutförd]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
@@ -194,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>entry_collection_id</key>
-		<value><![CDATA[Välj samling:]]></value>
+		<value><![CDATA[Välj kollektion:]]></value>
 	</definition>
 	<definition>
 		<key>save_error_unique_keyword</key>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[užívatelia]]></value>
+		<value><![CDATA[Používatelia]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_details</key>
-		<value><![CDATA[Úprava Profil Podrobnosti]]></value>
+		<value><![CDATA[Upraviť podrobnosti profilu]]></value>
 	</definition>
 	<definition>
 		<key>text_user</key>
-		<value><![CDATA[užívateľ]]></value>
+		<value><![CDATA[Používateľ]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Zmenili ste užívatelia!]]></value>
+		<value><![CDATA[Úspech: Upravili ste používateľov!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_details</key>
@@ -22,35 +22,35 @@
 	</definition>
 	<definition>
 		<key>column_username</key>
-		<value><![CDATA[užívateľské meno]]></value>
+		<value><![CDATA[Používateľské meno]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[skupina]]></value>
+		<value><![CDATA[Skupina]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Dátum pridané]]></value>
+		<value><![CDATA[Dátum pridania]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
-		<value><![CDATA[Užívateľské meno:]]></value>
+		<value><![CDATA[Používateľské meno:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
-		<value><![CDATA[heslo:]]></value>
+		<value><![CDATA[Heslo:]]></value>
 	</definition>
 	<definition>
 		<key>entry_confirm</key>
-		<value><![CDATA[potvrdiť:]]></value>
+		<value><![CDATA[Potvrdiť:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -70,31 +70,31 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavenie:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_ims</key>
-		<value><![CDATA[oznámenia]]></value>
+		<value><![CDATA[Upozornenia]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Zadajte kód z obrázku do poľa nižšie:]]></value>
+		<value><![CDATA[Zadajte kód do poľa nižšie:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varovanie: Nemáte oprávnenie k úprave užívatelia!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upravovať používateľov!]]></value>
 	</definition>
 	<definition>
 		<key>error_account</key>
-		<value><![CDATA[Varovanie: Nemôžete zmazať svoj vlastný účet!]]></value>
+		<value><![CDATA[Upozornenie: Nemôžete zmazať svoj vlastný účet!]]></value>
 	</definition>
 	<definition>
 		<key>error_username</key>
-		<value><![CDATA[Užívateľské meno musí byť medzi 2 a 20 znakov!]]></value>
+		<value><![CDATA[Používateľské meno musí mať medzi 2 a 20 znakmi a musí byť jedinečné!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Heslo musí byť dlhšie ako 3 znaky!]]></value>
+		<value><![CDATA[Heslo musí mať viac ako 3 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
@@ -102,23 +102,23 @@
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Meno musí byť medzi 2 a 32 znakov!]]></value>
+		<value><![CDATA[Krstné meno musí mať medzi 2 a 32 znakmi!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Last Name musí byť v rozmedzí 2 až 32 znakov!]]></value>
+		<value><![CDATA[Priezvisko musí mať dĺžku od 2 do 32 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mailová adresa sa nezdá byť platný!]]></value>
+		<value><![CDATA[E-mailová adresa sa nezdá byť platná!]]></value>
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Ľudský Overenie zlyhalo!]]></value>
+		<value><![CDATA[Overenie človeka zlyhalo!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_group</key>
-		<value><![CDATA[Nemáte žiadne oprávnenie zmeniť skupinu používateľov.]]></value>
+		<value><![CDATA[Nemáte oprávnenia na zmenu používateľskej skupiny.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
@@ -126,22 +126,22 @@
 	</definition>
 	<definition>
 		<key>entry_im_email</key>
-		<value><![CDATA[E-mail: <span class="help">Jeden alebo viac oddelené čiarkou e-mailovej adresy</span>]]></value>
+		<value><![CDATA[E-Mail:<span class="help">Jedna alebo viac e-mailových adries oddelených čiarkou</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_im_sms</key>
-		<value><![CDATA[Mobilný telefón: <span class="help">Telefónne číslo v medzinárodnom formáte. ex. +14566887777</span>]]></value>
+		<value><![CDATA[Mobilný telefón:<span class="help">Telefónne číslo v medzinárodnom formáte. Napr. +14566887777</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_im</key>
-		<value><![CDATA[editovať Oznámenie]]></value>
+		<value><![CDATA[Upraviť upozornenia]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoints</key>
-		<value><![CDATA[nastavenie oznámenia]]></value>
+		<value><![CDATA[Nastavenia upozornení]]></value>
 	</definition>
 	<definition>
 		<key>text_change_im_addresses</key>
-		<value><![CDATA[Edit oznámenia adresy pre tento SendPoint]]></value>
+		<value><![CDATA[Upraviť adresy oznámení pre tento SendPoint]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[cache Hantering]]></value>
+		<value><![CDATA[Cachehantering]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har tagits bort cachefiler!]]></value>
+		<value><![CDATA[Framgång: Du har framgångsrikt raderat cachefilerna!]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_layouts_blocks</key>
-		<value><![CDATA[Layouter &amp; block]]></value>
+		<value><![CDATA[Layouter & Block]]></value>
 	</definition>
 	<definition>
 		<key>text_flexyforms</key>
-		<value><![CDATA[Flexy Forms]]></value>
+		<value><![CDATA[Flexy formulär]]></value>
 	</definition>
 	<definition>
 		<key>text_images</key>
@@ -30,31 +30,31 @@
 	</definition>
 	<definition>
 		<key>text_categories</key>
-		<value><![CDATA[kategorier]]></value>
+		<value><![CDATA[Kategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[tillverkare]]></value>
+		<value><![CDATA[Varumärken]]></value>
 	</definition>
 	<definition>
 		<key>text_localisations</key>
-		<value><![CDATA[lokaliseringar]]></value>
+		<value><![CDATA[Lokaliseringar]]></value>
 	</definition>
 	<definition>
 		<key>text_error_log</key>
-		<value><![CDATA[Felloggen]]></value>
+		<value><![CDATA[Fel Logg]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_cache</key>
-		<value><![CDATA[Klart Valt Cache]]></value>
+		<value><![CDATA[Rensa valda cache]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_all_cache</key>
-		<value><![CDATA[Clear All Cache]]></value>
+		<value><![CDATA[Rensa all data]]></value>
 	</definition>
 	<definition>
 		<key>desc_configuration</key>
-		<value><![CDATA[System och lagra konfigurationer]]></value>
+		<value><![CDATA[System- och butikskonfigurationer]]></value>
 	</definition>
 	<definition>
 		<key>desc_layouts_blocks</key>
@@ -62,35 +62,35 @@
 	</definition>
 	<definition>
 		<key>desc_flexyforms</key>
-		<value><![CDATA[Flexy former uppgifter]]></value>
+		<value><![CDATA[Flexy-formulärdata]]></value>
 	</definition>
 	<definition>
 		<key>desc_images</key>
-		<value><![CDATA[miniatyr]]></value>
+		<value><![CDATA[Bildminiatyrer]]></value>
 	</definition>
 	<definition>
 		<key>desc_products</key>
-		<value><![CDATA[Produkt]]></value>
+		<value><![CDATA[Produktdata]]></value>
 	</definition>
 	<definition>
 		<key>desc_categories</key>
-		<value><![CDATA[kategori uppgifter]]></value>
+		<value><![CDATA[Kategoridata]]></value>
 	</definition>
 	<definition>
 		<key>desc_manufacturers</key>
-		<value><![CDATA[Tillverkare uppgifter]]></value>
+		<value><![CDATA[Varumärkesdata]]></value>
 	</definition>
 	<definition>
 		<key>desc_localisations</key>
-		<value><![CDATA[Valuta, språk, land, zon, längd, vikt, &amp; andra]]></value>
+		<value><![CDATA[Valuta, Språk, Land, Zon, Längd, Vikt, & andra]]></value>
 	</definition>
 	<definition>
 		<key>desc_error_log</key>
-		<value><![CDATA[Felloggen]]></value>
+		<value><![CDATA[Fel logg]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[cache Type]]></value>
+		<value><![CDATA[Cachetyp]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[Installera / Uppgradera Historia]]></value>
+		<value><![CDATA[Installations-/uppgraderingshistorik]]></value>
 	</definition>
 	<definition>
 		<key>desc_install_upgrade_history</key>
-		<value><![CDATA[Clear All Installera / Uppgradera Historia]]></value>
+		<value><![CDATA[Rensa all installations-/uppgraderingshistorik]]></value>
 	</definition>
 	<definition>
 		<key>text_edits_history</key>

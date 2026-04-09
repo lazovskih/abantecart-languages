@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Rabaty Zgłoś]]></value>
+		<value><![CDATA[Raport rabatów]]></value>
 	</definition>
 	<definition>
 		<key>column_coupon_name</key>
-		<value><![CDATA[Rabat / Kupon Nazwa]]></value>
+		<value><![CDATA[Nazwa zniżki/kuponu]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[Brak zamówień]]></value>
+		<value><![CDATA[Liczba zamówień]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Całkowity]]></value>
+		<value><![CDATA[Razem]]></value>
 	</definition>
 	<definition>
 		<key>column_discount_total</key>
-		<value><![CDATA[Razem z rabatem]]></value>
+		<value><![CDATA[Łączna zniżka]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>

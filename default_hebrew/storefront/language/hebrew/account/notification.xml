@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[הודעות ו ניוזלטר]]></value>
+		<value><![CDATA[התראות ועלון]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[חֶשְׁבּוֹן]]></value>
+		<value><![CDATA[חשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_notifications</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: הגדרות ההודעות שלך עודכנו בהצלחה!]]></value>
+		<value><![CDATA[הצלחה: הגדרות ההתראות שלך עודכנו בהצלחה!]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoint</key>

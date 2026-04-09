@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[účtu]]></value>
+		<value><![CDATA[Účet]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Požadovanú objednávku sa nepodarilo nájsť!]]></value>
+		<value><![CDATA[Objednávka, ktorú ste požadovali, sa nenašla!]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
@@ -106,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[Komentár k objednávke zákazníka]]></value>
+		<value><![CDATA[Komentár zákazníka k objednávke]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation</key>
@@ -114,12 +114,11 @@
 	</definition>
 	<definition>
 		<key>text_request_cancellation_from_customer</key>
-		<value><![CDATA[Požiadajte zákazníka o zrušenie objednávky ]]></value>
+		<value><![CDATA[Požiadajte zákazníka o zrušenie objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_confirm</key>
-		<value><![CDATA[
- Vaša žiadosť o zrušenie nemusí byť v niektorých prípadoch podaná, napríklad keď bol tovar odoslaný. Pokračovať?]]></value>
+		<value><![CDATA[Vašu žiadosť o zrušenie nemusí byť možné podať v niektorých prípadoch, napríklad keď už boli tovary odoslané. Pokračovať?]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_success</key>
@@ -127,18 +126,18 @@
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_title</key>
-		<value><![CDATA[Objednávka #%s žiadosť o zrušenie]]></value>
+		<value><![CDATA[Žiadosť o zrušenie objednávky #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_body</key>
-		<value><![CDATA[Zákazník %s požiadal o zrušenie objednávky pre objednávku č.%s. Ak chcete skontrolovať, prejdite na %s]]></value>
+		<value><![CDATA[Zákazník %s požiadal o zrušenie objednávky č. %s. Na preskúmanie prejdite na %s]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Zdá sa, že e-mailová adresa nie je platná!]]></value>
+		<value><![CDATA[E-mailová adresa sa nezdá byť platná!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_id</key>
-		<value><![CDATA[ID objednávky je povinné pole!]]></value>
+		<value><![CDATA[Pole ID objednávky je povinné!]]></value>
 	</definition>
 </definitions>

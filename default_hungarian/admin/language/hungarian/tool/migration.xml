@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Kosár migrációs]]></value>
+		<value><![CDATA[Kosár migráció]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_step_one</key>
@@ -14,23 +14,23 @@
 	</definition>
 	<definition>
 		<key>heading_title_step_three</key>
-		<value><![CDATA[- Befejez]]></value>
+		<value><![CDATA[- Befejezés]]></value>
 	</definition>
 	<definition>
 		<key>text_description</key>
-		<value><![CDATA[A migrációs eszköz lehetővé teszi adatokat importálni egy másik kocsi. <br/> Megjegyzés: AbanteCart támogatási import mysql csak most. <br/> Nyomja meg a Start gombot a migráció a folytatáshoz ...]]></value>
+		<value><![CDATA[A migrációs eszköz lehetővé teszi az adatok importálását más webáruházakból.<br>Megjegyzés: Az AbanteCart jelenleg csak MySQL importálást támogat.<br>A folytatáshoz nyomja meg a ‘Migráció indítása’ gombot...]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Te adatok sikeresen transfeerd a Abantecart!]]></value>
+		<value><![CDATA[Siker: Az Ön adatai sikeresen átkerültek az AbanteCartba!]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_info</key>
-		<value><![CDATA[Forrás Kosár Információ <span class="help">Forrás bevásárlókocsi adatait.</span>]]></value>
+		<value><![CDATA[Forrás kosár információ<span class="help">Forrás kosáralkalmazás részletei.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_db_info</key>
-		<value><![CDATA[Adatbázis Info <span class="help">Megjegyzés: AbanteCart támogatási import mysql csak most.</span>]]></value>
+		<value><![CDATA[Adatbázis-információ<span class="help">Megjegyzés: Az AbanteCart jelenleg csak MySQL importot támogat.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_type</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>entry_db_host</key>
-		<value><![CDATA[Adatbázis Host:]]></value>
+		<value><![CDATA[Adatbázis kiszolgáló:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_user</key>
-		<value><![CDATA[Adatbázis Szerkesztő:]]></value>
+		<value><![CDATA[Adatbázis felhasználó:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_password</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>entry_cart_select</key>
-		<value><![CDATA[- Válassza ki a kosár típus -]]></value>
+		<value><![CDATA[- válassza ki a kosár típusát -]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_osc</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>entry_migrate_data</key>
-		<value><![CDATA[Válassza adatok vándorolnak]]></value>
+		<value><![CDATA[Válassza ki az áthelyezendő adatokat]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_categories</key>
@@ -94,71 +94,71 @@
 	</definition>
 	<definition>
 		<key>entry_migrate_data_products</key>
-		<value><![CDATA[Termékek, kategóriák, Brands]]></value>
+		<value><![CDATA[Termékek, Kategóriák, Márkák]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_customers</key>
-		<value><![CDATA[Az ügyfelek]]></value>
+		<value><![CDATA[Ügyfelek]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_orders</key>
-		<value><![CDATA[rendelés]]></value>
+		<value><![CDATA[Rendelések]]></value>
 	</definition>
 	<definition>
 		<key>entry_erase_existing_data</key>
-		<value><![CDATA[Törli a meglévő adatokat?]]></value>
+		<value><![CDATA[Törölje a meglévő adatokat?]]></value>
 	</definition>
 	<definition>
 		<key>button_start_migration</key>
-		<value><![CDATA[Kezdés Migration]]></value>
+		<value><![CDATA[Migráció indítása]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Folytatni]]></value>
+		<value><![CDATA[Folytatás]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
-		<value><![CDATA[Hát]]></value>
+		<value><![CDATA[Vissza]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[Megszünteti]]></value>
+		<value><![CDATA[Mégse]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye elvégzésére migrációs!]]></value>
+		<value><![CDATA[Figyelem: Önnek nincs jogosultsága a migráció végrehajtására!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_host</key>
-		<value><![CDATA[Host szükséges!]]></value>
+		<value><![CDATA[Hoszt szükséges!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_user</key>
-		<value><![CDATA[Felhasználói szükséges!]]></value>
+		<value><![CDATA[Felhasználó szükséges!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_name</key>
-		<value><![CDATA[Adatbázis neve szükséges!]]></value>
+		<value><![CDATA[Adatbázisnév szükséges!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_connection</key>
-		<value><![CDATA[Hiba: Nem sikerült csatlakozni az adatbázishoz ellenőrizze, hogy az adatbázis szerver, felhasználónév és jelszó helyes!]]></value>
+		<value><![CDATA[Hiba: Nem sikerült csatlakozni az adatbázishoz! Kérjük, győződjön meg róla, hogy az adatbázis-szerver, a felhasználónév és a jelszó helyes!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_not_exist</key>
-		<value><![CDATA[Hiba: Az adatbázis nem létezik!]]></value>
+		<value><![CDATA[Hiba: Adatbázis nem létezik!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_type</key>
-		<value><![CDATA[Hiba: Kérem válasszon kosár típusát!]]></value>
+		<value><![CDATA[Hiba: Kérjük, válassza ki a kosár típusát!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_url</key>
-		<value><![CDATA[Hiba: a kosár URL szükséges!]]></value>
+		<value><![CDATA[Hiba: A kosár URL megadása kötelező!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_not_supported</key>
-		<value><![CDATA[Figyelmeztetés: Választott helyezése nem támogatott most!]]></value>
+		<value><![CDATA[Figyelem: A kiválasztott kosár jelenleg nem támogatott!]]></value>
 	</definition>
 	<definition>
 		<key>error_migrate_data</key>
@@ -166,30 +166,30 @@
 	</definition>
 	<definition>
 		<key>text_no_customers</key>
-		<value><![CDATA[Megjegyzés: Senki ügyfél importált.]]></value>
+		<value><![CDATA[Megjegyzés: Egyetlen ügyfél sem lett importálva.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_products</key>
-		<value><![CDATA[Megjegyzés: Senki terméket importált.]]></value>
+		<value><![CDATA[Megjegyzés: egy termék sem lett importálva.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_orders</key>
-		<value><![CDATA[Megjegyzés: Senki érdekében importált.]]></value>
+		<value><![CDATA[Megjegyzés: Egyetlen rendelés sem importálódott.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_brands</key>
-		<value><![CDATA[Megjegyzés: Senki márka importált.]]></value>
+		<value><![CDATA[Megjegyzés: Egyetlen márka sem lett importálva.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_categories</key>
-		<value><![CDATA[Megjegyzés: Senki termékkategória importált.]]></value>
+		<value><![CDATA[Megjegyzés: Egyetlen termékkategória sem került importálásra.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_source_cart</key>
-		<value><![CDATA[Figyelmeztetés: A választott forrás kosara üres! Kérjük, ellenőrizze adatbázis és tábla előtag.]]></value>
+		<value><![CDATA[Figyelmeztetés: A kiválasztott forrás kosár üres! Kérjük, ellenőrizze az adatbázist és a tábla előtagot.]]></value>
 	</definition>
 	<definition>
 		<key>text_finished</key>
-		<value><![CDATA[Migrációs befejeződött.]]></value>
+		<value><![CDATA[A migráció befejeződött.]]></value>
 	</definition>
 </definitions>

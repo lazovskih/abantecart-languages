@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[objednávky zákazníků]]></value>
+		<value><![CDATA[Objednávky zákazníků]]></value>
 	</definition>
 	<definition>
 		<key>column_customer_id</key>
-		<value><![CDATA[zákaznické identifikační číslo]]></value>
+		<value><![CDATA[ID zákazníka]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
@@ -14,14 +14,14 @@
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[Skupina zákazníků]]></value>
+		<value><![CDATA[Zákaznická skupina]]></value>
 	</definition>
 	<definition>
 		<key>column_order_count</key>
-		<value><![CDATA[objednávky Count]]></value>
+		<value><![CDATA[Počet objednávek]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Celkový]]></value>
+		<value><![CDATA[Celkem]]></value>
 	</definition>
 </definitions>

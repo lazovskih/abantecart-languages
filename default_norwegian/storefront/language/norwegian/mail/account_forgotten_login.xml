@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Påloggingsnavn påminnelse]]></value>
+		<value><![CDATA[%s - Påminnelse om innloggingsnavn]]></value>
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[Påloggingsnavn påminnelse ble bedt om fra %s.]]></value>
+		<value><![CDATA[Påminnelse om innloggingsnavn ble forespurt fra %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_your_loginname</key>
-		<value><![CDATA[Påloggingsnavnet er:]]></value>
+		<value><![CDATA[Ditt innloggingsnavn er:]]></value>
 	</definition>
 </definitions>

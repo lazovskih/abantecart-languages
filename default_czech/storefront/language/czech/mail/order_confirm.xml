@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[Děkujeme vám za váš zájem o produkty %s. Vaše objednávka byla přijata a bude zpracována poté, co platba potvrzena.]]></value>
+		<value><![CDATA[Děkujeme za Váš zájem o %s produkty. Vaše objednávka byla přijata a bude zpracována po potvrzení platby.]]></value>
 	</definition>
 	<definition>
 		<key>text_received</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_order_detail</key>
-		<value><![CDATA[Podrobnosti o objednávce]]></value>
+		<value><![CDATA[Podrobnosti objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[Číslo objednávky:]]></value>
+		<value><![CDATA[ID objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum Objednáno:]]></value>
+		<value><![CDATA[Datum objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Chcete-li zobrazit objednávky, klikněte na odkaz níže:]]></value>
+		<value><![CDATA[Pro zobrazení vaší objednávky klikněte na níže uvedený odkaz:]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
@@ -42,15 +42,15 @@
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[doručovací adresa]]></value>
+		<value><![CDATA[Dodací adresa]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[platební adresa]]></value>
+		<value><![CDATA[Platební adresa]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[E-mailem:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>text_telephone</key>
@@ -74,19 +74,19 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[součty:]]></value>
+		<value><![CDATA[Součty:]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Jakmile bude vaše platba byla potvrzena můžete kliknout na následující odkaz pro přístup k produkty ke stažení:]]></value>
+		<value><![CDATA[Jakmile bude vaše platba potvrzena, můžete kliknout na níže uvedený odkaz pro přístup k vašim stahovatelným produktům:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[Připomínky k vaší objednávce jsou následující:]]></value>
+		<value><![CDATA[Komentáře k vaší objednávce jsou:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Prosím, odpovězte na tento e-mail, pokud máte nějaké otázky.]]></value>
+		<value><![CDATA[Prosím, odpovězte na tento e-mail, pokud máte jakékoli dotazy.]]></value>
 	</definition>
 	<definition>
 		<key>text_powered_by</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>text_new_order_text</key>
-		<value><![CDATA[Zákazník %s přidán nový řád]]></value>
+		<value><![CDATA[Zákazník %s přidal novou objednávku]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -106,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[model]]></value>
+		<value><![CDATA[Model]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
@@ -118,6 +118,6 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Celkový]]></value>
+		<value><![CDATA[Celkem]]></value>
 	</definition>
 </definitions>

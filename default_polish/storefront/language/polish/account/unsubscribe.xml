@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Twój powodzeniem subskrypcję!]]></value>
+		<value><![CDATA[Zostałeś pomyślnie wypisany!]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[Byliście pomyślnie wypisany z komunikacji elektronicznej.]]></value>
+		<value><![CDATA[Zostałeś pomyślnie wypisany z korespondencji e-mailowej.]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,6 +14,6 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Powodzenie]]></value>
+		<value><![CDATA[Sukces]]></value>
 	</definition>
 </definitions>

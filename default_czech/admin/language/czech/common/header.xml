@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Správa]]></value>
+		<value><![CDATA[Administrace]]></value>
 	</definition>
 	<definition>
 		<key>text_backup</key>
-		<value><![CDATA[Obnovení zálohy]]></value>
+		<value><![CDATA[Záloha / Obnovení]]></value>
 	</definition>
 	<definition>
 		<key>text_welcome</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_edit_details</key>
-		<value><![CDATA[Úprava Profil Podrobnosti]]></value>
+		<value><![CDATA[Upravit podrobnosti profilu]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_notifications</key>
@@ -38,15 +38,15 @@
 	</definition>
 	<definition>
 		<key>text_country</key>
-		<value><![CDATA[země]]></value>
+		<value><![CDATA[Země]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon</key>
-		<value><![CDATA[kupony]]></value>
+		<value><![CDATA[Kupóny]]></value>
 	</definition>
 	<definition>
 		<key>text_discount</key>
-		<value><![CDATA[slevy]]></value>
+		<value><![CDATA[Slevy]]></value>
 	</definition>
 	<definition>
 		<key>text_currency</key>
@@ -54,15 +54,15 @@
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[zákazníci]]></value>
+		<value><![CDATA[Zákazníci]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_group</key>
-		<value><![CDATA[Skupiny zákazníků]]></value>
+		<value><![CDATA[Zákaznické skupiny]]></value>
 	</definition>
 	<definition>
 		<key>text_dashboard</key>
-		<value><![CDATA[Přístrojová deska]]></value>
+		<value><![CDATA[Nástěnka]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
@@ -70,27 +70,27 @@
 	</definition>
 	<definition>
 		<key>text_error_log</key>
-		<value><![CDATA[Chyba Protokoly]]></value>
+		<value><![CDATA[Chybové protokoly]]></value>
 	</definition>
 	<definition>
 		<key>text_extension</key>
-		<value><![CDATA[rozšíření]]></value>
+		<value><![CDATA[Rozšíření]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_short</key>
-		<value><![CDATA[rozšíření]]></value>
+		<value><![CDATA[Rozšíření]]></value>
 	</definition>
 	<definition>
 		<key>text_front</key>
-		<value><![CDATA[výkladní skříň]]></value>
+		<value><![CDATA[Vzhled obchodu]]></value>
 	</definition>
 	<definition>
 		<key>text_location</key>
-		<value><![CDATA[Místa]]></value>
+		<value><![CDATA[Umístění]]></value>
 	</definition>
 	<definition>
 		<key>text_help</key>
-		<value><![CDATA[Pomoc]]></value>
+		<value><![CDATA[Nápověda]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
@@ -98,19 +98,19 @@
 	</definition>
 	<definition>
 		<key>text_language</key>
-		<value><![CDATA[jazyky]]></value>
+		<value><![CDATA[Jazyky]]></value>
 	</definition>
 	<definition>
 		<key>text_language_definitions</key>
-		<value><![CDATA[Jazykové Definice]]></value>
+		<value><![CDATA[Jazykové definice]]></value>
 	</definition>
 	<definition>
 		<key>text_localisation</key>
-		<value><![CDATA[lokalizace]]></value>
+		<value><![CDATA[Lokalizace]]></value>
 	</definition>
 	<definition>
 		<key>text_logged</key>
-		<value><![CDATA[Jste přihlášeni jako <span>%s</span>]]></value>
+		<value><![CDATA[Jste přihlášen(a) jako <span>%s</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_logout</key>
@@ -118,15 +118,15 @@
 	</definition>
 	<definition>
 		<key>text_contact</key>
-		<value><![CDATA[Poslat mail]]></value>
+		<value><![CDATA[Odeslat e-mail]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[Výrobci]]></value>
+		<value><![CDATA[Značky]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[objednávky]]></value>
+		<value><![CDATA[Objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
@@ -142,11 +142,11 @@
 	</definition>
 	<definition>
 		<key>text_product</key>
-		<value><![CDATA[produkty]]></value>
+		<value><![CDATA[Produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_reports</key>
-		<value><![CDATA[zprávy]]></value>
+		<value><![CDATA[Přehledy]]></value>
 	</definition>
 	<definition>
 		<key>text_online</key>
@@ -154,7 +154,7 @@
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[transakce]]></value>
+		<value><![CDATA[Transakce]]></value>
 	</definition>
 	<definition>
 		<key>text_tax</key>
@@ -162,31 +162,31 @@
 	</definition>
 	<definition>
 		<key>text_report_purchased</key>
-		<value><![CDATA[Produkt zakoupen]]></value>
+		<value><![CDATA[Zakoupené produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_report_sale</key>
-		<value><![CDATA[Odbyt]]></value>
+		<value><![CDATA[Prodeje]]></value>
 	</definition>
 	<definition>
 		<key>text_analytics</key>
-		<value><![CDATA[Analytics &amp; Insights]]></value>
+		<value><![CDATA[Analytika & Postřehy]]></value>
 	</definition>
 	<definition>
 		<key>text_report_viewed</key>
-		<value><![CDATA[Průběh]]></value>
+		<value><![CDATA[Zobrazené produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_review</key>
-		<value><![CDATA[recenze]]></value>
+		<value><![CDATA[Recenze]]></value>
 	</definition>
 	<definition>
 		<key>text_sale</key>
-		<value><![CDATA[Odbyt]]></value>
+		<value><![CDATA[Prodeje]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Lodní doprava]]></value>
+		<value><![CDATA[Doprava]]></value>
 	</definition>
 	<definition>
 		<key>text_setting</key>
@@ -194,11 +194,11 @@
 	</definition>
 	<definition>
 		<key>text_stock_status</key>
-		<value><![CDATA[Sklad Stavy]]></value>
+		<value><![CDATA[Stavy zásob]]></value>
 	</definition>
 	<definition>
 		<key>text_support</key>
-		<value><![CDATA[Fórum podpory]]></value>
+		<value><![CDATA[Podpůrné fórum]]></value>
 	</definition>
 	<definition>
 		<key>text_system</key>
@@ -206,15 +206,15 @@
 	</definition>
 	<definition>
 		<key>text_tax_class</key>
-		<value><![CDATA[daňové Třídy]]></value>
+		<value><![CDATA[Daňové třídy]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Objednat Součty]]></value>
+		<value><![CDATA[Součty objednávek]]></value>
 	</definition>
 	<definition>
 		<key>text_user</key>
-		<value><![CDATA[uživatelé]]></value>
+		<value><![CDATA[Uživatelé]]></value>
 	</definition>
 	<definition>
 		<key>text_documentation</key>
@@ -222,39 +222,39 @@
 	</definition>
 	<definition>
 		<key>text_users</key>
-		<value><![CDATA[uživatelé]]></value>
+		<value><![CDATA[Uživatelé]]></value>
 	</definition>
 	<definition>
 		<key>text_user_group</key>
-		<value><![CDATA[Skupiny uživatelů]]></value>
+		<value><![CDATA[Uživatelské skupiny]]></value>
 	</definition>
 	<definition>
 		<key>text_weight_class</key>
-		<value><![CDATA[Hmotnost Třídy]]></value>
+		<value><![CDATA[Hmotnostní třídy]]></value>
 	</definition>
 	<definition>
 		<key>text_length_class</key>
-		<value><![CDATA[délka Třídy]]></value>
+		<value><![CDATA[Třídy délky]]></value>
 	</definition>
 	<definition>
 		<key>text_zone</key>
-		<value><![CDATA[zóny]]></value>
+		<value><![CDATA[Zóny]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions</key>
-		<value><![CDATA[Všechna rozšíření]]></value>
+		<value><![CDATA[Všechny rozšíření]]></value>
 	</definition>
 	<definition>
 		<key>text_add_extension</key>
-		<value><![CDATA[nainstalovat rozšíření]]></value>
+		<value><![CDATA[Nainstalovat rozšíření]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
-		<value><![CDATA[Získejte rozšíření]]></value>
+		<value><![CDATA[Získat rozšíření]]></value>
 	</definition>
 	<definition>
 		<key>text_migrate</key>
-		<value><![CDATA[Nástroj pro migraci]]></value>
+		<value><![CDATA[Migrační nástroj]]></value>
 	</definition>
 	<definition>
 		<key>text_updater</key>
@@ -262,27 +262,27 @@
 	</definition>
 	<definition>
 		<key>text_templates</key>
-		<value><![CDATA[šablony]]></value>
+		<value><![CDATA[Šablony]]></value>
 	</definition>
 	<definition>
 		<key>text_layout</key>
-		<value><![CDATA[rozvržení]]></value>
+		<value><![CDATA[Rozložení]]></value>
 	</definition>
 	<definition>
 		<key>text_blocks</key>
-		<value><![CDATA[bloky]]></value>
+		<value><![CDATA[Bloky]]></value>
 	</definition>
 	<definition>
 		<key>text_menu</key>
-		<value><![CDATA[Jídelní lístek]]></value>
+		<value><![CDATA[Nabídka]]></value>
 	</definition>
 	<definition>
 		<key>text_cache</key>
-		<value><![CDATA[Mezipaměti]]></value>
+		<value><![CDATA[Vymazat data]]></value>
 	</definition>
 	<definition>
 		<key>text_messages</key>
-		<value><![CDATA[zprávy]]></value>
+		<value><![CDATA[Zprávy]]></value>
 	</definition>
 	<definition>
 		<key>text_content</key>
@@ -294,7 +294,7 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[Pomoc při instalaci / upgrade historie]]></value>
+		<value><![CDATA[Historie instalace/aktualizace]]></value>
 	</definition>
 	<definition>
 		<key>text_attribute</key>
@@ -302,15 +302,15 @@
 	</definition>
 	<definition>
 		<key>text_attribute_groups</key>
-		<value><![CDATA[Globální atributy Skupiny]]></value>
+		<value><![CDATA[Skupiny globálních atributů]]></value>
 	</definition>
 	<definition>
 		<key>text_import_export</key>
-		<value><![CDATA[Import Export]]></value>
+		<value><![CDATA[Import / Export]]></value>
 	</definition>
 	<definition>
 		<key>text_data</key>
-		<value><![CDATA[Data]]></value>
+		<value><![CDATA[Údaje]]></value>
 	</definition>
 	<definition>
 		<key>text_logs</key>
@@ -318,15 +318,15 @@
 	</definition>
 	<definition>
 		<key>text_quick_edit_form</key>
-		<value><![CDATA[Formulář pro rychlou úpravu]]></value>
+		<value><![CDATA[Formulář rychlé úpravy]]></value>
 	</definition>
 	<definition>
 		<key>text_all_matches</key>
-		<value><![CDATA[všechny zápasy]]></value>
+		<value><![CDATA[všechny shody]]></value>
 	</definition>
 	<definition>
 		<key>text_file_uploads</key>
-		<value><![CDATA[nahrávání souborů]]></value>
+		<value><![CDATA[Nahrávání souborů]]></value>
 	</definition>
 	<definition>
 		<key>text_all_settings</key>
@@ -334,15 +334,15 @@
 	</definition>
 	<definition>
 		<key>text_settings_details</key>
-		<value><![CDATA[Uložení Podrobnosti]]></value>
+		<value><![CDATA[Detaily obchodu]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_general</key>
-		<value><![CDATA[Všeobecné]]></value>
+		<value><![CDATA[Obecné]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_checkout</key>
-		<value><![CDATA[Překontrolovat]]></value>
+		<value><![CDATA[Pokladna]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_appearance</key>
@@ -370,51 +370,51 @@
 	</definition>
 	<definition>
 		<key>text_voice_command_prompt</key>
-		<value><![CDATA[Hlasové Příkazový řádek.]]></value>
+		<value><![CDATA[Výzva pro hlasové příkazy]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_select_dialect</key>
-		<value><![CDATA[Vyberte si dialekt]]></value>
+		<value><![CDATA[Vyberte si svůj dialekt]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_confirm_action</key>
-		<value><![CDATA[Potvrzení této akce nebo zrušit]]></value>
+		<value><![CDATA[Potvrďte tuto akci nebo ji zrušte]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_speak_now</key>
-		<value><![CDATA[Mluvte.]]></value>
+		<value><![CDATA[Mluv teď.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_no_speach_detected</key>
-		<value><![CDATA[Žádný projev byl zjištěn. Možná budete muset upravit <a href="//support.google.com/chrome/bin/answer.py?hl=en<span class="notranslate">1 #### 1amp; answer = 1407892 &quot;&gt; nastavení mikrofonu</a> .]]></value>
+		<value><![CDATA[Nebyla detekována žádná řeč. Možná budete muset upravit <a href="//support.google.com/chrome/bin/answer.py?hl=en&amp;answer=1407892">nastavení mikrofonu</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_no_mic_detected</key>
-		<value><![CDATA[Nebyla nalezena žádná mikrofon. Ujistěte se, že je nainstalován mikrofon a to <a href="//support.google.com/chrome/bin/answer.py?hl=en<span class="notranslate">1. #### 1amp; answer = 1407892 &quot;&gt; Nastavení mikrofonu</a> jsou nakonfigurovány správně.]]></value>
+		<value><![CDATA[Nebyl nalezen žádný mikrofon. Ujistěte se, že je mikrofon nainstalován a že <a href="//support.google.com/chrome/bin/answer.py?hl=en&amp;answer=1407892">nastavení mikrofonu</a> je správně nakonfigurováno.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_click_allow</key>
-		<value><![CDATA[Kliknutím na tlačítko &quot;Povolit&quot; shora k tomu, aby mikrofon.]]></value>
+		<value><![CDATA[Klikněte nahoře na tlačítko "Povolit" a povolte svůj mikrofon.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_mic_denied</key>
-		<value><![CDATA[Povolení používat mikrofon byl odepřen.]]></value>
+		<value><![CDATA[Povolení k použití mikrofonu bylo odepřeno.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_mic_permission</key>
-		<value><![CDATA[Povolení k použití mikrofonu je zablokován. Chcete-li změnit, přejděte do prohlížeče <a href="chrome://settings/contentExceptions#media-stream">nastavení médií</a>]]></value>
+		<value><![CDATA[Povolení používání mikrofonu je zablokováno. Chcete-li to změnit, přejděte v prohlížeči do <a href="chrome://settings/contentExceptions#media-stream">nastavení médií</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_not_supported</key>
-		<value><![CDATA[Hlasové ovládání není podporováno tímto prohlížeči. <a href="//www.google.com/chrome" target="_new">Chrome</a> verze 25 nebo pozdější potřeby.]]></value>
+		<value><![CDATA[Hlasové ovládání není podporováno tímto prohlížečem. <a href="//www.google.com/chrome" target="_blank">Chrome</a> verze 25 nebo novější je vyžadována.]]></value>
 	</definition>
 	<definition>
 		<key>text_tasks</key>
-		<value><![CDATA[naplánované úlohy]]></value>
+		<value><![CDATA[Naplánované úlohy]]></value>
 	</definition>
 	<definition>
 		<key>text_read_all_messages</key>
-		<value><![CDATA[Čtení zpráv]]></value>
+		<value><![CDATA[Přečíst všechny zprávy]]></value>
 	</definition>
 	<definition>
 		<key>text_short_stats</key>
@@ -422,7 +422,7 @@
 	</definition>
 	<definition>
 		<key>text_online_now</key>
-		<value><![CDATA[Online Zákazníci]]></value>
+		<value><![CDATA[Online zákazníci]]></value>
 	</definition>
 	<definition>
 		<key>text_online_new</key>
@@ -434,23 +434,23 @@
 	</definition>
 	<definition>
 		<key>text_today_orders</key>
-		<value><![CDATA[Hodnota nových zakázek byla Dnes]]></value>
+		<value><![CDATA[Nové objednávky dnes]]></value>
 	</definition>
 	<definition>
 		<key>text_today_sales</key>
-		<value><![CDATA[Celkový objem prodeje Dnes]]></value>
+		<value><![CDATA[Celkové tržby dnes]]></value>
 	</definition>
 	<definition>
 		<key>text_today_customers</key>
-		<value><![CDATA[Noví zákazníci V současné době]]></value>
+		<value><![CDATA[Dnešní noví zákazníci]]></value>
 	</definition>
 	<definition>
 		<key>text_today_reviews</key>
-		<value><![CDATA[Nové komentáře Dnes]]></value>
+		<value><![CDATA[Nové recenze dnes]]></value>
 	</definition>
 	<definition>
 		<key>text_rl_manager</key>
-		<value><![CDATA[Media manager]]></value>
+		<value><![CDATA[Správce médií]]></value>
 	</definition>
 	<definition>
 		<key>text_server_time</key>
@@ -466,6 +466,6 @@
 	</definition>
 	<definition>
 		<key>text_collection</key>
-		<value><![CDATA[Sbírky]]></value>
+		<value><![CDATA[Kolekce]]></value>
 	</definition>
 </definitions>

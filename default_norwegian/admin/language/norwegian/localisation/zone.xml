@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[soner]]></value>
+		<value><![CDATA[Soner]]></value>
 	</definition>
 	<definition>
 		<key>text_zone</key>
-		<value><![CDATA[sone]]></value>
+		<value><![CDATA[Sone]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>column_code</key>
-		<value><![CDATA[Zone Kode]]></value>
+		<value><![CDATA[Sonekode]]></value>
 	</definition>
 	<definition>
 		<key>column_country</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Sonenavn:]]></value>
+		<value><![CDATA[Navn på sone:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Zone-kode:]]></value>
+		<value><![CDATA[Sonekode:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -62,18 +62,18 @@
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes som det er i dag tildelt som standard butikken sone!]]></value>
+		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes fordi den for øyeblikket er angitt som standard butikksone!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes som det er i dag tildelt %s butikkene!]]></value>
+		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes da den for øyeblikket er tildelt %s butikker!]]></value>
 	</definition>
 	<definition>
 		<key>error_address</key>
-		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes som det er i dag tildelt %s adressebokoppføringer!]]></value>
+		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes da den for øyeblikket er tilordnet %s adressebokoppføringer!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone_to_location</key>
-		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes som det er i dag tildelt %s soner til steder!]]></value>
+		<value><![CDATA[Advarsel: Denne sonen kan ikke slettes ettersom den for øyeblikket er tildelt %s soner til lokasjoner!]]></value>
 	</definition>
 </definitions>

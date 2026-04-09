@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[utvidelser]]></value>
+		<value><![CDATA[Utvidelser]]></value>
 	</definition>
 	<definition>
 		<key>text_install</key>
-		<value><![CDATA[Installere]]></value>
+		<value><![CDATA[Installer]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
@@ -14,11 +14,12 @@
 	</definition>
 	<definition>
 		<key>text_uninstall_delete</key>
-		<value><![CDATA[Avinstaller / Slett]]></value>
+		<value><![CDATA[Avinstaller/Slett]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall_confirm</key>
-		<value><![CDATA[Bekreft at du vil avinstallere forlengelse. Alle skjøte innstillinger og data kan bli slettet og tapte.]]></value>
+		<value><![CDATA[Vennligst bekreft at du ønsker å avinstallere utvidelsen.	
+Alle utvidelsesinnstillinger og tilhørende data kan bli slettet og gå tapt.]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
@@ -42,11 +43,11 @@
 	</definition>
 	<definition>
 		<key>text_right</key>
-		<value><![CDATA[Ikke sant]]></value>
+		<value><![CDATA[Høyre]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[lagt på]]></value>
+		<value><![CDATA[Lagt til]]></value>
 	</definition>
 	<definition>
 		<key>column_icon</key>
@@ -58,11 +59,11 @@
 	</definition>
 	<definition>
 		<key>column_required</key>
-		<value><![CDATA[Må]]></value>
+		<value><![CDATA[Påkrevd]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Navn på utvidelse]]></value>
+		<value><![CDATA[Utvidelsesnavn]]></value>
 	</definition>
 	<definition>
 		<key>column_position</key>
@@ -86,39 +87,39 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Hurtig Handlinger]]></value>
+		<value><![CDATA[Hurtighandlinger]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre extensions!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre utvidelser!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_field</key>
-		<value><![CDATA[Feil: Vennligst oppgi nødvendige feltene. Ingenting ble oppdatert!]]></value>
+		<value><![CDATA[Feil: Vennligst oppgi obligatoriske felt. Ingenting ble oppdatert!]]></value>
 	</definition>
 	<definition>
 		<key>error_payment_uninstall</key>
-		<value><![CDATA[Advarsel: Deaktiver forlengelse før avinstallere!]]></value>
+		<value><![CDATA[Advarsel: Deaktiver utvidelsen før avinstallasjon!]]></value>
 	</definition>
 	<definition>
 		<key>error_uninstall</key>
-		<value><![CDATA[Advarsel: Avinstaller forlengelse før slett!]]></value>
+		<value><![CDATA[Advarsel: Avinstaller utvidelsen før du sletter den!]]></value>
 	</definition>
 	<definition>
 		<key>text_save_success</key>
-		<value><![CDATA[Suksess: Du har endret innstillingene for utvidelsen!]]></value>
+		<value><![CDATA[Suksess: Du har endret utvidelsesinnstillinger!]]></value>
 	</definition>
 	<definition>
 		<key>text_restore_success</key>
-		<value><![CDATA[Suksess: Du har gjenopprettet standard skjøte innstillinger!]]></value>
+		<value><![CDATA[Suksess: Du har gjenopprettet standardutvidelsesinnstillingene!]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
-		<value><![CDATA[Få Extensions]]></value>
+		<value><![CDATA[Få utvidelser]]></value>
 	</definition>
 	<definition>
 		<key>text_required</key>
-		<value><![CDATA[Må]]></value>
+		<value><![CDATA[Påkrevd]]></value>
 	</definition>
 	<definition>
 		<key>text_optional</key>
@@ -126,27 +127,27 @@
 	</definition>
 	<definition>
 		<key>text_add_new</key>
-		<value><![CDATA[Installer Extension]]></value>
+		<value><![CDATA[Installer utvidelse]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Søke]]></value>
+		<value><![CDATA[Søk]]></value>
 	</definition>
 	<definition>
 		<key>text_search_for_extension</key>
-		<value><![CDATA[Søk etter Extension]]></value>
+		<value><![CDATA[Søk etter utvidelse]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_extension</key>
-		<value><![CDATA[&quot;Extension %s: Source kan ikke plasseres Vennligst slett den og gå extention leverandør for å få fullstendig kilde og installere det på nytt!&quot;]]></value>
+		<value><![CDATA[Utvidelse %s: Kilden kan ikke lokaliseres! Vennligst slett den og besøk utvidelsesleverandøren for å få komplett kilde og installer den på nytt]]></value>
 	</definition>
 	<definition>
 		<key>text_broken_extension</key>
-		<value><![CDATA[&quot;Extension %s:. Kilde sannsynligvis brutt Kan ikke finne config.xml eller main.php filer Vennligst slett den og gå extention leverandør for å få fullstendig kilde og installere det på nytt&quot;]]></value>
+		<value><![CDATA[Utvidelse %s: Kilden er sannsynligvis ødelagt! Finner ikke config.xml- eller main.php-filer. Vennligst slett den og besøk leverandøren av utvidelsen for å få komplett kildekode og installere den på nytt.]]></value>
 	</definition>
 	<definition>
 		<key>text_extension_pagination</key>
-		<value><![CDATA[Extension (e) {start} til {end} av {total}]]></value>
+		<value><![CDATA[Utvidelse(r) {start} to {end} of {total}]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
@@ -154,11 +155,11 @@
 	</definition>
 	<definition>
 		<key>text_error_in_ajax</key>
-		<value><![CDATA[Feil på ajax samtalen]]></value>
+		<value><![CDATA[Feil i ajax-kall]]></value>
 	</definition>
 	<definition>
 		<key>text_saved</key>
-		<value><![CDATA[lagret]]></value>
+		<value><![CDATA[Lagret]]></value>
 	</definition>
 	<definition>
 		<key>text_save</key>
@@ -166,7 +167,7 @@
 	</definition>
 	<definition>
 		<key>text_reset</key>
-		<value><![CDATA[tilbakestille]]></value>
+		<value><![CDATA[Tilbakestill]]></value>
 	</definition>
 	<definition>
 		<key>text_back</key>
@@ -174,11 +175,11 @@
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
-		<value><![CDATA[flere innstillinger]]></value>
+		<value><![CDATA[Tilleggsinnstillinger]]></value>
 	</definition>
 	<definition>
 		<key>text_reload</key>
-		<value><![CDATA[Last]]></value>
+		<value><![CDATA[Last inn på nytt]]></value>
 	</definition>
 	<definition>
 		<key>text_version</key>
@@ -186,11 +187,11 @@
 	</definition>
 	<definition>
 		<key>text_installed_on</key>
-		<value><![CDATA[installert på]]></value>
+		<value><![CDATA[Installert på]]></value>
 	</definition>
 	<definition>
 		<key>text_installed</key>
-		<value><![CDATA[installert]]></value>
+		<value><![CDATA[Installert]]></value>
 	</definition>
 	<definition>
 		<key>text_not_installed</key>
@@ -198,23 +199,23 @@
 	</definition>
 	<definition>
 		<key>text_visit_repository</key>
-		<value><![CDATA[Vennligst besøk forlengelse depot for å laste ned utvidelsen]]></value>
+		<value><![CDATA[Vennligst besøk utvidelsesregisteret</a> for å laste ned utvidelsen]]></value>
 	</definition>
 	<definition>
 		<key>text_license</key>
-		<value><![CDATA[Tillatelse]]></value>
+		<value><![CDATA[Lisens]]></value>
 	</definition>
 	<definition>
 		<key>text_dependency</key>
-		<value><![CDATA[avhengighet]]></value>
+		<value><![CDATA[Avhengighet]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration_settings</key>
-		<value><![CDATA[konfigurasjonsinnstillinger]]></value>
+		<value><![CDATA[Konfigurasjonsinnstillinger]]></value>
 	</definition>
 	<definition>
 		<key>text_upgrade</key>
-		<value><![CDATA[Oppgradering]]></value>
+		<value><![CDATA[Oppgrader]]></value>
 	</definition>
 	<definition>
 		<key>text_help</key>
@@ -222,7 +223,7 @@
 	</definition>
 	<definition>
 		<key>text_dependencies</key>
-		<value><![CDATA[avhengig]]></value>
+		<value><![CDATA[Avhengigheter]]></value>
 	</definition>
 	<definition>
 		<key>text_update_available</key>
@@ -230,19 +231,19 @@
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Er du sikker på at du vil slette forlengelse?]]></value>
+		<value><![CDATA[Er du sikker på at du vil slette utvidelsen?]]></value>
 	</definition>
 	<definition>
 		<key>error_config_load</key>
-		<value><![CDATA[Feil: Kunne ikke laste config for <b>%s!</b>]]></value>
+		<value><![CDATA[Feil: Kunne ikke laste inn konfigurasjon for <b>%s</b>!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_extension</key>
-		<value><![CDATA[<b>%s</b> Forlengelse kan ikke installeres: <b>%s</b> forlengelse nødvendig]]></value>
+		<value><![CDATA[<b>%s</b> utvidelse kan ikke installeres: <b>%s</b> utvidelse kreves]]></value>
 	</definition>
 	<definition>
 		<key>error_required_phpmodule</key>
-		<value><![CDATA[<b>%s</b> Forlengelse kan ikke installeres: <b>%s</b> php modulen nødvendig]]></value>
+		<value><![CDATA[<b>%s</b> utvidelse kan ikke installeres: <b>%s</b> PHP-modul kreves]]></value>
 	</definition>
 	<definition>
 		<key>button_restore_defaults</key>
@@ -250,15 +251,15 @@
 	</definition>
 	<definition>
 		<key>additional_settings_confirm</key>
-		<value><![CDATA[Hvis du vil angi flere innstillinger for forlengelse av en annen butikk du må logge inn på kontrollpanelet på et annet domenenavn. Ok?]]></value>
+		<value><![CDATA[For å angi tilleggsinnstillinger for utvidelse av en annen butikk må du logge inn i kontrollpanelet på et annet domenenavn. OK?]]></value>
 	</definition>
 	<definition>
 		<key>error_no_help_file</key>
-		<value><![CDATA[Beklager, det er ingen hjelpefilen for denne utvidelsen.]]></value>
+		<value><![CDATA[Beklager, det finnes ingen hjelpefil for denne utvidelsen.]]></value>
 	</definition>
 	<definition>
 		<key>text_more_help</key>
-		<value><![CDATA[mer hjelp]]></value>
+		<value><![CDATA[Mer hjelp]]></value>
 	</definition>
 	<definition>
 		<key>entry_total_type</key>
@@ -266,7 +267,7 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Sum]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
@@ -278,7 +279,7 @@
 	</definition>
 	<definition>
 		<key>text_tax</key>
-		<value><![CDATA[Avgift]]></value>
+		<value><![CDATA[Skatt]]></value>
 	</definition>
 	<definition>
 		<key>text_fee</key>
@@ -290,43 +291,43 @@
 	</definition>
 	<definition>
 		<key>text_confirm_disable_dependants</key>
-		<value><![CDATA[Extension %s har pårørende er: <br/> %s <br/> Det vil bli deaktivert automatisk også. <br/> bekrefter du?]]></value>
+		<value><![CDATA[Utvidelsen %s har avhengigheter: <br>%s<br> Den vil også bli deaktivert automatisk.<br> Bekrefter du?]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
-		<value><![CDATA[Status: <span class="help">Dette er for å kontrollere nettbutikken forlengelse status.</span>]]></value>
+		<value><![CDATA[Status:<span class="help">Dette er for å kontrollere statusen for butikkfrontutvidelsen.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_sort_order</key>
-		<value><![CDATA[Kjør Order: <span class="help">Nummer for å angi visningsposisjonen for at denne utvidelsen i forhold til andre aktiverte utvidelser. (Sortering er fra lavere til høyere tall, ignorerer 0 og tomme verdier)</span>]]></value>
+		<value><![CDATA[Kjøringsrekkefølge:<span class="help">Tall som angir rekkefølgen for visningsposisjonen til denne utvidelsen i forhold til andre aktive utvidelser. (Sorteres fra lavest til høyest tall, 0 og tomme verdier ignoreres)</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_minimum_total</key>
-		<value><![CDATA[Total Bestill Minimum: <span class="help">Minimum ordrebeløp som skal nås slik at denne betalingen</span>]]></value>
+		<value><![CDATA[Minste bestillingssum:<span class="help">Minimumsbestillingsbeløp som må oppnås for å tillate denne betalingen</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_maximum_total</key>
-		<value><![CDATA[Total Bestill Maksimum: <span class="help">Maksimal ordrebeløp som skal nås for å forby denne betalingen</span>]]></value>
+		<value><![CDATA[Maksimal totalordresum:<span class="help">Maksimalt bestillingsbeløp som må nås for ikke å tillate denne betalingen</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_storefront_icon</key>
-		<value><![CDATA[Storefront Ikon: <span class="help">Betaling ikon som skal vises i kassen betaling valg</span>]]></value>
+		<value><![CDATA[Butikkfront-ikon:<span class="help">Betalingsikon som vises ved valg av betalingsmåte i kassen</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_storefront_icon</key>
-		<value><![CDATA[Storefront Ikon: <span class="help">Shipping ikon som skal vises i kassen frakt utvalg</span>]]></value>
+		<value><![CDATA[Butikkfrontikon:<span class="help">Fraktikon som skal vises ved fraktvalget i kassen</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_autoselect_payment</key>
-		<value><![CDATA[Automatisk valg: <span class="help">Du kan stille denne betalingen for å bli valgt som standard. Denne betalingsmåten vil bli pre valgt for flere betalinger. Hvis dette er den eneste tilgjengelige betalingsmåte, vil betalings utvalg trinnet hoppes over.</span>]]></value>
+		<value><![CDATA[Automatisk valg:<span class="help">Strømlinjeformer utsjekkingsprosessen ved automatisk å velge en betalingsmetode når flere alternativer er tilgjengelige.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_autoselect_shipping</key>
-		<value><![CDATA[Automatisk valg: <span class="help">Du kan stille for å hoppe skipsfart valg siden hvis det er bare en forsendelsesmåte. Dette fraktmetode velges automatisk</span>]]></value>
+		<value><![CDATA[Automatisk valg:<span class="help">Forenkler utsjekkingsprosessen ved automatisk å velge en leveringsmetode når flere alternativer er tilgjengelige.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_accept_payments_shipping</key>
-		<value><![CDATA[Godta disse utbetalingene: <span class="help">Hvis det trengs bare bestemte betalingsmåter for fraktmetode, velg her. Hvis ingenting er valgt, vil alle tilgjengelige betalingsmåter vises</span>]]></value>
+		<value><![CDATA[Velg for å begrense betalinger:<span class="help">Hvis kun spesifikke betalingsmetoder er nødvendige for denne fraktmetoden, velg dem her. Hvis ingenting er valgt, vises alle tilgjengelige betalingsmetoder</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_ready_to_install</key>
@@ -334,11 +335,11 @@
 	</definition>
 	<definition>
 		<key>button_install</key>
-		<value><![CDATA[Installere]]></value>
+		<value><![CDATA[Installer]]></value>
 	</definition>
 	<definition>
 		<key>error_dependencies</key>
-		<value><![CDATA[Denne utvidelsen kan ikke aktiveres fordi nødvendig avhengighet mangler eller ikke aktivert.]]></value>
+		<value><![CDATA[Denne utvidelsen kan ikke aktiveres fordi påkrevd avhengighet mangler eller ikke er aktivert.]]></value>
 	</definition>
 	<definition>
 		<key>button_howto</key>
@@ -346,7 +347,7 @@
 	</definition>
 	<definition>
 		<key>text_developer_site</key>
-		<value><![CDATA[Ekstern støtte nettsted]]></value>
+		<value><![CDATA[Ekstern støtteside]]></value>
 	</definition>
 	<definition>
 		<key>text_preview</key>
@@ -358,11 +359,11 @@
 	</definition>
 	<definition>
 		<key>button_confirm</key>
-		<value><![CDATA[Bekrefte]]></value>
+		<value><![CDATA[Bekreft]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Fortsette]]></value>
+		<value><![CDATA[Fortsett]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
@@ -370,23 +371,23 @@
 	</definition>
 	<definition>
 		<key>error_could_not_load_config</key>
-		<value><![CDATA[Feil: Kunne ikke laste config for <b>%s</b> (%s)!]]></value>
+		<value><![CDATA[Feil: Kunne ikke laste konfigurasjon for <b>%s</b> (%s)!]]></value>
 	</definition>
 	<definition>
 		<key>error_could_not_load_override</key>
-		<value><![CDATA[Feil: Kan ikke laste inn overstyring mal %s i forlengelsen %s!]]></value>
+		<value><![CDATA[Feil: Kan ikke laste inn overstyringsmal %s i utvidelse %s!]]></value>
 	</definition>
 	<definition>
 		<key>tab_general</key>
-		<value><![CDATA[Generell]]></value>
+		<value><![CDATA[Generelt]]></value>
 	</definition>
 	<definition>
 		<key>tab_additional_settings</key>
-		<value><![CDATA[flere innstillinger]]></value>
+		<value><![CDATA[Tilleggsinnstillinger]]></value>
 	</definition>
 	<definition>
 		<key>text_more_extensions</key>
-		<value><![CDATA[Flere utvidelser er tilgjengelig for enkel installasjon.]]></value>
+		<value><![CDATA[Flere utvidelser er tilgjengelige for enkel installasjon.]]></value>
 	</definition>
 	<definition>
 		<key>text_support_expiration</key>
@@ -394,38 +395,46 @@
 	</definition>
 	<definition>
 		<key>text_support_expired</key>
-		<value><![CDATA[Støtte utløpt]]></value>
+		<value><![CDATA[Support utløpt]]></value>
 	</definition>
 	<definition>
 		<key>text_license_expired</key>
-		<value><![CDATA[Utvidelsesstøtte er utløpt eller ikke koblet til markedsplassen]]></value>
+		<value><![CDATA[Utvidelsesstøtten har utløpt eller er ikke koblet til markedsplassen]]></value>
 	</definition>
 	<definition>
 		<key>button_get_support</key>
-		<value><![CDATA[Få støtte]]></value>
+		<value><![CDATA[Få hjelp]]></value>
 	</definition>
 	<definition>
 		<key>text_min_volume</key>
-		<value><![CDATA[Minimum bestillingspakkestørrelse volum i (kubikk %s) <span class="help">Minimal verdi for at forsendelsesalternativet skal være tilgjengelig for kunden. Denne verdien er basert på kombinerte produktstørrelser i bestillingen</span>]]></value>
+		<value><![CDATA[Minste volum for forsendelsespakke i (kubikk %s) <span class="help">Minsteverdi for at forsendelsesalternativet skal være tilgjengelig for kunden. Denne verdien er basert på de kombinerte produktstørrelsene i ordren</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_max_volume</key>
-		<value><![CDATA[Maksimal ordrepakkestørrelse i (kubikk %s) <span class="help">Maksimal verdi for forsendelsesalternativet som skal være tilgjengelig for kunden. Denne verdien er basert på kombinerte produktstørrelser i bestillingen</span>]]></value>
+		<value><![CDATA[Maksimalt volum for ordrepakke i (kubikk %s) <span class="help">Maximum value for shipment option to be available for customer. This value is based on combined products sizes in the order</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_min_weight</key>
-		<value><![CDATA[Minimal vekt på pakken (%s)]]></value>
+		<value><![CDATA[Minste vekt for pakke (%s)]]></value>
 	</definition>
 	<definition>
 		<key>text_max_weight</key>
-		<value><![CDATA[Maksimal vekt på pakken (%s)]]></value>
+		<value><![CDATA[Maksimal vekt av pakke (%s)]]></value>
 	</definition>
 	<definition>
 		<key>text_min_order_subtotal</key>
-		<value><![CDATA[Minimum bestillingssubtotal: <span class="help">Angi minste bestillingssubtotalverdi for forsendelsesalternativet som skal være tilgjengelig for kunden. Dette feltet er valgfritt.</span>]]></value>
+		<value><![CDATA[Minimum ordresubtotal: <span class="help">Angi minimumsverdien for ordresubtotalen for at fraktalternativet skal være tilgjengelig for kunden. Dette feltet er valgfritt.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_max_order_subtotal</key>
-		<value><![CDATA[Maksimal bestillingssubtotal: <span class="help">Angi den maksimale bestillingssubtotalverdien for forsendelsesalternativet som skal være tilgjengelig for kunden. Dette feltet er valgfritt.</span>]]></value>
+		<value><![CDATA[Maksimal ordredelsum: <span class="help">Angi maksimal ordredelsumsverdi for at fraktalternativet skal være tilgjengelig for kunden. Dette feltet er valgfritt.</span>]]></value>
+	</definition>
+	<definition>
+		<key>text_customer_groups</key>
+		<value><![CDATA[Kun tillatt for kundegruppe(r):]]></value>
+	</definition>
+	<definition>
+		<key>button_load_more_languages</key>
+		<value><![CDATA[Last inn flere språk]]></value>
 	</definition>
 </definitions>

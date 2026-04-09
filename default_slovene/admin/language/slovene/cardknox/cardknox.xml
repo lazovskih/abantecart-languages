@@ -5,12 +5,8 @@
 		<value><![CDATA[CardKnox]]></value>
 	</definition>
 	<definition>
-		<key>cardknox_note</key>
-		<value><![CDATA[]]></value>
-	</definition>
-	<definition>
 		<key>cardknox_transaction_key</key>
-		<value><![CDATA[Transakcijski ključ (xKey)]]></value>
+		<value><![CDATA[Ključ transakcije (xKey)]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_token</key>
@@ -22,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_success_order_status</key>
-		<value><![CDATA[Status naročila: <br/><span class="help">Status naročila se nastavi po zaključku naročila stranke na podlagi nastavljene transakcijske metode</span>]]></value>
+		<value><![CDATA[Order Status:<br /><span class="help">Stanje naročila, ki bo nastavljeno po zaključku naročila stranke na podlagi izbrane metode transakcije</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id</key>
-		<value><![CDATA[Lokacija: <br/><span class="help">Omeji, da dovoliš samo izbranim lokacijam uporabo tega načina plačila.</span>]]></value>
+		<value><![CDATA[Lokacija:<br /><span class="help">Omejite, da lahko to plačilno metodo uporabljajo samo izbrane lokacije.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id_0</key>
@@ -34,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method</key>
-		<value><![CDATA[Metoda transakcije: <br/><span class="help">transakcije CardKnox, ki se izvedejo na blagajni stranke, preden je nastavljen status naročila. Samo avtorizacija ali zajem.</span>]]></value>
+		<value><![CDATA[Metoda transakcije:<br /><span class="help">CardKnox transakcija se izvede pri odjavi kupca, preden je status naročila nastavljen. Samo avtorizacija ali zajem.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_capture</key>
@@ -50,15 +46,15 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_pending_authorization</key>
-		<value><![CDATA[Čaka na avtorizacijo]]></value>
+		<value><![CDATA[Čaka na odobritev]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_funds</key>
-		<value><![CDATA[Zajemanje sredstev]]></value>
+		<value><![CDATA[Zajemi sredstva]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture</key>
-		<value><![CDATA[Zajemi]]></value>
+		<value><![CDATA[Zajem]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_payment_status</key>
@@ -66,15 +62,15 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_success</key>
-		<value><![CDATA[uspeh! Sredstva so bila uspešno zajeta.]]></value>
+		<value><![CDATA[Uspešno! Sredstva so bila uspešno zadržana.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_processing</key>
-		<value><![CDATA[Obdelava]]></value>
+		<value><![CDATA[V obdelavi]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_do_refund</key>
-		<value><![CDATA[Do CardKnox Refund: <span class="help">vnesete lahko znesek, ki ga je treba vrniti.</span>]]></value>
+		<value><![CDATA[Izvedi vračilo prek CardKnox:<span class="help">Lahko vnesete znesek, ki ga je treba vrniti.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refunded</key>
@@ -86,22 +82,22 @@
 	</definition>
 	<definition>
 		<key>cardknox_refund_title</key>
-		<value><![CDATA[Vračilo CardKnox]]></value>
+		<value><![CDATA[Povračilo CardKnox]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refund_success</key>
-		<value><![CDATA[uspeh! Naročilo je bilo uspešno povrnjeno.]]></value>
+		<value><![CDATA[Uspešno! Naročilo je bilo uspešno povrnjeno.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_empty_amount</key>
-		<value><![CDATA[Napaka! Znesek je napačen.]]></value>
+		<value><![CDATA[Napaka! Znesek ni pravilen.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_no_payment_method_data</key>
-		<value><![CDATA[Napaka! Za to naročilo ni podatkov o načinu plačila.]]></value>
+		<value><![CDATA[Napaka! Ni podatkov o načinu plačila za to naročilo.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_no_order_id</key>
-		<value><![CDATA[Napaka! Ni ID-ja naročila.]]></value>
+		<value><![CDATA[Napaka! Ni številke naročila.]]></value>
 	</definition>
 </definitions>

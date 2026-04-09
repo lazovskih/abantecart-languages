@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Greška u aplikaciji!]]></value>
+		<value><![CDATA[Greška aplikacije!]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Provjerite dnevnik grešaka za više informacija]]></value>
+		<value><![CDATA[Molimo provjerite zapisnik grešaka za više informacija]]></value>
 	</definition>
 </definitions>

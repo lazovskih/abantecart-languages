@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[konto Dashboard]]></value>
+		<value><![CDATA[Panel konta]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Edycja szczegółów konta]]></value>
+		<value><![CDATA[Edytuj dane konta]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Zarządzaj książka adresowa]]></value>
+		<value><![CDATA[Zarządzaj książką adresową]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[pliki do pobrania]]></value>
+		<value><![CDATA[Pobrania]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>

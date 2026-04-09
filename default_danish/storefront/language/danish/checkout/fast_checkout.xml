@@ -2,20 +2,19 @@
 <definitions>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Vogn]]></value>
+		<value><![CDATA[Indkøbskurv]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_basket</key>
-		<value><![CDATA[Rediger kurv]]></value>
+		<value><![CDATA[Rediger indkøbskurv]]></value>
 	</definition>
 	<definition>
 		<key>text_accept_agree</key>
-		<value><![CDATA[
- Ved at klikke på Bekræft ordre, accepterer og accepterer du alle vilkår for]]></value>
+		<value><![CDATA[Ved at klikke på Bekræft ordre accepterer og samtykker du til alle vilkår for]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_items</key>
-		<value><![CDATA[Varer i din indkøbskurv]]></value>
+		<value><![CDATA[Varer i din kurv]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -31,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>text_edit_payment</key>
-		<value><![CDATA[Rediger betaling]]></value>
+		<value><![CDATA[Rediger Betaling]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Bekræfte]]></value>
+		<value><![CDATA[Bekræft]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[Forsendelsesadresse]]></value>
+		<value><![CDATA[Leveringsadresse]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
@@ -55,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_change</key>
-		<value><![CDATA[Forandring]]></value>
+		<value><![CDATA[Skift]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
@@ -87,19 +86,19 @@
 	</definition>
 	<definition>
 		<key>text_add_coupon</key>
-		<value><![CDATA[Rediger kupon]]></value>
+		<value><![CDATA[Rediger Kupon]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_name</key>
-		<value><![CDATA[Hurtig udtjekning]]></value>
+		<value><![CDATA[Hurtig betaling]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_fast_checkout_title</key>
-		<value><![CDATA[Hurtig udtjekning]]></value>
+		<value><![CDATA[Hurtig betaling]]></value>
 	</definition>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Hurtig udtjekning]]></value>
+		<value><![CDATA[Hurtig Betaling]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_buy_now</key>
@@ -111,7 +110,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler</key>
-		<value><![CDATA[Kan ikke finde betalingsbehandler! Tjek venligst filer %s eller %s]]></value>
+		<value><![CDATA[Kan ikke finde betalingshandleren! Kontroller venligst filerne %s eller %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_handler</key>
@@ -123,31 +122,31 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected</key>
-		<value><![CDATA[Der er opstået en uventet fejl! Prøv venligst igen.]]></value>
+		<value><![CDATA[En uventet fejl er opstået! Prøv igen.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected_log</key>
-		<value><![CDATA[Der er opstået en uventet fejl. Kan ikke opbygge ordredata baseret på matrix: %s]]></value>
+		<value><![CDATA[Der er opstået en uventet fejl. Kan ikke opbygge ordredata baseret på array: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler_object</key>
-		<value><![CDATA[Kan ikke bekræfte ordren. Betalingsbehandler er ikke objekt.]]></value>
+		<value><![CDATA[Kan ikke bekræfte ordren. Betalingshåndteringen er ikke et objekt.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_system_issue</key>
-		<value><![CDATA[Ups! System problem. Kontakt webstedets administrator.]]></value>
+		<value><![CDATA[Ups! Systemfejl. Kontakt webstedsadministratoren.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_payment</key>
-		<value><![CDATA[Ingen betalinger er tilgængelige.]]></value>
+		<value><![CDATA[Der er ingen betalinger tilgængelige.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_product_option</key>
-		<value><![CDATA[Produktoptionsfejl. %s]]></value>
+		<value><![CDATA[Fejl ved produktvalg. %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_address</key>
-		<value><![CDATA[Ingen adresser fundet på din konto! Tilføj venligst en adresse på din konto.]]></value>
+		<value><![CDATA[Der findes ingen adresser på din konto! Tilføj venligst en adresse på din konto.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_low_balance</key>
@@ -155,7 +154,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_pay</key>
-		<value><![CDATA[Der er et problem med at behandle kontokreditbetaling! Prøv venligst igen.]]></value>
+		<value><![CDATA[Der opstod en fejl ved behandling af kontoens kreditbetaling! Prøv igen.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_address</key>
@@ -163,11 +162,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_unavailable</key>
-		<value><![CDATA[Betaling er ikke tilgængelig på dit sted.]]></value>
+		<value><![CDATA[Betaling er ikke tilgængelig på din placering.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_shipping_address</key>
-		<value><![CDATA[Leveringsadresse mangler eller er ikke valgt.]]></value>
+		<value><![CDATA[Leveringsadressen mangler eller er ikke valgt.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_shipping_method</key>
@@ -187,27 +186,27 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_card_number</key>
-		<value><![CDATA[Kreditkortnummer er ikke oplyst.]]></value>
+		<value><![CDATA[Kreditkortnummeret er ikke angivet.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_cvv</key>
-		<value><![CDATA[CVV-nummer er ikke oplyst.]]></value>
+		<value><![CDATA[CVV-nummer er ikke angivet.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_expire</key>
-		<value><![CDATA[Kreditvognens udløbsdato er ikke angivet eller ugyldig.]]></value>
+		<value><![CDATA[Udløbsdato for kreditkort er ikke angivet eller ugyldig.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_apply</key>
-		<value><![CDATA[Kreditvognens udløbsdato er ikke angivet eller ugyldig.]]></value>
+		<value><![CDATA[Kreditkortets udløbsdato er ikke angivet eller ugyldig.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_account_created</key>
-		<value><![CDATA[Kontoen er oprettet, og login-instruktionen er sendt til din e-mail.]]></value>
+		<value><![CDATA[Konto er blevet oprettet, og logininstruktionen er sendt til din e-mail.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_mail_login_password</key>
-		<value><![CDATA[Dit loginnavn: %s <br/> Dit kodeord: %s]]></value>
+		<value><![CDATA[Dit brugernavn: %s <br>Din adgangskode: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_success_message</key>
@@ -215,7 +214,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_order_processing_message</key>
-		<value><![CDATA[Succes! Bestil nu under behandling!]]></value>
+		<value><![CDATA[Succes! Ordren behandles nu!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_payment_address</key>
@@ -243,7 +242,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay</key>
-		<value><![CDATA[Betale]]></value>
+		<value><![CDATA[Betal]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_enter_cc_details</key>
@@ -251,7 +250,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_your_balance</key>
-		<value><![CDATA[Din kontosaldo er]]></value>
+		<value><![CDATA[Din kontokreditsaldo er]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay_from_balance</key>
@@ -259,15 +258,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_telephone_placeholder</key>
-		<value><![CDATA[Kontakt telefonnummer Eks. +1.212.555.5555]]></value>
+		<value><![CDATA[Kontakt telefonnummer f.eks. +1.212.555.5555]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_same_as_shipping_address</key>
-		<value><![CDATA[Samme for levering]]></value>
+		<value><![CDATA[Det samme gælder for levering]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_enter_address</key>
-		<value><![CDATA[Fortsætte]]></value>
+		<value><![CDATA[Fortsæt]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_card_number</key>
@@ -275,7 +274,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_bill_me_monthly</key>
-		<value><![CDATA[Fakturer mig månedligt]]></value>
+		<value><![CDATA[Fakturér mig månedligt]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_create_account</key>
@@ -283,7 +282,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_please_login</key>
-		<value><![CDATA[Log venligst ind med detaljer nedenfor]]></value>
+		<value><![CDATA[Log venligst ind med nedenstående oplysninger]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_login</key>
@@ -307,7 +306,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_new_customer</key>
-		<value><![CDATA[Jeg er ny kunde]]></value>
+		<value><![CDATA[Jeg er en ny kunde]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_loading</key>
@@ -315,11 +314,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_is_completed</key>
-		<value><![CDATA[Ordren er gennemført!]]></value>
+		<value><![CDATA[Ordren er fuldført!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_thank_you</key>
-		<value><![CDATA[Tak for din bestilling!]]></value>
+		<value><![CDATA[Tak for din ordre!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_start_download</key>
@@ -327,23 +326,23 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_downloads</key>
-		<value><![CDATA[Bestil downloads]]></value>
+		<value><![CDATA[Ordre-downloads]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_order_details</key>
-		<value><![CDATA[Bestil detaljer]]></value>
+		<value><![CDATA[Ordredetaljer]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_delivery</key>
-		<value><![CDATA[Vælg venligst leveringsmulighederne]]></value>
+		<value><![CDATA[Vælg leveringsmulighederne]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_payment</key>
-		<value><![CDATA[Vælg venligst betalingsmuligheden]]></value>
+		<value><![CDATA[Vælg venligst betalingsmuligheden.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_download_pending</key>
-		<value><![CDATA[Produktdownload i din ordre er endnu ikke tilgængelig. Vent venligst på ordrebekræftelse!]]></value>
+		<value><![CDATA[Produktdownloaden i din ordre er endnu ikke tilgængelig. Vent venligst på, at ordren bliver verificeret!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_info_duplicate_order</key>
@@ -359,15 +358,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_download_subject</key>
-		<value><![CDATA[Hent din ordre.]]></value>
+		<value><![CDATA[Din ordre download.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_apply</key>
-		<value><![CDATA[Anvende]]></value>
+		<value><![CDATA[Anvend]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_remove</key>
-		<value><![CDATA[Fjerne]]></value>
+		<value><![CDATA[Fjern]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_coupon_code</key>
@@ -383,7 +382,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_back_to_cart</key>
-		<value><![CDATA[Tilbage til kurven]]></value>
+		<value><![CDATA[Tilbage til indkøbskurven]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_summary</key>
@@ -391,7 +390,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_no_shipments_available</key>
-		<value><![CDATA[Ingen forsendelser er tilgængelige.]]></value>
+		<value><![CDATA[Der er ingen forsendelser tilgængelige.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_telephone_placeholder</key>
@@ -403,7 +402,7 @@
 	</definition>
 	<definition>
 		<key>button_history</key>
-		<value><![CDATA[Historie]]></value>
+		<value><![CDATA[Historik]]></value>
 	</definition>
 	<definition>
 		<key>error_postcode</key>
@@ -411,23 +410,23 @@
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Vogn]]></value>
+		<value><![CDATA[Kurv]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_comment_placeholder</key>
-		<value><![CDATA[Tilføj en ordrekommentar]]></value>
+		<value><![CDATA[Tilføj en kommentar til ordren]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_not_enough_stock</key>
-		<value><![CDATA[Ikke nok lager]]></value>
+		<value><![CDATA[Ikke nok på lager]]></value>
 	</definition>
 	<definition>
 		<key>order_confirm</key>
-		<value><![CDATA[Ordrebekræft]]></value>
+		<value><![CDATA[Ordrebekræftelse]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_login_or_email</key>
-		<value><![CDATA[Login navn eller e-mailadresse]]></value>
+		<value><![CDATA[Loginnavn eller e-mailadresse]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_password</key>
@@ -435,27 +434,25 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_authenticating</key>
-		<value><![CDATA[Godkender... ]]></value>
+		<value><![CDATA[Autentificerer ...]]></value>
 	</definition>
 	<definition>
 		<key>text_message_account</key>
-		<value><![CDATA[
-<p> Din ordre #%s er blevet oprettet!</p> 
-<p> Du kan se dine ordredetaljer ved at gå til <a href="%s">fakturasiden</a> .</p> 
-<p> Venligst stil eventuelle spørgsmål til <a href="%s">butiksejeren</a> .</p> 
-<p> Tak fordi du handler hos os!</p>]]></value>
+		<value><![CDATA[<p>Din ordre #%s er blevet oprettet!</p>
+<p>Du kan se dine ordredetaljer ved at gå til <a href="%s">fakturasiden</a>.</p>
+<p>Send venligst alle dine spørgsmål til <a href="%s">butiksejeren</a>.</p>
+<p>Tak fordi du handler hos os!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_message_guest</key>
-		<value><![CDATA[
-<p> Din ordre er blevet behandlet med succes!</p> 
-<p> Du kan se dine ordredetaljer ved at gå til <a href="%s">fakturasiden</a> .</p> 
-<p> Venligst stil eventuelle spørgsmål til <a href="%s">butiksejeren</a> .</p> 
-<p> Tak fordi du handler hos os!</p>]]></value>
+		<value><![CDATA[<p>Din ordre er blevet behandlet med succes!</p>
+<p>Du kan se dine ordredetaljer ved at gå til <a href="%s">fakturasiden</a>.</p>
+<p>Send venligst alle spørgsmål, du måtte have, til <a href="%s">butiksejeren</a>.</p>
+<p>Tak, fordi du handler hos os!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Vogn]]></value>
+		<value><![CDATA[Indkøbskurv]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -467,11 +464,11 @@
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[Gæstecheck]]></value>
+		<value><![CDATA[Gæsteudtjekning]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Bekræfte]]></value>
+		<value><![CDATA[Bekræft]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -479,7 +476,7 @@
 	</definition>
 	<definition>
 		<key>text_message_failed_order</key>
-		<value><![CDATA[Ups! Vi har oplevet nogle problemer med din transaktion. Din ordre vil blive bekræftet manuelt af administrator.]]></value>
+		<value><![CDATA[Ups! Vi har oplevet et problem med din transaktion. Din ordre vil blive verificeret manuelt af administrator.]]></value>
 	</definition>
 	<definition>
 		<key>text_title_failed_order_to_admin</key>
@@ -487,6 +484,6 @@
 	</definition>
 	<definition>
 		<key>text_message_failed_order_to_admin</key>
-		<value><![CDATA[Mislykket eller manglende svar fra betalingsbekræftelse. Manuel verifikation er påkrævet!]]></value>
+		<value><![CDATA[Mislykket eller manglende svar fra betalingsverifikation. Manuel verifikation er påkrævet!]]></value>
 	</definition>
 </definitions>

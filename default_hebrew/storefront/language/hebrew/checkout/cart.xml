@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[סַל]]></value>
+		<value><![CDATA[עגלת קניות]]></value>
 	</definition>
 	<definition>
 		<key>text_sub_total</key>
-		<value><![CDATA[סיכום ביניים:]]></value>
+		<value><![CDATA[סך ביניים:]]></value>
 	</definition>
 	<definition>
 		<key>text_weight</key>
-		<value><![CDATA[משקל סל:]]></value>
+		<value><![CDATA[משקל העגלה:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>column_remove</key>
-		<value><![CDATA[לְהַסִיר]]></value>
+		<value><![CDATA[הסר]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -30,15 +30,19 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שֵׁם]]></value>
+		<value><![CDATA[שם]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[דֶגֶם]]></value>
+		<value><![CDATA[דגם]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[מק"ט]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[כַּמוּת]]></value>
+		<value><![CDATA[כמות]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
@@ -46,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[סה&quot;כ]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 	<definition>
 		<key>text_continue_shopping</key>
-		<value><![CDATA[המשך בקניות]]></value>
+		<value><![CDATA[המשך קניות]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_codes</key>
@@ -58,19 +62,19 @@
 	</definition>
 	<definition>
 		<key>text_estimate_shipping_tax</key>
-		<value><![CDATA[משלוחי אומדן סכום מס]]></value>
+		<value><![CDATA[הערכת עלויות משלוח ומסים]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_country</key>
-		<value><![CDATA[מדינה ומדינה]]></value>
+		<value><![CDATA[ארץ ומדינה]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_postcode</key>
-		<value><![CDATA[מיקוד]]></value>
+		<value><![CDATA[מיקוד/קוד דואר]]></value>
 	</definition>
 	<definition>
 		<key>button_text_estimate</key>
-		<value><![CDATA[לְהַעֲרִיך]]></value>
+		<value><![CDATA[הצעת מחיר]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipments</key>
@@ -78,35 +82,35 @@
 	</definition>
 	<definition>
 		<key>error_coupon</key>
-		<value><![CDATA[שגיאה: קופון הוא שגוי, או שהוא פג או הגיע זה גבול שימוש!]]></value>
+		<value><![CDATA[שגיאה: הקופון אינו תקף, פג תוקפו או הגיע למגבלת השימוש שלו!]]></value>
 	</definition>
 	<definition>
 		<key>error_stock</key>
-		<value><![CDATA[מוצרים מסומנים עם *** אינם זמינים בכמות הרצויה או אזלו מהמלאי!]]></value>
+		<value><![CDATA[המוצרים המסומנים ב-*** אינם זמינים בכמות הרצויה או אזלו מהמלאי!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_options</key>
-		<value><![CDATA[אנא בחר כל האפשרויות הנדרשות!]]></value>
+		<value><![CDATA[אנא בחר את כל האפשרויות הנדרשות!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_minimum</key>
-		<value><![CDATA[תת-סך סכום ההזמנה שלך אינו עומד סכום מינימאלי של %s הנדרש. אנא להוסיף עוד מוצרים לעגלת הקניות שלך!]]></value>
+		<value><![CDATA[סכום הביניים של ההזמנה שלך אינו עומד בסכום המינימלי של %s. אנא הוסף עוד מוצרים לעגלת הקניות שלך!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_maximum</key>
-		<value><![CDATA[תת-סך סכום ההזמנה שלך עולה על הסכום המרבי של %s מותר לכל הסדר. הסר כמה פריטים מעגלי הקניות שלך!]]></value>
+		<value><![CDATA[סכום הביניים של ההזמנה שלך חורג מהסכום המרבי של %s המותר לכל הזמנה. אנא הסר כמה פריטים מהעגלה שלך!]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_data</key>
-		<value><![CDATA[נתונים קובץ פגום או ריק.]]></value>
+		<value><![CDATA[נתוני הקובץ פגומים או ריקים.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_name</key>
-		<value><![CDATA[שם קובץ ריק!]]></value>
+		<value><![CDATA[שם הקובץ ריק!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_extension</key>
-		<value><![CDATA[רק קבצים עם סיומת (ים) %s הוא (הם) מותר!]]></value>
+		<value><![CDATA[רק קבצים עם סיומת(ות) %s מותרים!]]></value>
 	</definition>
 	<definition>
 		<key>error_min_file_size</key>
@@ -114,26 +118,22 @@
 	</definition>
 	<definition>
 		<key>error_max_file_size</key>
-		<value><![CDATA[גודל קובץ מקסימאלי להעלאה הוא %s Kb.]]></value>
+		<value><![CDATA[הגודל המקסימלי של הקובץ להעלאה הוא %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_success</key>
-		<value><![CDATA[הצלחה: קופון ההנחה שלך הוחלה!]]></value>
+		<value><![CDATA[הצלחה: ההנחה מהקופון שלך הוחלה!]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_removal</key>
-		<value><![CDATA[הצלחה: קופון הוסר!]]></value>
+		<value><![CDATA[הצלחה: הקופון הוסר!]]></value>
 	</definition>
 	<definition>
 		<key>error_quantity_maximum</key>
-		<value><![CDATA[הכמות של המוצר למלון עולה. כמות נקבעה למקסימום.]]></value>
+		<value><![CDATA[הכמות המותרת של המוצר חרגה. הכמות הוגדרה כמקסימום.]]></value>
 	</definition>
 	<definition>
 		<key>error_quantity_minimum</key>
-		<value><![CDATA[הכמות של המוצר המוותר היא מתחת למינימום הנדרש. כמות נקבע סכום מינימלי.]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[מק&quot;ט]]></value>
+		<value><![CDATA[כמות המוצר המותרת נמוכה מהמינימום הנדרש. הכמות הוגדרה לערך המינימלי.]]></value>
 	</definition>
 </definitions>

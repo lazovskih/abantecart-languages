@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Průběh Zpráva]]></value>
+		<value><![CDATA[Přehled prohlížených produktů]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Máte resetovat zprávu o produktu pohledu!]]></value>
+		<value><![CDATA[Úspěch: Vynulovali jste přehled zobrazených produktů!]]></value>
 	</definition>
 	<definition>
 		<key>column_product_id</key>
@@ -14,11 +14,15 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[jméno výrobku]]></value>
+		<value><![CDATA[Název produktu]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[model]]></value>
+		<value><![CDATA[Model]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[SKU]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
@@ -26,14 +30,10 @@
 	</definition>
 	<definition>
 		<key>column_viewed</key>
-		<value><![CDATA[zobrazeno]]></value>
+		<value><![CDATA[Zobrazeno]]></value>
 	</definition>
 	<definition>
 		<key>column_percent</key>
-		<value><![CDATA[Procent]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Procento]]></value>
 	</definition>
 </definitions>

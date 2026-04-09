@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
-		<value><![CDATA[ Ytterligere innstillinger ]]></value>
+		<value><![CDATA[Ytterligere innstillinger]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>entry_rate</key>
-		<value><![CDATA[Priser: <br/><span class="help">Eksempel: 5:10.00,7:12.00 Vekt:Kostnad,Vekt:Kostnad osv. I dette eksemplet 5 pund = $10,00. Der Pund er butikkvektklassen din og $ er butikkbasisvalutaen. Du kan endre begge i butikkinnstillingene</span>]]></value>
+		<value><![CDATA[Satser:<br /><span class="help">Eksempel: 5:10.00,7:12.00 Vekt:Pris,Vekt:Pris osv. I dette eksempelet 5 pounds = $10.00. Hvor Pound er butikkens vektklasse og $ er butikkens basisvaluta. Du kan endre begge i Butikkinnstillinger</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -42,10 +42,10 @@
 	</definition>
 	<definition>
 		<key>example_weight_text</key>
-		<value><![CDATA[Vekt: ]]></value>
+		<value><![CDATA[Vekt:]]></value>
 	</definition>
 	<definition>
 		<key>example_currency_text</key>
-		<value><![CDATA[Valuta: ]]></value>
+		<value><![CDATA[Valuta:]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך קטגוריות שונות!]]></value>
+		<value><![CDATA[הצלחה: אתה שינית את הקטגוריות!]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[בְּרִירַת מֶחדָל]]></value>
+		<value><![CDATA[ברירת מחדל]]></value>
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[מנהל תמונה]]></value>
+		<value><![CDATA[מנהל תמונות]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[קטגורית עדכון]]></value>
+		<value><![CDATA[עדכון קטגוריה]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -34,19 +34,19 @@
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[סדר המיון]]></value>
+		<value><![CDATA[סדר מיון]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_products</key>
-		<value><![CDATA[מוצרים לספור]]></value>
+		<value><![CDATA[מספר מוצרים]]></value>
 	</definition>
 	<definition>
 		<key>column_subcategories</key>
-		<value><![CDATA[תת-קטגוריות לספור]]></value>
+		<value><![CDATA[מספר תתי קטגוריות]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -54,15 +54,15 @@
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[מילות מפתח תג מטא:]]></value>
+		<value><![CDATA[מילות מפתח של תגית מטא:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[תיאור תג מטא:]]></value>
+		<value><![CDATA[תיאור תגית מטא:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[תאור:]]></value>
+		<value><![CDATA[תיאור:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>entry_parent_category</key>
-		<value><![CDATA[קטגורית הורים:]]></value>
+		<value><![CDATA[קטגוריית האב:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO מילות מפתח:]]></value>
+		<value><![CDATA[מילת מפתח SEO:]]></value>
 	</definition>
 	<definition>
 		<key>entry_image</key>
@@ -86,38 +86,42 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[סדר המיון:]]></value>
+		<value><![CDATA[סדר מיון:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות קטגוריות!]]></value>
+		<value><![CDATA[אזהרה: אינך מורשה לשנות קטגוריות!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[שם קטגוריה חייב להיות בין 2 ו -32 תווים!]]></value>
+		<value><![CDATA[שם הקטגוריה חייב להיות בין 2 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_data</key>
-		<value><![CDATA[הנתונים נחוצים לא הוזנו. בדקו שגיאות שדה!]]></value>
+		<value><![CDATA[הנתונים הנדרשים לא הוזנו. בדקו שגיאות בשדות!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_all</key>
 		<value><![CDATA[- כל הקטגוריות -]]></value>
 	</definition>
 	<definition>
+		<key>text_top_level</key>
+		<value><![CDATA[- רמה עליונה -]]></value>
+	</definition>
+	<definition>
 		<key>text_select_parent</key>
-		<value><![CDATA[האם בחר - -]]></value>
+		<value><![CDATA[- בחר הורה -]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[הצלחה: שנה את קטגוריית דף פריסה.]]></value>
+		<value><![CDATA[הצלחה: שינית את פריסת דף הקטגוריה.]]></value>
 	</definition>
 	<definition>
 		<key>tab_image</key>
 		<value><![CDATA[תמונות]]></value>
 	</definition>
 	<definition>
-		<key>text_top_level</key>
-		<value><![CDATA[- ברמה העליונה -]]></value>
+		<key>error_deadlock</key>
+		<value><![CDATA[לא ניתן להקצות לקטגוריית האב, כי היא קטגוריה בת!]]></value>
 	</definition>
 </definitions>

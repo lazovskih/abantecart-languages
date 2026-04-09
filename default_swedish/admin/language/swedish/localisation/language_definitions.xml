@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[språk Definitioner]]></value>
+		<value><![CDATA[Språkdefinitioner]]></value>
 	</definition>
 	<definition>
 		<key>text_definition</key>
-		<value><![CDATA[språk Definition]]></value>
+		<value><![CDATA[Språkdefinition]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrat språk!]]></value>
+		<value><![CDATA[Succé: Du har ändrat språken!]]></value>
 	</definition>
 	<definition>
 		<key>column_language</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[uppdateringsdatum]]></value>
+		<value><![CDATA[Uppdateringsdatum]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handlingar]]></value>
+		<value><![CDATA[Åtgärder]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_key</key>
@@ -50,23 +50,23 @@
 	</definition>
 	<definition>
 		<key>entry_block</key>
-		<value><![CDATA[Blockera]]></value>
+		<value><![CDATA[Block]]></value>
 	</definition>
 	<definition>
 		<key>entry_section</key>
-		<value><![CDATA[Sektion]]></value>
+		<value><![CDATA[Avsnitt]]></value>
 	</definition>
 	<definition>
 		<key>text_admin</key>
-		<value><![CDATA[Administration]]></value>
+		<value><![CDATA[Administratör]]></value>
 	</definition>
 	<definition>
 		<key>text_storefront</key>
-		<value><![CDATA[Skyltfönster]]></value>
+		<value><![CDATA[Butiksfront]]></value>
 	</definition>
 	<definition>
 		<key>error_language_key</key>
-		<value><![CDATA[Språk nyckel krävs!]]></value>
+		<value><![CDATA[Språknyckel krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_language_value</key>
@@ -78,18 +78,18 @@
 	</definition>
 	<definition>
 		<key>error_section</key>
-		<value><![CDATA[Avsnitt krävs!]]></value>
+		<value><![CDATA[Sektion krävs!]]></value>
 	</definition>
 	<definition>
 		<key>text_all_section</key>
-		<value><![CDATA[alla sektioner]]></value>
+		<value><![CDATA[Alla sektioner]]></value>
 	</definition>
 	<definition>
 		<key>text_all_languages</key>
-		<value><![CDATA[alla språk]]></value>
+		<value><![CDATA[Alla språk]]></value>
 	</definition>
 	<definition>
 		<key>error_already exists</key>
-		<value><![CDATA[Fel! <br/> Språk definition med nyckel &quot;%s&quot; och block &quot;%s&quot; för %s avsnittet redan finns! <br/> Klicka på <a target="_blank" href="%s">den här länken</a> för att se]]></value>
+		<value><![CDATA[Fel!<br>Språkdefinition med nyckel "%s" och block "%s" för %s-sektionen finns redan!<br>Klicka på <a target="_blank" href="%s">den här länken</a> för att visa]]></value>
 	</definition>
 </definitions>

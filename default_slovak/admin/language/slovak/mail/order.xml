@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Objednávka aktualizácie %s]]></value>
+		<value><![CDATA[%s - Aktualizácia objednávky %s]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Dátum Objednané:]]></value>
+		<value><![CDATA[Dátum objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
-		<value><![CDATA[Vaša objednávka bola aktualizovaná na nasledovné stav:]]></value>
+		<value><![CDATA[Vaša objednávka bola aktualizovaná na nasledujúci stav:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[Pripomienky k vašej objednávke sú nasledovné:]]></value>
+		<value><![CDATA[Komentáre k vašej objednávke sú:]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Ak chcete zobraziť objednávky, kliknite na odkaz nižšie:]]></value>
+		<value><![CDATA[Ak chcete zobraziť svoju objednávku, kliknite na odkaz nižšie:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>

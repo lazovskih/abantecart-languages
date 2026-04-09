@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_orders</key>
-		<value><![CDATA[Order]]></value>
+		<value><![CDATA[Beställningar]]></value>
 	</definition>
 	<definition>
 		<key>text_customers</key>
-		<value><![CDATA[kunder]]></value>
+		<value><![CDATA[Kunder]]></value>
 	</definition>
 	<definition>
 		<key>text_downloads</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_product_categories</key>
-		<value><![CDATA[produktkategori]]></value>
+		<value><![CDATA[Produktkategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_products</key>
@@ -34,38 +34,38 @@
 	</definition>
 	<definition>
 		<key>text_reviews</key>
-		<value><![CDATA[omdömen]]></value>
+		<value><![CDATA[Recensioner]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Märken]]></value>
+		<value><![CDATA[Varumärken]]></value>
 	</definition>
 	<definition>
 		<key>text_languages</key>
-		<value><![CDATA[språk]]></value>
+		<value><![CDATA[Språk]]></value>
 	</definition>
 	<definition>
 		<key>text_pages</key>
-		<value><![CDATA[sidor]]></value>
+		<value><![CDATA[Sidor]]></value>
 	</definition>
 	<definition>
 		<key>text_settings</key>
-		<value><![CDATA[inställningar]]></value>
+		<value><![CDATA[Inställningar]]></value>
 	</definition>
 	<definition>
 		<key>text_messages</key>
-		<value><![CDATA[meddelanden]]></value>
+		<value><![CDATA[Meddelanden]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions</key>
-		<value><![CDATA[förlängningar]]></value>
+		<value><![CDATA[Tillägg]]></value>
 	</definition>
 	<definition>
 		<key>text_commands</key>
-		<value><![CDATA[Snabbkommandon kommandon]]></value>
+		<value><![CDATA[Snabbkommandon]]></value>
 	</definition>
 	<definition>
 		<key>text_contents</key>
-		<value><![CDATA[innehålls Sidor]]></value>
+		<value><![CDATA[Innehållssidor]]></value>
 	</definition>
 </definitions>

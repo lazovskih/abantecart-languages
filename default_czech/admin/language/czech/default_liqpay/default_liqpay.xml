@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Upravili jste podrobnosti účtu LIQPAY!]]></value>
+		<value><![CDATA[Úspěch: Změnili jste údaje o účtu LIQPAY!]]></value>
 	</definition>
 	<definition>
 		<key>text_pay</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_merchant</key>
-		<value><![CDATA[ID obchodníka:]]></value>
+		<value><![CDATA[Identifikační číslo obchodníka:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_signature</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_type_pay</key>
-		<value><![CDATA[Platit]]></value>
+		<value><![CDATA[Zaplatit]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type_card</key>
@@ -58,7 +58,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechny lokace]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_location_id</key>
@@ -66,14 +66,14 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat platbu LIQPAY!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravit platbu LIQPAY!]]></value>
 	</definition>
 	<definition>
 		<key>error_merchant</key>
-		<value><![CDATA[Je vyžadováno ID obchodníka!]]></value>
+		<value><![CDATA[ID obchodníka je vyžadováno!]]></value>
 	</definition>
 	<definition>
 		<key>error_signature</key>
-		<value><![CDATA[Je vyžadován podpis!]]></value>
+		<value><![CDATA[Podpis vyžadován!]]></value>
 	</definition>
 </definitions>
