@@ -190,7 +190,7 @@
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[искать]]></value>
+		<value><![CDATA[найти]]></value>
 	</definition>
 	<definition>
 		<key>text_no_extensions_loaded</key>

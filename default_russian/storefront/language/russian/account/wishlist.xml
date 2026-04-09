@@ -21,7 +21,6 @@
 		<key>button_continue</key>
 		<value><![CDATA[Продолжить покупки]]></value>
 	</definition>
-	
 	<definition>
 		<key>column_image</key>
 		<value><![CDATA[Изображение]]></value>
@@ -46,5 +45,4 @@
 		<key>column_actions</key>
 		<value><![CDATA[Действия]]></value>
 	</definition>
-
 </definitions>
