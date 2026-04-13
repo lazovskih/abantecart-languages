@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Min kontooplysninger]]></value>
+		<value><![CDATA[Mine kontooplysninger]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Succes: Din konto er blevet opdateret.]]></value>
+		<value><![CDATA[Succes: Din konto er blevet opdateret med succes.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Login-navn:]]></value>
+		<value><![CDATA[Brugernavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -50,15 +50,15 @@
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Fejl: E-mail-adresse er allerede registreret!]]></value>
+		<value><![CDATA[Fejl: E-mailadresse er allerede registreret!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Login navn skal være alene og mellem 5 og 64 tegn alfanumeriske!]]></value>
+		<value><![CDATA[Loginnavnet skal kun være alfanumerisk og mellem 5 og 64 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Denne login-navn er ikke tilgængelig. Prøv andet login navn!]]></value>
+		<value><![CDATA[Dette login-navn er ikke tilgængeligt. Prøv et andet login-navn!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
@@ -66,18 +66,18 @@
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Sidste navn skal være mellem 1 og 32 tegn!]]></value>
+		<value><![CDATA[Efternavn skal være mellem 1 og 32 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail adresse vises ikke at være gyldig!]]></value>
+		<value><![CDATA[E-mailadresse ser ikke ud til at være gyldig!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon skal være mellem 3 og 32 tegn!]]></value>
+		<value><![CDATA[Telefonnummeret skal være mellem 3 og 32 tegn langt og kun indeholde numeriske tegn!]]></value>
 	</definition>
 	<definition>
 		<key>loginname_update_required</key>
-		<value><![CDATA[Dit brugernavn er det samme som din email. For at holde din konto beskyttet, skal du oprette en ny unik login navn]]></value>
+		<value><![CDATA[Dit login-navn er det samme som din e-mail. For at beskytte din konto bedes du oprette et nyt unikt login-navn.]]></value>
 	</definition>
 </definitions>

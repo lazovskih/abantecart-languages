@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[nyhetsbrev Registrera]]></value>
+		<value><![CDATA[Anmälan till nyhetsbrev]]></value>
 	</definition>
 	<definition>
 		<key>text_signup</key>
-		<value><![CDATA[Anmäl dig till vårt nyhetsbrev &amp; få attraktiva erbjudanden genom att prenumerera på våra nyhetsbrev.]]></value>
+		<value><![CDATA[Registrera dig för vårt nyhetsbrev och få attraktiva erbjudanden genom att prenumerera på våra nyhetsbrev.]]></value>
 	</definition>
 	<definition>
 		<key>text_sign_in</key>

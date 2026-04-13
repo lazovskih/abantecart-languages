@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_home</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_special</key>
-		<value><![CDATA[הצעות מיוחדות]]></value>
+		<value><![CDATA[מבצעים מיוחדים]]></value>
 	</definition>
 	<definition>
 		<key>text_contact</key>
-		<value><![CDATA[איש קשר]]></value>
+		<value><![CDATA[צור קשר]]></value>
 	</definition>
 	<definition>
 		<key>text_sitemap</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_bookmark</key>
-		<value><![CDATA[סימניה]]></value>
+		<value><![CDATA[סימנייה]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[חֶשְׁבּוֹן]]></value>
+		<value><![CDATA[חשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>text_logout</key>
-		<value><![CDATA[להתנתק]]></value>
+		<value><![CDATA[התנתקות]]></value>
 	</definition>
 	<definition>
 		<key>text_cart</key>
-		<value><![CDATA[סַל]]></value>
+		<value><![CDATA[סל הקניות]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[לבדוק]]></value>
+		<value><![CDATA[סיום רכישה]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>entry_search</key>
-		<value><![CDATA[חפש:]]></value>
+		<value><![CDATA[חיפוש:]]></value>
 	</definition>
 	<definition>
 		<key>text_welcome</key>
@@ -62,10 +62,10 @@
 	</definition>
 	<definition>
 		<key>text_not</key>
-		<value><![CDATA[לֹא]]></value>
+		<value><![CDATA[לא]]></value>
 	</definition>
 	<definition>
 		<key>text_login_or_register</key>
-		<value><![CDATA[התחבר או הרשם]]></value>
+		<value><![CDATA[התחבר או הירשם]]></value>
 	</definition>
 </definitions>

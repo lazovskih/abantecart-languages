@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -22,30 +22,30 @@
 	</definition>
 	<definition>
 		<key>entry_forgot_password</key>
-		<value><![CDATA[Elfelejtett jelszó?]]></value>
+		<value><![CDATA[Elfelejtette a jelszavát?]]></value>
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Belépek]]></value>
+		<value><![CDATA[Bejelentkezés]]></value>
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Nincs találat a felhasználónév és / vagy jelszó.]]></value>
+		<value><![CDATA[Nincs egyezés a felhasználónév és/vagy jelszó esetén.]]></value>
 	</definition>
 	<definition>
 		<key>error_token</key>
-		<value><![CDATA[Érvénytelen token ülésén. Kérjük, jelentkezzen be újra.]]></value>
+		<value><![CDATA[Érvénytelen munkameneti token. Kérjük, jelentkezzen be újra.]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message</key>
-		<value><![CDATA[Sikertelen bejelentkezés admin kísérletet IP:]]></value>
+		<value><![CDATA[Sikertelen adminisztrátori bejelentkezési kísérlet IP-címről:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message_text</key>
-		<value><![CDATA[Mivel a felhasználói bejelentkezés:]]></value>
+		<value><![CDATA[Megadott felhasználói bejelentkezés:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_secure</key>
-		<value><![CDATA[Nem biztonságos nem biztonságos módban próbál bejelentkezni! A folytatáshoz váltson biztonságos <a href="%s">HTTPS-</a> re ]]></value>
+		<value><![CDATA[Nem biztonságos, védtelen módban próbál bejelentkezni! Kérjük, a folytatáshoz váltson biztonságos <a href="%s">HTTPS</a> módra.]]></value>
 	</definition>
 </definitions>

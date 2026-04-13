@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>conditions_title</key>
-		<value><![CDATA[Körülmények:]]></value>
+		<value><![CDATA[Feltételek:]]></value>
 	</definition>
 	<definition>
 		<key>text_if_1</key>
@@ -50,15 +50,15 @@
 	</definition>
 	<definition>
 		<key>text_all</key>
-		<value><![CDATA[Minden]]></value>
+		<value><![CDATA[Összes]]></value>
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[Bármilyen]]></value>
+		<value><![CDATA[Bármely]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
-		<value><![CDATA[ezen feltételek közül az]]></value>
+		<value><![CDATA[e feltételek közül vannak]]></value>
 	</definition>
 	<definition>
 		<key>text_true</key>
@@ -150,15 +150,15 @@
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
-		<value><![CDATA[- Válassza ki a címkét -]]></value>
+		<value><![CDATA[-Címke kiválasztása-]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[- Válassza ki a címkét -]]></value>
+		<value><![CDATA[-Címke kiválasztása-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Mentés kész]]></value>
+		<value><![CDATA[Mentés elkészült]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
@@ -166,7 +166,7 @@
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Meta leírás:]]></value>
+		<value><![CDATA[Meta Leírás:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
@@ -174,7 +174,7 @@
 	</definition>
 	<definition>
 		<key>tab_design</key>
-		<value><![CDATA[Tervezés]]></value>
+		<value><![CDATA[Dizájn]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>
@@ -182,7 +182,7 @@
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Az elrendezés mentése kész]]></value>
+		<value><![CDATA[Elrendezés mentése befejezve]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>

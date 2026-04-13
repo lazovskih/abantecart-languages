@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Váš byla úspěšně odhlásil!]]></value>
+		<value><![CDATA[Byli jste úspěšně odhlášeni!]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[Byl jste úspěšně odhlášen z e-mailové komunikace.]]></value>
+		<value><![CDATA[Byli jste úspěšně odhlášeni z e-mailových sdělení.]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>

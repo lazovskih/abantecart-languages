@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Handlevogn]]></value>
+		<value><![CDATA[Handlekurv]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[Kurv]]></value>
+		<value><![CDATA[Handlekurv]]></value>
 	</definition>
 	<definition>
 		<key>text_sub_total</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_weight</key>
-		<value><![CDATA[Handlekurv Vekt:]]></value>
+		<value><![CDATA[Handlekurvvekt:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Handlevognen er tom!]]></value>
+		<value><![CDATA[Handlekurven din er tom!]]></value>
 	</definition>
 	<definition>
 		<key>column_remove</key>
-		<value><![CDATA[Fjerne]]></value>
+		<value><![CDATA[Fjern]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -37,8 +37,12 @@
 		<value><![CDATA[Modell]]></value>
 	</definition>
 	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[Varenummer]]></value>
+	</definition>
+	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[Mengde]]></value>
+		<value><![CDATA[Antall]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
@@ -46,19 +50,19 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 	<definition>
 		<key>text_continue_shopping</key>
-		<value><![CDATA[Fortsette å handle]]></value>
+		<value><![CDATA[Fortsett å handle]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_codes</key>
-		<value><![CDATA[Påfør kupongkode]]></value>
+		<value><![CDATA[Bruk kupongkode]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipping_tax</key>
-		<value><![CDATA[Estimate Frakt skatter]]></value>
+		<value><![CDATA[Beregn frakt og avgifter]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_country</key>
@@ -66,51 +70,51 @@
 	</definition>
 	<definition>
 		<key>text_estimate_postcode</key>
-		<value><![CDATA[ZIP / Postnummer]]></value>
+		<value><![CDATA[ZIP/Postnummer]]></value>
 	</definition>
 	<definition>
 		<key>button_text_estimate</key>
-		<value><![CDATA[anslag]]></value>
+		<value><![CDATA[Estimat]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipments</key>
-		<value><![CDATA[forsendelser]]></value>
+		<value><![CDATA[Forsendelser]]></value>
 	</definition>
 	<definition>
 		<key>error_coupon</key>
-		<value><![CDATA[Feil: Kupongen er enten ugyldig, utløpt eller nådd det er bruksgrensen!]]></value>
+		<value><![CDATA[Feil: Kupongen er enten ugyldig, utløpt eller har nådd sin bruksgrense!]]></value>
 	</definition>
 	<definition>
 		<key>error_stock</key>
-		<value><![CDATA[Produkter merket med *** er ikke tilgjengelig i ønsket mengde eller tomt på lager!]]></value>
+		<value><![CDATA[Produkter merket med *** er ikke tilgjengelige i ønsket antall eller utsolgt!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_options</key>
-		<value><![CDATA[Velg alle nødvendige alternativer!]]></value>
+		<value><![CDATA[Vennligst velg alle påkrevde alternativer!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_minimum</key>
-		<value><![CDATA[Bestillingen under totale beløpet ikke oppfyller minimum av %s nødvendig. Vennligst legg til flere produkter til handlekurven din!]]></value>
+		<value><![CDATA[Delsummen på ordren din oppfyller ikke minimumsbeløpet på %s. Vennligst legg til flere produkter i handlekurven din!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_maximum</key>
-		<value><![CDATA[Bestillingen under totale mengden overstiger maksimumsbeløp på %s tillatt per bestilling. Fjern noen elementer fra handlekurven!]]></value>
+		<value><![CDATA[Ordredelsummen din overskrider det maksimalt tillatte beløpet på %s per bestilling. Vennligst fjern noen varer fra handlekurven din!]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_data</key>
-		<value><![CDATA[Datafilen er skadet eller tom.]]></value>
+		<value><![CDATA[Fildata er ødelagt eller tom.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_name</key>
-		<value><![CDATA[Filnavnet er tom!]]></value>
+		<value><![CDATA[Filnavn er tomt!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_extension</key>
-		<value><![CDATA[Kun filer med filtypen (e) %s er (er) tillatt!]]></value>
+		<value><![CDATA[Bare filer med filendelse(r) %s er tillatt!]]></value>
 	</definition>
 	<definition>
 		<key>error_min_file_size</key>
-		<value><![CDATA[Minste filstørrelse for opplasting er %s Kb.]]></value>
+		<value><![CDATA[Minimum filstørrelse for opplasting er %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>error_max_file_size</key>
@@ -118,7 +122,7 @@
 	</definition>
 	<definition>
 		<key>text_coupon_success</key>
-		<value><![CDATA[Suksess: Din kupong rabatt har blitt brukt!]]></value>
+		<value><![CDATA[Suksess: Kupongrabatten din er brukt!]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_removal</key>
@@ -126,14 +130,10 @@
 	</definition>
 	<definition>
 		<key>error_quantity_maximum</key>
-		<value><![CDATA[Tillatt produktets antall overskrider. Antall ble satt til maksimum.]]></value>
+		<value><![CDATA[Tillatt produktmengde overskrides. Mengden ble satt til maksimum.]]></value>
 	</definition>
 	<definition>
 		<key>error_quantity_minimum</key>
-		<value><![CDATA[Tillatt produktets mengde er under minstekravet. Antall ble satt til minimumsbeløp.]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Den tillatte produktmengden er under minimumskravet. Mengden ble satt til minste tillatte mengde.]]></value>
 	</definition>
 </definitions>

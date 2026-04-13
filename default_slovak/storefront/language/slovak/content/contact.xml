@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Kontaktuj nás]]></value>
+		<value><![CDATA[Kontaktujte nás]]></value>
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[adresa:]]></value>
+		<value><![CDATA[Adresa:]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_telephone</key>
-		<value><![CDATA[telefón:]]></value>
+		<value><![CDATA[Telefón:]]></value>
 	</definition>
 	<definition>
 		<key>text_fax</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Vaša otázka bol úspešne odoslaný správcovi tohto obchodu! </p>]]></value>
+		<value><![CDATA[<p>Váš dopyt bol úspešne odoslaný majiteľovi obchodu!</p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -30,34 +30,34 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Emailová adresa:]]></value>
+		<value><![CDATA[E-mailová adresa:]]></value>
 	</definition>
 	<definition>
 		<key>entry_enquiry</key>
-		<value><![CDATA[otázka:]]></value>
+		<value><![CDATA[Dotaz:]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Zadajte kód z obrázku do poľa nižšie:]]></value>
+		<value><![CDATA[Zadajte kód do políčka nižšie:]]></value>
 	</definition>
 	<definition>
 		<key>email_subject</key>
-		<value><![CDATA[dopyt %s]]></value>
+		<value><![CDATA[Dopyt od %s]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Meno musí byť medzi 3 a 32 znakov!]]></value>
+		<value><![CDATA[Názov musí mať dĺžku medzi 3 a 32 znakmi!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mailová adresa sa nezdá byť platný!]]></value>
+		<value><![CDATA[E-mailová adresa sa nezdá byť platná!]]></value>
 	</definition>
 	<definition>
 		<key>error_enquiry</key>
-		<value><![CDATA[Otázka musí byť medzi 10 a 3000 znakov!]]></value>
+		<value><![CDATA[Dopyt musí mať dĺžku medzi 10 a 3000 znakmi!]]></value>
 	</definition>
 	<definition>
 		<key>entry_duplicate_message_subject</key>
-		<value><![CDATA[Nový dopyt Z %s (%s)]]></value>
+		<value><![CDATA[Nový dopyt od %s (%s)]]></value>
 	</definition>
 </definitions>

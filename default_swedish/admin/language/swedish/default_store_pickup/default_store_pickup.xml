@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_store_pickup_name</key>
-		<value><![CDATA[Hämtning från butik]]></value>
+		<value><![CDATA[Upphämtning från butik]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrat hämtning från butik!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat upphämtning i butik!]]></value>
 	</definition>
 	<definition>
 		<key>default_store_pickup_location_id</key>
@@ -22,6 +22,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra hämtning från butik!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra upphämtning från butik!]]></value>
 	</definition>
 </definitions>

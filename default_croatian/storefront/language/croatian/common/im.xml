@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>im_text_notification</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>im_error_mail_address</key>
-		<value><![CDATA[E-mail adresa %s ne vrijedi!]]></value>
+		<value><![CDATA[Adresa e-pošte %s nije valjana!]]></value>
 	</definition>
 	<definition>
 		<key>im_protocol_email_title</key>
-		<value><![CDATA[E-mail]]></value>
+		<value><![CDATA[E-pošta]]></value>
 	</definition>
 	<definition>
 		<key>im_protocol_sms_title</key>
@@ -18,78 +18,78 @@
 	</definition>
 	<definition>
 		<key>im_protocol_sms_empty_warn</key>
-		<value><![CDATA[SMS obavijesti nisu moguće. Mobilni broj nije spremljen na vašem računu zapisa.]]></value>
+		<value><![CDATA[SMS obavijesti nisu moguće. Broj mobitela nije pohranjen u zapisima vašeg računa.]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update</key>
-		<value><![CDATA[Red Update]]></value>
+		<value><![CDATA[Ažuriranje narudžbe]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update_note</key>
-		<value><![CDATA[Odaberite ako se vole primati obavijesti o novostima Vaše narudžbe.]]></value>
+		<value><![CDATA[Odaberite da biste primali obavijesti o ažuriranjima vaših narudžbi.]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_admin</key>
-		<value><![CDATA[Narudžba #%s je ažuriran! ID status narudžbe %s]]></value>
+		<value><![CDATA[Narudžba #%s je ažurirana! ID statusa narudžbe %s]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_customer</key>
-		<value><![CDATA[Vaša narudžba #%s Obnovljeno. Novi status narudžbe je %s]]></value>
+		<value><![CDATA[Vaša narudžba #%s je ažurirana. Novi status narudžbe je %s.]]></value>
 	</definition>
 	<definition>
 		<key>im_new_order_text_to_admin</key>
-		<value><![CDATA[New Order #%s stavljen!]]></value>
+		<value><![CDATA[Nova narudžba #%s je zaprimljena!]]></value>
 	</definition>
 	<definition>
 		<key>im_new_customer_text_to_admin</key>
-		<value><![CDATA[Novi kupac #%s je registriran!]]></value>
+		<value><![CDATA[Novi kupac #%s %s je registriran!]]></value>
 	</definition>
 	<definition>
 		<key>im_new_subscriber_text_to_admin</key>
-		<value><![CDATA[Novi Pretplatnik #%s je registriran!]]></value>
+		<value><![CDATA[Novi pretplatnik #%s %s je registriran!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_account_update</key>
-		<value><![CDATA[račun Ažuriraj]]></value>
+		<value><![CDATA[Ažuriranje računa]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_account_update_note</key>
-		<value><![CDATA[Odaberite ako se vole primati obavijesti o ažuriranjima računa.]]></value>
+		<value><![CDATA[Odaberite za primanje obavijesti o ažuriranjima vašeg računa.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_customer</key>
-		<value><![CDATA[Vaš korisnički račun je ažuriran! Ako nije učinio nikakve promjene, obratite se vlasniku web-lokacije]]></value>
+		<value><![CDATA[Vaš račun je ažuriran! Ako niste napravili nikakve promjene, kontaktirajte vlasnika stranice.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_email_to_customer</key>
-		<value><![CDATA[Vaša e-mail adresa je račun promijenjen u %s! Ako niste to učinili promjenu, obratite se vlasniku web-lokacije]]></value>
+		<value><![CDATA[Vaša adresa e-pošte računa promijenjena je na %s! Ako niste vi izvršili ovu promjenu, kontaktirajte vlasnika stranice]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_login_to_customer</key>
-		<value><![CDATA[Vaš korisnički račun ime za prijavu je promijenjen u %s! Ako niste to učinili promjenu, obratite se vlasniku web-lokacije]]></value>
+		<value><![CDATA[Vaše korisničko ime za prijavu je promijenjeno u %s! Ako niste vi izvršili ovu promjenu, molimo kontaktirajte vlasnika web-mjesta.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_password_to_customer</key>
-		<value><![CDATA[Vaša lozinka račun je promijenjen! Ako niste to učinili promjenu, obratite se vlasniku web-lokacije]]></value>
+		<value><![CDATA[Lozinka vašeg korisničkog računa je promijenjena! Ako niste vi izvršili ovu promjenu, molimo kontaktirajte vlasnika stranice]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_contact_admin_text</key>
-		<value><![CDATA[Imaš novi upit od klijenta (%s, %s)!]]></value>
+		<value><![CDATA[Imate novi upit od kupca (%s, %s)!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter</key>
-		<value><![CDATA[Newsletteri]]></value>
+		<value><![CDATA[Bilteni]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter_note</key>
-		<value><![CDATA[Odaberite ako se vole primati obavijesti o našim proizvodima i usluga ažuriranja.]]></value>
+		<value><![CDATA[Odaberite za primanje obavijesti o našim proizvodima i ažuriranjima usluga.]]></value>
 	</definition>
 	<definition>
 		<key>im_product_review_text_to_admin</key>
-		<value><![CDATA[Novi pregled proizvoda je dodana. Vidi detalje #admin#rt=catalog/review/update&review_id=%s]]></value>
+		<value><![CDATA[Nova recenzija proizvoda je dodana. Pogledajte detalje #admin#rt=catalog/review/update&review_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>im_product_out_of_stock_admin_text</key>
-		<value><![CDATA[Proizvod sa ID #%s je out of stock.]]></value>
+		<value><![CDATA[Proizvod s ID #%s je rasprodan.]]></value>
 	</definition>
 </definitions>

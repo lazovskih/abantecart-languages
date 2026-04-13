@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Contáctenos]]></value>
+		<value><![CDATA[Contacte con Nosotros]]></value>
 	</definition>
 	<definition>
 		<key>text_address</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p>¡Su consulta ha sido enviada exitosamente al propietario de la tienda!</p>]]></value>
+		<value><![CDATA[<p>Su solicitud se ha enviado satisfactoriamente !</p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -30,34 +30,34 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Dirección de correo electrónico:]]></value>
+		<value><![CDATA[Correo electrónico:]]></value>
 	</definition>
 	<definition>
 		<key>entry_enquiry</key>
-		<value><![CDATA[Consulta:]]></value>
+		<value><![CDATA[Petición:]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Ingrese el código en la casilla de abajo:]]></value>
+		<value><![CDATA[Introduzca el código a continuación:]]></value>
 	</definition>
 	<definition>
 		<key>email_subject</key>
-		<value><![CDATA[Consulta de %s]]></value>
+		<value><![CDATA[Petición %s]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[¡El nombre debe tener entre 3 y 32 caracteres!]]></value>
+		<value><![CDATA[El nombre debe tener entre 3 y 32 caractéres!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[¡La dirección de correo electrónico no parece ser válida!]]></value>
+		<value><![CDATA[El Correo electrónico no parece válido]]></value>
 	</definition>
 	<definition>
 		<key>error_enquiry</key>
-		<value><![CDATA[¡La consulta debe tener entre 10 y 3000 caracteres!]]></value>
+		<value><![CDATA[La petición debe ser superior de 10 caracteres y menos de 1000!]]></value>
 	</definition>
 	<definition>
 		<key>entry_duplicate_message_subject</key>
-		<value><![CDATA[Asunto de mensaje duplicado]]></value>
+		<value><![CDATA[Nueva Petición De %s (%s)]]></value>
 	</definition>
 </definitions>

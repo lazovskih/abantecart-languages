@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[produkt filer]]></value>
+		<value><![CDATA[Produktfiler]]></value>
 	</definition>
 	<definition>
 		<key>text_product</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_edit_product_file</key>
-		<value><![CDATA[Rediger Product File]]></value>
+		<value><![CDATA[Rediger produktfil]]></value>
 	</definition>
 	<definition>
 		<key>tab_files</key>
-		<value><![CDATA[filer]]></value>
+		<value><![CDATA[Filer]]></value>
 	</definition>
 	<definition>
 		<key>tab_general</key>
-		<value><![CDATA[Generell]]></value>
+		<value><![CDATA[Generelt]]></value>
 	</definition>
 	<definition>
 		<key>tab_attributes</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>entry_file_icon</key>
-		<value><![CDATA[fil Ikon]]></value>
+		<value><![CDATA[Filikon]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -42,19 +42,19 @@
 	</definition>
 	<definition>
 		<key>entry_download_name</key>
-		<value><![CDATA[Last ned Name]]></value>
+		<value><![CDATA[Navn på nedlasting]]></value>
 	</definition>
 	<definition>
 		<key>entry_mask</key>
-		<value><![CDATA[Last ned maske <span class="help">Filnavn alias for kunde nedlasting utgang</span>]]></value>
+		<value><![CDATA[Nedlastningsmaske <span class="help">Filnavn-alias for kundens nedlastingsutdata</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_full_path</key>
-		<value><![CDATA[File Server Sti]]></value>
+		<value><![CDATA[Filserversti]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_max_downloads</key>
-		<value><![CDATA[Max Last ned]]></value>
+		<value><![CDATA[Maks nedlasting]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_sort_order</key>
@@ -65,12 +65,16 @@
 		<value><![CDATA[Status]]></value>
 	</definition>
 	<definition>
+		<key>entry_also_mapped_to</key>
+		<value><![CDATA[Delt med]]></value>
+	</definition>
+	<definition>
 		<key>entry_file_push_to_customers</key>
-		<value><![CDATA[Skyv til kunder]]></value>
+		<value><![CDATA[Push til kunder]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_activation</key>
-		<value><![CDATA[aktivisering Mode]]></value>
+		<value><![CDATA[Aktiveringsmodus]]></value>
 	</definition>
 	<definition>
 		<key>text_add_file</key>
@@ -86,23 +90,23 @@
 	</definition>
 	<definition>
 		<key>text_download_information</key>
-		<value><![CDATA[Generell]]></value>
+		<value><![CDATA[Generelt]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
-		<value><![CDATA[lagt på]]></value>
+		<value><![CDATA[Lagt til den]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_modified</key>
-		<value><![CDATA[modifisert]]></value>
+		<value><![CDATA[Endret]]></value>
 	</definition>
 	<definition>
 		<key>entry_max_downloads</key>
-		<value><![CDATA[Max nedlastinger <span class="help">Greve av nedlastinger tillatt for kunde</span>]]></value>
+		<value><![CDATA[Maks nedlastinger <span class="help">Antall nedlastinger som er tillatt for kunden</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_activate</key>
-		<value><![CDATA[Aktivert <span class="help">Nedlasting vil være aktiverer på den valgte hendelsen. <br/> Eksempel: Umiddelbart. Nedlasting er aktivere etter ordren er plassert, uavhengig av ordrestatus</span>]]></value>
+		<value><![CDATA[Aktivert<span class="help">Nedlastingen vil bli aktivert ved den valgte hendelsen.<br>Eksempel: Umiddelbart. Nedlastingen aktiveres etter at bestillingen er lagt inn, uavhengig av bestillingsstatus</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -110,39 +114,39 @@
 	</definition>
 	<definition>
 		<key>entry_expire_days</key>
-		<value><![CDATA[Utløper dager <span class="help">Antall dager fra kjøpsdato</span>]]></value>
+		<value><![CDATA[Utløpsdager<span class="help">Antall dager fra kjøpsdato</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_before_order</key>
-		<value><![CDATA[før Bestill]]></value>
+		<value><![CDATA[Før ordre]]></value>
 	</definition>
 	<definition>
 		<key>text_immediately</key>
-		<value><![CDATA[Med en gang]]></value>
+		<value><![CDATA[Umiddelbart]]></value>
 	</definition>
 	<definition>
 		<key>text_on_order_status</key>
-		<value><![CDATA[på Bestillingsstatus]]></value>
+		<value><![CDATA[på ordrestatus]]></value>
 	</definition>
 	<definition>
 		<key>text_manually</key>
-		<value><![CDATA[manuelt]]></value>
+		<value><![CDATA[Manuelt]]></value>
 	</definition>
 	<definition>
 		<key>text_success_download_save</key>
-		<value><![CDATA[Suksess: Du har endret fil!]]></value>
+		<value><![CDATA[Suksess: Du har endret filen!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_exists</key>
-		<value><![CDATA[Feil: Kan ikke oppdatere nedlasting fordi den ikke eksisterer i databasen!]]></value>
+		<value><![CDATA[Feil: Kan ikke oppdatere nedlastingen fordi den ikke finnes i databasen!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_name</key>
-		<value><![CDATA[Feil: Last ned navnet må ha lengde mellom 2 og 128 tegn!]]></value>
+		<value><![CDATA[Feil: Nedlastingsnavnet må ha lengde mellom 2 og 128 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_max_downloads</key>
-		<value><![CDATA[Feil: maks nedlastinger telle må være større 0!]]></value>
+		<value><![CDATA[Feil: maksimum antall nedlastinger må være større enn 0!]]></value>
 	</definition>
 	<definition>
 		<key>error_activate</key>
@@ -150,15 +154,15 @@
 	</definition>
 	<definition>
 		<key>error_order_status</key>
-		<value><![CDATA[Feil: Velg ordrestatus for aktivering av nedlasting!]]></value>
+		<value><![CDATA[Feil: velg ordrestatus for aktivering av nedlasting!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_attributes</key>
-		<value><![CDATA[Last ned attributter Error (er):]]></value>
+		<value><![CDATA[Feil ved nedlasting av attributter:]]></value>
 	</definition>
 	<definition>
 		<key>text_shared_downloads</key>
-		<value><![CDATA[Delte nedlastinger]]></value>
+		<value><![CDATA[Delte Nedlastinger]]></value>
 	</definition>
 	<definition>
 		<key>text_create_download</key>
@@ -166,15 +170,15 @@
 	</definition>
 	<definition>
 		<key>text_path</key>
-		<value><![CDATA[Relativ sti til filen]]></value>
+		<value><![CDATA[Relativ filbane]]></value>
 	</definition>
 	<definition>
 		<key>text_preview</key>
-		<value><![CDATA[Forhåndsvisning]]></value>
+		<value><![CDATA[Forhåndsvis]]></value>
 	</definition>
 	<definition>
 		<key>entry_shared</key>
-		<value><![CDATA[Felles Last ned]]></value>
+		<value><![CDATA[Delt nedlasting]]></value>
 	</definition>
 	<definition>
 		<key>text_assign</key>
@@ -182,7 +186,7 @@
 	</definition>
 	<definition>
 		<key>text_assigned_to</key>
-		<value><![CDATA[Også er tildelt:]]></value>
+		<value><![CDATA[Også tildelt til:]]></value>
 	</definition>
 	<definition>
 		<key>text_select_shared_downloads</key>
@@ -190,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>error_selected_downloads</key>
-		<value><![CDATA[Advarsel: Vennligst fyll ut de delte nedlastinger for assign.]]></value>
+		<value><![CDATA[Advarsel: Vennligst velg de delte nedlastingene for å tilordne.]]></value>
 	</definition>
 	<definition>
 		<key>text_map_success</key>
@@ -198,15 +202,15 @@
 	</definition>
 	<definition>
 		<key>text_delete_or_refuse</key>
-		<value><![CDATA[slette eller nekte (for delt)]]></value>
+		<value><![CDATA[slett eller avvis (for delte)]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_delete</key>
-		<value><![CDATA[Bekreft nedlasting slette / nekte]]></value>
+		<value><![CDATA[Bekreft last ned slett/nekt]]></value>
 	</definition>
 	<definition>
 		<key>text_success_remove</key>
-		<value><![CDATA[Suksess: produktliste filer endret!]]></value>
+		<value><![CDATA[Suksess: listen over produktfiler er endret!]]></value>
 	</definition>
 	<definition>
 		<key>text_push</key>
@@ -214,27 +218,27 @@
 	</definition>
 	<definition>
 		<key>text_push_to_customers</key>
-		<value><![CDATA[Skyv til kunder]]></value>
+		<value><![CDATA[Push til kunder]]></value>
 	</definition>
 	<definition>
 		<key>text_push_to_orders</key>
-		<value><![CDATA[Trykk Last ned til %s bestillinger]]></value>
+		<value><![CDATA[Push nedlasting til %s bestillinger]]></value>
 	</definition>
 	<definition>
 		<key>success_push_to_orders</key>
-		<value><![CDATA[Suksess: Last ned ble presset til %s bestillingen (e) med hell]]></value>
+		<value><![CDATA[Suksess: Nedlastingen ble overført til %s ordre(s) med hell]]></value>
 	</definition>
 	<definition>
 		<key>text_no_download_attributes_yet</key>
-		<value><![CDATA[Ingen nedlasting attributter ennå. <a href="%s" target="_blank">Klikk for å legge</a>]]></value>
+		<value><![CDATA[Ingen nedlastingsattributter ennå. <a href="%s" target="_blank">Klikk for å legge til</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_push</key>
-		<value><![CDATA[Bekrefte?]]></value>
+		<value><![CDATA[Bekreft?]]></value>
 	</definition>
 	<definition>
 		<key>error_downloads_disabled</key>
-		<value><![CDATA[Advarsel: Nedlastinger er deaktivert i lagre innstillinger. <a href="#admin#rt=setting/setting&active=general" target="new">Klikk for å redigere</a> !]]></value>
+		<value><![CDATA[Advarsel: Nedlastinger er deaktivert i butikkinnstillingene. <a href="#admin#rt=setting/setting&active=general" target="new">Klikk for å redigere</a>!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -242,18 +246,14 @@
 	</definition>
 	<definition>
 		<key>error_file</key>
-		<value><![CDATA[Vennligst sett filen for nedlasting.]]></value>
+		<value><![CDATA[Vennligst gjør filen tilgjengelig for nedlasting.]]></value>
 	</definition>
 	<definition>
 		<key>attention_shared</key>
-		<value><![CDATA[Du er i ferd med å redigere delte nedlasting. Edit vil påvirke andre produkter.]]></value>
+		<value><![CDATA[Du er i ferd med å redigere delt nedlasting. Redigeringen vil påvirke andre produkter.]]></value>
 	</definition>
 	<definition>
 		<key>text_shared_with</key>
 		<value><![CDATA[Delt med:]]></value>
-	</definition>
-	<definition>
-		<key>entry_also_mapped_to</key>
-		<value><![CDATA[Delt med]]></value>
 	</definition>
 </definitions>

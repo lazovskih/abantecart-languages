@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Horario de la tienda]]></value>
+		<value><![CDATA[Horario de atención al público]]></value>
 	</definition>
 	<definition>
 		<key>closed</key>

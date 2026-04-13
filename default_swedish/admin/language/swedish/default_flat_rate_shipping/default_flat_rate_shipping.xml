@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_flat_rate_shipping_name</key>
-		<value><![CDATA[Fast pris]]></value>
+		<value><![CDATA[Fast taxa]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har ändrat schablonfrakt!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat frakt med fast pris!]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_rates</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_cost</key>
-		<value><![CDATA[Kosta:]]></value>
+		<value><![CDATA[Kostnad:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id_0</key>
-		<value><![CDATA[ ---Ingen---]]></value>
+		<value><![CDATA[---Ingen---]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id</key>
@@ -42,6 +42,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra schablonfrakt!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra fast fraktavgift!]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_success</key>
@@ -6,43 +6,43 @@
 	</definition>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Paket za instalaciju]]></value>
+		<value><![CDATA[Instalator paketa]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_license</key>
-		<value><![CDATA[Ugovor o licenci paket]]></value>
+		<value><![CDATA[Ugovor o licenci paketa]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_ftp</key>
-		<value><![CDATA[FTP pristup parametri]]></value>
+		<value><![CDATA[FTP pristupni parametri]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_download</key>
-		<value><![CDATA[Paket Učitavanje]]></value>
+		<value><![CDATA[Učitavanje paketa]]></value>
 	</definition>
 	<definition>
 		<key>text_preloading</key>
-		<value><![CDATA[Paket datoteke% file% neće preuzeti.]]></value>
+		<value><![CDATA[Datoteka paketa %file% će biti preuzeta.]]></value>
 	</definition>
 	<definition>
 		<key>text_loading</key>
-		<value><![CDATA[Preuzimanje datoteka. Veličina: %s. <br/> To bi moglo potrajati nekoliko sekundi, ovisno o vašoj vezi.]]></value>
+		<value><![CDATA[Preuzimanje datoteke. Veličina: %s.<br/>Može potrajati nekoliko sekundi, ovisno o vašoj vezi.]]></value>
 	</definition>
 	<definition>
 		<key>text_key_hint</key>
-		<value><![CDATA[Unesite ključ instalacija ovdje]]></value>
+		<value><![CDATA[Ovdje unesite instalacijski ključ]]></value>
 	</definition>
 	<definition>
 		<key>text_ftp_user</key>
-		<value><![CDATA[FTP Korisničko ime:]]></value>
+		<value><![CDATA[FTP korisničko ime:]]></value>
 	</definition>
 	<definition>
 		<key>text_ftp_password</key>
-		<value><![CDATA[FTP Korisnik Lozinka:]]></value>
+		<value><![CDATA[Lozinka FTP korisnika:]]></value>
 	</definition>
 	<definition>
 		<key>text_ftp_host</key>
-		<value><![CDATA[FTP Host:]]></value>
+		<value><![CDATA[FTP poslužitelj:]]></value>
 	</definition>
 	<definition>
 		<key>text_i_agree</key>
@@ -50,68 +50,68 @@
 	</definition>
 	<definition>
 		<key>text_agree</key>
-		<value><![CDATA[složiti]]></value>
+		<value><![CDATA[Slažem se]]></value>
 	</definition>
 	<definition>
 		<key>text_retry</key>
-		<value><![CDATA[Ponovo pokušaj]]></value>
+		<value><![CDATA[Pokušaj ponovno]]></value>
 	</definition>
 	<definition>
 		<key>text_disagree</key>
-		<value><![CDATA[ne slagati se]]></value>
+		<value><![CDATA[Ne slažem se]]></value>
 	</definition>
 	<definition>
 		<key>text_download_error</key>
-		<value><![CDATA[Žao nam je, ali došlo je do pogreške prilikom učitavanja datoteke. </br> Pokušaj još jednom. </br> Ako problem i dalje postoji preuzimanje datoteka u povijesti narudžbe i instalirati ručno.]]></value>
+		<value><![CDATA[Ispričavamo se, ali je došlo do pogreške prilikom prijenosa datoteke.</br>Pokušajte ponovno.</br>Ako problem potraje, preuzmite datoteku u povijesti narudžbi i instalirajte je ručno.]]></value>
 	</definition>
 	<definition>
 		<key>text_continue</key>
-		<value><![CDATA[Nastaviti]]></value>
+		<value><![CDATA[Nastavi]]></value>
 	</definition>
 	<definition>
 		<key>text_disclaimer_heading</key>
-		<value><![CDATA[Odricanje]]></value>
+		<value><![CDATA[Odricanje od odgovornosti]]></value>
 	</definition>
 	<definition>
 		<key>text_disclaimer</key>
-		<value><![CDATA[<h3> Dragi AbanteCart kupca, </h3><br/>
- Spremate se instalirati proširenje treće strane na svom AbanteCart. <br/><br/>
- Molimo pročitati i razumjeti ovo odricanje o proširenju treće strane da o tome za instalaciju. <br/><br/>
- Treće proširenje i usluge strankama pružaju treće strane distributera. <br/><br/>
- Iako AbanteCart provjeriti kvalitetu proširenja i usluga treće strane, AbanterCart ne može jamčiti da svi treća strana radovi na proširenju ispravno ili ne može izazvati nikakve sukobe u sustavu.
- članova AbanteCart i povezana ni na koji način odgovorna za tvrdnje se odnose na proizvode ili usluge koje pružaju treće strane distributera. AbanteCart ne jamči kvalitetu proširenja ili usluga treće strane. Molimo usmjeriti svoje upite u vezi proširenja treće strane ili usluge na odgovarajući treće strane dobavljača.
- Ako imate zabrinutost zbog bilo koje treće strane pružatelja usluga obratite AbanteCart na <a href="http://www.abantecart.com/contact-us" target="_blank">http://www.abantecart.com/contact-us</a><br/><br/> 
- S poštovanjem, <br/>
- AbanteCart <br/>
- Idealno OpenSource eCommerce rješenje]]></value>
+		<value><![CDATA[<h3>Poštovani korisniče AbanteCarta,</h3><br>
+Spremate se instalirati dodatak treće strane u svoj AbanteCart.<br><br>
+Molimo pročitajte i razumite ovo odricanje odgovornosti u vezi dodatka treće strane kojeg ćete instalirati.<br><br>
+Dodaci i usluge trećih strana pružaju se od strane trećih dobavljača.<br><br>
+Iako AbanteCart provjerava kvalitetu dodataka i usluga koje pružaju treće strane, AbanteCart ne jamči da će svi dodaci treće strane ispravno raditi ili da neće uzrokovati nikakve sukobe u sustavu.<br><br>
+Članovi i partneri AbanteCarta ni na koji način nisu odgovorni za tvrdnje vezane uz proizvode ili usluge koje pružaju treći dobavljači. AbanteCart ne jamči kvalitetu dodataka ili usluga trećih strana. Sve upite u vezi dodataka ili usluga trećih strana uputite odgovarajućem dobavljaču.<br><br>
+Ako imate bilo kakvih nedoumica u vezi bilo kojeg dobavljača treće strane, molimo kontaktirajte AbanteCart na <a href="https://www.abantecart.com/contact-us" target="_blank">https://www.abantecart.com/contact-us</a><br><br>
+S poštovanjem,<br>
+AbanteCart<br>
+Idealno OpenSource rješenje za e-trgovinu]]></value>
 	</definition>
 	<definition>
 		<key>warning_ftp</key>
-		<value><![CDATA[Upozorenje: Neki katalog ili datoteku nema dozvolu za pisanje <span id="see_details">(vidjeti detalje)</span><br/> Možete promijeniti ovlasti na poslužitelju ili <br/> korištenja pristupa FTP na svoj server za ugradnju (obično, hosting provider šalje tu informaciju putem e-pošte ili ih možete upravljati u hosting za kontrolu alata) <br/>]]></value>
+		<value><![CDATA[Upozorenje: Neki direktorij ili datoteka nema dopuštenje za pisanje (<span id="see_details">see more details</span>)<br>Možete promijeniti dozvole na vašem poslužitelju ili<br>koristiti ftp pristup vašem poslužitelju za instalaciju (obično, pružatelj hostinga šalje ove informacije putem e-pošte ili njima upravljate u alatima za upravljanje hostingom)<br>]]></value>
 	</definition>
 	<definition>
 		<key>warning_already_installed</key>
-		<value><![CDATA[<p class="success"> Već ste% PROŠIRENJE% proširenje instaliran! Ako želite nastaviti i nadograditi, molim potvrdu. </p>]]></value>
+		<value><![CDATA[<p class="success">Već imate instaliranu %EXTENSION% ekstenziju! Ako želite nastaviti i nadograditi, molimo potvrdite.</p>]]></value>
 	</definition>
 	<definition>
 		<key>warning_already_installed_uninstall</key>
-		<value><![CDATA[Već imate ovo proširenje &quot;% PROŠIRENJE%&quot; instaliran! Ako želite nastaviti ponovno instalirati, deinstalirajte i izbrisati proširenje prvi.]]></value>
+		<value><![CDATA[Već imate ovu ekstenziju "%EXTENSION%" instaliranu! Ako želite nastaviti s ponovnom instalacijom, najprije deinstalirajte i izbrišite ekstenziju.]]></value>
 	</definition>
 	<definition>
 		<key>error_pack_file_not_found</key>
-		<value><![CDATA[Greška: Ne mogu izdvojiti proširenje iz arhive %s. Provjerite <a href="#admin#rt=tool/error_log" target="_blank">prijaviti</a> za pogreške]]></value>
+		<value><![CDATA[Greška: Ne mogu izdvojiti ekstenziju iz arhive u %s. Provjerite <a href="#admin#rt=tool/error_log" target="_blank">dnevnik</a> za pogreške]]></value>
 	</definition>
 	<definition>
 		<key>error_mp</key>
-		<value><![CDATA[Pogreška Tržište:]]></value>
+		<value><![CDATA[Pogreška na tržnici:]]></value>
 	</definition>
 	<definition>
 		<key>error_repository</key>
-		<value><![CDATA[Greška: Ne mogu preuzeti datoteku. Repozitorij greška ili nevažeći proširenje ključ. Pokušaj još jednom. Ako problem i dalje postoji preuzimanje datoteka u povijesti narudžbe i instalirati ručno.]]></value>
+		<value><![CDATA[Pogreška: Nije moguće preuzeti datoteku. Pogreška repozitorija ili nevažeći ključ proširenja. Pokušajte još jednom. Ako problem i dalje traje, preuzmite datoteku iz povijesti narudžbi i instalirajte je ručno.]]></value>
 	</definition>
 	<definition>
 		<key>error_ftp_user</key>
-		<value><![CDATA[Pogreška: FTP korisničko ime je prazna.]]></value>
+		<value><![CDATA[Greška: FTP korisničko ime je prazno.]]></value>
 	</definition>
 	<definition>
 		<key>error_ftp_password</key>
@@ -119,134 +119,137 @@
 	</definition>
 	<definition>
 		<key>error_ftp_connect</key>
-		<value><![CDATA[Pogreška: Ne mogu se spojiti na FTP-poslužitelj]]></value>
+		<value><![CDATA[Greška: Ne mogu se povezati na FTP-poslužitelj]]></value>
 	</definition>
 	<definition>
 		<key>error_ftp_login</key>
-		<value><![CDATA[Greška: Ne mogu se prijaviti na FTP-poslužitelj. Neispravno korisničko ime ili lozinka.]]></value>
+		<value><![CDATA[Greška: Nije moguće prijaviti se na FTP poslužitelj. Neispravno korisničko ime ili lozinka.]]></value>
 	</definition>
 	<definition>
 		<key>error_ftp_path</key>
-		<value><![CDATA[Pogreška: nije moguće pronaći korijenski direktorij AbanteCart FTP put. <br/> Pokušajte ostaviti prazno za automatsko pretraživanje.]]></value>
+		<value><![CDATA[Pogreška: Ne mogu pronaći korijenski direktorij AbanteCart-a putem FTP putanje.<br>Pokušajte ga ostaviti praznim za automatsku pretragu.]]></value>
 	</definition>
 	<definition>
 		<key>error_ftp_path_array</key>
-		<value><![CDATA[Pogreška: Ne mogu automatski prepoznati korijenski direktorij AbanteCart FTP-modu. <br/> Ispunite FTP-path polje obrasca. <br/> Put prijedlozi su:]]></value>
+		<value><![CDATA[Error: Ne može automatski prepoznati korijenski direktorij AbanteCart-a u FTP načinu rada.<br>Molimo ispunite polje za FTP putanju.<br>Prijedlozi putanja su:]]></value>
 	</definition>
 	<definition>
 		<key>error_dir_permission</key>
-		<value><![CDATA[Ne mogu spremiti datoteku jer katalog ne može se pisati:]]></value>
+		<value><![CDATA[Ne mogu spremiti datoteku jer direktorij nije upisiv:]]></value>
 	</definition>
 	<definition>
 		<key>error_package_structure</key>
-		<value><![CDATA[Pogreška: Vjerojatno paket je slomljena. Struktura pogreške paketa.]]></value>
+		<value><![CDATA[Pogreška: Vjerojatno je paket oštećen. Pogreška u strukturi paketa.]]></value>
 	</definition>
 	<definition>
 		<key>error_package_config_xml</key>
-		<value><![CDATA[Greška: Ne mogu pronaći datoteke package.xml unutar izvađen produžetak. Moguće proširenje nije ispravno izvađen. Provjerite <a href="#admin#rt=tool/error_log" target="_blank">prijaviti</a> za pogreške]]></value>
+		<value><![CDATA[Greška: Nije moguće pronaći datoteku package.xml unutar raspakiranog proširenja. Moguće je da proširenje nije ispravno raspakirano. Provjerite <a href="#admin#rt=tool/error_log" target="_blank">log</a> za pogreške]]></value>
 	</definition>
 	<definition>
 		<key>error_package_config2</key>
-		<value><![CDATA[Pogreška: nije moguće pronaći načina instalacije u package.xml unutar paketa.]]></value>
+		<value><![CDATA[Greška: Ne mogu pronaći način instalacije u package.xml unutar paketa.]]></value>
 	</definition>
 	<definition>
 		<key>error_package_info_not_exists</key>
-		<value><![CDATA[Pogreška: nije moguće pronaći paket sesije informacije o ovom preuzimanju.]]></value>
+		<value><![CDATA[Pogreška: Ne mogu pronaći informacije o sesiji paketa za ovo preuzimanje.]]></value>
 	</definition>
 	<definition>
 		<key>error_unpack</key>
-		<value><![CDATA[Pogreška: Ne mogu otpakirati paket &quot;% paket%&quot; nakon preuzimanja. Arhiva pogreška. Pogledajte zapisnik pogrešaka za detalje.]]></value>
+		<value><![CDATA[Greška: Ne mogu raspakirati paket "%PACKAGE%" nakon preuzimanja. Greška arhive. Pogledajte dnevnik pogrešaka za detalje.]]></value>
 	</definition>
 	<definition>
 		<key>error_move</key>
-		<value><![CDATA[Pogreška: Nije moguće premjestiti paket kod nakon raspakiranja. Pokušajte provjeriti dozvole zapisivanja direktoriju:]]></value>
+		<value><![CDATA[Greška: Ne mogu premjestiti kôd paketa nakon raspakiravanja. Molimo provjerite dozvole za pisanje u direktoriju:]]></value>
 	</definition>
 	<definition>
 		<key>error_install_mode</key>
-		<value><![CDATA[Greška: Ne mogu instalirati proširenje &quot;% paket%&quot; jer je već instaliran. Morate rastaviti i izbrisati ga prvi ili dobiti paket za nadogradnju.]]></value>
+		<value><![CDATA[Greška: Ne mogu instalirati ekstenziju "%package%" jer je već instalirana. Morate je prvo deinstalirati i izbrisati ili preuzeti paket za nadogradnju.]]></value>
 	</definition>
 	<definition>
 		<key>error_install_mode2</key>
-		<value><![CDATA[Pogreška: Nije moguće nadograditi proširenje &quot;% paket%&quot; jer nije instaliran. Trebate dobiti paket za instalaciju.]]></value>
+		<value><![CDATA[Greška: Ne mogu nadograditi proširenje "%package%" jer nije instalirano. Trebate preuzeti paket za instalaciju.]]></value>
 	</definition>
 	<definition>
 		<key>error_version_compatibility</key>
-		<value><![CDATA[Greška: Ne mogu instalirati paket. Vaša košarica je <b>verzija% CURRENT_VERSION%.</b> Verzija <b>(s)% VERZIJE%</b> potrebno.]]></value>
+		<value><![CDATA[Greška: Ne mogu instalirati paket. Verzija vaše košarice je <b>%CURRENT_VERSION%</b>. Potrebna je verzija(e) <b>%VERSIONS%</b>.]]></value>
 	</definition>
 	<definition>
 		<key>error_package_version_compatibility</key>
-		<value><![CDATA[Greška: Ne mogu ažurirati paket. Novija verzija paketa već instaliran.]]></value>
+		<value><![CDATA[Greška: Ne mogu nadograditi paket. Novija verzija paketa je već instalirana.]]></value>
 	</definition>
 	<definition>
 		<key>error_install</key>
-		<value><![CDATA[Greška: Ne mogu instalirati paket. Molimo pogledajte Sustav -&gt; Error Log za detalje.]]></value>
+		<value><![CDATA[Greška: Nije moguće instalirati paket. Molimo pogledajte Sustav -> Dnevnik pogrešaka za detalje.]]></value>
 	</definition>
 	<definition>
 		<key>error_core_version</key>
-		<value><![CDATA[Greška: Morate instalirati AbanteCart verzija% VERSION%. <br/> Ova nadogradnja paketa samo za verzije niže od]]></value>
+		<value><![CDATA[Greška: Imate instaliranu verziju AbanteCart %VERSION%.<br>Ovaj paket nadogradnje je samo za verzije niže od]]></value>
 	</definition>
 	<definition>
 		<key>text_interrupt</key>
-		<value><![CDATA[Prekinuti]]></value>
+		<value><![CDATA[Prekid]]></value>
+	</definition>
+	<definition>
+		<key>text_continue</key>
+		<value><![CDATA[Nastavi]]></value>
 	</definition>
 	<definition>
 		<key>confirm_version_incompatibility</key>
-		<value><![CDATA[Trenutno primjerak ovog proširenja nije potvrđen za svoju verziju AbanteCart (V %s). <br/> Proširenje graditi je određen za AbanteCart V %s. <br/>
- To nije problem, ali ako primijetite probleme ili nekompatibilnost, obratite produžni developer.]]></value>
+		<value><![CDATA[Trenutna kopija ovog proširenja nije potvrđena za vašu verziju AbanteCarta (v%s).<br>Izdanje ovog proširenja je predviđeno za AbanteCart v%s.<br>To nije problem, ali ako uočite poteškoće ili nekompatibilnost, molimo vas da kontaktirate programera proširenja.]]></value>
 	</definition>
 	<definition>
 		<key>error_move_ftp</key>
-		<value><![CDATA[Pogreška: Nije moguće premjestiti paket kod nakon raspakiranja. Vjerojatno FTP put je netočna. <br/> Isto tako, molim te, pokušati provjeriti dozvole zapisivanja direktoriju:]]></value>
+		<value><![CDATA[Greška: Ne mogu premjestiti kod paketa nakon raspakiravanja. Vjerojatno je FTP putanja netočna.<br>Također, molimo provjerite dozvole za pisanje direktorija:]]></value>
 	</definition>
 	<definition>
 		<key>text_network_install</key>
-		<value><![CDATA[mreža Instalacija]]></value>
+		<value><![CDATA[Mrežna instalacija]]></value>
 	</definition>
 	<definition>
 		<key>text_extension_upload</key>
-		<value><![CDATA[Proširenje Postavi]]></value>
+		<value><![CDATA[Prijenos proširenja]]></value>
 	</definition>
 	<definition>
 		<key>error_archive_extension</key>
-		<value><![CDATA[Greška: Samo .tar.gz datoteka podržani.]]></value>
+		<value><![CDATA[Pogreška: podržane su samo .tar.gz datoteke.]]></value>
 	</definition>
 	<definition>
 		<key>entry_upload_file</key>
-		<value><![CDATA[Prijenos datoteke:]]></value>
+		<value><![CDATA[Otpremi datoteku:]]></value>
 	</definition>
 	<definition>
 		<key>entry_upload_url</key>
-		<value><![CDATA[Umetnite URL:]]></value>
+		<value><![CDATA[Unesite URL:]]></value>
 	</definition>
 	<definition>
 		<key>error_move_backup</key>
-		<value><![CDATA[Pogreška: ne može sigurnosna kopija datoteka prije nadogradnje. Provjerite dozvole zapisivanja direktoriju:]]></value>
+		<value><![CDATA[Greška: Ne mogu napraviti sigurnosnu kopiju datoteka prije nadogradnje. Provjerite dozvole za pisanje direktorija:]]></value>
 	</definition>
 	<definition>
 		<key>text_core_upgrade_title</key>
-		<value><![CDATA[Abantecart Temeljni Nadogradnja]]></value>
+		<value><![CDATA[Nadogradnja jezgre Abantecart]]></value>
 	</definition>
 	<definition>
 		<key>text_core_upgrade_attention</key>
-		<value><![CDATA[Pažnja!
- AbanteCart je o biti nadograđen na verziju %s!]]></value>
+		<value><![CDATA[Pažnja!	
+AbanteCart će uskoro biti nadograđen na verziju %s!]]></value>
 	</definition>
 	<definition>
 		<key>text_core_upgrade_warning</key>
-		<value><![CDATA[Nema poništiti nakon pokretanja postupka nadogradnje.
- Kompletna baza podataka i broj kopija je vrlo preporučljivo.
- Test nadogradnja na ne-živih mjestima prve. Nadogradnja na live web stranice se ne preporučuje.]]></value>
+		<value><![CDATA[Nema poništavanja nakon pokretanja postupka nadogradnje.	
+Toplo se preporučuje potpuna sigurnosna kopija baze podataka i koda.	
+Prvo testirajte nadogradnju na neaktivnim stranicama. Nadogradnju na aktivnim stranicama treba obaviti tek nakon testiranja.]]></value>
 	</definition>
 	<definition>
 		<key>text_upgrade_now</key>
-		<value><![CDATA[Nadograditi sada!]]></value>
+		<value><![CDATA[Nadogradite sada!]]></value>
 	</definition>
 	<definition>
 		<key>error_additional_help_text</key>
-		<value><![CDATA[Stuck? Nije problem. Možete instalirati ekstenzije još jedan način. Provjerite <a href="http://docs.abantecart.com/pages/extensions/install.html#FTPinstall" target="_blank">ovu vezu za pomoć</a>]]></value>
+		<value><![CDATA[Zapeli ste? Nema problema. Ekstenzije možete instalirati na drugi način. Pogledajte <a href="http://docs.abantecart.com/pages/extensions/install.html#FTPinstall" target="_blank">ovu poveznicu za pomoć</a>]]></value>
 	</definition>
 	<definition>
 		<key>error_notconnected</key>
-		<value><![CDATA[Ne može nadograditi ili instalirati ekstenzije s tržišta. Ova trgovina nije ovjeren / spojen. Molimo ovjeriti i spajanje na <a href="%s">tržištu</a>]]></value>
+		<value><![CDATA[Ne mogu nadograditi niti instalirati proširenja iz tržišta. Ova trgovina nije autentificirana/povezana. Molimo autentificirajte se i povežite se na <a href="%s">tržište</a>]]></value>
 	</definition>
 </definitions>

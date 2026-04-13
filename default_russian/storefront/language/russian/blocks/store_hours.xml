@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Часы работы]]></value>
+		<value><![CDATA[Часы работы магазина]]></value>
 	</definition>
 	<definition>
 		<key>closed</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>open</key>
-		<value><![CDATA[Открыто]]></value>
+		<value><![CDATA[Открыть]]></value>
 	</definition>
 	<definition>
 		<key>sunday</key>

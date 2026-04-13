@@ -96,4 +96,44 @@
 		<key>ups_packaging_02</key>
 		<value><![CDATA[Boks]]></value>
 	</definition>
+	<definition>
+		<key>ups_manifest_order_status_id</key>
+		<value><![CDATA[Opret forsendelse, når ordrestatus bliver]]></value>
+	</definition>
+	<definition>
+		<key>ups_text_print_label</key>
+		<value><![CDATA[Udskriv UPS-etiket (oprindelig ordre)]]></value>
+	</definition>
+	<definition>
+		<key>ups_text_print_label_title</key>
+		<value><![CDATA[Udskriver UPS-etiketten med den oprindelige vægt og de oprindelige dimensioner, som kunden indsendte ved kassen. Eventuelle ændringer af ordren foretaget af administratoren vil ikke påvirke etiketten.]]></value>
+	</definition>
+	<definition>
+		<key>ups_text_print_label_suggestion</key>
+		<value><![CDATA[Skift ordrestatus til "%s" for at oprette forsendelse via UPS API og få pakkemærker]]></value>
+	</definition>
+	<definition>
+		<key>ups_entry_weight</key>
+		<value><![CDATA[Vægt:]]></value>
+	</definition>
+	<definition>
+		<key>ups_entry_height</key>
+		<value><![CDATA[Højde:]]></value>
+	</definition>
+	<definition>
+		<key>ups_entry_width</key>
+		<value><![CDATA[Bredde:]]></value>
+	</definition>
+	<definition>
+		<key>ups_entry_depth</key>
+		<value><![CDATA[Dybde:]]></value>
+	</definition>
+	<definition>
+		<key>ups_entry_parcel_info</key>
+		<value><![CDATA[Pakkeinfo:]]></value>
+	</definition>
+	<definition>
+		<key>ups_shipment_created_success_message</key>
+		<value><![CDATA[UPS-forsendelse er blevet oprettet med succes. Se flere oplysninger <a href="%s">her</a>]]></value>
+	</definition>
 </definitions>

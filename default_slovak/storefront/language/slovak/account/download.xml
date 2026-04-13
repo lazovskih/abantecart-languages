@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[účtu k stiahnutiu]]></value>
+		<value><![CDATA[Stiahnutia účtu]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[účet]]></value>
+		<value><![CDATA[Účet]]></value>
 	</definition>
 	<definition>
 		<key>text_downloads</key>
-		<value><![CDATA[K stiahnutiu]]></value>
+		<value><![CDATA[Stiahnutia]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Číslo objednávky:]]></value>
+		<value><![CDATA[ID objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -30,39 +30,39 @@
 	</definition>
 	<definition>
 		<key>text_remaining</key>
-		<value><![CDATA[zostávajúce:]]></value>
+		<value><![CDATA[Zostáva:]]></value>
 	</definition>
 	<definition>
 		<key>text_size</key>
-		<value><![CDATA[veľkosť:]]></value>
+		<value><![CDATA[Veľkosť:]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Stiahnuť ▼]]></value>
+		<value><![CDATA[Stiahnuť]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Ste nevykonali žiadne predchádzajúce objednávky sťahovateľné!]]></value>
+		<value><![CDATA[Zatiaľ ste neuskutočnili žiadne predchádzajúce objednávky na stiahnutie!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
-		<value><![CDATA[Dátum expirácie:]]></value>
+		<value><![CDATA[Dátum exspirácie:]]></value>
 	</definition>
 	<definition>
 		<key>text_expired</key>
-		<value><![CDATA[vypršala]]></value>
+		<value><![CDATA[Vypršané]]></value>
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[až do]]></value>
+		<value><![CDATA[Čaká]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[nedostupné]]></value>
+		<value><![CDATA[Nedostupné]]></value>
 	</definition>
 	<definition>
 		<key>text_reached_limit</key>
-		<value><![CDATA[limit dosiahol]]></value>
+		<value><![CDATA[Dosiahnutý limit]]></value>
 	</definition>
 	<definition>
 		<key>error_download_not_exists</key>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Нет товаров со специальными предложениями для отображения.]]></value>
+		<value><![CDATA[Нет специальных предложений.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
@@ -22,26 +22,26 @@
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Имя: A - Я]]></value>
+		<value><![CDATA[Название (А - Я)]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Имя: Я - А]]></value>
+		<value><![CDATA[Название (Я - А)]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Цена: Низкая - Высокая]]></value>
+		<value><![CDATA[Цена (низкая &gt; высокая)]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Цена: Высокая - Низкая]]></value>
+		<value><![CDATA[Цена (высокая &gt; низкая)]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Рейтинг: Низкий]]></value>
+		<value><![CDATA[Рейтинг (начиная с низкого)]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Рейтинг: Высокий]]></value>
+		<value><![CDATA[Рейтинг (начиная с высокого)]]></value>
 	</definition>
 </definitions>

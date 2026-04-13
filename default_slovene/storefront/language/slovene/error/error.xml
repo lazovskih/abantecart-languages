@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Napaka!]]></value>
+		<value><![CDATA[Napaka aplikacije!]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Preverite dnevnik napak, za več informacij]]></value>
+		<value><![CDATA[Prosimo, preverite dnevnik napak za več informacij]]></value>
 	</definition>
 </definitions>

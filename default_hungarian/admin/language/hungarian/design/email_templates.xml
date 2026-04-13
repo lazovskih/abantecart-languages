@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>column_text_id</key>
-		<value><![CDATA[E-mail sablon szövegazonosítója]]></value>
+		<value><![CDATA[E-mail sablon szöveg azonosító]]></value>
 	</definition>
 	<definition>
 		<key>column_language</key>
@@ -18,55 +18,55 @@
 	</definition>
 	<definition>
 		<key>column_subject</key>
-		<value><![CDATA[Téma]]></value>
+		<value><![CDATA[Tárgy]]></value>
 	</definition>
 	<definition>
 		<key>button_save</key>
-		<value><![CDATA[Megtakarítás]]></value>
+		<value><![CDATA[Mentés]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Állapot: ]]></value>
+		<value><![CDATA[Állapot:]]></value>
 	</definition>
 	<definition>
 		<key>entry_text_id</key>
-		<value><![CDATA[Szöveges azonosító: ]]></value>
+		<value><![CDATA[Szövegazonosító:]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_id</key>
-		<value><![CDATA[Nyelv: ]]></value>
+		<value><![CDATA[Nyelv:]]></value>
 	</definition>
 	<definition>
 		<key>entry_headers</key>
-		<value><![CDATA[Egyéni fejlécek: ]]></value>
+		<value><![CDATA[Egyéni fejlécek:]]></value>
 	</definition>
 	<definition>
 		<key>entry_subject</key>
-		<value><![CDATA[Téma: ]]></value>
+		<value><![CDATA[Tárgy:]]></value>
 	</definition>
 	<definition>
 		<key>entry_html_body</key>
-		<value><![CDATA[Html törzs: ]]></value>
+		<value><![CDATA[HTML törzs:]]></value>
 	</definition>
 	<definition>
 		<key>entry_text_body</key>
-		<value><![CDATA[Szövegtörzs: ]]></value>
+		<value><![CDATA[Szöveg törzse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_placeholders</key>
-		<value><![CDATA[Engedélyezett helyőrzők: <br/><span class="help">változónevek kómával elválasztott listája</span>]]></value>
+		<value><![CDATA[Engedélyezett helyőrzők:<br /><span class="help">Vesszővel elválasztott változónevek listája</span>]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Mentés kész]]></value>
+		<value><![CDATA[Mentés befejezve]]></value>
 	</definition>
 	<definition>
 		<key>save_error</key>
-		<value><![CDATA[Mentés hiba. Kérjük, nézze meg a naplót.]]></value>
+		<value><![CDATA[Mentési hiba. Kérjük, nézze meg a naplót.]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_id</key>
-		<value><![CDATA[Szöveges azonosító kötelező, és legfeljebb 254 karakter hosszúságú lehet! Egy szó. Karakterkészletek: AZ az és _ ]]></value>
+		<value><![CDATA[Szövegazonosító megadása kötelező, és legfeljebb 254 karakter hosszú lehet! Egy szó. Karakterkészlet: A-Z, a-z és _]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_id_unique</key>
@@ -74,23 +74,23 @@
 	</definition>
 	<definition>
 		<key>save_error_text_header</key>
-		<value><![CDATA[A fejléceknek legfeljebb 254 karakterből kell állniuk!]]></value>
+		<value><![CDATA[A fejlécek legfeljebb 254 karakterből állhatnak!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_subject</key>
-		<value><![CDATA[A tárgy kötelező, legfeljebb 254 karakter hosszúságú lehet!]]></value>
+		<value><![CDATA[A tárgy megadása kötelező, és legfeljebb 254 karakter hosszú lehet!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_html_body</key>
-		<value><![CDATA[Html Body kötelező!]]></value>
+		<value><![CDATA[A HTML törzs megadása kötelező!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_body</key>
-		<value><![CDATA[A szövegtörzs kötelező!]]></value>
+		<value><![CDATA[A szövegtörzs megadása kötelező!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_language_id</key>
-		<value><![CDATA[Nyelv szükséges!]]></value>
+		<value><![CDATA[A nyelv megadása kötelező!]]></value>
 	</definition>
 	<definition>
 		<key>text_preview</key>

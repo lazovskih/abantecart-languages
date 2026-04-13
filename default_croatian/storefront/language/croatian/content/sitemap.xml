@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Mapa stranice]]></value>
+		<value><![CDATA[Mapa web-lokacije]]></value>
 	</definition>
 	<definition>
 		<key>text_special</key>
@@ -26,27 +26,27 @@
 	</definition>
 	<definition>
 		<key>text_history</key>
-		<value><![CDATA[Povijest Reda]]></value>
+		<value><![CDATA[Povijest narudžbi]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[preuzimanja]]></value>
+		<value><![CDATA[Preuzimanja]]></value>
 	</definition>
 	<definition>
 		<key>text_cart</key>
-		<value><![CDATA[Košarica]]></value>
+		<value><![CDATA[Košarica za kupovinu]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Provjeri]]></value>
+		<value><![CDATA[Plaćanje]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[traži]]></value>
+		<value><![CDATA[Pretraži]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Informacija]]></value>
+		<value><![CDATA[Informacije]]></value>
 	</definition>
 	<definition>
 		<key>text_contact</key>

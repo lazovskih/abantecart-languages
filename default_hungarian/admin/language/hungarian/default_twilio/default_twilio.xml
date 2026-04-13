@@ -6,19 +6,18 @@
 	</definition>
 	<definition>
 		<key>default_twilio_note</key>
-		<value><![CDATA[Az SMS-üzenetküldés engedélyezéséhez lépjen a Rendszer -&gt; Beállítások -&gt; <a href="#admin#rt=setting/setting/im" target="_im">IM</a><br/> 
- menüpontba, és válassza ki a Twilio-t alapértelmezett sms-illesztőprogramként. Ne felejtse el engedélyezni azt a részt, ahonnan SMS-t szeretne kapni (adminisztrátor vagy kirakat). <br/> 
- Ez a bővítmény lehetővé teszi a Mobiltelefon mezőt az adminisztrátorok és az ügyfelek számára. Ne feledje, hogy a bővítmény letiltása elrejti ezt a mezőt. 
- Ha hozzáadja a meglévő üzlethez az ügyfelekkel, ne feledje, hogy ez az információ hiányzik. 
-		]]></value>
+		<value><![CDATA[Az SMS-üzenetküldés engedélyezéséhez lépj a Rendszer -> Beállítások -> <a href="#admin#rt=setting/setting/im" target="_im">IM</a> menüpontra.<br/>
+És válaszd alapértelmezett SMS-meghajtóként a Twilio-t. Ne felejtsd el engedélyezni azt a szekciót (admin vagy webáruház), ahonnan SMS-eket szeretnél fogadni.<br/>
+Ez a kiterjesztés engedélyezi a mobiltelefon mezőt az adminisztrátorok és vásárlók számára. Ne feledd, hogy ha letiltod ezt a kiterjesztést, a mező elrejtésre kerül.<br/>
+Ha egy már meglévő, vásárlókkal rendelkező áruházhoz adod hozzá, vedd figyelembe, hogy ezek az adatok hiányozni fognak.]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_username</key>
-		<value><![CDATA[API-fiókSID]]></value>
+		<value><![CDATA[API Fiók SID]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_token</key>
-		<value><![CDATA[API AuthToken]]></value>
+		<value><![CDATA[API hitelesítő token]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_test</key>
@@ -26,13 +25,11 @@
 	</definition>
 	<definition>
 		<key>default_twilio_sender_phone</key>
-		<value><![CDATA[
- Feladó (Twilio) Telefon: <span class="help">A feladó telefonszáma nemzetközi formátumban (pl. +14158675309)</span>]]></value>
+		<value><![CDATA[Feladó (Twilio) telefonszáma: <span class="help">A feladó telefonszáma nemzetközi formátumban (pl. +14158675309)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_send_to</key>
-		<value><![CDATA[
- Küldjön teszt SMS-t a következő címre: ]]></value>
+		<value><![CDATA[Teszt SMS küldése a következő számra:]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_test_0</key>
@@ -44,31 +41,30 @@
 	</definition>
 	<definition>
 		<key>default_twilio_test_connection</key>
-		<value><![CDATA[Tesztelje kapcsolatát: <span class="help">Kipróbálhatja, hogy a megadott API hitelesítő adatok helyesek-e.</span>]]></value>
+		<value><![CDATA[Teszteld a kapcsolatodat:<span class="help">Ellenőrizheted, hogy a megadott API-hitelesítő adatok helyesek-e.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_logging</key>
-		<value><![CDATA[Hibanaplózás állapota <span class="help">Ha naplózni szeretné a Twilio bővítmény összes hibáját, kapcsolja BE ezt a beállítást.</span>]]></value>
+		<value><![CDATA[Hiba naplózási állapot<span class="help">Ha szeretné a Twilio kiterjesztés összes hibáját naplózni, kapcsolja ezt a beállítást BE állásba.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_sms</key>
-		<value><![CDATA[ Mobiltelefon ]]></value>
+		<value><![CDATA[Mobiltelefon]]></value>
 	</definition>
 	<definition>
 		<key>text_test</key>
-		<value><![CDATA[ Teszt ]]></value>
+		<value><![CDATA[Teszt]]></value>
 	</definition>
 	<definition>
 		<key>error_turn_extension_on</key>
-		<value><![CDATA[Hiba! Kérjük, ellenőrizze, hogy a bővítmény BE van-e kapcsolva.]]></value>
+		<value><![CDATA[Hiba! Kérjük, ellenőrizze, hogy a bővítmény be van-e kapcsolva.]]></value>
 	</definition>
 	<definition>
 		<key>text_connection_success</key>
-		<value><![CDATA[A csatlakozás sikeres, és az API hitelesítő adatok megfelelően vannak konfigurálva.]]></value>
+		<value><![CDATA[A kapcsolat sikeres, és az API hitelesítő adatok helyesen vannak konfigurálva.]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_sender_phone</key>
-		<value><![CDATA[
- Feladó (Twilio) Telefon: <span class="help">A feladó telefonszáma nemzetközi formátumban (pl. +14158675309)</span>]]></value>
+		<value><![CDATA[Feladó (Twilio) telefonszáma: <span class="help">A feladó telefonszáma nemzetközi formátumban (pl. +14158675309)</span>]]></value>
 	</definition>
 </definitions>

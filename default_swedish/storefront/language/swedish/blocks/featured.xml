@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,10 +6,10 @@
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Se vår mest heta produkter]]></value>
+		<value><![CDATA[Se våra mest utvalda produkter]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Av 5 stjärnor!]]></value>
+		<value><![CDATA[%s av 5 stjärnor!]]></value>
 	</definition>
 </definitions>

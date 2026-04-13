@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Resetovanie hesla]]></value>
+		<value><![CDATA[%s - Obnovenie hesla]]></value>
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[O resetovanie hesla bolo požadované z %s.]]></value>
+		<value><![CDATA[Z %s bola požadovaná obnova hesla.]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
-		<value><![CDATA[Ak chcete obnoviť heslo, kliknite nižšie uvedený odkaz:]]></value>
+		<value><![CDATA[Ak chcete obnoviť svoje heslo, kliknite na odkaz nižšie:]]></value>
 	</definition>
 	<definition>
 		<key>text_password_reset</key>
-		<value><![CDATA[Vaše heslo bolo úspešne obnoviť na %s.]]></value>
+		<value><![CDATA[Vaše heslo bolo úspešne obnovené dňa %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_new_password</key>
-		<value><![CDATA[Zadajte svoje nové heslo:]]></value>
+		<value><![CDATA[Zadajte nižšie svoje nové heslo:]]></value>
 	</definition>
 	<definition>
 		<key>error_reset_token</key>
-		<value><![CDATA[Nesprávny odkaz na vyžiadanie hesla. Pokúsiť sa obnoviť ešte raz a pomocou odkazu z najnovších e-mailu.]]></value>
+		<value><![CDATA[Nesprávny odkaz na obnovenie hesla. Skúste obnoviť heslo ešte raz a použite odkaz z najnovšieho e-mailu.]]></value>
 	</definition>
 </definitions>

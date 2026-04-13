@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Morate modificirane kupone!]]></value>
+		<value><![CDATA[Uspjeh: Izmijenili ste kupone!]]></value>
 	</definition>
 	<definition>
 		<key>text_percent</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Kupon Ime]]></value>
+		<value><![CDATA[Naziv kupona]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
-		<value><![CDATA[Kodirati]]></value>
+		<value><![CDATA[Kod]]></value>
 	</definition>
 	<definition>
 		<key>column_discount</key>
@@ -46,23 +46,23 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Kupon Ime:]]></value>
+		<value><![CDATA[Naziv kupona:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Kupon Opis:]]></value>
+		<value><![CDATA[Opis kupona:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Kod: <br/><span class="help">Zakona, kupac ulazi dobiti popust</span>]]></value>
+		<value><![CDATA[Kod:<br /><span class="help">Kod koji kupac unosi kako bi ostvario popust</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_type</key>
-		<value><![CDATA[Vrsta: <br/><span class="help">Postotak ili fiksni iznos</span>]]></value>
+		<value><![CDATA[Vrsta:<br /><span class="help">Postotak ili fiksni iznos</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_discount</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>entry_logged</key>
-		<value><![CDATA[Korisnička prijava: <br/><span class="help">Korisnik mora biti prijavljeni kako bi koristili kupon.</span>]]></value>
+		<value><![CDATA[Prijava kupca:<br /><span class="help">Kupac mora biti prijavljen da bi mogao iskoristiti kupon.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping</key>
@@ -78,11 +78,15 @@
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[Ukupan iznos: <br/><span class="help">sub-ukupni iznos koji se mora postići prije kupon vrijedi.</span>]]></value>
+		<value><![CDATA[Ukupan iznos:<br/><span class="help">Iznos podzbroja koji mora biti dostignut prije nego što je kupon valjan.</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_category</key>
+		<value><![CDATA[Kategorije:<br/><span class="help">Primijeni kupon kada su proizvodi iz jedne od odabranih kategorija.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_product</key>
-		<value><![CDATA[Odabrani proizvodi:]]></value>
+		<value><![CDATA[Proizvodi:<br/><span class="help">Primijeni kupon kada košarica sadrži jedan od odabranih proizvoda.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
@@ -94,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>entry_uses_total</key>
-		<value><![CDATA[Koristi Per Kupon: <br/><span class="help">maksimalan broj puta kupon se može koristiti bilo koji korisnik. Ostavite prazno za neograničeno</span>]]></value>
+		<value><![CDATA[Korištenja po kuponu:<br /><span class="help">Maksimalan broj puta koliko kupac može iskoristiti kupon. Ostavite prazno za neograničeno</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_uses_customer</key>
-		<value><![CDATA[Koristi po klijentu: <br/><span class="help">maksimalan broj puta kupon se može koristiti od strane jednog kupca. Ostavite prazno za neograničeno</span>]]></value>
+		<value><![CDATA[Korištenja po kupcu:<br /><span class="help">Maksimalan broj puta koliko kupon može iskoristiti jedan kupac. Ostavite prazno za neograničeno</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -106,31 +110,27 @@
 	</definition>
 	<definition>
 		<key>entry_total_coupon_usage</key>
-		<value><![CDATA[Ukupno Kupon Upotreba: <br/><span class="help">Točka svih narudžbi koristeći ovaj kupon</span>]]></value>
+		<value><![CDATA[Ukupna upotreba kupona:<br /><span class="help">Broj svih narudžbi izvršenih korištenjem ovog kupona</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu kupone!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu kupona!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Kupon ime mora biti između 2 i 64 znakova!]]></value>
+		<value><![CDATA[Naziv kupona mora biti između 2 i 64 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_description</key>
-		<value><![CDATA[Kupon Opis mora biti između 2 znaka!]]></value>
+		<value><![CDATA[Opis kupona mora biti između 2 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
-		<value><![CDATA[Šifra mora biti između 2 i 10 znakova!]]></value>
+		<value><![CDATA[Kod mora biti između 2 i 10 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_date</key>
-		<value><![CDATA[Postavite razdoblje!]]></value>
-	</definition>
-	<definition>
-		<key>entry_category</key>
-		<value><![CDATA[Kategorije: <br/><span class="help">primijenite kupon kada proizvodi iz jedne od odabranih kategorija.</span>]]></value>
+		<value><![CDATA[Molimo postavite raspon datuma!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>

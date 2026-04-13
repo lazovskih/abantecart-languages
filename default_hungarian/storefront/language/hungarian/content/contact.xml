@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[Email:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>text_telephone</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Érdeklődését sikeresen elküldve a bolt tulajdonosa! </p>]]></value>
+		<value><![CDATA[<p>Kérdését sikeresen elküldtük az áruház tulajdonosának!</p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email cím:]]></value>
+		<value><![CDATA[E-mail cím:]]></value>
 	</definition>
 	<definition>
 		<key>entry_enquiry</key>
-		<value><![CDATA[Vizsgálat:]]></value>
+		<value><![CDATA[Érdeklődés:]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
@@ -42,22 +42,22 @@
 	</definition>
 	<definition>
 		<key>email_subject</key>
-		<value><![CDATA[Érdeklődés %s]]></value>
+		<value><![CDATA[Érdeklődés %s-től]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Név között kell lennie a 3. és 32 karakter!]]></value>
+		<value><![CDATA[A névnek 3 és 32 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail cím nem tűnik érvényesnek!]]></value>
+		<value><![CDATA[Az e-mail cím nem tűnik érvényesnek!]]></value>
 	</definition>
 	<definition>
 		<key>error_enquiry</key>
-		<value><![CDATA[Érdeklődés között kell lennie 10 és 3000 karakter!]]></value>
+		<value><![CDATA[Az érdeklődésnek 10 és 3000 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>entry_duplicate_message_subject</key>
-		<value><![CDATA[Új Érdeklődés től %s (%s)]]></value>
+		<value><![CDATA[Új megkeresés %s-től (%s)]]></value>
 	</definition>
 </definitions>

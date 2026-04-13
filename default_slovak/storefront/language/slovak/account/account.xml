@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[dashboard účet]]></value>
+		<value><![CDATA[Ovládací panel účtu]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[účet]]></value>
+		<value><![CDATA[Účet]]></value>
 	</definition>
 	<definition>
 		<key>text_my_account</key>
@@ -18,15 +18,15 @@
 	</definition>
 	<definition>
 		<key>text_my_orders</key>
-		<value><![CDATA[moje objednávky]]></value>
+		<value><![CDATA[Moje objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_my_notifications</key>
-		<value><![CDATA[oznámenia]]></value>
+		<value><![CDATA[Upozornenia]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Úprava podrobností konta]]></value>
+		<value><![CDATA[Upraviť údaje účtu]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[správa adresára]]></value>
+		<value><![CDATA[Spravovať adresnú knihu]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -42,18 +42,18 @@
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[transakčné histórie]]></value>
+		<value><![CDATA[História transakcií]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[K stiahnutiu]]></value>
+		<value><![CDATA[Stiahnutia]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Prihlásenie na odber bulletinu]]></value>
+		<value><![CDATA[Prihlásenie na odber noviniek]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>
-		<value><![CDATA[Môj zoznam prianí]]></value>
+		<value><![CDATA[Môj zoznam želaní]]></value>
 	</definition>
 </definitions>

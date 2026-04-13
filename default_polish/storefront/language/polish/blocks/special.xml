@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,10 +6,10 @@
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Zobacz produkty na sprzedaż]]></value>
+		<value><![CDATA[Zobacz przecenione produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 gwiazdek!]]></value>
+		<value><![CDATA[%s z 5 gwiazdek!]]></value>
 	</definition>
 </definitions>

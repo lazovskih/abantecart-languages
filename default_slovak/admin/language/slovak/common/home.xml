@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[prístrojová doska]]></value>
+		<value><![CDATA[Nástenka]]></value>
 	</definition>
 	<definition>
 		<key>text_overview</key>
@@ -10,23 +10,23 @@
 	</definition>
 	<definition>
 		<key>text_statistics</key>
-		<value><![CDATA[štatistika]]></value>
+		<value><![CDATA[Štatistiky]]></value>
 	</definition>
 	<definition>
 		<key>text_latest_10_orders</key>
-		<value><![CDATA[Najnovšie 10 Objednávky]]></value>
+		<value><![CDATA[Posledných 10 objednávok]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale</key>
-		<value><![CDATA[celkové tržby]]></value>
+		<value><![CDATA[Celkový predaj:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale_year</key>
-		<value><![CDATA[Celkový objem predaja v tomto roku:]]></value>
+		<value><![CDATA[Celkový predaj za tento rok:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
-		<value><![CDATA[Celkom Objednávky:]]></value>
+		<value><![CDATA[Celkový počet objednávok:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_customer</key>
@@ -34,23 +34,23 @@
 	</definition>
 	<definition>
 		<key>text_total_customer_approval</key>
-		<value><![CDATA[Zákazníci Čakanie schválenie:]]></value>
+		<value><![CDATA[Zákazníci čakajúci na schválenie:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_product</key>
-		<value><![CDATA[Č produkty:]]></value>
+		<value><![CDATA[Počet produktov:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_review</key>
-		<value><![CDATA[Nie recenzií:]]></value>
+		<value><![CDATA[Počet recenzií:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_review_approval</key>
-		<value><![CDATA[Recenzia Čakanie schválenie:]]></value>
+		<value><![CDATA[Recenzie čakajúce na schválenie:]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
-		<value><![CDATA[dnes]]></value>
+		<value><![CDATA[Dnes]]></value>
 	</definition>
 	<definition>
 		<key>text_week</key>
@@ -66,19 +66,19 @@
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Celkom objednávky]]></value>
+		<value><![CDATA[Celkový počet objednávok]]></value>
 	</definition>
 	<definition>
 		<key>text_order_short</key>
-		<value><![CDATA[Celkom objednávky]]></value>
+		<value><![CDATA[Celkové objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[Celkom Zákazníci]]></value>
+		<value><![CDATA[Celkový počet zákazníkov]]></value>
 	</definition>
 	<definition>
 		<key>column_order</key>
-		<value><![CDATA[Číslo objednávky]]></value>
+		<value><![CDATA[ID objednávky]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -86,15 +86,15 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Dátum pridané]]></value>
+		<value><![CDATA[Dátum pridania]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[celkom]]></value>
+		<value><![CDATA[Celkom]]></value>
 	</definition>
 	<definition>
 		<key>column_firstname</key>
@@ -106,23 +106,23 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>entry_range</key>
-		<value><![CDATA[Vybrať rozsah:]]></value>
+		<value><![CDATA[Vyberte rozsah:]]></value>
 	</definition>
 	<definition>
 		<key>orders_text_all</key>
-		<value><![CDATA[všetky objednávky]]></value>
+		<value><![CDATA[Všetky objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_all</key>
-		<value><![CDATA[všetci zákazníci]]></value>
+		<value><![CDATA[Všetci zákazníci]]></value>
 	</definition>
 	<definition>
 		<key>text_latest_10_customers</key>
-		<value><![CDATA[posledné prihlášky]]></value>
+		<value><![CDATA[Najnovšie registrácie]]></value>
 	</definition>
 	<definition>
 		<key>column_email</key>

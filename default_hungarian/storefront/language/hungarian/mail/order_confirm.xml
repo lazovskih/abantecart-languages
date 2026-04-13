@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - %s Rendelés]]></value>
+		<value><![CDATA[%s - Rendelés %s]]></value>
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[Köszönjük, hogy érdeklődik a %s termékeket. A rendelés érkezett, és feldolgozásra kerül a fizetés után megerősítették.]]></value>
+		<value><![CDATA[Köszönjük, hogy érdeklődik a(z) %s termékek iránt. A rendelését megkaptuk, és a fizetés visszaigazolása után feldolgozzuk.]]></value>
 	</definition>
 	<definition>
 		<key>text_received</key>
-		<value><![CDATA[Ön kapott megrendelést.]]></value>
+		<value><![CDATA[Ön megrendelést kapott.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_detail</key>
-		<value><![CDATA[Rendelési információk]]></value>
+		<value><![CDATA[Rendelés részletei]]></value>
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[Rendelés azonosító:]]></value>
+		<value><![CDATA[Rendelésazonosító:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Dátum-ig:]]></value>
+		<value><![CDATA[Rendelés dátuma:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Tekintsd meg a rendelési klikk az alábbi linkre:]]></value>
+		<value><![CDATA[A megrendelés megtekintéséhez kattintson az alábbi hivatkozásra:]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
-		<value><![CDATA[Szállítási Mód:]]></value>
+		<value><![CDATA[Szállítási mód:]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
@@ -42,15 +42,15 @@
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[szállítási cím]]></value>
+		<value><![CDATA[Szállítási cím]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[fizetési cím]]></value>
+		<value><![CDATA[Fizetési cím]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[Email:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>text_telephone</key>
@@ -78,27 +78,27 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Miután megtörtént a fizetés megerősítést akkor kattintson az alábbi linkre, hogy hozzáférjen a letölthető termékek:]]></value>
+		<value><![CDATA[Miután a fizetése megerősítésre került, az alábbi hivatkozásra kattintva elérheti letölthető termékeit:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[A hozzászólások a sorrendben:]]></value>
+		<value><![CDATA[Az Ön megrendeléséhez fűzött megjegyzések:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Kérjük válaszoljon erre a levélre, ha bármilyen kérdése van.]]></value>
+		<value><![CDATA[Kérjük, válaszoljon erre az e-mailre, ha bármilyen kérdése van.]]></value>
 	</definition>
 	<definition>
 		<key>text_powered_by</key>
-		<value><![CDATA[hajtja]]></value>
+		<value><![CDATA[Működteti]]></value>
 	</definition>
 	<definition>
 		<key>text_new_order</key>
-		<value><![CDATA[Új rend - #]]></value>
+		<value><![CDATA[Új megrendelés - #]]></value>
 	</definition>
 	<definition>
 		<key>text_new_order_text</key>
-		<value><![CDATA[Ügyfél %s hozzáadott új rend]]></value>
+		<value><![CDATA[Vevő %s új rendelést adott le]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -118,6 +118,6 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 </definitions>

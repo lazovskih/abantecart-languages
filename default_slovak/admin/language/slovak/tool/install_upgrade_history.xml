@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[pomoc pri inštalácii / upgrade histórie]]></value>
+		<value><![CDATA[História inštalácií/aktualizácií]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[typ]]></value>
+		<value><![CDATA[Typ]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Dátum pridané]]></value>
+		<value><![CDATA[Dátum pridania]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Key balíček]]></value>
+		<value><![CDATA[Kľúč balíka]]></value>
 	</definition>
 	<definition>
 		<key>column_version</key>
-		<value><![CDATA[verzia]]></value>
+		<value><![CDATA[Verzia]]></value>
 	</definition>
 	<definition>
 		<key>column_backup_date</key>
-		<value><![CDATA[zálohovanie Dátum]]></value>
+		<value><![CDATA[Dátum zálohy]]></value>
 	</definition>
 	<definition>
 		<key>column_backup_file</key>
-		<value><![CDATA[záloha súborov]]></value>
+		<value><![CDATA[Záložný súbor]]></value>
 	</definition>
 	<definition>
 		<key>column_user</key>
-		<value><![CDATA[užívateľské meno]]></value>
+		<value><![CDATA[Užívateľské meno]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
@@ -38,10 +38,10 @@
 	</definition>
 	<definition>
 		<key>text_delete_history</key>
-		<value><![CDATA[zmazať históriu]]></value>
+		<value><![CDATA[Zmazať históriu]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_success</key>
-		<value><![CDATA[Váš Inštalácia / Aktualizácia História bola úspešne odstránená.]]></value>
+		<value><![CDATA[Vaša história inštalácií/aktualizácií bola úspešne vymazaná.]]></value>
 	</definition>
 </definitions>

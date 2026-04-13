@@ -2,31 +2,31 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Resumen del pedido]]></value>
+		<value><![CDATA[Pedido Sumaria]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
-		<value><![CDATA[Subtotal:]]></value>
+		<value><![CDATA[Sub-Total:]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 artículos]]></value>
+		<value><![CDATA[0 productos]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[¿Confirmar?]]></value>
+		<value><![CDATA[Confirm?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Eliminar]]></value>
+		<value><![CDATA[Remove]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Ver carrito]]></value>
+		<value><![CDATA[View Cart]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Finalizar compra]]></value>
+		<value><![CDATA[Caja]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kedvezmények jelentés]]></value>
+		<value><![CDATA[Kedvezmények jelentése]]></value>
 	</definition>
 	<definition>
 		<key>column_coupon_name</key>
-		<value><![CDATA[Kedvezmény / kupon neve]]></value>
+		<value><![CDATA[Kedvezmény/Kupon neve]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -14,22 +14,22 @@
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[Nem rendelések]]></value>
+		<value><![CDATA[Rendelések száma]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 	<definition>
 		<key>column_discount_total</key>
-		<value><![CDATA[teljes kedvezmény]]></value>
+		<value><![CDATA[Összes kedvezmény]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Dátum Kezdés:]]></value>
+		<value><![CDATA[Kezdés dátuma:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[Dátum Vége:]]></value>
+		<value><![CDATA[Dátum vége:]]></value>
 	</definition>
 </definitions>

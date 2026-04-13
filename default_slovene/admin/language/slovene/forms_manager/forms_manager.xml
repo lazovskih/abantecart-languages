@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>forms_manager_status</key>
-		<value><![CDATA[status:]]></value>
+		<value><![CDATA[Stanje:]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_note</key>
-		<value><![CDATA[Za upravljanje obrazcev omogočite razširitev in sledite Design-&gt; <a href="#admin#rt=tool/forms_manager">Forms Manager</a>]]></value>
+		<value><![CDATA[Za upravljanje obrazcev omogočite razširitev in sledite Oblikovanje-><a href="#admin#rt=tool/forms_manager">Upravitelj obrazcev</a>]]></value>
 	</definition>
 	<definition>
 		<key>custom_forms_block</key>
-		<value><![CDATA[Blok obrazcev po meri]]></value>
+		<value><![CDATA[Blok po meri obrazcev]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_name</key>
-		<value><![CDATA[Ime obrazca <br/><span class="help">latinične črke, podčrtaj, samo minus</span>]]></value>
+		<value><![CDATA[Ime obrazca<br/><span class="help">Samo latinične črke, podčrtaj in vezaj</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_controller_path</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>entry_success_page</key>
-		<value><![CDATA[Uspešna stran <br/><span class="help">Pustite prazno, če želite preusmeriti na isto stran kot krmilnik</span>]]></value>
+		<value><![CDATA[Stran uspeha<br/><span class="help">Pustite prazno, če želite preusmeriti na isto stran kot krmilnik</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_description</key>
@@ -38,15 +38,19 @@
 	</definition>
 	<definition>
 		<key>text_contactus_page</key>
-		<value><![CDATA[Stran za stik z nami]]></value>
+		<value><![CDATA[Kontaktna stran]]></value>
 	</definition>
 	<definition>
 		<key>text_form</key>
-		<value><![CDATA[obrazec]]></value>
+		<value><![CDATA[Obrazec]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
 		<value><![CDATA[Ime]]></value>
+	</definition>
+	<definition>
+		<key>column_field_name</key>
+		<value><![CDATA[Ime polja]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -54,15 +58,15 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Stanje]]></value>
+		<value><![CDATA[Status]]></value>
 	</definition>
 	<definition>
 		<key>filter_exact_match</key>
-		<value><![CDATA[Točna fraza]]></value>
+		<value><![CDATA[natančna besedna zveza]]></value>
 	</definition>
 	<definition>
 		<key>filter_any_word</key>
-		<value><![CDATA[Katera koli od teh besed]]></value>
+		<value><![CDATA[Katerekoli od teh besed]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_words</key>
@@ -74,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>filter_form</key>
-		<value><![CDATA[Poiščite obrazec]]></value>
+		<value><![CDATA[Iskanje obrazca]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new_field</key>
@@ -102,11 +106,11 @@
 	</definition>
 	<definition>
 		<key>entry_field_name</key>
-		<value><![CDATA[Ime polja (latinične črke, podčrtaj, samo minus)]]></value>
+		<value><![CDATA[Ime polja (samo latinske črke, podčrtaj in pomišljaj)]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Vrstni red]]></value>
+		<value><![CDATA[Vrstni red razvrščanja]]></value>
 	</definition>
 	<definition>
 		<key>entry_required</key>
@@ -114,7 +118,7 @@
 	</definition>
 	<definition>
 		<key>entry_edit_fields</key>
-		<value><![CDATA[Urejanje polj]]></value>
+		<value><![CDATA[Uredi polja]]></value>
 	</definition>
 	<definition>
 		<key>entry_field_value</key>
@@ -126,7 +130,7 @@
 	</definition>
 	<definition>
 		<key>error_duplicate_form_name</key>
-		<value><![CDATA[Obrazec s takim atributom Ime že obstaja.]]></value>
+		<value><![CDATA[Obstaja že obrazec s takim atributom imena.]]></value>
 	</definition>
 	<definition>
 		<key>error_duplicate_field_name</key>
@@ -146,7 +150,7 @@
 	</definition>
 	<definition>
 		<key>text_success_added_form</key>
-		<value><![CDATA[Nov obrazec je bil uspešno dodan.]]></value>
+		<value><![CDATA[Novi obrazec je bil uspešno dodan.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_added_field</key>
@@ -154,7 +158,7 @@
 	</definition>
 	<definition>
 		<key>text_add_field</key>
-		<value><![CDATA[Dodajte novo polje]]></value>
+		<value><![CDATA[Dodaj novo polje]]></value>
 	</definition>
 	<definition>
 		<key>entry_field_description</key>
@@ -170,19 +174,19 @@
 	</definition>
 	<definition>
 		<key>entry_no_set_values</key>
-		<value><![CDATA[Za to vrsto polja ne morete nastaviti vrednosti.]]></value>
+		<value><![CDATA[Ne morete nastaviti vrednosti za to vrsto polja.]]></value>
 	</definition>
 	<definition>
 		<key>text_field_values</key>
-		<value><![CDATA[Vrednosti polja]]></value>
+		<value><![CDATA[Vrednosti polj]]></value>
 	</definition>
 	<definition>
 		<key>note_create_form_block</key>
-		<value><![CDATA[OPOMBA: Če si želite ogledati ta obrazec prikazan na izložbi, ustvarite blok obrazca na strani Design-&gt; <a href="%s">Blocks</a> in ga dodajte na ustrezno stran na strani Design-&gt; <a href="%s">Layouts</a> .]]></value>
+		<value><![CDATA[OPOMBA: Če želite, da se ta obrazec prikaže na spletni trgovini, ustvarite blok obrazca v Design-><a href="%s">Bloki</a> in ga dodajte na ustrezno stran v Design-><a href="%s">Postavitve</a>]]></value>
 	</definition>
 	<definition>
 		<key>note_edit_layout</key>
-		<value><![CDATA[OPOMBA: Če si želite ogledati ta blok prikazan na izložbi, ga dodajte na ustrezno stran v Design-&gt; <a href="%s">Layouts</a>. Če želite ustvariti nov obrazec, pojdite na stran Design-&gt; <a href="%s">Form Manager</a> .]]></value>
+		<value><![CDATA[OPOMBA: Če želite, da se ta blok prikaže v spletni trgovini, ga dodajte na ustrezno stran v Oblikovanje-><a href="%s">Postavitve</a>. Za ustvarjanje novega obrazca pojdite na stran Oblikovanje-><a href="%s">Upravitelj obrazcev</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_field_type</key>
@@ -190,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>entry_field_note</key>
-		<value><![CDATA[Opomba na terenu]]></value>
+		<value><![CDATA[Notranja opomba polja]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_default_sender_name</key>
@@ -202,38 +206,130 @@
 	</definition>
 	<definition>
 		<key>entry_field_placeholder</key>
-		<value><![CDATA[Nadomestni znak:]]></value>
+		<value><![CDATA[Nadomestno besedilo:]]></value>
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
 		<value><![CDATA[Vzorec regularnega izraza:]]></value>
 	</definition>
 	<definition>
+		<key>entry_html_attributes</key>
+		<value><![CDATA[html-attributi:<br /><span class="help">Lahko dodate svoje lastne HTML-atribute za element option. Primer: data-some-attribute="some value"</span>]]></value>
+	</definition>
+	<definition>
 		<key>entry_error_text</key>
-		<value><![CDATA[Sporočilo o napaki o neveljavni vrednosti:]]></value>
+		<value><![CDATA[Sporočilo o napaki zaradi neveljavne vrednosti:]]></value>
 	</definition>
 	<definition>
 		<key>entry_form</key>
-		<value><![CDATA[obrazec]]></value>
+		<value><![CDATA[Obrazec]]></value>
 	</definition>
 	<definition>
 		<key>error_fill_required</key>
-		<value><![CDATA[Prosimo izpolnite vsa zahtevana polja obrazca!]]></value>
+		<value><![CDATA[Prosimo, izpolnite vsa zahtevana polja obrazca!]]></value>
 	</definition>
 	<definition>
 		<key>error_form_name</key>
-		<value><![CDATA[Ime obrazca ne sme biti prazno!]]></value>
+		<value><![CDATA[Ime obrazca ne more biti prazno!]]></value>
 	</definition>
 	<definition>
 		<key>error_form_description</key>
-		<value><![CDATA[Opis obrazca ne sme biti prazen!]]></value>
+		<value><![CDATA[Opis obrazca ne more biti prazen!]]></value>
 	</definition>
 	<definition>
 		<key>error_field_name_exists</key>
 		<value><![CDATA[Polje z imenom %s je že prisotno v obrazcu!]]></value>
 	</definition>
 	<definition>
+		<key>error_regexp_pattern</key>
+		<value><![CDATA[Regex vzorec ni veljaven!]]></value>
+	</definition>
+	<definition>
 		<key>forms_manager_error_empty_sender</key>
-		<value><![CDATA[Opozorilo! V <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">nastavitvah upravitelja obrazcev</a> nastavite privzeto ime pošiljatelja in privzeti e-poštni naslov pošiljatelja]]></value>
+		<value><![CDATA[Pozor! Prosimo, nastavite privzeto ime pošiljatelja in privzeti e-poštni naslov pošiljatelja v <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">nastavitvah upravljalnika obrazcev</a>]]></value>
+	</definition>
+	<definition>
+		<key>text_groups</key>
+		<value><![CDATA[Skupine]]></value>
+	</definition>
+	<definition>
+		<key>text_fields</key>
+		<value><![CDATA[Polja]]></value>
+	</definition>
+	<definition>
+		<key>text_assign_fields_to_groups</key>
+		<value><![CDATA[Dodeli polja skupinam]]></value>
+	</definition>
+	<definition>
+		<key>text_add_new_group</key>
+		<value><![CDATA[Dodaj novo skupino polj]]></value>
+	</definition>
+	<definition>
+		<key>text_no_group</key>
+		<value><![CDATA[Ni razpoložljivih skupin polj]]></value>
+	</definition>
+	<definition>
+		<key>text_no_fields</key>
+		<value><![CDATA[Ni razpoložljivih polj]]></value>
+	</definition>
+	<definition>
+		<key>text_action</key>
+		<value><![CDATA[Akcija]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_name</key>
+		<value><![CDATA[Ime skupine]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_description</key>
+		<value><![CDATA[Opis skupine]]></value>
+	</definition>
+	<definition>
+		<key>entry_field_name</key>
+		<value><![CDATA[Ime polja (samo latinične črke, podčrtaj, vezaj)]]></value>
+	</definition>
+	<definition>
+		<key>button_save</key>
+		<value><![CDATA[Shrani]]></value>
+	</definition>
+	<definition>
+		<key>button_cancel</key>
+		<value><![CDATA[Prekliči]]></value>
+	</definition>
+	<definition>
+		<key>error_group_name_required</key>
+		<value><![CDATA[Ime skupine je obvezno!]]></value>
+	</definition>
+	<definition>
+		<key>error_unknown</key>
+		<value><![CDATA[Prišlo je do neznane napake]]></value>
+	</definition>
+	<definition>
+		<key>text_success_fields_assigned</key>
+		<value><![CDATA[Polja so bila uspešno dodeljena skupinam.]]></value>
+	</definition>
+	<definition>
+		<key>button_reset</key>
+		<value><![CDATA[Ponastavi]]></value>
+	</definition>
+	<definition>
+		<key>column_text_id</key>
+		<value><![CDATA[ID besedila]]></value>
+	</definition>
+	<definition>
+		<key>error_group_has_fields</key>
+		<value><![CDATA[Skupine ni mogoče odstraniti. Ena ali več polj je dodeljenih tej skupini.]]></value>
+	</definition>
+	<definition>
+		<key>entry_group</key>
+		<value><![CDATA[Skupina]]></value>
+	</definition>
+	<definition>
+		<key>text_success_added_group</key>
+		<value><![CDATA[Skupina je bila uspešno dodana.]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_field_values</key>
+		<value><![CDATA[Uredi vrednosti polja]]></value>
 	</definition>
 </definitions>

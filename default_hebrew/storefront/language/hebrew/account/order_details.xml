@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[פרטי הזמנה]]></value>
+		<value><![CDATA[פרטי ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[חֶשְׁבּוֹן]]></value>
+		<value><![CDATA[חשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[חֶשׁבּוֹנִית]]></value>
+		<value><![CDATA[חשבונית]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice_id</key>
@@ -22,23 +22,23 @@
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[מזהה הזמנה]]></value>
+		<value><![CDATA[מספר הזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[אֶלֶקטרוֹנִי]]></value>
+		<value><![CDATA[דואר אלקטרוני]]></value>
 	</definition>
 	<definition>
 		<key>text_telephone</key>
-		<value><![CDATA[טֵלֵפוֹן]]></value>
+		<value><![CDATA[טלפון]]></value>
 	</definition>
 	<definition>
 		<key>text_mobile_phone</key>
-		<value><![CDATA[טֶלֶפוֹן סֶלוּלָרי:]]></value>
+		<value><![CDATA[טלפון נייד:]]></value>
 	</definition>
 	<definition>
 		<key>text_fax</key>
-		<value><![CDATA[פַקס]]></value>
+		<value><![CDATA[פקס]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[כתובת לתשלום]]></value>
+		<value><![CDATA[כתובת תשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
@@ -62,19 +62,19 @@
 	</definition>
 	<definition>
 		<key>text_product</key>
-		<value><![CDATA[מוּצָר]]></value>
+		<value><![CDATA[מוצר]]></value>
 	</definition>
 	<definition>
 		<key>text_model</key>
-		<value><![CDATA[דֶגֶם]]></value>
+		<value><![CDATA[מודל]]></value>
 	</definition>
 	<definition>
 		<key>text_sku</key>
-		<value><![CDATA[מק&quot;ט]]></value>
+		<value><![CDATA[מקט]]></value>
 	</definition>
 	<definition>
 		<key>text_quantity</key>
-		<value><![CDATA[כַּמוּת]]></value>
+		<value><![CDATA[כמות]]></value>
 	</definition>
 	<definition>
 		<key>text_price</key>
@@ -82,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[סַך הַכֹּל]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>text_image</key>
-		<value><![CDATA[תְמוּנָה]]></value>
+		<value><![CDATA[תמונה]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -98,47 +98,46 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[תאריך נוסף]]></value>
+		<value><![CDATA[תאריך הוספה]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[הערת הזמנה של הלקוח]]></value>
+		<value><![CDATA[הערת ההזמנה של הלקוח]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation</key>
-		<value><![CDATA[בקש ביטול הזמנה]]></value>
+		<value><![CDATA[בקשת ביטול הזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_request_cancellation_from_customer</key>
-		<value><![CDATA[בקש ביטול הזמנה מהלקוח ]]></value>
+		<value><![CDATA[בקשת ביטול הזמנה מהלקוח]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_confirm</key>
-		<value><![CDATA[
- ייתכן שבקשת הביטול שלך לא תוגש במקרים מסוימים, למשל, כאשר הסחורה נשלחה. לְהַמשִׁיך?]]></value>
+		<value><![CDATA[ייתכן שלא ניתן לבצע את בקשת הביטול שלך בחלק מהמקרים, לדוגמה כאשר הסחורה כבר נשלחה. האם להמשיך?]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_success</key>
-		<value><![CDATA[הוגשה בקשה לביטול הזמנה]]></value>
+		<value><![CDATA[בקשת ביטול ההזמנה הוגשה]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_title</key>
-		<value><![CDATA[הזמנה #%s בקשת ביטול]]></value>
+		<value><![CDATA[בקשת ביטול הזמנה #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_body</key>
-		<value><![CDATA[לקוח %s ביקש ביטול הזמנה עבור הזמנה #%s. לסקירה עבור אל %s]]></value>
+		<value><![CDATA[הלקוח %s ביקש לבטל את ההזמנה #%s. כדי לבחון, עבור אל %s]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[כתובת הדואר האלקטרוני לא תקפה!]]></value>
+		<value><![CDATA[כתובת האימייל אינה תקפה!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_id</key>
-		<value><![CDATA[שדה חובה לזיהוי הזמנה!]]></value>
+		<value><![CDATA[מזהה ההזמנה הוא שדה חובה!]]></value>
 	</definition>
 </definitions>

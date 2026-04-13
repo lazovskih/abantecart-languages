@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[מִשׁלוֹחַ]]></value>
+		<value><![CDATA[משלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית משלוח בתעריף קבוע!]]></value>
+		<value><![CDATA[הצלחה: עדכנת את דמי המשלוח הקבועים!]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_rates</key>
@@ -18,23 +18,23 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_status</key>
-		<value><![CDATA[סטָטוּס:]]></value>
+		<value><![CDATA[סטטוס:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_cost</key>
-		<value><![CDATA[עֲלוּת:]]></value>
+		<value><![CDATA[עלות:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id</key>
-		<value><![CDATA[מחלקת מס:]]></value>
+		<value><![CDATA[סיווג מס:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id_0</key>
-		<value><![CDATA[ ---אַף לֹא אֶחָד---]]></value>
+		<value><![CDATA[---ללא---]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id</key>
-		<value><![CDATA[מִקוּם:]]></value>
+		<value><![CDATA[מיקום:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id_0</key>
@@ -42,6 +42,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות משלוח בתעריף קבוע!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את עלות המשלוח הקבועה!]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Produkty Zakúpené Správa]]></value>
+		<value><![CDATA[Správa o zakúpených produktoch]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Meno Produktu]]></value>
+		<value><![CDATA[Názov produktu]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
@@ -14,10 +14,10 @@
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[množstvo]]></value>
+		<value><![CDATA[Množstvo]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[celkom]]></value>
+		<value><![CDATA[Celkom]]></value>
 	</definition>
 </definitions>

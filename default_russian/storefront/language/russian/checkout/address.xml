@@ -2,7 +2,7 @@
 <definitions>
   <definition>
     <key>heading_title</key>
-    <value><![CDATA[Адрес доставки]]></value>
+    <value><![CDATA[Оформить заказ]]></value>
   </definition>
   <definition>
     <key>text_basket</key>
@@ -26,7 +26,7 @@
   </definition>
   <definition>
     <key>text_entries</key>
-    <value><![CDATA[Записи адреса из адресной книги]]></value>
+    <value><![CDATA[Записи в адресной книге]]></value>
   </definition>
   <definition>
     <key>entry_firstname</key>
@@ -58,7 +58,7 @@
   </definition>
   <definition>
     <key>entry_zone</key>
-    <value><![CDATA[Регион / Штат:]]></value>
+    <value><![CDATA[Регион / Область:]]></value>
   </definition>
   <definition>
     <key>entry_country</key>
@@ -82,7 +82,7 @@
   </definition>
   <definition>
     <key>error_address_1</key>
-    <value><![CDATA[Адрес 1 должен быть от 3 до 64 символов!]]></value>
+    <value><![CDATA[Адрес 1 должна быть от 3 до 64 символов!]]></value>
   </definition>
   <definition>
     <key>error_city</key>
@@ -98,6 +98,6 @@
   </definition>
   <definition>
     <key>error_zone</key>
-    <value><![CDATA[Пожалуйста, выберите регион / штат!]]></value>
+    <value><![CDATA[Пожалуйста, выберите регион / область!]]></value>
   </definition>
 </definitions>

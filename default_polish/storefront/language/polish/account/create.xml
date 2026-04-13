@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Utwórz konto]]></value>
+		<value><![CDATA[Załóż konto]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_create</key>
-		<value><![CDATA[Zarejestrować]]></value>
+		<value><![CDATA[Zarejestruj się]]></value>
 	</definition>
 	<definition>
 		<key>text_account_already</key>
-		<value><![CDATA[Jeśli masz już konto w naszym sklepie, zaloguj się na <a style="text-decoration: underline" href="%s">stronie logowania</a> .]]></value>
+		<value><![CDATA[Jeśli już masz u nas konto, zaloguj się na <a style="text-decoration: underline" href="%s">stronie logowania</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_your_details</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Biuletyn]]></value>
+		<value><![CDATA[Biuletyn informacyjny]]></value>
 	</definition>
 	<definition>
 		<key>text_your_password</key>
@@ -34,67 +34,15 @@
 	</definition>
 	<definition>
 		<key>text_login_details</key>
-		<value><![CDATA[szczegóły logowania]]></value>
+		<value><![CDATA[Dane logowania]]></value>
 	</definition>
 	<definition>
 		<key>text_agree</key>
-		<value><![CDATA[Przeczytałem i zgadzam się na]]></value>
-	</definition>
-	<definition>
-		<key>entry_loginname</key>
-		<value><![CDATA[Nazwa użytkownika:]]></value>
-	</definition>
-	<definition>
-		<key>entry_firstname</key>
-		<value><![CDATA[Pierwsze imię:]]></value>
-	</definition>
-	<definition>
-		<key>entry_lastname</key>
-		<value><![CDATA[Nazwisko:]]></value>
-	</definition>
-	<definition>
-		<key>entry_email</key>
-		<value><![CDATA[E-mail:]]></value>
-	</definition>
-	<definition>
-		<key>entry_telephone</key>
-		<value><![CDATA[Telefon:]]></value>
-	</definition>
-	<definition>
-		<key>entry_fax</key>
-		<value><![CDATA[Faks:]]></value>
-	</definition>
-	<definition>
-		<key>entry_company</key>
-		<value><![CDATA[Firma:]]></value>
-	</definition>
-	<definition>
-		<key>entry_address_1</key>
-		<value><![CDATA[Adres 1:]]></value>
-	</definition>
-	<definition>
-		<key>entry_address_2</key>
-		<value><![CDATA[Adres 2:]]></value>
-	</definition>
-	<definition>
-		<key>entry_postcode</key>
-		<value><![CDATA[Kod pocztowy:]]></value>
-	</definition>
-	<definition>
-		<key>entry_city</key>
-		<value><![CDATA[Miasto:]]></value>
-	</definition>
-	<definition>
-		<key>entry_country</key>
-		<value><![CDATA[Kraj:]]></value>
-	</definition>
-	<definition>
-		<key>entry_zone</key>
-		<value><![CDATA[Region / Stan:]]></value>
+		<value><![CDATA[Przeczytałem i zgadzam się z]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
-		<value><![CDATA[Subskrybować:]]></value>
+		<value><![CDATA[Subskrybuj:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -109,28 +57,16 @@
 		<value><![CDATA[Błąd: Adres e-mail jest już zarejestrowany!]]></value>
 	</definition>
 	<definition>
-		<key>error_loginname</key>
-		<value><![CDATA[Logowanie Nazwa musi być tylko i od 5 do 64 znaków alfanumerycznych!]]></value>
-	</definition>
-	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Ta nazwa użytkownika jest niedostępna. Spróbuj inną nazwę logowania!]]></value>
-	</definition>
-	<definition>
-		<key>error_firstname</key>
-		<value><![CDATA[Imię musi wynosić od 1 do 32 znaków!]]></value>
-	</definition>
-	<definition>
-		<key>error_lastname</key>
-		<value><![CDATA[Nazwisko musi wynosić od 1 do 32 znaków!]]></value>
-	</definition>
-	<definition>
-		<key>error_email</key>
-		<value><![CDATA[Adres e-mail nie wydaje się być ważne!]]></value>
+		<value><![CDATA[Ta nazwa logowania jest niedostępna. Spróbuj innej nazwy logowania!]]></value>
 	</definition>
 	<definition>
 		<key>error_email_exists</key>
-		<value><![CDATA[Adres e-mail jest już istnieje!]]></value>
+		<value><![CDATA[Adres e-mail już istnieje!]]></value>
+	</definition>
+	<definition>
+		<key>error_telephone</key>
+		<value><![CDATA[Telefon musi składać się wyłącznie z cyfr i mieć długość od 3 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
@@ -138,39 +74,15 @@
 	</definition>
 	<definition>
 		<key>error_confirm</key>
-		<value><![CDATA[Potwierdzenie hasła nie pasuje hasło!]]></value>
-	</definition>
-	<definition>
-		<key>error_address_1</key>
-		<value><![CDATA[Adres 1 muszą być od 3 do 128 znaków!]]></value>
-	</definition>
-	<definition>
-		<key>error_city</key>
-		<value><![CDATA[Miasto musi być od 3 do 128 znaków!]]></value>
-	</definition>
-	<definition>
-		<key>error_postcode</key>
-		<value><![CDATA[Zip / kod pocztowy musi mieć od 3 do 10 znaków!]]></value>
-	</definition>
-	<definition>
-		<key>error_country</key>
-		<value><![CDATA[Proszę wybrać kraj!]]></value>
-	</definition>
-	<definition>
-		<key>error_zone</key>
-		<value><![CDATA[Wybierz region / stan!]]></value>
-	</definition>
-	<definition>
-		<key>error_telephone</key>
-		<value><![CDATA[Telefon musi mieć od 3 do 32 znaków!]]></value>
+		<value><![CDATA[Potwierdzenie hasła nie zgadza się z hasłem!]]></value>
 	</definition>
 	<definition>
 		<key>error_agree</key>
-		<value><![CDATA[Błąd: Musisz zgodzić się do %s!]]></value>
+		<value><![CDATA[Błąd: Musisz zgodzić się na %s!]]></value>
 	</definition>
 	<definition>
 		<key>text_full_register</key>
-		<value><![CDATA[Zostań klientem i zarejestrować swoje dane]]></value>
+		<value><![CDATA[Zostań klientem i zarejestruj się, podając swoje dane]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribe_register</key>
@@ -178,26 +90,38 @@
 	</definition>
 	<definition>
 		<key>text_success_subscribe_heading</key>
-		<value><![CDATA[Zapisałeś się pomyślnie!]]></value>
+		<value><![CDATA[Subskrypcja zakończona pomyślnie!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_subscribe</key>
-		<value><![CDATA[Sukces: Twoja subskrypcja newslettera zostało pomyślnie utworzone!]]></value>
+		<value><![CDATA[Sukces: Twoja subskrypcja newslettera została pomyślnie utworzona!]]></value>
 	</definition>
 	<definition>
 		<key>error_subscriber_exists</key>
-		<value><![CDATA[Nasze dane wskazują, że masz u nas konta. Proszę zalogować się do swojego konta, aby zarządzać swoją subskrypcję newslettera.]]></value>
+		<value><![CDATA[Nasze dane wskazują, że masz konto u nas. Zaloguj się na swoje konto, aby zarządzać subskrypcją newslettera.]]></value>
 	</definition>
 	<definition>
 		<key>text_new_customer</key>
-		<value><![CDATA[Nowy potwierdzenie rejestracji Klient czeka]]></value>
+		<value><![CDATA[Rejestracja nowego klienta oczekuje na zatwierdzenie]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_customer_approval</key>
-		<value><![CDATA[Klient %s został zarejestrowany na nowym koncie. Akcja zezwolenia jest wymagane! Kliknij aby zobaczyć #admin#rt=sale/customer/update&customer_id=%s]]></value>
+		<value><![CDATA[Klient %s zarejestrował nowe konto. Wymagana jest akcja zatwierdzenia! Kliknij, aby zobaczyć #admin#rt=sale/customer/update&customer_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_subscriber_approval</key>
-		<value><![CDATA[Abonent %s został zarejestrowany na nowym koncie. Akcja zezwolenia jest wymagane! Kliknij aby zobaczyć #admin#rt=sale/customer/update&customer_id=%s]]></value>
+		<value><![CDATA[Subskrybent %s zarejestrował nowe konto. Wymagana jest akcja zatwierdzenia! Kliknij, aby zobaczyć #admin#rt=sale/customer/update&customer_id=%s]]></value>
+	</definition>
+	<definition>
+		<key>entry_firstname</key>
+		<value><![CDATA[Imię:]]></value>
+	</definition>
+	<definition>
+		<key>entry_lastname</key>
+		<value><![CDATA[Nazwisko:]]></value>
+	</definition>
+	<definition>
+		<key>entry_email</key>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 </definitions>

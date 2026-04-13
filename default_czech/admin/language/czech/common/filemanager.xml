@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Image manager]]></value>
+		<value><![CDATA[Správce obrázků]]></value>
 	</definition>
 	<definition>
 		<key>text_uploaded</key>
-		<value><![CDATA[Úspěch: Soubor byl nahrán!]]></value>
+		<value><![CDATA[Úspěch: Váš soubor byl nahrán!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_delete</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_create</key>
-		<value><![CDATA[Úspěch: Directory byla vytvořena!]]></value>
+		<value><![CDATA[Úspěch: Adresář vytvořen!]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>entry_move</key>
-		<value><![CDATA[Hýbat se:]]></value>
+		<value><![CDATA[Přesunout:]]></value>
 	</definition>
 	<definition>
 		<key>entry_copy</key>
-		<value><![CDATA[Název:]]></value>
+		<value><![CDATA[Jméno:]]></value>
 	</definition>
 	<definition>
 		<key>entry_rename</key>
@@ -50,47 +50,47 @@
 	</definition>
 	<definition>
 		<key>error_select</key>
-		<value><![CDATA[Varování: Prosím, vyberte adresář nebo soubor!]]></value>
+		<value><![CDATA[Varování: Vyberte prosím adresář nebo soubor!]]></value>
 	</definition>
 	<definition>
 		<key>error_file</key>
-		<value><![CDATA[Varování: Prosím vyberte soubor!]]></value>
+		<value><![CDATA[Varování: Vyberte prosím soubor!]]></value>
 	</definition>
 	<definition>
 		<key>error_directory</key>
-		<value><![CDATA[Varování: Prosím, vyberte adresář!]]></value>
+		<value><![CDATA[Varování: Prosím vyberte adresář!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Varování: Nelze změnit svůj výchozí adresář!]]></value>
+		<value><![CDATA[Varování: Nelze změnit váš výchozí adresář!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[Varování: nelze odstranit tento adresář!]]></value>
+		<value><![CDATA[Upozornění: Vy nemůžete odstranit tento adresář!]]></value>
 	</definition>
 	<definition>
 		<key>error_filename</key>
-		<value><![CDATA[Upozornění: Název souboru musí být v rozmezí 3 až 255!]]></value>
+		<value><![CDATA[Varování: Název souboru musí mít mezi 3 a 255 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_missing</key>
-		<value><![CDATA[Varování: soubor nebo adresář neexistuje!]]></value>
+		<value><![CDATA[Varování: Soubor nebo adresář neexistuje!]]></value>
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Varování: soubor nebo adresář se stejným názvem již existuje!]]></value>
+		<value><![CDATA[Varování: Soubor nebo adresář se stejným názvem již existuje!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Varování: Prosím, zadejte nový název!]]></value>
+		<value><![CDATA[Upozornění: Zadejte prosím nové jméno!]]></value>
 	</definition>
 	<definition>
 		<key>error_move</key>
-		<value><![CDATA[Upozornění: Přesun do adresáře neexistuje!]]></value>
+		<value><![CDATA[Varování: Cílový adresář neexistuje!]]></value>
 	</definition>
 	<definition>
 		<key>error_copy</key>
-		<value><![CDATA[Upozornění: Tento soubor nebo adresář nelze kopírovat!]]></value>
+		<value><![CDATA[Varování: Nelze zkopírovat tento soubor nebo adresář!]]></value>
 	</definition>
 	<definition>
 		<key>error_rename</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>error_file_type</key>
-		<value><![CDATA[Varování: Nesprávné typ souboru!]]></value>
+		<value><![CDATA[Upozornění: Nesprávný typ souboru!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_size</key>
-		<value><![CDATA[Varování: Soubor pro velký mějte prosím na níže 300kb a ne více než 1000px výšku nebo na šířku!]]></value>
+		<value><![CDATA[Upozornění: soubor je příliš velký, udržujte ho prosím pod 300 kB a s maximální výškou nebo šířkou 1000 px!]]></value>
 	</definition>
 	<definition>
 		<key>error_uploaded</key>
@@ -110,7 +110,7 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Oprávnění byla odepřena!]]></value>
+		<value><![CDATA[Varování: přístup odepřen!]]></value>
 	</definition>
 	<definition>
 		<key>button_folder</key>
@@ -118,15 +118,15 @@
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Vymazat]]></value>
+		<value><![CDATA[Smazat]]></value>
 	</definition>
 	<definition>
 		<key>button_move</key>
-		<value><![CDATA[Hýbat se]]></value>
+		<value><![CDATA[Přesunout]]></value>
 	</definition>
 	<definition>
 		<key>button_copy</key>
-		<value><![CDATA[kopírovat]]></value>
+		<value><![CDATA[Kopírovat]]></value>
 	</definition>
 	<definition>
 		<key>button_rename</key>
@@ -134,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>button_upload</key>
-		<value><![CDATA[nahrát]]></value>
+		<value><![CDATA[Nahrát]]></value>
 	</definition>
 	<definition>
 		<key>button_refresh</key>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Bestil detaljer]]></value>
+		<value><![CDATA[Ordredetaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_invoice_id</key>
-		<value><![CDATA[Faktura ID]]></value>
+		<value><![CDATA[Faktura-id]]></value>
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[Ordre-id]]></value>
+		<value><![CDATA[Ordre-ID]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
@@ -74,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>text_quantity</key>
-		<value><![CDATA[Mængde]]></value>
+		<value><![CDATA[Antal]]></value>
 	</definition>
 	<definition>
 		<key>text_price</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Den ordre, du har anmodet om, kunne ikke findes!]]></value>
+		<value><![CDATA[Ordren, du har anmodet om, kunne ikke findes!]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
@@ -114,31 +114,30 @@
 	</definition>
 	<definition>
 		<key>text_request_cancellation_from_customer</key>
-		<value><![CDATA[Anmod om en ordreannullering fra kunden ]]></value>
+		<value><![CDATA[Anmod om annullering af ordre fra kunde]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_confirm</key>
-		<value><![CDATA[
- Din fortrydelsesanmodning kan i nogle tilfælde ikke fremsættes, for eksempel når varerne er afsendt. Fortsætte?]]></value>
+		<value><![CDATA[Din annulleringsanmodning kan i nogle tilfælde ikke foretages, for eksempel når varerne er blevet afsendt. Fortsæt?]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_success</key>
-		<value><![CDATA[Anmodning om annullering af ordre er blevet indsendt]]></value>
+		<value><![CDATA[Anmodning om annullering af ordre er blevet indsendt.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_title</key>
-		<value><![CDATA[Ordre #%s annulleringsanmodning]]></value>
+		<value><![CDATA[Anmodning om annullering af ordre #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_body</key>
-		<value><![CDATA[Kunden %s har anmodet om annullering af ordren for ordre #%s. For at gennemgå gå til %s]]></value>
+		<value><![CDATA[Kunde %s har anmodet om annullering af ordre #%s. Gå til %s for at gennemgå den.]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail-adressen ser ikke ud til at være gyldig!]]></value>
+		<value><![CDATA[E-mailadressen ser ikke ud til at være gyldig!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_id</key>
-		<value><![CDATA[Ordre-id er påkrævet felt!]]></value>
+		<value><![CDATA[Ordre-ID er et påkrævet felt!]]></value>
 	</definition>
 </definitions>

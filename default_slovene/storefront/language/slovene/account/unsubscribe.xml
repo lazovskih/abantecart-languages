@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Vaš je bil uspešno odjavljena!]]></value>
+		<value><![CDATA[Vaša odjava je bila uspešno izvedena!]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[Bili ste uspešno odjavili iz e-poštnih sporočilih.]]></value>
+		<value><![CDATA[Uspešno ste bili odjavljeni od e-poštnih sporočil.]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[uspeh]]></value>
+		<value><![CDATA[Uspeh]]></value>
 	</definition>
 </definitions>

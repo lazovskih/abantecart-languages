@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[מְסִירָה]]></value>
+		<value><![CDATA[משלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית משלוח מקומי!]]></value>
+		<value><![CDATA[הצלחה: עדכנת את המשלוח המקומי!]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>
-		<value><![CDATA[כמות הזמנה מינימלית: <br/><span class="help">תת-סך מינימלי שיש לעמוד בו כדי שתהיה אפשרות המשלוח זמינה.</span>]]></value>
+		<value><![CDATA[הסכום המינימלי להזמנה:<br /><span class="help">סכום ביניים מינימלי שיש להשיג כדי שאופציית המשלוח תהיה זמינה.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_cost</key>
@@ -22,18 +22,18 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id</key>
-		<value><![CDATA[מחלקת מס:]]></value>
+		<value><![CDATA[סוג מס:]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>
-		<value><![CDATA[מיקודים: <span class="help">רשימת מיקודים מופרדים בפסיקים</span><br/><span class="help">תו כללי * נתמך. דוגמה 30001,3002,40*,*ND</span>]]></value>
+		<value><![CDATA[מיקודים:<br /><span class="help"> רשימת מיקודים מופרדת בפסיקים. ויילדקארד * נתמך. לדוגמה: 30001,3002,40*,*ND</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות משלוח מקומי!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את המשלוח המקומי!]]></value>
 	</definition>
 </definitions>

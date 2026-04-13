@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>import_export_title</key>
-		<value><![CDATA[Import Eksport]]></value>
+		<value><![CDATA[Import & Eksport]]></value>
+	</definition>
+	<definition>
+		<key>import_wizard_title</key>
+		<value><![CDATA[Veiviser for import av data]]></value>
 	</definition>
 	<definition>
 		<key>tab_import</key>
-		<value><![CDATA[Import]]></value>
+		<value><![CDATA[Importer]]></value>
+	</definition>
+	<definition>
+		<key>tab_import_wizard</key>
+		<value><![CDATA[Importveiviser]]></value>
 	</definition>
 	<definition>
 		<key>tab_export</key>
@@ -14,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>text_tables</key>
-		<value><![CDATA[tabeller]]></value>
+		<value><![CDATA[Tabeller]]></value>
 	</definition>
 	<definition>
 		<key>text_options</key>
-		<value><![CDATA[alternativer]]></value>
+		<value><![CDATA[Alternativer]]></value>
 	</definition>
 	<definition>
 		<key>text_file_format</key>
@@ -30,11 +38,27 @@
 	</definition>
 	<definition>
 		<key>text_load_file</key>
-		<value><![CDATA[Load File]]></value>
+		<value><![CDATA[Last opp importfil]]></value>
+	</definition>
+	<definition>
+		<key>text_load_file_notes</key>
+		<value><![CDATA[Du kan laste opp en CSV- eller tekstfil for å importere data. For datastruktur kan du følge proprietært format (se eksport) eller fritt format. <br/> For data med fritt format må du kartlegge dataelementer manuelt eller bruke JSON-kart. <br/>Bare produkt, kategorier og merker/produsenter støttes for import med fritt format. <br/>Handlingskolonnen kan inkluderes for å instruere importen til å 'insert', 'update' eller 'delete'. Standard handling er update_or_insert.]]></value>
+	</definition>
+	<definition>
+		<key>text_import_wizard_notes</key>
+		<value><![CDATA[Velg en destinasjonstabell og tilsvarende databasefelt for hver oppgitte importdatakolonne. Hvis ingen felt er valgt, vil inndata for kolonnen bli ignorert. <br/> <b>Merk:</b> Språk- og butikkspesifikke dataverdier vil bli tilordnet gjeldende innholdsbutikk og det valgte språket.]]></value>
+	</definition>
+	<definition>
+		<key>text_records_to_be_loaded</key>
+		<value><![CDATA[Det vil bli lastet inn og behandlet %s poster i denne importen!]]></value>
+	</definition>
+	<definition>
+		<key>text_import_task_title</key>
+		<value><![CDATA[Kjører importprosess]]></value>
 	</definition>
 	<definition>
 		<key>text_load</key>
-		<value><![CDATA[Laste]]></value>
+		<value><![CDATA[Last inn]]></value>
 	</definition>
 	<definition>
 		<key>text_import_loaded</key>
@@ -42,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>text_file_field</key>
-		<value><![CDATA[Fil som skal importeres: <br/><span class="help">Støttede formater for import filer: XML, CSV, TXT</span>]]></value>
+		<value><![CDATA[Fil som skal importeres:<br><span class="help">Støttede formater for importfiler: CSV, TXT</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_id_range_from</key>
-		<value><![CDATA[ID spenner fra:]]></value>
+		<value><![CDATA[ID-område fra:]]></value>
 	</definition>
 	<definition>
 		<key>text_to</key>
@@ -54,103 +78,23 @@
 	</definition>
 	<definition>
 		<key>text_csv_delimiter</key>
-		<value><![CDATA[CSV / TXT skilletegn:]]></value>
+		<value><![CDATA[CSV/TXT skilletegn:]]></value>
 	</definition>
 	<definition>
 		<key>text_export_note_csv_delimiter</key>
-		<value><![CDATA[<span class="help">Alle feltene vil bli i doble anførselstegn.</span>]]></value>
+		<value><![CDATA[<span class="help">Alle feltene vil bli omsluttet av doble anførselstegn.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_import_note_csv_delimiter</key>
-		<value><![CDATA[<span class="help">Alle felt må stå i doble anførselstegn.</span>]]></value>
+		<value><![CDATA[<span class="help">Alle felt må være omsluttet av doble anførselstegn.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_test_mode</key>
-		<value><![CDATA[Kjør i en testmodus <br/><span class="help">Det anbefales å kjøre data import i en testmodus først for å se om noen problemer er til stede.</span>]]></value>
-	</definition>
-	<definition>
-		<key>error_file_format</key>
-		<value><![CDATA[Feil filformat!]]></value>
-	</definition>
-	<definition>
-		<key>error_xml_import</key>
-		<value><![CDATA[Feil under import XML-fil!]]></value>
-	</definition>
-	<definition>
-		<key>error_csv_import</key>
-		<value><![CDATA[Feil under import CSV / TXT-fil! Vennligst sjekk felt skilletegn.]]></value>
-	</definition>
-	<definition>
-		<key>error_data_corrupted</key>
-		<value><![CDATA[Dataene er tom eller ødelagt.]]></value>
-	</definition>
-	<definition>
-		<key>error_file_empty</key>
-		<value><![CDATA[Filen er tom.]]></value>
-	</definition>
-	<definition>
-		<key>error_writable_backup</key>
-		<value><![CDATA[Backup katalogen må være skrivbar for CSV / TXT eksport til å fungere.]]></value>
-	</definition>
-	<definition>
-		<key>text_updated</key>
-		<value><![CDATA[oppdatert:]]></value>
-	</definition>
-	<definition>
-		<key>text_created</key>
-		<value><![CDATA[laget:]]></value>
-	</definition>
-	<definition>
-		<key>text_errors</key>
-		<value><![CDATA[feil:]]></value>
-	</definition>
-	<definition>
-		<key>text_show_details</key>
-		<value><![CDATA[Vis detaljer]]></value>
-	</definition>
-	<definition>
-		<key>text_no_children</key>
-		<value><![CDATA[Ingen barn elementer]]></value>
-	</definition>
-	<definition>
-		<key>text_some_errors</key>
-		<value><![CDATA[Det er noen feil.]]></value>
-	</definition>
-	<definition>
-		<key>text_test_completed</key>
-		<value><![CDATA[Testkjøring gjennomført. Totalt SQL-spørringer:]]></value>
-	</definition>
-	<definition>
-		<key>text_sort_by</key>
-		<value><![CDATA[Sorter etter:]]></value>
-	</definition>
-	<definition>
-		<key>import_wizard_title</key>
-		<value><![CDATA[Veiviser for import av data]]></value>
-	</definition>
-	<definition>
-		<key>tab_import_wizard</key>
-		<value><![CDATA[Importveiviser]]></value>
-	</definition>
-	<definition>
-		<key>text_load_file_notes</key>
-		<value><![CDATA[Du kan laste opp CSV- eller tekstfil for å importere data. For datastruktur kan du følge proprietært format (se eksport) eller fritt format. <br/> For data med det frie formatet, må du kartlegge dataelementer manuelt eller bruke JSON-kart. <br/> Kun produkter, kategorier og merker/produsenter støttes for import av fritt format. <br/> Handlingskolonnen kan inkluderes for å instruere import om å &quot;sette inn&quot;, &quot;oppdatere&quot; eller &quot;slette&quot;. Standardhandlingen er update_or_sert. ]]></value>
-	</definition>
-	<definition>
-		<key>text_import_wizard_notes</key>
-		<value><![CDATA[Velg en destinasjonstabell og tilsvarende databasefelt for hver angitte importdatakolonne. Hvis ingen felt er valgt, vil inndatakolonnedata bli ignorert. <br/><b>Merk:</b> Språk- og lagringsspesifikke dataverdier vil bli tildelt gjeldende innholdslager og valgt språk]]></value>
-	</definition>
-	<definition>
-		<key>text_records_to_be_loaded</key>
-		<value><![CDATA[Det vil være %s poster lastet og behandlet i denne importen!]]></value>
-	</definition>
-	<definition>
-		<key>text_import_task_title</key>
-		<value><![CDATA[Kjører importprosessen]]></value>
+		<value><![CDATA[Kjør i testmodus <br><span class="help">Det anbefales å kjøre dataimport i testmodus først for å se om det er noen problemer.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_import_file_col</key>
-		<value><![CDATA[Importer filkolonne]]></value>
+		<value><![CDATA[Importfilkolonne]]></value>
 	</definition>
 	<definition>
 		<key>text_import_file_data</key>
@@ -162,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>text_import_update_on</key>
-		<value><![CDATA[Oppdater hvis det finnes]]></value>
+		<value><![CDATA[Oppdater hvis den finnes]]></value>
 	</definition>
 	<definition>
 		<key>text_import_split</key>
@@ -178,23 +122,79 @@
 	</definition>
 	<definition>
 		<key>title_load_map</key>
-		<value><![CDATA[Legg ut i feltet under forhåndslagrede kartdata]]></value>
+		<value><![CDATA[Legg inn forhåndslagrede tilordningsdata i feltet nedenfor]]></value>
 	</definition>
 	<definition>
 		<key>text_load_map</key>
-		<value><![CDATA[Last kartlegging]]></value>
+		<value><![CDATA[Last inn tilordning]]></value>
+	</definition>
+	<definition>
+		<key>error_file_format</key>
+		<value><![CDATA[Ikke støttet importfilformat!]]></value>
+	</definition>
+	<definition>
+		<key>error_xml_import</key>
+		<value><![CDATA[Feil under import av XML-fil!]]></value>
+	</definition>
+	<definition>
+		<key>error_csv_import</key>
+		<value><![CDATA[Feil under import av CSV/TXT-fil! Vennligst sjekk feltavgrensning.]]></value>
+	</definition>
+	<definition>
+		<key>error_data_corrupted</key>
+		<value><![CDATA[Data er tom eller korrupt.]]></value>
+	</definition>
+	<definition>
+		<key>error_file_empty</key>
+		<value><![CDATA[Filen er tom.]]></value>
+	</definition>
+	<definition>
+		<key>error_writable_backup</key>
+		<value><![CDATA[Sikkerhetskopimappen må være skrivbar for at CSV/TXT-eksport skal fungere.]]></value>
+	</definition>
+	<definition>
+		<key>text_updated</key>
+		<value><![CDATA[Oppdatert:]]></value>
+	</definition>
+	<definition>
+		<key>text_created</key>
+		<value><![CDATA[Opprettet:]]></value>
+	</definition>
+	<definition>
+		<key>text_errors</key>
+		<value><![CDATA[Feil:]]></value>
+	</definition>
+	<definition>
+		<key>text_show_details</key>
+		<value><![CDATA[Vis detaljer]]></value>
+	</definition>
+	<definition>
+		<key>text_no_children</key>
+		<value><![CDATA[Ingen underordnede elementer]]></value>
+	</definition>
+	<definition>
+		<key>text_some_errors</key>
+		<value><![CDATA[Det er noen feil.]]></value>
+	</definition>
+	<definition>
+		<key>text_test_completed</key>
+		<value><![CDATA[Testkjøring fullført. Totalt antall SQL-forespørsler:]]></value>
+	</definition>
+	<definition>
+		<key>text_sort_by</key>
+		<value><![CDATA[Sorter etter:]]></value>
 	</definition>
 	<definition>
 		<key>error_table_selection</key>
-		<value><![CDATA[Ingen importdestinasjonstabell eller -felt er valgt!]]></value>
+		<value><![CDATA[Ingen importdestinasjonstabell eller felter er valgt!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_selection</key>
-		<value><![CDATA[Mangler obligatorisk datafelt &#39;%s&#39; for destinasjonstabell!]]></value>
+		<value><![CDATA[Mangler påkrevd datafelt '%s' for destinasjonstabellen!]]></value>
 	</definition>
 	<definition>
 		<key>error_tmp_dir_non_writable</key>
-		<value><![CDATA[Midlertidig katalog %s er ikke skrivbar! Vennligst endre tillatelser for å fortsette.]]></value>
+		<value><![CDATA[Midlertidig mappe %s er ikke skrivbar! Vennligst endre tillatelsene for å fortsette.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_request</key>
@@ -210,11 +210,11 @@
 	</definition>
 	<definition>
 		<key>text_see_log</key>
-		<value><![CDATA[For flere detaljer se <a href="%s" target="_new">loggfil %s</a>]]></value>
+		<value><![CDATA[For flere detaljer se <a href="%s" target="_blank">loggfil %s</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_success_abort</key>
-		<value><![CDATA[Oppgaven ble avbrutt.]]></value>
+		<value><![CDATA[Oppgaven ble avbrutt med hell.]]></value>
 	</definition>
 	<definition>
 		<key>button_schedule_import</key>

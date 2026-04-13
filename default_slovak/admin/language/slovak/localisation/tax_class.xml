@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[daňové Triedy]]></value>
+		<value><![CDATA[Daňové triedy]]></value>
 	</definition>
 	<definition>
 		<key>text_class</key>
-		<value><![CDATA[daňová trieda]]></value>
+		<value><![CDATA[Daňová trieda]]></value>
 	</definition>
 	<definition>
 		<key>text_rate</key>
-		<value><![CDATA[Sadzba dane]]></value>
+		<value><![CDATA[Daňová sadzba]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -18,78 +18,78 @@
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[Tax Class Názov]]></value>
+		<value><![CDATA[Názov daňovej triedy]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>tab_details</key>
-		<value><![CDATA[podrobnosti]]></value>
+		<value><![CDATA[Podrobnosti]]></value>
 	</definition>
 	<definition>
 		<key>tab_rates</key>
-		<value><![CDATA[sadzby]]></value>
+		<value><![CDATA[Sadzby]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Daňovej triedy Názov:]]></value>
+		<value><![CDATA[Názov daňovej triedy:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Popis viditeľné pre zákazníkov]]></value>
+		<value><![CDATA[Popis viditeľný zákazníkom]]></value>
 	</definition>
 	<definition>
 		<key>entry_location</key>
-		<value><![CDATA[umiestnenie]]></value>
+		<value><![CDATA[Umiestnenie]]></value>
 	</definition>
 	<definition>
 		<key>entry_zone</key>
-		<value><![CDATA[miesto zóna]]></value>
+		<value><![CDATA[Zóna umiestnenia]]></value>
 	</definition>
 	<definition>
 		<key>entry_priority</key>
-		<value><![CDATA[priorita]]></value>
+		<value><![CDATA[Priorita]]></value>
 	</definition>
 	<definition>
 		<key>entry_rate</key>
-		<value><![CDATA[Sadzba dane]]></value>
+		<value><![CDATA[Daňová sadzba]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varovanie: Nemáte oprávnenie na zmenu daňových tried!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upravovať daňové triedy!]]></value>
 	</definition>
 	<definition>
 		<key>error_tax_title</key>
-		<value><![CDATA[Tax Class Názov musí byť v rozmedzí 2 až 32 znakov!]]></value>
+		<value><![CDATA[Názov daňovej triedy musí mať od 2 do 32 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_rate</key>
-		<value><![CDATA[potrebná Sadzba dane!]]></value>
+		<value><![CDATA[Daňová sadzba je povinná!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Varovanie: Táto daň trieda nemôže byť odstránený, pretože je aktuálne priradený %s výrobkov!]]></value>
+		<value><![CDATA[Upozornenie: Táto daňová trieda nemôže byť odstránená, pretože je momentálne priradená k %s produktom!]]></value>
 	</definition>
 	<definition>
 		<key>text_tax_all_zones</key>
-		<value><![CDATA[Všetky Umiestnenie zóny]]></value>
+		<value><![CDATA[všetky zóny umiestnenia]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_rate_threshold</key>
-		<value><![CDATA[Použiť daň, ak <br/><span class="help">Použitie tejto dane len v prípade, zdanené čiastky (produkt, lodná doprava, medzisúčtu, atď.) Je ...</span>]]></value>
+		<value><![CDATA[Použiť daň ak<br /><span class="help">Použiť túto daň len vtedy, ak je zdanená suma (produkt, doprava, medzisúčet atď.) ...</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_exempt_groups</key>
-		<value><![CDATA[Oslobodené od dane Skupiny <br/><span class="help">Vyberte zákazníckej skupiny oslobodiť od tejto dane</span>]]></value>
+		<value><![CDATA[Skupiny oslobodené od dane<br /><span class="help">Vyberte zákaznícke skupiny, ktoré majú byť oslobodené od tejto dane</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_absolute</key>
-		<value><![CDATA[absolútny]]></value>
+		<value><![CDATA[Absolútny]]></value>
 	</definition>
 	<definition>
 		<key>text_percent</key>
-		<value><![CDATA[percento]]></value>
+		<value><![CDATA[Percento]]></value>
 	</definition>
 </definitions>

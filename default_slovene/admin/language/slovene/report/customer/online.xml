@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kupci na spletu]]></value>
+		<value><![CDATA[Stranke na spletu]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Ime stranke]]></value>
+		<value><![CDATA[Ime kupca]]></value>
 	</definition>
 	<definition>
 		<key>column_ip</key>
-		<value><![CDATA[stranka IP]]></value>
+		<value><![CDATA[IP naslov stranke]]></value>
 	</definition>
 	<definition>
 		<key>column_time</key>
-		<value><![CDATA[zadnji dostop]]></value>
+		<value><![CDATA[Zadnji dostop]]></value>
 	</definition>
 	<definition>
 		<key>column_url</key>
-		<value><![CDATA[url Accessed]]></value>
+		<value><![CDATA[Dostopan URL]]></value>
 	</definition>
 	<definition>
 		<key>text_referer</key>
-		<value><![CDATA[Napotnik:]]></value>
+		<value><![CDATA[Napotni URL:]]></value>
 	</definition>
 </definitions>

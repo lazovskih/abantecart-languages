@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret sjekk-/postanvisningskontodetaljer!]]></value>
+		<value><![CDATA[Suksess: Du har endret sjekk / postanvisning kontodetaljer!]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_payable</key>
-		<value><![CDATA[Betales til: <br/><span class="help">Oppgi navnesjekk må skrives til</span>]]></value>
+		<value><![CDATA[Betales til:<br /><span class="help">Oppgi navnet sjekken skal utstedes til</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_address</key>
-		<value><![CDATA[Send e-post eller send til: <br/><span class="help">Oppgi adressen hvor sjekken skal sendes. Hovedbutikkadressen vil bli brukt hvis den er tom</span>]]></value>
+		<value><![CDATA[Mail eller send til:<br /><span class="help">Oppgi adressen dit sjekken skal sendes. Butikkens hovedadresse vil bli brukt hvis det er tomt</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_order_status_id</key>
-		<value><![CDATA[Ordrestatus:]]></value>
+		<value><![CDATA[Bestillingsstatus:]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_location_id</key>
@@ -30,14 +30,14 @@
 	</definition>
 	<definition>
 		<key>default_cheque_location_id_0</key>
-		<value><![CDATA[Alle steder]]></value>
+		<value><![CDATA[Alle lokasjoner]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre betalingssjekk/postanvisning!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre betalingssjekk / postanvisning!]]></value>
 	</definition>
 	<definition>
 		<key>error_payable</key>
-		<value><![CDATA[Betales til påkrevd!]]></value>
+		<value><![CDATA[Betalingsmottaker er påkrevd!]]></value>
 	</definition>
 </definitions>

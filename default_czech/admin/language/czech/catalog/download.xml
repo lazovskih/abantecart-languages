@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[sdílené ke stažení]]></value>
+		<value><![CDATA[Sdílené soubory ke stažení]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Společná Download]]></value>
+		<value><![CDATA[Sdílené stažení]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
@@ -14,19 +14,19 @@
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[aktualizace ke stažení]]></value>
+		<value><![CDATA[Aktualizace Stažení]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste stažení!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste stahování!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Ke stažení Název]]></value>
+		<value><![CDATA[Název ke stažení]]></value>
 	</definition>
 	<definition>
 		<key>column_remaining</key>
-		<value><![CDATA[Celkový počet stažení zvířata povolena]]></value>
+		<value><![CDATA[Celkový počet povolených stažení]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Zavádění Jméno:]]></value>
+		<value><![CDATA[Název ke stažení:]]></value>
 	</definition>
 	<definition>
 		<key>entry_filename</key>
@@ -42,34 +42,34 @@
 	</definition>
 	<definition>
 		<key>entry_remaining</key>
-		<value><![CDATA[Celkový počet stažení povolena:]]></value>
+		<value><![CDATA[Celkový počet povolených stažení:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[Tlačit na předchozí zákazníky: <br/><span class="help">Zkontrolujte, zda tato aktualizace dříve zakoupené verze stejně.</span>]]></value>
+		<value><![CDATA[Aktualizovat i u předchozích zákazníků:<br /><span class="help">Zaškrtněte toto pro aktualizaci dříve zakoupených verzí.</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění k úpravě stažení!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat soubory ke stažení!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Jméno musí být mezi 2 a 64 znaků!]]></value>
+		<value><![CDATA[Název musí mít mezi 2 a 64 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_file</key>
-		<value><![CDATA[Prosím nastavit soubor ke stažení.]]></value>
+		<value><![CDATA[Prosím nastavte soubor ke stažení.]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Upozornění: Tento soubor ke stažení nemůže být smazán, protože je aktuálně přiřazen %s výrobků!]]></value>
+		<value><![CDATA[Varování: tento soubor ke stažení nelze smazat, protože je v současné době přiřazen k %s produktům!]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
-		<value><![CDATA[obraz]]></value>
+		<value><![CDATA[Obrázek]]></value>
 	</definition>
 	<definition>
 		<key>column_products_count</key>
-		<value><![CDATA[produkty Count]]></value>
+		<value><![CDATA[Počet produktů]]></value>
 	</definition>
 </definitions>

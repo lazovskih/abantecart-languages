@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Prihlásenie k odberu]]></value>
+		<value><![CDATA[Prihlásenie na odber noviniek]]></value>
 	</definition>
 	<definition>
 		<key>text_signup</key>
-		<value><![CDATA[Zaregistrujte sa k odberu noviniek &amp; získať atraktívne ponuky sa prihlásite k odberu našich spravodajcov.]]></value>
+		<value><![CDATA[Prihláste sa na odber nášho newslettera a získajte atraktívne ponuky odoberaním našich newsletterov.]]></value>
 	</definition>
 	<definition>
 		<key>text_sign_in</key>
@@ -14,10 +14,10 @@
 	</definition>
 	<definition>
 		<key>text_subscribe</key>
-		<value><![CDATA[odoberať novinky]]></value>
+		<value><![CDATA[Prihlásiť sa na odber noviniek]]></value>
 	</definition>
 	<definition>
 		<key>button_subscribe</key>
-		<value><![CDATA[predplatiť]]></value>
+		<value><![CDATA[Prihlásiť sa]]></value>
 	</definition>
 </definitions>

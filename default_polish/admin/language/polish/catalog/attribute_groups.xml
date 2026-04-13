@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Globalne Atrybut Grupy]]></value>
+		<value><![CDATA[Globalne Grupy Atrybutów]]></value>
 	</definition>
 	<definition>
 		<key>text_group</key>
-		<value><![CDATA[Atrybut Grupa]]></value>
+		<value><![CDATA[Grupa atrybutów]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Masz grup zmodyfikowanych!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowano grupy!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[porządek sortowania]]></value>
+		<value><![CDATA[Kolejność sortowania]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Grupa Sort Order:]]></value>
+		<value><![CDATA[Kolejność sortowania grup:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Stan Grupa:]]></value>
+		<value><![CDATA[Status grupy:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -46,6 +46,6 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Nazwa grupy musi być pomiędzy 2 a 32 znaków!]]></value>
+		<value><![CDATA[Nazwa grupy musi mieć od 2 do 32 znaków!]]></value>
 	</definition>
 </definitions>

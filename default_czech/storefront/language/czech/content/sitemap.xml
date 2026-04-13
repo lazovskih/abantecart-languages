@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Adresář]]></value>
+		<value><![CDATA[Adresní kniha]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Ke stažení]]></value>
+		<value><![CDATA[Stahování]]></value>
 	</definition>
 	<definition>
 		<key>text_cart</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Překontrolovat]]></value>
+		<value><![CDATA[Pokladna]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Vyhledávání]]></value>
+		<value><![CDATA[Hledat]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>

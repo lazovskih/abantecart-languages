@@ -2,14 +2,14 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Más vendidos]]></value>
-	</definition>
-	<definition>
-		<key>heading_subtitle</key>
-		<value><![CDATA[Ver productos más vendidos]]></value>
+		<value><![CDATA[Top ventas]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[¡%s de 5 estrellas!]]></value>
+		<value><![CDATA[%s de 5 Estrellas!]]></value>
+	</definition>
+	<definition>
+		<key>heading_subtitle</key>
+		<value><![CDATA[Ver Productos Más Vendidos]]></value>
 	</definition>
 </definitions>

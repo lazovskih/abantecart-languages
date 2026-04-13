@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,39 +6,39 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Registriraj račun]]></value>
+		<value><![CDATA[Registracija računa]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Vpiši se]]></value>
+		<value><![CDATA[Prijava]]></value>
 	</definition>
 	<definition>
 		<key>text_i_am_new_customer</key>
-		<value><![CDATA[Sem nova stranka.]]></value>
+		<value><![CDATA[Jaz sem nov kupec.]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Naročilo Možnosti:]]></value>
+		<value><![CDATA[Možnosti blagajne:]]></value>
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[Gost blagajno]]></value>
+		<value><![CDATA[Nakup kot gost]]></value>
 	</definition>
 	<definition>
 		<key>text_create_account</key>
-		<value><![CDATA[Z ustvarjanjem uporabniškega računa boste lahko izbirali hitreje, biti na tekočem o statusu za naročilo, in za spremljanje naročil, ki ste jih že naredili.]]></value>
+		<value><![CDATA[Če ustvarite račun, boste lahko nakupovali hitreje, spremljali status naročila in imeli pregled nad naročili, ki ste jih prej opravili.]]></value>
 	</definition>
 	<definition>
 		<key>text_returning_customer</key>
-		<value><![CDATA[vračajo stranke]]></value>
+		<value><![CDATA[Obstoječi kupec]]></value>
 	</definition>
 	<definition>
 		<key>text_i_am_returning_customer</key>
-		<value><![CDATA[Sem stalna stranka.]]></value>
+		<value><![CDATA[Jaz sem ponovni kupec.]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_login</key>
-		<value><![CDATA[Ste pozabili uporabniško ime?]]></value>
+		<value><![CDATA[Pozabili ste svoje prijavne podatke?]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_password</key>
@@ -46,30 +46,34 @@
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Prijavno ime:]]></value>
+		<value><![CDATA[Uporabniško ime:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email_address</key>
-		<value><![CDATA[Email naslov:]]></value>
+		<value><![CDATA[E-poštni naslov:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
-		<value><![CDATA[geslo:]]></value>
+		<value><![CDATA[Geslo:]]></value>
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Napaka: Napačna ali geslo voljo.]]></value>
+		<value><![CDATA[Napaka: nepravilno uporabniško ime ali geslo.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_activated</key>
-		<value><![CDATA[Uspeh: Vaš račun je bil uspešno aktiviran. Prosimo, prijavi se s svojim poverilnice.]]></value>
+		<value><![CDATA[Uspešno: Vaš račun je bil uspešno aktiviran. Prosimo, prijavite se z vašimi poverilnicami.]]></value>
 	</definition>
 	<definition>
 		<key>text_already_activated</key>
-		<value><![CDATA[Vaš račun je že aktiviran. Prosimo, prijavi se s svojim poverilnice.]]></value>
+		<value><![CDATA[Vaš račun je že aktiviran. Prosimo, prijavite se s svojimi poverilnicami.]]></value>
 	</definition>
 	<definition>
 		<key>text_resend_activation_email</key>
-		<value><![CDATA[Napaka: E-poštni naslov še ni bil potrjen. Ponovno poslati novo potrditveno sporočilo, kliknite na to <a href=" %s ">povezavo</a>]]></value>
+		<value><![CDATA[Napaka: Vaš e-poštni naslov še ni bil potrjen. Če želite ponovno poslati novo potrditveno e-pošto, kliknite na to <a href=" %s ">povezavo</a>.]]></value>
+	</definition>
+	<definition>
+		<key>welcome_unauth_customer</key>
+		<value><![CDATA[Dobrodošli %s, prosimo, prijavite se v svoj račun ali <a href="%s">nadaljujte z brskanjem kot gost</a>]]></value>
 	</definition>
 </definitions>

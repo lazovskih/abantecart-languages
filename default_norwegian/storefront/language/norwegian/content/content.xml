@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
-	<definition>
-		<key>text_error</key>
-		<value><![CDATA[Informasjon Finner ikke siden!]]></value>
-	</definition>
 	<definition>
 		<key>heading_title</key>
 		<value><![CDATA[Innholdssider]]></value>
@@ -26,10 +22,14 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Misligholde]]></value>
+		<value><![CDATA[Standard]]></value>
 	</definition>
 	<definition>
 		<key>content_not_found</key>
-		<value><![CDATA[Finner ikke noe innhold. Prøv igjen.]]></value>
+		<value><![CDATA[Innhold ble ikke funnet. Prøv igjen.]]></value>
+	</definition>
+	<definition>
+		<key>text_error</key>
+		<value><![CDATA[Informasjonsside ikke funnet!]]></value>
 	</definition>
 </definitions>

@@ -2,16 +2,15 @@
 <definitions>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[עֲגָלָה]]></value>
+		<value><![CDATA[סל קניות]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_basket</key>
-		<value><![CDATA[ערוך עגלה]]></value>
+		<value><![CDATA[ערוך עגלת הקניות]]></value>
 	</definition>
 	<definition>
 		<key>text_accept_agree</key>
-		<value><![CDATA[
- על ידי לחיצה על אשר הזמנה, אתה מקבל ומסכים לכל התנאים של]]></value>
+		<value><![CDATA[בלחיצה על אישור ההזמנה, אתה מקבל ומסכים לכל התנאים של]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_items</key>
@@ -19,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[מִשׁלוֹחַ]]></value>
+		<value><![CDATA[משלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_shipping</key>
@@ -27,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[תַשְׁלוּם]]></value>
+		<value><![CDATA[תשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_payment</key>
@@ -35,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[לְאַשֵׁר]]></value>
+		<value><![CDATA[אשר]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[כתובת למשלוח]]></value>
+		<value><![CDATA[כתובת המשלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
@@ -47,19 +46,19 @@
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[כתובת לתשלום]]></value>
+		<value><![CDATA[כתובת לחיוב]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
-		<value><![CDATA[שיטת תשלום]]></value>
+		<value><![CDATA[אמצעי תשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_change</key>
-		<value><![CDATA[לְשַׁנוֹת]]></value>
+		<value><![CDATA[שינוי]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[ההערות שלך]]></value>
+		<value><![CDATA[התגובות שלך]]></value>
 	</definition>
 	<definition>
 		<key>text_discount</key>
@@ -67,23 +66,23 @@
 	</definition>
 	<definition>
 		<key>column_product</key>
-		<value><![CDATA[מוּצָר]]></value>
+		<value><![CDATA[מוצר]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[דֶגֶם]]></value>
+		<value><![CDATA[דגם]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[כַּמוּת]]></value>
+		<value><![CDATA[כמות]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
-		<value><![CDATA[מְחִיר]]></value>
+		<value><![CDATA[מחיר]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[סַך הַכֹּל]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 	<definition>
 		<key>text_add_coupon</key>
@@ -91,15 +90,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_name</key>
-		<value><![CDATA[צ&#39;ק אאוט מהיר]]></value>
+		<value><![CDATA[תשלום מהיר]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_fast_checkout_title</key>
-		<value><![CDATA[צ&#39;ק אאוט מהיר]]></value>
+		<value><![CDATA[תשלום מהיר]]></value>
 	</definition>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[צ&#39;ק אאוט מהיר]]></value>
+		<value><![CDATA[תשלום מהיר]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_buy_now</key>
@@ -107,11 +106,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_incorrect_request</key>
-		<value><![CDATA[אופס! בקשה לא נכונה.]]></value>
+		<value><![CDATA[אופס! בקשה שגויה.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler</key>
-		<value><![CDATA[לא ניתן לאתר את מטפל התשלומים! אנא בדוק את הקבצים %s או %s]]></value>
+		<value><![CDATA[לא ניתן לאתר את מטפל התשלום! אנא בדוק את הקבצים %s או %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_handler</key>
@@ -123,19 +122,19 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected</key>
-		<value><![CDATA[אירעה שגיאה לא צפויה! אנא נסה שוב.]]></value>
+		<value><![CDATA[אירעה שגיאה בלתי צפויה! אנא נסה שוב.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected_log</key>
-		<value><![CDATA[אירעה שגיאה לא צפויה. לא ניתן לבנות נתוני הזמנה על סמך מערך: %s]]></value>
+		<value><![CDATA[אירעה שגיאה בלתי צפויה. לא ניתן לבנות את נתוני ההזמנה על סמך המערך: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler_object</key>
-		<value><![CDATA[לא ניתן לאשר את ההזמנה. מטפל התשלומים אינו חפץ.]]></value>
+		<value><![CDATA[לא ניתן לאשר את ההזמנה. מטפל בתשלום אינו אובייקט.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_system_issue</key>
-		<value><![CDATA[אופס! בעיה במערכת. צור קשר עם מנהל האתר.]]></value>
+		<value><![CDATA[אופס! תקלה במערכת. צור קשר עם מנהל האתר.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_payment</key>
@@ -143,23 +142,23 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_product_option</key>
-		<value><![CDATA[שגיאת אפשרות מוצר. %s]]></value>
+		<value><![CDATA[שגיאה באפשרות מוצר. %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_address</key>
-		<value><![CDATA[לא נמצאו כתובות בחשבון שלך! אנא הוסף כתובת בחשבונך.]]></value>
+		<value><![CDATA[לא נמצאו כתובות בחשבונך! אנא הוסף כתובת בחשבונך.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_low_balance</key>
-		<value><![CDATA[אין לך יתרת חשבון מספיקה עבור הזמנה זו!]]></value>
+		<value><![CDATA[אין לך יתרת חשבון מספקת להזמנה זו!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_pay</key>
-		<value><![CDATA[יש בעיה בעיבוד תשלום האשראי בחשבון! אנא נסה שוב.]]></value>
+		<value><![CDATA[אירעה שגיאה בעיבוד תשלום זיכוי חשבון! אנא נסו שוב.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_address</key>
-		<value><![CDATA[כתובת התשלום חסרה או לא נבחרה.]]></value>
+		<value><![CDATA[כתובת החיוב חסרה או לא נבחרה.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_unavailable</key>
@@ -167,7 +166,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_shipping_address</key>
-		<value><![CDATA[כתובת למשלוח חסרה או שלא נבחרה.]]></value>
+		<value><![CDATA[כתובת המשלוח חסרה או לא נבחרה.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_shipping_method</key>
@@ -175,47 +174,47 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_phone</key>
-		<value><![CDATA[מספר הטלפון שלך ליצירת קשר לא מסופק.]]></value>
+		<value><![CDATA[מספר הטלפון ליצירת קשר שלך לא סופק.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_owner</key>
-		<value><![CDATA[שמך לא מסופק.]]></value>
+		<value><![CDATA[שמך לא סופק.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_email</key>
-		<value><![CDATA[האימייל שלך לא מסופק או לא חוקי.]]></value>
+		<value><![CDATA[האימייל שלך לא סופק או אינו תקף.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_card_number</key>
-		<value><![CDATA[מספר כרטיס אשראי לא מסופק.]]></value>
+		<value><![CDATA[מספר כרטיס אשראי לא סופק.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_cvv</key>
-		<value><![CDATA[מספר CVV לא מסופק.]]></value>
+		<value><![CDATA[מספר CVV לא סופק.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_expire</key>
-		<value><![CDATA[תאריך התפוגה של עגלת האשראי אינו מסופק או אינו חוקי.]]></value>
+		<value><![CDATA[תאריך התפוגה של כרטיס האשראי לא סופק או אינו תקין.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_apply</key>
-		<value><![CDATA[תאריך התפוגה של עגלת האשראי אינו מסופק או אינו חוקי.]]></value>
+		<value><![CDATA[תאריך תפוגת כרטיס האשראי לא סופק או אינו תקף.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_account_created</key>
-		<value><![CDATA[החשבון נוצר והוראת כניסה נשלחה למייל שלך.]]></value>
+		<value><![CDATA[החשבון נוצר והוראות ההתחברות נשלחו למייל שלך.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_mail_login_password</key>
-		<value><![CDATA[שם הכניסה שלך: %s <br/> הסיסמה שלך: %s]]></value>
+		<value><![CDATA[שם המשתמש שלך: %s <br>הסיסמה שלך: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_success_message</key>
-		<value><![CDATA[הַצלָחָה! ההזמנה שלך נוצרה בהצלחה!]]></value>
+		<value><![CDATA[הצלחה! ההזמנה שלך נוצרה בהצלחה!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_processing_message</key>
-		<value><![CDATA[הַצלָחָה! הזמנה עכשיו בעיבוד!]]></value>
+		<value><![CDATA[בוצע בהצלחה! ההזמנה מעובדת כעת!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_payment_address</key>
@@ -231,7 +230,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay_with</key>
-		<value><![CDATA[שלם עם:]]></value>
+		<value><![CDATA[שלם באמצעות:]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_credit_card</key>
@@ -239,11 +238,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_account_credit</key>
-		<value><![CDATA[אשראי חשבון (%s)]]></value>
+		<value><![CDATA[זיכוי בחשבון (%s)]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay</key>
-		<value><![CDATA[לְשַׁלֵם]]></value>
+		<value><![CDATA[שלם]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_enter_cc_details</key>
@@ -259,15 +258,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_telephone_placeholder</key>
-		<value><![CDATA[מספר טלפון ליצירת קשר למשל. +1.212.555.5555]]></value>
+		<value><![CDATA[מספר טלפון ליצירת קשר. לדוגמה: +1.212.555.5555]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_same_as_shipping_address</key>
-		<value><![CDATA[כנ&quot;ל לגבי משלוח]]></value>
+		<value><![CDATA[אותו הדבר למשלוח]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_enter_address</key>
-		<value><![CDATA[לְהַמשִׁיך]]></value>
+		<value><![CDATA[המשך]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_card_number</key>
@@ -275,7 +274,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_bill_me_monthly</key>
-		<value><![CDATA[תחייב אותי מדי חודש]]></value>
+		<value><![CDATA[חייב אותי מדי חודש]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_create_account</key>
@@ -283,27 +282,27 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_please_login</key>
-		<value><![CDATA[אנא התחבר עם הפרטים למטה]]></value>
+		<value><![CDATA[אנא היכנס עם הפרטים שלמטה]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_login</key>
-		<value><![CDATA[כְּנִיסָה לַמַעֲרֶכֶת]]></value>
+		<value><![CDATA[התחבר]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_reset_login</key>
-		<value><![CDATA[הרשמה / אפס התחברות]]></value>
+		<value><![CDATA[הרשמה / איפוס התחברות]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_login</key>
-		<value><![CDATA[כְּנִיסָה לַמַעֲרֶכֶת]]></value>
+		<value><![CDATA[התחברות]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_logout</key>
-		<value><![CDATA[התנתק]]></value>
+		<value><![CDATA[התנתקות]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_address</key>
-		<value><![CDATA[כְּתוֹבֶת]]></value>
+		<value><![CDATA[כתובת]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_new_customer</key>
@@ -311,7 +310,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_loading</key>
-		<value><![CDATA[טְעִינָה...]]></value>
+		<value><![CDATA[טוען...]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_is_completed</key>
@@ -319,7 +318,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_thank_you</key>
-		<value><![CDATA[תודה לך על ההזמנה שלך!]]></value>
+		<value><![CDATA[תודה על ההזמנה שלך!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_start_download</key>
@@ -327,7 +326,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_downloads</key>
-		<value><![CDATA[הזמנת הורדות]]></value>
+		<value><![CDATA[הורדות הזמנה]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_order_details</key>
@@ -335,39 +334,39 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_delivery</key>
-		<value><![CDATA[אנא בחר את אפשרויות המשלוח]]></value>
+		<value><![CDATA[אנא בחרו באפשרויות המשלוח]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_payment</key>
-		<value><![CDATA[אנא בחר את אפשרות התשלום]]></value>
+		<value><![CDATA[אנא בחר באפשרות התשלום]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_download_pending</key>
-		<value><![CDATA[הורדת המוצר בהזמנה שלך אינה זמינה עדיין. אנא המתן לאימות הזמנה!]]></value>
+		<value><![CDATA[ההורדה של המוצר בהזמנה שלך עדיין לא זמינה. אנא המתן לאימות ההזמנה!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_info_duplicate_order</key>
-		<value><![CDATA[זה נראה כאילו ביצעת הזמנה אחרת. <a href="%s">ראה פרטי הזמנה</a>]]></value>
+		<value><![CDATA[נראה כי רק עכשיו ביצעת הזמנה אחרת. <a href="%s">צפה בפרטי ההזמנה</a>]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_email_start_download</key>
-		<value><![CDATA[אתה יכול לגשת להורדות שלך באמצעות הקישור למטה.]]></value>
+		<value><![CDATA[באפשרותך לגשת להורדה(ות) שלך באמצעות הקישור למטה.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_email_order_downloads</key>
-		<value><![CDATA[אתה יכול לגשת להורדות הזמנות באמצעות הקישור למטה.]]></value>
+		<value><![CDATA[אתה יכול לגשת להורדות ההזמנות באמצעות הקישור למטה.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_download_subject</key>
-		<value><![CDATA[הורדת ההזמנה שלך.]]></value>
+		<value><![CDATA[ההורדה של ההזמנה שלך.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_apply</key>
-		<value><![CDATA[לִפְנוֹת]]></value>
+		<value><![CDATA[החל]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_remove</key>
-		<value><![CDATA[לְהַסִיר]]></value>
+		<value><![CDATA[הסר]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_coupon_code</key>
@@ -379,11 +378,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_coupon</key>
-		<value><![CDATA[הקופון לא חוקי או שפג תוקפו!]]></value>
+		<value><![CDATA[הקופון אינו תקף או שפג תוקפו!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_back_to_cart</key>
-		<value><![CDATA[חזרה לעגלה]]></value>
+		<value><![CDATA[חזור לעגלה]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_summary</key>
@@ -399,11 +398,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_email_placeholder</key>
-		<value><![CDATA[המייל שלך]]></value>
+		<value><![CDATA[האימייל שלך]]></value>
 	</definition>
 	<definition>
 		<key>button_history</key>
-		<value><![CDATA[הִיסטוֹרִיָה]]></value>
+		<value><![CDATA[היסטוריה]]></value>
 	</definition>
 	<definition>
 		<key>error_postcode</key>
@@ -411,15 +410,15 @@
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[עֲגָלָה]]></value>
+		<value><![CDATA[עגלה]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_comment_placeholder</key>
-		<value><![CDATA[הוסף הערת הזמנה]]></value>
+		<value><![CDATA[הוסף הערה להזמנה]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_not_enough_stock</key>
-		<value><![CDATA[לא מספיק מלאי]]></value>
+		<value><![CDATA[אין מספיק מלאי]]></value>
 	</definition>
 	<definition>
 		<key>order_confirm</key>
@@ -427,66 +426,64 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_login_or_email</key>
-		<value><![CDATA[שם התחברות או כתובת דואר אלקטרוני]]></value>
+		<value><![CDATA[שם משתמש או כתובת דוא"ל]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_password</key>
-		<value><![CDATA[סִיסמָה]]></value>
+		<value><![CDATA[סיסמה]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_authenticating</key>
-		<value><![CDATA[מאמת... ]]></value>
+		<value><![CDATA[מתבצע אימות ...]]></value>
 	</definition>
 	<definition>
 		<key>text_message_account</key>
-		<value><![CDATA[
-<p style=";text-align:right;direction:rtl"> ההזמנה שלך #%s נוצרה!</p> 
-<p style=";text-align:right;direction:rtl"> אתה יכול לראות את פרטי ההזמנה שלך על ידי מעבר <a href="%s">לדף החשבונית</a> .</p> 
-<p style=";text-align:right;direction:rtl"> אנא הפנה כל שאלה שיש לך <a href="%s">לבעל החנות</a> .</p> 
-<p style=";text-align:right;direction:rtl"> תודה שקנית איתנו!</p>]]></value>
+		<value><![CDATA[<p>ההזמנה שלך #%s נוצרה!</p>
+<p>באפשרותך לצפות בפרטי ההזמנה שלך על ידי מעבר אל <a href="%s">דף החשבונית</a>.</p>
+<p>אנא פנה בכל שאלה שיש לך אל <a href="%s">בעל החנות</a>.</p>
+<p>תודה שקנית אצלנו!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_message_guest</key>
-		<value><![CDATA[
-<p style=";text-align:right;direction:rtl"> ההזמנה שלך טופלה בהצלחה!</p> 
-<p style=";text-align:right;direction:rtl"> אתה יכול לראות את פרטי ההזמנה שלך על ידי מעבר <a href="%s">לדף החשבונית</a> .</p> 
-<p style=";text-align:right;direction:rtl"> אנא הפנה כל שאלה שיש לך <a href="%s">לבעל החנות</a> .</p> 
-<p style=";text-align:right;direction:rtl"> תודה שקנית איתנו!</p>]]></value>
+		<value><![CDATA[<p>ההזמנה שלך עברה עיבוד בהצלחה!</p>
+<p>תוכל לצפות בפרטי ההזמנה שלך על ידי מעבר אל <a href="%s">דף החשבונית</a>.</p>
+<p>אנא פנה כל שאלה שיש לך אל <a href="%s">בעל החנות</a>.</p>
+<p>תודה שקנית אצלנו!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[עֲגָלָה]]></value>
+		<value><![CDATA[סל קניות]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[מִשׁלוֹחַ]]></value>
+		<value><![CDATA[משלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[תַשְׁלוּם]]></value>
+		<value><![CDATA[תשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[יציאה לאורחים]]></value>
+		<value><![CDATA[תשלום כאורח]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[לְאַשֵׁר]]></value>
+		<value><![CDATA[אשר]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הַצלָחָה]]></value>
+		<value><![CDATA[הצלחה]]></value>
 	</definition>
 	<definition>
 		<key>text_message_failed_order</key>
-		<value><![CDATA[אופס! נתקלנו בבעיה כלשהי בעסקה שלך. ההזמנה שלך תאומת באופן ידני על ידי מנהל המערכת.]]></value>
+		<value><![CDATA[אופס! אירעה בעיה בעסקה שלך. ההזמנה שלך תעבור אימות ידני על ידי המנהל.]]></value>
 	</definition>
 	<definition>
 		<key>text_title_failed_order_to_admin</key>
-		<value><![CDATA[הזמנה #%s נכשלה]]></value>
+		<value><![CDATA[הזמנה נכשלה #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_message_failed_order_to_admin</key>
-		<value><![CDATA[תגובה נכשלה או חסרה מאימות התשלום. נדרש אימות ידני!]]></value>
+		<value><![CDATA[תגובה כושלת או חסרה מאימות התשלום. נדרש אימות ידני!]]></value>
 	</definition>
 </definitions>

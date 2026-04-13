@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[Blokkerings-ID:]]></value>
+		<value><![CDATA[Blokk-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_name</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_parent_id</key>
-		<value><![CDATA[Foreldre-ID:]]></value>
+		<value><![CDATA[Forelder-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
@@ -34,6 +34,6 @@
 	</definition>
 	<definition>
 		<key>text_click</key>
-		<value><![CDATA[Klikk på meg]]></value>
+		<value><![CDATA[Klikk meg]]></value>
 	</definition>
 </definitions>

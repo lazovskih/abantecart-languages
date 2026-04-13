@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Logg Inn]]></value>
+		<value><![CDATA[Logg inn]]></value>
 	</definition>
 	<definition>
 		<key>text_i_am_new_customer</key>
@@ -18,39 +18,39 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Kasse alternativer:]]></value>
+		<value><![CDATA[Kassealternativer:]]></value>
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[gjesteutsjekk]]></value>
+		<value><![CDATA[Kasse for gjester]]></value>
 	</definition>
 	<definition>
 		<key>text_create_account</key>
-		<value><![CDATA[Ved å opprette en konto vil du kunne handle raskere, være oppdatert på statusen til en bestilling, og holde oversikt over ordrene du tidligere har gjort.]]></value>
+		<value><![CDATA[Ved å opprette en konto kan du handle raskere, holde deg oppdatert på statusen til en bestilling, og holde oversikt over bestillingene du tidligere har gjort.]]></value>
 	</definition>
 	<definition>
 		<key>text_returning_customer</key>
-		<value><![CDATA[Allerede kunde]]></value>
+		<value><![CDATA[Tilbakevendende kunde]]></value>
 	</definition>
 	<definition>
 		<key>text_i_am_returning_customer</key>
-		<value><![CDATA[Jeg er en tidligere kunde.]]></value>
+		<value><![CDATA[Jeg er en tilbakevendende kunde.]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_login</key>
-		<value><![CDATA[Glemt logg inn?]]></value>
+		<value><![CDATA[Glemt innloggingen din?]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_password</key>
-		<value><![CDATA[Glemt passordet?]]></value>
+		<value><![CDATA[Glemt passordet ditt?]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Påloggingsnavn:]]></value>
+		<value><![CDATA[Brukernavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email_address</key>
-		<value><![CDATA[Epostadresse:]]></value>
+		<value><![CDATA[E-postadresse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -58,18 +58,22 @@
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Feil: Feil brukernavn eller passord gitt.]]></value>
+		<value><![CDATA[Feil: Feil innlogging eller passord oppgitt.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_activated</key>
-		<value><![CDATA[Suksess: Kontoen ble aktivert vellykket. Logg deg inn med din påloggingsinformasjon.]]></value>
+		<value><![CDATA[Suksess: Kontoen din ble aktivert. Vennligst logg inn med dine påloggingsopplysninger.]]></value>
 	</definition>
 	<definition>
 		<key>text_already_activated</key>
-		<value><![CDATA[Kontoen din er allerede aktivert. Logg deg inn med din påloggingsinformasjon.]]></value>
+		<value><![CDATA[Din konto er allerede aktivert. Vennligst logg inn med dine påloggingsopplysninger.]]></value>
 	</definition>
 	<definition>
 		<key>text_resend_activation_email</key>
-		<value><![CDATA[Feil: Din e-postadresse er ennå ikke bekreftet. For å sende ny e-postbekreftelsen du klikke på denne <a href=" %s ">linken</a>]]></value>
+		<value><![CDATA[Feil: E-postadressen din er ikke bekreftet ennå. For å sende bekreftelses-e-posten på nytt, vennligst klikk på denne <a href=" %s ">lenken</a>.]]></value>
+	</definition>
+	<definition>
+		<key>welcome_unauth_customer</key>
+		<value><![CDATA[Velkommen %s, vennligst logg inn på kontoen din eller <a href="%s">fortsett å bla som gjest</a>]]></value>
 	</definition>
 </definitions>

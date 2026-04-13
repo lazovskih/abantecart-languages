@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Beställningsdetaljer]]></value>
+		<value><![CDATA[Orderdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_history</key>
-		<value><![CDATA[Beställningshistorik]]></value>
+		<value><![CDATA[Orderhistorik]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
@@ -58,7 +58,7 @@
 	</definition>
 	<definition>
 		<key>text_order_history</key>
-		<value><![CDATA[Beställningshistorik]]></value>
+		<value><![CDATA[Orderhistorik]]></value>
 	</definition>
 	<definition>
 		<key>text_product</key>
@@ -70,11 +70,11 @@
 	</definition>
 	<definition>
 		<key>text_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Artikelnummer]]></value>
 	</definition>
 	<definition>
 		<key>text_quantity</key>
-		<value><![CDATA[Kvantitet]]></value>
+		<value><![CDATA[Antal]]></value>
 	</definition>
 	<definition>
 		<key>text_price</key>
@@ -82,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
@@ -106,39 +106,38 @@
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[Kundens beställningskommentar]]></value>
+		<value><![CDATA[Kundens orderkommentar]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation</key>
-		<value><![CDATA[Begär annullering av beställning]]></value>
+		<value><![CDATA[Begär avbokning av order]]></value>
 	</definition>
 	<definition>
 		<key>text_request_cancellation_from_customer</key>
-		<value><![CDATA[Begär en annullering av beställningen från kunden ]]></value>
+		<value><![CDATA[Begär en beställningsavbokning från kund]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_confirm</key>
-		<value><![CDATA[
- Din begäran om avbeställning kanske inte görs i vissa fall, till exempel när varorna har skickats. Fortsätta?]]></value>
+		<value><![CDATA[Din begäran om avbokning kan inte göras i vissa fall, till exempel när varorna har skickats. Fortsätta?]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_success</key>
-		<value><![CDATA[Begäran om annullering av beställning har skickats]]></value>
+		<value><![CDATA[Begäran om annullering av beställning har skickats in]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_title</key>
-		<value><![CDATA[Beställning #%s annullering begäran]]></value>
+		<value><![CDATA[Begäran om annullering av beställning #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_order_cancelation_message_body</key>
-		<value><![CDATA[Kunden %s har begärt annullering av ordern för order #%s. För att granska gå till %s]]></value>
+		<value><![CDATA[Kunden %s har begärt annullering av order #%s. För att granska, gå till %s]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-postadressen verkar inte vara giltig!]]></value>
+		<value><![CDATA[E-postadress verkar inte vara giltig!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_id</key>
-		<value><![CDATA[Beställnings-ID är obligatoriskt fält!]]></value>
+		<value><![CDATA[Order-ID är ett obligatoriskt fält!]]></value>
 	</definition>
 </definitions>

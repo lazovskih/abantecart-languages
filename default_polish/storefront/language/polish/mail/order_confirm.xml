@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[Dziękujemy za zainteresowanie produktami %s. Twoje zamówienie zostało przyjęte i zostanie zrealizowane po zapłata potwierdza.]]></value>
+		<value><![CDATA[Dziękujemy za zainteresowanie produktami %s. Twoje zamówienie zostało przyjęte i zostanie przetworzone po potwierdzeniu płatności.]]></value>
 	</definition>
 	<definition>
 		<key>text_received</key>
-		<value><![CDATA[Odebrano zamówienia.]]></value>
+		<value><![CDATA[Otrzymałeś zamówienie.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_detail</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[Numer zamówienia:]]></value>
+		<value><![CDATA[ID zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Data A do Z:]]></value>
+		<value><![CDATA[Data zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Aby wyświetlić kliknięcie zamówienie na poniższy link:]]></value>
+		<value><![CDATA[Aby zobaczyć Twoje zamówienie, kliknij w poniższy link:]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
-		<value><![CDATA[Sposób wysyłki:]]></value>
+		<value><![CDATA[Metoda wysyłki:]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[adres wysyłki]]></value>
+		<value><![CDATA[Adres dostawy]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[Adres do płatności]]></value>
+		<value><![CDATA[Adres płatności]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
@@ -74,23 +74,23 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Łącznie:]]></value>
+		<value><![CDATA[Razem:]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Gdy płatność została potwierdzona można kliknąć na poniższy link, aby uzyskać dostęp do Twojego pobrania:]]></value>
+		<value><![CDATA[Po potwierdzeniu płatności możesz kliknąć poniższy link, aby uzyskać dostęp do swoich produktów do pobrania:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[Uwagi do zamówienia są:]]></value>
+		<value><![CDATA[Komentarze do Twojego zamówienia są:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Proszę odpowiedzieć na ten e-mail, jeśli masz jakiekolwiek pytania.]]></value>
+		<value><![CDATA[Proszę odpowiedzieć na tę wiadomość e-mail, jeśli masz jakiekolwiek pytania.]]></value>
 	</definition>
 	<definition>
 		<key>text_powered_by</key>
-		<value><![CDATA[zasilany przez]]></value>
+		<value><![CDATA[zasilane przez]]></value>
 	</definition>
 	<definition>
 		<key>text_new_order</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>text_new_order_text</key>
-		<value><![CDATA[%s Klienta dodany nowy porządek]]></value>
+		<value><![CDATA[Klient %s dodał nowe zamówienie]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -118,6 +118,6 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Całkowity]]></value>
+		<value><![CDATA[Razem]]></value>
 	</definition>
 </definitions>

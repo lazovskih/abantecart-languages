@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Vyhľadávanie]]></value>
+		<value><![CDATA[Vyhľadať]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[Hľadať kľúčové slová]]></value>
+		<value><![CDATA[Vyhľadávacie kľúčové slová]]></value>
 	</definition>
 	<definition>
 		<key>text_advanced</key>
-		<value><![CDATA[pokročilé vyhľadávanie]]></value>
+		<value><![CDATA[Rozšírené vyhľadávanie]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>

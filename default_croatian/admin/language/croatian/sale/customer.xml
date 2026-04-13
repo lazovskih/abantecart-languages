@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[kupac]]></value>
+		<value><![CDATA[Kupac]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Morate modificirane kupaca!]]></value>
+		<value><![CDATA[Uspjeh: Uspješno ste izmijenili kupce!]]></value>
 	</definition>
 	<definition>
 		<key>text_approved</key>
@@ -26,11 +26,15 @@
 	</definition>
 	<definition>
 		<key>text_add_address</key>
-		<value><![CDATA[Dodajte novu adresu]]></value>
+		<value><![CDATA[Dodaj adresu]]></value>
 	</definition>
 	<definition>
 		<key>button_add</key>
-		<value><![CDATA[Dodati]]></value>
+		<value><![CDATA[Dodaj]]></value>
+	</definition>
+	<definition>
+		<key>column_id</key>
+		<value><![CDATA[Identifikator]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -38,15 +42,15 @@
 	</definition>
 	<definition>
 		<key>column_email</key>
-		<value><![CDATA[E-mail]]></value>
+		<value><![CDATA[E-pošta]]></value>
 	</definition>
 	<definition>
 		<key>column_customer_group</key>
-		<value><![CDATA[Korisnička Grupa]]></value>
+		<value><![CDATA[Grupa kupaca]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[Skupina]]></value>
+		<value><![CDATA[Grupa]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -54,15 +58,15 @@
 	</definition>
 	<definition>
 		<key>column_approved</key>
-		<value><![CDATA[odobren]]></value>
+		<value><![CDATA[Odobreno]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Datum dodan]]></value>
+		<value><![CDATA[Datum dodavanja]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
@@ -78,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[E-mail:]]></value>
+		<value><![CDATA[E-pošta:]]></value>
 	</definition>
 	<definition>
 		<key>entry_telephone</key>
@@ -90,11 +94,11 @@
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
-		<value><![CDATA[Newsletter:]]></value>
+		<value><![CDATA[Bilten:]]></value>
 	</definition>
 	<definition>
 		<key>entry_customer_group</key>
-		<value><![CDATA[Korisnička grupa:]]></value>
+		<value><![CDATA[Grupa kupaca:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -114,7 +118,7 @@
 	</definition>
 	<definition>
 		<key>entry_company</key>
-		<value><![CDATA[Društvo:]]></value>
+		<value><![CDATA[Tvrtka:]]></value>
 	</definition>
 	<definition>
 		<key>entry_address_1</key>
@@ -134,7 +138,7 @@
 	</definition>
 	<definition>
 		<key>entry_country</key>
-		<value><![CDATA[Zemlja:]]></value>
+		<value><![CDATA[Država:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country_id</key>
@@ -146,19 +150,19 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu kupaca!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu kupaca!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Korisničko ime mora biti samo i između 5 i 64 znakova alfanumerička!]]></value>
+		<value><![CDATA[Korisničko ime mora biti samo alfanumeričko i imati duljinu između 5 i 64 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Ovo ime za prijavu nije dostupan. Pokušaj drugi naziv za prijavu!]]></value>
+		<value><![CDATA[Ovo korisničko ime nije dostupno. Probajte drugo korisničko ime!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Ime mora biti između 1 i 32 znakova!]]></value>
+		<value><![CDATA[Ime mora biti između 1 i 32 znaka!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
@@ -166,11 +170,11 @@
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail adresa nije važeća!]]></value>
+		<value><![CDATA[E-Mail adresa ne izgleda valjano!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon mora biti između 3 i 32 znakova!]]></value>
+		<value><![CDATA[Telefon mora imati između 3 i 32 znakova i smije sadržavati samo numeričke znakove!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
@@ -198,15 +202,15 @@
 	</definition>
 	<definition>
 		<key>error_country</key>
-		<value><![CDATA[Odaberite zemlju!]]></value>
+		<value><![CDATA[Molimo odaberite državu!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone</key>
-		<value><![CDATA[Odaberite regiju / državu!]]></value>
+		<value><![CDATA[Molimo odaberite regiju / državu!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_approved</key>
-		<value><![CDATA[- Odaberite Odobreno -]]></value>
+		<value><![CDATA[- Odaberite odobreno -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
@@ -214,7 +218,7 @@
 	</definition>
 	<definition>
 		<key>tab_customer_details</key>
-		<value><![CDATA[Korisničke detalje]]></value>
+		<value><![CDATA[Detalji kupca]]></value>
 	</definition>
 	<definition>
 		<key>tab_transactions</key>
@@ -222,15 +226,15 @@
 	</definition>
 	<definition>
 		<key>heading_title_transactions</key>
-		<value><![CDATA[Kupca transakcije]]></value>
+		<value><![CDATA[Transakcije kupca]]></value>
 	</definition>
 	<definition>
 		<key>column_create_date</key>
-		<value><![CDATA[Datum izrade]]></value>
+		<value><![CDATA[Datum kreiranja]]></value>
 	</definition>
 	<definition>
 		<key>column_created_by</key>
-		<value><![CDATA[Napravio]]></value>
+		<value><![CDATA[Stvorio]]></value>
 	</definition>
 	<definition>
 		<key>column_debit</key>
@@ -238,11 +242,11 @@
 	</definition>
 	<definition>
 		<key>column_credit</key>
-		<value><![CDATA[Kreditna]]></value>
+		<value><![CDATA[Kredit]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[Tip transakcije]]></value>
+		<value><![CDATA[Vrsta transakcije]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
@@ -258,31 +262,35 @@
 	</definition>
 	<definition>
 		<key>popup_title_info</key>
-		<value><![CDATA[Podaci o transakcijama]]></value>
+		<value><![CDATA[Informacije o transakciji]]></value>
 	</definition>
 	<definition>
 		<key>popup_title_insert</key>
-		<value><![CDATA[Umetnite nove transakcije]]></value>
+		<value><![CDATA[Unesi novu transakciju]]></value>
 	</definition>
 	<definition>
 		<key>entry_credit</key>
-		<value><![CDATA[Credit (povećanje bilance)]]></value>
+		<value><![CDATA[Kredit (povećanje salda)]]></value>
 	</definition>
 	<definition>
 		<key>entry_debit</key>
-		<value><![CDATA[Debit (smanjenje bilance)]]></value>
+		<value><![CDATA[Zaduženje (smanjenje stanja)]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_type</key>
-		<value><![CDATA[Tip transakcije:]]></value>
+		<value><![CDATA[Vrsta transakcije:]]></value>
 	</definition>
 	<definition>
 		<key>entry_other_type</key>
-		<value><![CDATA[Ostalo Tip Custom Transakcija:]]></value>
+		<value><![CDATA[Dodaj novu prilagođenu vrstu transakcije:]]></value>
+	</definition>
+	<definition>
+		<key>text_other_type_placeholder</key>
+		<value><![CDATA[Upišite novo ime ovdje]]></value>
 	</definition>
 	<definition>
 		<key>text_option_other_type</key>
-		<value><![CDATA[Ostali ...]]></value>
+		<value><![CDATA[Ostalo...]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_description</key>
@@ -294,27 +302,35 @@
 	</definition>
 	<definition>
 		<key>entry_update_date</key>
-		<value><![CDATA[Update Datum:]]></value>
+		<value><![CDATA[Datum ažuriranja:]]></value>
 	</definition>
 	<definition>
 		<key>entry_create_date</key>
-		<value><![CDATA[Stvaranje Date:]]></value>
+		<value><![CDATA[Datum kreiranja:]]></value>
 	</definition>
 	<definition>
 		<key>error_transaction_type</key>
-		<value><![CDATA[Greška: Molimo ispunite transakcije tipa polje obrasca.]]></value>
+		<value><![CDATA[Greška: Molimo ispunite polje obrasca za vrstu transakcije.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_debit_credit</key>
-		<value><![CDATA[Greška: Molimo ispunite debitnu ili kreditnu vrijednost za kupca transakcije.]]></value>
+		<value><![CDATA[Greška: Molimo unesite iznos zaduženja ili potraživanja za transakciju kupca.]]></value>
+	</definition>
+	<definition>
+		<key>error_incorrect_debit_credit</key>
+		<value><![CDATA[Greška: iznos terećenja ili odobrenja ne može biti veći od 99999999999.9999.]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_success</key>
 		<value><![CDATA[Uspjeh: Izmijenili ste transakciju!]]></value>
 	</definition>
 	<definition>
+		<key>text_add_address</key>
+		<value><![CDATA[Dodaj adresu]]></value>
+	</definition>
+	<definition>
 		<key>text_edit_address</key>
-		<value><![CDATA[Uredi adresa]]></value>
+		<value><![CDATA[Uredi adresu]]></value>
 	</definition>
 	<definition>
 		<key>entry_default</key>
@@ -322,7 +338,7 @@
 	</definition>
 	<definition>
 		<key>error_delete_default</key>
-		<value><![CDATA[Pogreška: Zadana adresa se ne može izbrisati!]]></value>
+		<value><![CDATA[Pogreška: Zadana adresa ne može biti izbrisana!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete_last</key>
@@ -330,43 +346,31 @@
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
-		<value><![CDATA[Datum dodan:]]></value>
+		<value><![CDATA[Datum dodavanja:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_modified</key>
-		<value><![CDATA[Datum promjene:]]></value>
+		<value><![CDATA[Datum izmjene:]]></value>
 	</definition>
 	<definition>
 		<key>warning_actonbehalf_additional_store</key>
-		<value><![CDATA[Djelovati u ime kupca u dodatnim trgovini trebali prijaviti u drugi dućan u admin dijelu. Nastaviti?]]></value>
+		<value><![CDATA[Da biste djelovali u ime kupca u dodatnoj trgovini, trebate se prijaviti na administratorski dio druge trgovine. Nastaviti?]]></value>
 	</definition>
 	<definition>
 		<key>entry_notify</key>
-		<value><![CDATA[Obavijesti za korisnike:]]></value>
+		<value><![CDATA[Obavijesti kupca:]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_notification_subject</key>
-		<value><![CDATA[Novi Transakcija je objavljena na svoj %s računu]]></value>
+		<value><![CDATA[Nova transakcija je zabilježena na vašem %s računu]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_notification_message</key>
-		<value><![CDATA[Novi Transakcija je objavljena na svoj %s računu u iznosu od %s. Za više detalja prijaviti na %s račun]]></value>
+		<value><![CDATA[Nova transakcija je knjižena na vašem %s računu u iznosu od %s. Za više detalja, prijavite se na %s račun.]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
 		<value><![CDATA[Ukupno narudžbi:]]></value>
-	</definition>
-	<definition>
-		<key>column_id</key>
-		<value><![CDATA[ID]]></value>
-	</definition>
-	<definition>
-		<key>text_other_type_placeholder</key>
-		<value><![CDATA[upišite novo ime ovdje ]]></value>
-	</definition>
-	<definition>
-		<key>error_incorrect_debit_credit</key>
-		<value><![CDATA[Pogreška: vrijednost zaduženja ili kredita ne može biti veća od 99999999999,9999]]></value>
 	</definition>
 	<definition>
 		<key>text_register_date</key>
@@ -374,6 +378,6 @@
 	</definition>
 	<definition>
 		<key>error_email_exists</key>
-		<value><![CDATA[Korisnik s ovom email adresom već postoji!]]></value>
+		<value><![CDATA[Kupac s ovom adresom e-pošte već postoji!]]></value>
 	</definition>
 </definitions>

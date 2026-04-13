@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>default_usps_name</key>
-		<value><![CDATA[Почтовая служба Соединенных Штатов]]></value>
+		<value><![CDATA[Почтовая служба США]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -14,99 +14,99 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Вы изменили USPS!]]></value>
+		<value><![CDATA[Успех: вы изменили Почтовую службу США!]]></value>
 	</definition>
 	<definition>
 		<key>text_international_1</key>
-		<value><![CDATA[Express Mail International]]></value>
+		<value><![CDATA[Международная экспресс-почта]]></value>
 	</definition>
 	<definition>
 		<key>text_international_2</key>
-		<value><![CDATA[Priority Mail International]]></value>
+		<value><![CDATA[Международная приоритетная почта]]></value>
 	</definition>
 	<definition>
 		<key>text_international_4</key>
-		<value><![CDATA[Global Express Guaranteed (Document and Non-document)]]></value>
+		<value><![CDATA[Глобальная экспресс-доставка с гарантией (документы и посылки)]]></value>
 	</definition>
 	<definition>
 		<key>text_international_5</key>
-		<value><![CDATA[Global Express Guaranteed Document used]]></value>
+		<value><![CDATA[Используемый документ Global Express Guaranteed]]></value>
 	</definition>
 	<definition>
 		<key>text_international_6</key>
-		<value><![CDATA[Global Express Guaranteed Non-Document Rectangular shape]]></value>
+		<value><![CDATA[Глобальный экспресс-гарантированный недокументарный прямоугольная форма]]></value>
 	</definition>
 	<definition>
 		<key>text_international_7</key>
-		<value><![CDATA[Global Express Guaranteed Non-Document Non-Rectangular]]></value>
+		<value><![CDATA[Глобал Экспресс Гарантированный Недокументный Непрямоугольный]]></value>
 	</definition>
 	<definition>
 		<key>text_international_8</key>
-		<value><![CDATA[Priority Mail Flat Rate Envelope]]></value>
+		<value><![CDATA[Конверт фиксированного тарифа Priority Mail]]></value>
 	</definition>
 	<definition>
 		<key>text_international_9</key>
-		<value><![CDATA[Priority Mail Flat Rate Box]]></value>
+		<value><![CDATA[Коробка фиксированной стоимости приоритетной почты]]></value>
 	</definition>
 	<definition>
 		<key>text_international_10</key>
-		<value><![CDATA[Express Mail International Flat Rate Envelope]]></value>
+		<value><![CDATA[Конверт международной экспресс-почты по фиксированной ставке]]></value>
 	</definition>
 	<definition>
 		<key>text_international_11</key>
-		<value><![CDATA[Priority Mail Large Flat Rate Box]]></value>
+		<value><![CDATA[Большая коробка Priority Mail с фиксированной стоимостью]]></value>
 	</definition>
 	<definition>
 		<key>text_international_12</key>
-		<value><![CDATA[Global Express Guaranteed Envelope]]></value>
+		<value><![CDATA[Конверт Global Express Guaranteed]]></value>
 	</definition>
 	<definition>
 		<key>text_international_13</key>
-		<value><![CDATA[First Class Mail International Letters]]></value>
+		<value><![CDATA[Международные письма первого класса]]></value>
 	</definition>
 	<definition>
 		<key>text_international_14</key>
-		<value><![CDATA[First Class Mail International Flats]]></value>
+		<value><![CDATA[Международная почта первого класса для плоских отправлений]]></value>
 	</definition>
 	<definition>
 		<key>text_international_15</key>
-		<value><![CDATA[First Class Mail International Parcels]]></value>
+		<value><![CDATA[Посылки международной почты первого класса]]></value>
 	</definition>
 	<definition>
 		<key>text_international_16</key>
-		<value><![CDATA[Priority Mail Small Flat Rate Box]]></value>
+		<value><![CDATA[Коробка небольшого размера с фиксированной тарифной ставкой Priority Mail]]></value>
 	</definition>
 	<definition>
 		<key>text_international_21</key>
-		<value><![CDATA[Postcards]]></value>
+		<value><![CDATA[Открытки]]></value>
 	</definition>
 	<definition>
 		<key>text_regular</key>
-		<value><![CDATA[Regular]]></value>
+		<value><![CDATA[Обычный]]></value>
 	</definition>
 	<definition>
 		<key>text_large</key>
-		<value><![CDATA[Large]]></value>
+		<value><![CDATA[Большой]]></value>
 	</definition>
 	<definition>
 		<key>text_oversize</key>
-		<value><![CDATA[Oversize]]></value>
+		<value><![CDATA[Крупногабаритный]]></value>
 	</definition>
 	<definition>
 		<key>text_rectangular</key>
-		<value><![CDATA[Rectangular]]></value>
+		<value><![CDATA[Прямоугольный]]></value>
 	</definition>
 	<definition>
 		<key>text_non_rectangular</key>
-		<value><![CDATA[Non Rectangular]]></value>
+		<value><![CDATA[Непрямоугольный]]></value>
 	</definition>
 	<definition>
 		<key>text_variable</key>
-		<value><![CDATA[Variable]]></value>
+		<value><![CDATA[Переменная]]></value>
 	</definition>
 	<definition>
 		<key>entry_user_id</key>
-		<value><![CDATA[ID пользователя:<span class="help">USPS должен прислать вам ID пользователя и пароль. Если нет, свяжитесь с USPS для подтверждения вашего ID пользователя USPS. Вы должны позвонить в USPS, чтобы активировать вашу учетную запись на производственных серверах.</span>]]></value>
+		<value><![CDATA[Идентификатор пользователя:<span class="help">USPS должна отправить вам по электронной почте идентификатор пользователя и пароль. Если нет, свяжитесь с USPS, чтобы подтвердить ваш идентификатор пользователя USPS. Вам следует позвонить в USPS, чтобы активировать вашу учетную запись на продукционных серверах.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -114,15 +114,15 @@
 	</definition>
 	<definition>
 		<key>entry_postcode</key>
-		<value><![CDATA[Индекс:<span class="help">Почтовый индекс места отправки вашего пакета.</span>]]></value>
+		<value><![CDATA[Почтовый индекс:<span class="help">ZIP/Почтовый код начального местоположения вашей посылки.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_domestic</key>
-		<value><![CDATA[Domestic Services:]]></value>
+		<value><![CDATA[Внутренние услуги:]]></value>
 	</definition>
 	<definition>
 		<key>entry_international</key>
-		<value><![CDATA[International Services:]]></value>
+		<value><![CDATA[Международные услуги:]]></value>
 	</definition>
 	<definition>
 		<key>entry_size</key>
@@ -130,11 +130,11 @@
 	</definition>
 	<definition>
 		<key>entry_container</key>
-		<value><![CDATA[Контейнер:<span class="help">Выберите размер контейнера, который вы обычно используете для упаковки товаров, заказанных из вашего магазина. USPS доставит только те пакеты, которые весят до 70 фунтов</span>]]></value>
+		<value><![CDATA[Контейнер:<span class="help">Выберите тип контейнера, который вы обычно используете для упаковки заказанных в вашем магазине товаров. USPS доставляет только посылки весом до 70 фунтов</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_machinable</key>
-		<value><![CDATA[Machinable:<br /><span class="help"> Рекомендуется выбрать "Да". Укажите, разрешено ли обрабатывать ваши отправления на оборудовании. Включение этой опции снижает стоимость доставки.</span>]]></value>
+		<value><![CDATA[Поддающийся машинной обработке:<br /><span class="help"> Рекомендуется выбрать Да. Укажите, можно ли обрабатывать ваши отправления машинами. Включение этой опции снижает стоимость доставки.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_dimension</key>
@@ -142,39 +142,39 @@
 	</definition>
 	<definition>
 		<key>entry_length</key>
-		<value><![CDATA[Размер длины:<br /><span class="help">Средний размер упаковки для доставки.</span>]]></value>
+		<value><![CDATA[Длина:<br /><span class="help">Средняя длина посылки для доставки.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_width</key>
-		<value><![CDATA[Размер ширины:<br /><span class="help">Средний размер упаковки для доставки.</span>]]></value>
+		<value><![CDATA[Ширина габаритов:<br /><span class="help">Средний размер упаковки для доставки.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_height</key>
-		<value><![CDATA[Размер высоты:<br /><span class="help">Средний размер упаковки для доставки.</span>]]></value>
+		<value><![CDATA[Габаритная высота:<br /><span class="help">Средняя высота упаковки для доставки.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_girth</key>
-		<value><![CDATA[Обхват:<br /><span class="help">Чтобы найти обхват вашей посылки, измерьте расстояние вокруг самой толстой части не прямоугольной посылки.</span>]]></value>
+		<value><![CDATA[Обхват:<br /><span class="help">Чтобы определить обхват вашей посылки, измерьте расстояние вокруг самой толстой части непрямоугольной посылки.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_display_time</key>
-		<value><![CDATA[Отображать время доставки:<br /><span class="help">Хотите отображать время доставки? (т.е. Доставка в течение 3 to 5 дней)</span>]]></value>
+		<value><![CDATA[Показать время доставки:<br /><span class="help">Желаете ли вы отображать время доставки? (например: отправляется в течение 3–5 дней)</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_display_weight</key>
-		<value><![CDATA[Отображать вес доставки:<br /><span class="help">Хотите отображать вес доставки? (т.е. Вес доставки : 2.7674 кг)</span>]]></value>
+		<value><![CDATA[Отображать вес доставки:<br /><span class="help">Хотите ли вы отображать вес доставки? (например, Вес доставки : 2.7674 кг)</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight_class</key>
-		<value><![CDATA[Класс веса:<br /><span class="help">Установить в фунты.</span>]]></value>
+		<value><![CDATA[Класс веса:<br /><span class="help">Установить в фунтах.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_length_class</key>
-		<value><![CDATA[Класс длины:<br /><span class="help">Специфические размеры или класс длины по умолчанию для вашего магазина.</span>]]></value>
+		<value><![CDATA[Класс длины:<br /><span class="help">Измерение или класс длины по умолчанию вашего магазина.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax</key>
-		<value><![CDATA[Класс налога:<br /><span class="help">Если Вам необходимо поменать налог на выбранную позицию, выберите класс налога.</span>]]></value>
+		<value><![CDATA[Налоговый класс:<br /><span class="help">Если вы обязаны взимать налог с этого товара, выберите налоговый класс.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_location</key>
@@ -186,11 +186,11 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Внимание: у вас нет разрешения на изменение Почтового сервиса Соединенных Штатов!]]></value>
+		<value><![CDATA[Предупреждение: у вас нет прав на изменение Почтовой службы США!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_id</key>
-		<value><![CDATA[Требуется ID пользователя!]]></value>
+		<value><![CDATA[Требуется идентификатор пользователя!]]></value>
 	</definition>
 	<definition>
 		<key>error_postcode</key>
@@ -198,11 +198,11 @@
 	</definition>
 	<definition>
 		<key>entry_free_domestic_method</key>
-		<value><![CDATA[Опция для бесплатной доставки <span class="help">Пожалуйста, выберите метод, который будет использоваться, когда корзина содержит только товары с бесплатной доставкой</span>]]></value>
+		<value><![CDATA[Опция бесплатной доставки <span class="help">Пожалуйста, выберите метод доставки, который будет применяться, если в корзине только товары с бесплатной доставкой</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_free_international_method</key>
-		<value><![CDATA[Опция для бесплатной доставки международных посылок <span class="help">Пожалуйста, выберите метод, который будет использоваться, когда корзина содержит только товары с бесплатной доставкой</span>]]></value>
+		<value><![CDATA[Вариант бесплатной доставки международных посылок	<span class="help">Пожалуйста, выберите, какой метод будет выбран в случае, когда корзина содержит только товары с бесплатной доставкой</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_usps_debug</key>

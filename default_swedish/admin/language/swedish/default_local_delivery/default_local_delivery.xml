@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>
-		<value><![CDATA[Minsta beställningsbelopp: <br/><span class="help">Minsta delsumma som ska uppfyllas för att leveransalternativet ska vara tillgängligt.</span>]]></value>
+		<value><![CDATA[Minsta orderbelopp:<br /><span class="help">Minsta delsumma som måste uppnås för att leveransalternativet ska vara tillgängligt.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_cost</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>
-		<value><![CDATA[Postnummer: <br/><span class="help">kommaseparerade postnummerlista. Jokertecken * stöds. Exempel 30001,3002,40*,*ND</span>]]></value>
+		<value><![CDATA[Postnummer:<br /><span class="help"> Kommaseparerad lista med postnummer. Jokertecken * stöds. Exempel 30001,3002,40*,*ND</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>

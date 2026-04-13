@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[Blok ID:]]></value>
+		<value><![CDATA[ID bloku:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_name</key>
@@ -22,18 +22,18 @@
 	</definition>
 	<definition>
 		<key>text_block_parent</key>
-		<value><![CDATA[Roślina mateczna:]]></value>
+		<value><![CDATA[Rodzic:]]></value>
 	</definition>
 	<definition>
 		<key>text_parent_id</key>
-		<value><![CDATA[Dominująca ID:]]></value>
+		<value><![CDATA[ID rodzica:]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[Blisko]]></value>
+		<value><![CDATA[Zamknij]]></value>
 	</definition>
 	<definition>
 		<key>text_click</key>
-		<value><![CDATA[Kliknij]]></value>
+		<value><![CDATA[Kliknij mnie]]></value>
 	</definition>
 </definitions>

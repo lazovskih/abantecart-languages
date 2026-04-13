@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[Pago]]></value>
+		<value><![CDATA[Payment]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Exito: Se ha modificado la configuración de la transferencia bancaria y detalles!]]></value>
+		<value><![CDATA[Éxito: ¡Ha modificado la configuración y los detalles de la transferencia bancaria!]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_instructions</key>
-		<value><![CDATA[Banco Instrucciones de transferencia:<span class="help">Instrucción se muestra a los clientes para hacer banco o transferencia electrónica a su cuenta de banco</span>]]></value>
+		<value><![CDATA[Instrucciones de transferencia bancaria: Instrucción mostrada a los clientes para realizar una transferencia bancaria o transferencia telegráfica a su cuenta bancaria]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_min</key>
-		<value><![CDATA[Límite total del pedido:<span class="help">Cantidad mínima de pedido para llegar a permitir el pago</span>]]></value>
+		<value><![CDATA[Límite total de pedido:<span class="help">Cantidad mínima de pedido que debe alcanzarse para permitir este pago</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_status_id</key>
@@ -26,18 +26,18 @@
 	</definition>
 	<definition>
 		<key>default_banktransfer_location_id</key>
-		<value><![CDATA[Location:]]></value>
+		<value><![CDATA[Ubicación:]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_location_id_0</key>
-		<value><![CDATA[All Locations]]></value>
+		<value><![CDATA[Todas las ubicaciones]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advertencia: Usted no tiene permiso para modificar pago Transferencia Bancaria!]]></value>
+		<value><![CDATA[Advertencia: No tiene permiso para modificar el módulo de pago banktransfer!]]></value>
 	</definition>
 	<definition>
 		<key>error_instructions</key>
-		<value><![CDATA[Los datos bancarios son necesarios!]]></value>
+		<value><![CDATA[¡Se requieren instrucciones de transferencia bancaria!]]></value>
 	</definition>
 </definitions>

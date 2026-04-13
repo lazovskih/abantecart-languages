@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[klienci online]]></value>
+		<value><![CDATA[Klienci online]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
@@ -14,14 +14,14 @@
 	</definition>
 	<definition>
 		<key>column_time</key>
-		<value><![CDATA[ostatniego dostępu]]></value>
+		<value><![CDATA[Ostatnio uzyskany dostęp]]></value>
 	</definition>
 	<definition>
 		<key>column_url</key>
-		<value><![CDATA[Url udostępniona]]></value>
+		<value><![CDATA[URL odwiedzony]]></value>
 	</definition>
 	<definition>
 		<key>text_referer</key>
-		<value><![CDATA[Referujący:]]></value>
+		<value><![CDATA[Referer:]]></value>
 	</definition>
 </definitions>

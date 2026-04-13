@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Media Library Manager Resource]]></value>
+		<value><![CDATA[Správca knižnice mediálnych zdrojov]]></value>
 	</definition>
 	<definition>
 		<key>text_rl_latest</key>
-		<value><![CDATA[Posledné pridané zdroje]]></value>
+		<value><![CDATA[Nedávno pridané zdroje]]></value>
 	</definition>
 	<definition>
 		<key>text_rl_type</key>
-		<value><![CDATA[Typ prostriedku]]></value>
+		<value><![CDATA[Typ zdroja]]></value>
 	</definition>
 	<definition>
 		<key>entry_type_name</key>
-		<value><![CDATA[Typ zdroja Key <br/><span class="help">hodnota Tento zdroj typ kľúč / názov nemožno zmeniť</span>]]></value>
+		<value><![CDATA[Kľúč typu zdroja<br/><span class="help">Hodnota kľúča/názvu typu zdroja nie je možné zmeniť</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_default_directory</key>
-		<value><![CDATA[Adresár Resource <br/><span class="help">Adresár polohovacie zdrojom pre tento typ. Ak sa zmení, bude existujúce zdroje nebudú acceccible a bude musieť byť skopírované do nového adresára!</span>]]></value>
+		<value><![CDATA[Adresár zdrojov<br/><span class="help">Adresár, v ktorom sa nachádzajú zdroje tohto typu. Ak ho zmeníte, existujúce zdroje nebudú dostupné a bude ich potrebné skopírovať do nového adresára!</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_default_icon</key>
-		<value><![CDATA[Predvolené ikona <br/><span class="help">Obrázok ikony, ktorý bude zobrazený v zozname zdrojov (Umiestnenie: /image/...).</span>]]></value>
+		<value><![CDATA[Predvolená ikona<br/><span class="help">Obrázok ikony, ktorý sa zobrazí v zozname zdrojov (Umiestnenie: /image/...).</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_types</key>
-		<value><![CDATA[Povolené prípony súborov <br/><span class="help">Regex so zoznamom povolených prípon pre tento typ zdrojov</span>]]></value>
+		<value><![CDATA[Povolené prípony súborov<br/><span class="help">Regex so zoznamom povolených prípon súborov pre tento typ zdroja</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Aktualizovali ste typ prostriedku!]]></value>
+		<value><![CDATA[Úspech: Aktualizovali ste typ zdroja!]]></value>
 	</definition>
 	<definition>
 		<key>error_missing_type_id</key>
-		<value><![CDATA[Chyba: Chýbajúce zdroj typ ID!]]></value>
+		<value><![CDATA[Chyba: Chýba ID typu zdroja!]]></value>
 	</definition>
 	<definition>
 		<key>error_type_name</key>
-		<value><![CDATA[Chyba: Názov Typ zdroja musí byť medzi 2 a 40 charcters]]></value>
+		<value><![CDATA[Chyba: Názov typu zdroja musí mať medzi 2 a 40 znakmi]]></value>
 	</definition>
 	<definition>
 		<key>error_default_directory</key>
-		<value><![CDATA[Chyba: Typ zdroja adresár musí byť medzi 2 a 64 charcters]]></value>
+		<value><![CDATA[Chyba: Adresár typu zdroja musí mať dĺžku od 2 do 64 znakov]]></value>
 	</definition>
 	<definition>
 		<key>error_default_icon</key>
-		<value><![CDATA[Chyba: Ikona Typ zdroja musí byť medzi 2 a 64 charcters]]></value>
+		<value><![CDATA[Chyba: Ikona typu zdroja musí mať dĺžku medzi 2 a 64 znakmi]]></value>
 	</definition>
 	<definition>
 		<key>error_file_types</key>
-		<value><![CDATA[Chyba: Resource File Type Rozšírenie na regex musí byť medzi 2 a 40 charcters]]></value>
+		<value><![CDATA[Chyba: Regulárny výraz pre prípony súborov typu zdroja musí mať dĺžku od 2 do 40 znakov]]></value>
 	</definition>
 </definitions>

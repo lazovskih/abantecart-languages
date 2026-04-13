@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Proizvođači ili Marke]]></value>
+		<value><![CDATA[Marke]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[Proizvođač ili Marka]]></value>
+		<value><![CDATA[Marka]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Morate modificirane proizvođača!]]></value>
+		<value><![CDATA[Uspjeh: Izmijenili ste brendove!]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
@@ -18,23 +18,27 @@
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[Manager slike]]></value>
+		<value><![CDATA[Upravitelj slika]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Proizvođač Naziv]]></value>
+		<value><![CDATA[Naziv marke]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[Redoslijed]]></value>
+		<value><![CDATA[Redoslijed sortiranja]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
+	</definition>
+	<definition>
+		<key>column_products</key>
+		<value><![CDATA[Broj proizvoda]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Proizvođač Ime:]]></value>
+		<value><![CDATA[Naziv marke:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store</key>
@@ -42,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO ključne riječi:]]></value>
+		<value><![CDATA[SEO ključna riječ:]]></value>
 	</definition>
 	<definition>
 		<key>entry_edit</key>
@@ -54,30 +58,26 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Redoslijed:]]></value>
+		<value><![CDATA[Redoslijed sortiranja:]]></value>
 	</definition>
 	<definition>
 		<key>error_manufacturer_not_found</key>
-		<value><![CDATA[Pogreška: Proizvođač nije pronađen!]]></value>
+		<value><![CDATA[Greška: marka nije pronađena!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu proizvođača!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za uređivanje marki!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Proizvođač Naziv mora biti između 2 i 64 znakova!]]></value>
+		<value><![CDATA[Naziv marke mora biti između 2 i 64 znakova!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Upozorenje: Ovaj proizvođač se ne može izbrisati, jer je trenutačno dodijeljena %s proizvode!]]></value>
+		<value><![CDATA[Upozorenje: ovaj brend se ne može izbrisati jer je trenutno dodijeljen %s proizvodima!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Uspjeh: Izmijenili ste izgleda kategoriju stranice.]]></value>
-	</definition>
-	<definition>
-		<key>column_products</key>
-		<value><![CDATA[Proizvodi se broje]]></value>
+		<value><![CDATA[Uspjeh: Izmijenili ste izgled stranice kategorije.]]></value>
 	</definition>
 </definitions>

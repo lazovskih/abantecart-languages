@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,35 +6,35 @@
 	</definition>
 	<definition>
 		<key>view_title</key>
-		<value><![CDATA[Zasoby Widok obiektu]]></value>
+		<value><![CDATA[Wyświetl zasoby obiektu]]></value>
 	</definition>
 	<definition>
 		<key>confirm_title</key>
-		<value><![CDATA[Potwierdź zasobu (e) usuwać]]></value>
+		<value><![CDATA[Potwierdź usunięcie zasobu(ów)]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_delete</key>
-		<value><![CDATA[Niektóre zasoby mogą być zawarte w tekście. Nie możemy sprawdzić to automatycznie. Kasować?]]></value>
+		<value><![CDATA[W tekście mogą być zawarte niektóre zasoby. Nie możemy tego automatycznie sprawdzić. Usunąć?]]></value>
 	</definition>
 	<definition>
 		<key>text_cant_delete_title</key>
-		<value><![CDATA[Zasobów (e) usuwać]]></value>
+		<value><![CDATA[Usuń zasób(y)]]></value>
 	</definition>
 	<definition>
 		<key>text_cant_delete</key>
-		<value><![CDATA[Mogę usunąć źródło (a), ponieważ jeden lub więcej środków jest związany z obiektem]]></value>
+		<value><![CDATA[Nie można usunąć zasobu(ów), ponieważ co najmniej jeden z nich jest powiązany z obiektem.]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_resource</key>
-		<value><![CDATA[Edycja zasobów]]></value>
+		<value><![CDATA[Edytuj zasób]]></value>
 	</definition>
 	<definition>
 		<key>text_resource_details</key>
-		<value><![CDATA[Szczegóły zasobów]]></value>
+		<value><![CDATA[Szczegóły zasobu]]></value>
 	</definition>
 	<definition>
 		<key>text_mapped_to</key>
-		<value><![CDATA[Połączony z]]></value>
+		<value><![CDATA[Powiązane z]]></value>
 	</definition>
 	<definition>
 		<key>text_products</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_add_code</key>
-		<value><![CDATA[Dodaj zasobów HTML]]></value>
+		<value><![CDATA[Dodaj zasób HTML]]></value>
 	</definition>
 	<definition>
 		<key>text_add_files</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>text_upload_files</key>
-		<value><![CDATA[przesyłanie plików]]></value>
+		<value><![CDATA[Prześlij pliki]]></value>
 	</definition>
 	<definition>
 		<key>text_drag</key>
-		<value><![CDATA[lub przeciągnąć je tutaj, aby rozpocząć przesyłanie]]></value>
+		<value><![CDATA[Lub przeciągnij je tutaj, aby rozpocząć przesyłanie]]></value>
 	</definition>
 	<definition>
 		<key>text_start_upload</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_start</key>
-		<value><![CDATA[Początek]]></value>
+		<value><![CDATA[Rozpocznij]]></value>
 	</definition>
 	<definition>
 		<key>text_cancel</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>text_save_sort_order</key>
-		<value><![CDATA[Zapisz Sort Order]]></value>
+		<value><![CDATA[Zapisz kolejność sortowania]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -90,15 +90,15 @@
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[szukanie]]></value>
+		<value><![CDATA[szukaj]]></value>
 	</definition>
 	<definition>
 		<key>text_type</key>
-		<value><![CDATA[Rodzaj]]></value>
+		<value><![CDATA[Typ]]></value>
 	</definition>
 	<definition>
 		<key>text_resource_code</key>
-		<value><![CDATA[zasób HTML]]></value>
+		<value><![CDATA[Zasób HTML]]></value>
 	</definition>
 	<definition>
 		<key>text_name</key>
@@ -122,7 +122,7 @@
 	</definition>
 	<definition>
 		<key>text_edit</key>
-		<value><![CDATA[Edytować]]></value>
+		<value><![CDATA[Edytuj]]></value>
 	</definition>
 	<definition>
 		<key>text_map</key>
@@ -134,15 +134,15 @@
 	</definition>
 	<definition>
 		<key>text_unmap</key>
-		<value><![CDATA[Odłączanie od obiektu]]></value>
+		<value><![CDATA[Odłącz od obiektu]]></value>
 	</definition>
 	<definition>
 		<key>text_unmap_from</key>
-		<value><![CDATA[Odłączanie od %s]]></value>
+		<value><![CDATA[Odłącz od %s]]></value>
 	</definition>
 	<definition>
 		<key>text_success_unmap</key>
-		<value><![CDATA[Sukces: Zasób został skasowany.]]></value>
+		<value><![CDATA[Sukces: Zasób został odłączony.]]></value>
 	</definition>
 	<definition>
 		<key>text_file_delete</key>
@@ -158,91 +158,91 @@
 	</definition>
 	<definition>
 		<key>error_file_size</key>
-		<value><![CDATA[Uwaga: plik do dużych należy utrzymywać poniżej 300 KB i nie więcej niż 1000px wysokości lub szerokości!]]></value>
+		<value><![CDATA[Ostrzeżenie: Plik jest zbyt duży, proszę utrzymywać go poniżej 300kb i nie przekraczać 1000px wysokości ani szerokości!]]></value>
 	</definition>
 	<definition>
 		<key>error_maxFileSize</key>
-		<value><![CDATA[Plik jest zbyt duży]]></value>
+		<value><![CDATA[Plik jest za duży]]></value>
 	</definition>
 	<definition>
 		<key>error_minFileSize</key>
-		<value><![CDATA[Plik jest zbyt mała]]></value>
+		<value><![CDATA[Plik jest za mały]]></value>
 	</definition>
 	<definition>
 		<key>error_acceptFileTypes</key>
-		<value><![CDATA[Filetype niedozwolone]]></value>
+		<value><![CDATA[Typ pliku niedozwolony]]></value>
 	</definition>
 	<definition>
 		<key>error_maxNumberOfFiles</key>
-		<value><![CDATA[Maksymalna liczba plików przekroczone]]></value>
+		<value><![CDATA[Przekroczono maksymalną liczbę plików]]></value>
 	</definition>
 	<definition>
 		<key>error_uploadedBytes</key>
-		<value><![CDATA[Przesyłane bajtów przekracza rozmiar pliku]]></value>
+		<value><![CDATA[Przesłane bajty przekraczają rozmiar pliku]]></value>
 	</definition>
 	<definition>
 		<key>error_emptyResult</key>
-		<value><![CDATA[Puste wynikiem wysyłania plików. Prawdopodobnie plik jest uszkodzony lub zbyt duże. rozmiar ograniczony do 16 MB plików. Jeśli rozmiar pliku jest mniejszy niż granica proszę sprawdzić ustawienia PHP upload_max_filesize &amp; post_max_size]]></value>
+		<value><![CDATA[Pusty wynik przesyłania pliku. Możliwe, że plik jest uszkodzony lub zbyt duży. Rozmiar pliku ograniczony do 16MB. Jeśli rozmiar pliku jest mniejszy niż limit, sprawdź ustawienia PHP dla upload_max_filesize & post_max_size.]]></value>
 	</definition>
 	<definition>
 		<key>error_1</key>
-		<value><![CDATA[Plik przekracza upload_max_filesize (php.ini dyrektywy)]]></value>
+		<value><![CDATA[Plik przekracza upload_max_filesize (dyrektywa php.ini)]]></value>
 	</definition>
 	<definition>
 		<key>error_2</key>
-		<value><![CDATA[Plik przekracza MAX_FILE_SIZE (dyrektywy stanowią HTML)]]></value>
+		<value><![CDATA[Plik przekracza MAX_FILE_SIZE (dyrektywa formularza HTML)]]></value>
 	</definition>
 	<definition>
 		<key>error_3</key>
-		<value><![CDATA[Plik został przesłany jedynie częściowo]]></value>
+		<value><![CDATA[Plik został tylko częściowo przesłany]]></value>
 	</definition>
 	<definition>
 		<key>error_4</key>
-		<value><![CDATA[Nie Plik został przesłany]]></value>
+		<value><![CDATA[Nie przesłano żadnego pliku]]></value>
 	</definition>
 	<definition>
 		<key>error_5</key>
-		<value><![CDATA[Brakujące folder tymczasowy]]></value>
+		<value><![CDATA[Brakuje folderu tymczasowego]]></value>
 	</definition>
 	<definition>
 		<key>error_6</key>
-		<value><![CDATA[Nie udało się zapisać plik na dysku]]></value>
+		<value><![CDATA[Nie udało się zapisać pliku na dysku.]]></value>
 	</definition>
 	<definition>
 		<key>error_7</key>
-		<value><![CDATA[Wysyłanie pliku zatrzymane przez rozszerzenie]]></value>
+		<value><![CDATA[Przesyłanie pliku zostało zatrzymane przez rozszerzenie]]></value>
 	</definition>
 	<definition>
 		<key>error_uploaded</key>
-		<value><![CDATA[Ostrzeżenie: Plik nie może zostać dodany do nieznanego powodu!]]></value>
+		<value><![CDATA[Ostrzeżenie: plik nie mógł zostać przesłany z nieznanego powodu!]]></value>
 	</definition>
 	<definition>
 		<key>error_no_type</key>
-		<value><![CDATA[Wybierz typ zasobu]]></value>
+		<value><![CDATA[Proszę wybrać typ zasobu]]></value>
 	</definition>
 	<definition>
 		<key>error_required_data</key>
-		<value><![CDATA[Wymagane dane nie zostały wprowadzone]]></value>
+		<value><![CDATA[Wymagane dane nie zostały wprowadzone.]]></value>
 	</definition>
 	<definition>
 		<key>error_not_added</key>
-		<value><![CDATA[Zasób nie dodał. Proszę sprawdzić dziennik błędów, aby uzyskać więcej informacji]]></value>
+		<value><![CDATA[Zasób nie został dodany. Proszę sprawdzić dziennik błędów, aby uzyskać więcej informacji.]]></value>
 	</definition>
 	<definition>
 		<key>error_ajax</key>
-		<value><![CDATA[błąd danych obciążenia. Proszę sprawdzić dziennik błędów, aby uzyskać więcej informacji]]></value>
+		<value><![CDATA[Błąd ładowania danych. Proszę sprawdzić dziennik błędów, aby uzyskać więcej informacji.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Permission Denied!]]></value>
+		<value><![CDATA[Ostrzeżenie: Odmowa dostępu!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Błąd: Pole Nazwa jest wymagane!]]></value>
+		<value><![CDATA[Błąd: pole Nazwa jest wymagane!]]></value>
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Kasować]]></value>
+		<value><![CDATA[Usuń]]></value>
 	</definition>
 	<definition>
 		<key>button_add</key>
@@ -254,19 +254,19 @@
 	</definition>
 	<definition>
 		<key>button_select</key>
-		<value><![CDATA[Wybierz Zasoby]]></value>
+		<value><![CDATA[Wybierz zasoby]]></value>
 	</definition>
 	<definition>
 		<key>text_with_selected</key>
-		<value><![CDATA[Akcja:]]></value>
+		<value><![CDATA[Z zaznaczonymi:]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Zasób pomyślnie zaktualizowane]]></value>
+		<value><![CDATA[Zasób został pomyślnie zaktualizowany.]]></value>
 	</definition>
 	<definition>
 		<key>text_map_success</key>
-		<value><![CDATA[Zasób powodzeniem połączone]]></value>
+		<value><![CDATA[Zasób pomyślnie połączono]]></value>
 	</definition>
 	<definition>
 		<key>text_no_resources</key>
@@ -274,15 +274,19 @@
 	</definition>
 	<definition>
 		<key>text_preview</key>
-		<value><![CDATA[Podgląd / Pobierz]]></value>
+		<value><![CDATA[Podgląd/Pobierz]]></value>
 	</definition>
 	<definition>
 		<key>error_file size</key>
-		<value><![CDATA[Uwaga: Maksymalny rozmiar pliku do przesłania jest %s. Można zwiększyć tę wartość w pliku php.ini.]]></value>
+		<value><![CDATA[Uwaga: Maksymalny rozmiar przesyłanego pliku to %s. Możesz zwiększyć tę wartość w php.ini.]]></value>
 	</definition>
 	<definition>
 		<key>text_product_option_value</key>
 		<value><![CDATA[Wartość opcji produktu]]></value>
+	</definition>
+	<definition>
+		<key>text_products</key>
+		<value><![CDATA[Produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_categories</key>
@@ -290,27 +294,27 @@
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[producenci]]></value>
+		<value><![CDATA[Marki]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[Nie można usunąć zasób powiązany z wieloma obiektami]]></value>
+		<value><![CDATA[Nie można usunąć zasobu powiązanego z wieloma obiektami.]]></value>
 	</definition>
 	<definition>
 		<key>error_unmap</key>
-		<value><![CDATA[Nie można odłączyć źródło. Przedmiot nie został ustawiony.]]></value>
+		<value><![CDATA[Nie można odłączyć zasobu. Obiekt nie został ustawiony.]]></value>
 	</definition>
 	<definition>
 		<key>text_replace_file</key>
-		<value><![CDATA[Wymień Plik]]></value>
+		<value><![CDATA[Zastąp plik]]></value>
 	</definition>
 	<definition>
 		<key>error_not_replaced</key>
-		<value><![CDATA[Plik Wymiana błąd. ID wymagane!]]></value>
+		<value><![CDATA[Błąd podmiany pliku. Wymagane ID!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_exists</key>
-		<value><![CDATA[Plik Wymiana błąd. Zasób nie istnieje!]]></value>
+		<value><![CDATA[Błąd zastępowania pliku. Zasób nie istnieje!]]></value>
 	</definition>
 	<definition>
 		<key>error_cannot_move</key>
@@ -318,7 +322,7 @@
 	</definition>
 	<definition>
 		<key>button_save_n_apply</key>
-		<value><![CDATA[Zapisz i Zastosuj]]></value>
+		<value><![CDATA[Zapisz i zastosuj]]></value>
 	</definition>
 	<definition>
 		<key>text_image_size</key>
@@ -330,7 +334,7 @@
 	</definition>
 	<definition>
 		<key>text_file_mime</key>
-		<value><![CDATA[MIM:]]></value>
+		<value><![CDATA[MIME:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_path</key>
@@ -338,15 +342,15 @@
 	</definition>
 	<definition>
 		<key>text_file_url</key>
-		<value><![CDATA[URL zasobów:]]></value>
+		<value><![CDATA[URL zasobu:]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_asc</key>
-		<value><![CDATA[Data Old &gt; Nowy]]></value>
+		<value><![CDATA[Data: od najstarszych do najnowszych]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_date_desc</key>
-		<value><![CDATA[Data Nowa &gt; Stary]]></value>
+		<value><![CDATA[Data Nowe > Stare]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_asc</key>
@@ -358,10 +362,10 @@
 	</definition>
 	<definition>
 		<key>text_sorting_asc</key>
-		<value><![CDATA[Porządek sortowania Niska &gt; Wysoki]]></value>
+		<value><![CDATA[Kolejność sortowania: od najniższego do najwyższego]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_desc</key>
-		<value><![CDATA[Sort Order Wysoka &gt; Niska]]></value>
+		<value><![CDATA[Kolejność sortowania od najwyższej do najniższej]]></value>
 	</definition>
 </definitions>

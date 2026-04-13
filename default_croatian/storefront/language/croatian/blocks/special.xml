@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Akcije]]></value>
+		<value><![CDATA[Posebne ponude]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Pogledajte proizvode na prodaju]]></value>
+		<value><![CDATA[Pogledajte proizvode na sniženju]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Od 5 zvjezdica!]]></value>
+		<value><![CDATA[%s od 5 zvjezdica!]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,26 +10,26 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Objednat Součty]]></value>
+		<value><![CDATA[Součty objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste celkovou mezisoučet!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste celkový mezisoučet!]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavení:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Uspořádání:]]></value>
+		<value><![CDATA[Pořadí řazení:]]></value>
 	</definition>
 	<definition>
 		<key>entry_calculation_order</key>
-		<value><![CDATA[Výpočet pořadí:]]></value>
+		<value><![CDATA[Pořadí výpočtu:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění ke změně celkové sub-total!]]></value>
+		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat celkový dílčí součet!]]></value>
 	</definition>
 </definitions>

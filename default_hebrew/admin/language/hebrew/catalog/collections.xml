@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>collection_column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_date_added</key>
-		<value><![CDATA[תאריך נוסף]]></value>
+		<value><![CDATA[תאריך הוספה]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[סטָטוּס:]]></value>
+		<value><![CDATA[סטטוס:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>save_error_name</key>
-		<value><![CDATA[נדרש שם האוסף.]]></value>
+		<value><![CDATA[שם האוסף נדרש.]]></value>
 	</definition>
 	<definition>
 		<key>collection_new</key>
-		<value><![CDATA[אוסף חדש]]></value>
+		<value><![CDATA[קולקציה חדשה]]></value>
 	</definition>
 	<definition>
 		<key>collection_update</key>
-		<value><![CDATA[עדכן את האוסף]]></value>
+		<value><![CDATA[עדכן אוסף]]></value>
 	</definition>
 	<definition>
 		<key>conditions_title</key>
@@ -46,31 +46,31 @@
 	</definition>
 	<definition>
 		<key>text_if_1</key>
-		<value><![CDATA[אִם:]]></value>
+		<value><![CDATA[אם:]]></value>
 	</definition>
 	<definition>
 		<key>text_all</key>
-		<value><![CDATA[כֹּל]]></value>
+		<value><![CDATA[הכל]]></value>
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[כֹּל]]></value>
+		<value><![CDATA[כל]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
-		<value><![CDATA[מהתנאים הללו הם]]></value>
+		<value><![CDATA[מתנאים אלה הם]]></value>
 	</definition>
 	<definition>
 		<key>text_true</key>
-		<value><![CDATA[נָכוֹן]]></value>
+		<value><![CDATA[נכון]]></value>
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[שֶׁקֶר]]></value>
+		<value><![CDATA[לא נכון]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
-		<value><![CDATA[הוסף מצב:]]></value>
+		<value><![CDATA[הוסף תנאי:]]></value>
 	</definition>
 	<definition>
 		<key>text_product_price</key>
@@ -110,11 +110,11 @@
 	</definition>
 	<definition>
 		<key>entry_product_price</key>
-		<value><![CDATA[מחיר מוצר:]]></value>
+		<value><![CDATA[מחיר המוצר:]]></value>
 	</definition>
 	<definition>
 		<key>text_equal</key>
-		<value><![CDATA[לְהִשְׁתַווֹת]]></value>
+		<value><![CDATA[שווה]]></value>
 	</definition>
 	<definition>
 		<key>text_not_equal</key>
@@ -134,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>text_less</key>
-		<value><![CDATA[פָּחוֹת]]></value>
+		<value><![CDATA[פחות]]></value>
 	</definition>
 	<definition>
 		<key>entry_brands</key>
@@ -150,7 +150,7 @@
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
-		<value><![CDATA[-בחר תג-]]></value>
+		<value><![CDATA[-בחר תגית-]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
@@ -158,39 +158,39 @@
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[השמירה הושלמה]]></value>
+		<value><![CDATA[שמירה הושלמה]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[מטא מילות מפתח:]]></value>
+		<value><![CDATA[מילות מפתח מטא:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[מטא תיאור:]]></value>
+		<value><![CDATA[תיאור מטא:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[מילת מפתח SEO:]]></value>
+		<value><![CDATA[מילת מפתח לקידום אתרים:]]></value>
 	</definition>
 	<definition>
 		<key>tab_design</key>
-		<value><![CDATA[לְעַצֵב]]></value>
+		<value><![CDATA[עיצוב]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>
-		<value><![CDATA[גְבִיָה]]></value>
+		<value><![CDATA[אוסף]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[שמירה של פריסה הושלמה]]></value>
+		<value><![CDATA[שמירת הפריסה הושלמה]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[כּוֹתֶרֶת:]]></value>
+		<value><![CDATA[כותרת:]]></value>
 	</definition>
 	<definition>
 		<key>entry_products_count</key>
-		<value><![CDATA[ספירת מוצרים:]]></value>
+		<value><![CDATA[מספר מוצרים:]]></value>
 	</definition>
 	<definition>
 		<key>entry_collection_id</key>

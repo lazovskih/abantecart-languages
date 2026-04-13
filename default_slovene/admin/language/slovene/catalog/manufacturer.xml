@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Proizvajalci ali Blagovne znamke]]></value>
+		<value><![CDATA[Blagovne znamke]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[Proizvajalec ali Brand]]></value>
+		<value><![CDATA[Znamka]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Imate spremenjene proizvajalcev!]]></value>
+		<value><![CDATA[Uspeh: spremenili ste znamke!]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[privzeto]]></value>
+		<value><![CDATA[Privzeto]]></value>
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[Manager slike]]></value>
+		<value><![CDATA[Upravljalnik slik]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Proizvajalec Ime]]></value>
+		<value><![CDATA[Ime blagovne znamke]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
@@ -30,11 +30,15 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Ukrep]]></value>
+		<value><![CDATA[Dejanje]]></value>
+	</definition>
+	<definition>
+		<key>column_products</key>
+		<value><![CDATA[Število izdelkov]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Proizvajalec Ime:]]></value>
+		<value><![CDATA[Ime znamke:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store</key>
@@ -42,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO ključne besede:]]></value>
+		<value><![CDATA[SEO ključna beseda:]]></value>
 	</definition>
 	<definition>
 		<key>entry_edit</key>
@@ -58,26 +62,22 @@
 	</definition>
 	<definition>
 		<key>error_manufacturer_not_found</key>
-		<value><![CDATA[Napaka: Proizvajalec ni bilo mogoče najti!]]></value>
+		<value><![CDATA[Napaka: blagovna znamka ni bila najdena!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje proizvajalcev!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje blagovnih znamk!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Proizvajalec Ime mora biti med 2 in 64 znakov!]]></value>
+		<value><![CDATA[Ime znamke mora biti med 2 in 64 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Opozorilo: Ta proizvajalec ni mogoče izbrisati, saj je trenutno dodeljen %s izdelkov!]]></value>
+		<value><![CDATA[Opozorilo: te blagovne znamke ni mogoče izbrisati, ker je trenutno dodeljena %s izdelkom!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Uspeh: Spremenili ste postavitev kategorija strani.]]></value>
-	</definition>
-	<definition>
-		<key>column_products</key>
-		<value><![CDATA[Izdelki štejejo]]></value>
+		<value><![CDATA[Uspešno: Spremenili ste postavitev strani kategorije.]]></value>
 	</definition>
 </definitions>

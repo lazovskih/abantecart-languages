@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Stock Status]]></value>
+		<value><![CDATA[Lagerstatuser]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret lagerstatuser!]]></value>
+		<value><![CDATA[Suksess: Du har endret lagerstatusene!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Stock Status navn]]></value>
+		<value><![CDATA[Navn på lagerstatus]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -22,18 +22,18 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Stock Status Navn:]]></value>
+		<value><![CDATA[Lagerstatusnavn:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre aksje statuer!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre lagerstatuser!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Stock Status navn må være mellom 2 og 32 tegn!]]></value>
+		<value><![CDATA[Lagerstatusnavn må være mellom 2 og 32 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Advarsel: Denne lagerstatus kan ikke slettes som det er i dag tildelt %s produkter!]]></value>
+		<value><![CDATA[Advarsel: Denne lagerstatusen kan ikke slettes da den for øyeblikket er tildelt %s produkter!]]></value>
 	</definition>
 </definitions>

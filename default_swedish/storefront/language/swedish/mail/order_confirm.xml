@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Beställ %s]]></value>
+		<value><![CDATA[%s - Beställning %s]]></value>
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[Tack för ditt intresse för %s produkter. Din beställning har tagits emot och kommer att behandlas efter betalning är bekräftad.]]></value>
+		<value><![CDATA[Tack för ditt intresse för %s produkter. Din beställning har tagits emot och kommer att behandlas efter att betalningen har bekräftats.]]></value>
 	</definition>
 	<definition>
 		<key>text_received</key>
-		<value><![CDATA[Du har fått en order.]]></value>
+		<value><![CDATA[Du har mottagit en beställning.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_detail</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[För ID:]]></value>
+		<value><![CDATA[Order-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum Beställt:]]></value>
+		<value><![CDATA[Beställningsdatum:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Om du vill visa din beställning klicka på länken nedan:]]></value>
+		<value><![CDATA[För att se din beställning klicka på länken nedan:]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_method</key>
-		<value><![CDATA[Frakt metod:]]></value>
+		<value><![CDATA[Fraktmetod:]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_method</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
-		<value><![CDATA[leveransadress]]></value>
+		<value><![CDATA[Leveransadress]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_address</key>
-		<value><![CDATA[betalningsadress]]></value>
+		<value><![CDATA[Betalningsadress]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
@@ -74,11 +74,11 @@
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Summor:]]></value>
+		<value><![CDATA[Totaler:]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[När betalningen har bekräftats kan du klicka på länken nedan för att komma åt dina nedladdningsbara produkter:]]></value>
+		<value><![CDATA[När din betalning har bekräftats kan du klicka på länken nedan för att komma åt dina nedladdningsbara produkter:]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Svara på det här meddelandet om du har några frågor.]]></value>
+		<value><![CDATA[Vänligen svara på detta e-postmeddelande om du har några frågor.]]></value>
 	</definition>
 	<definition>
 		<key>text_powered_by</key>
@@ -94,11 +94,11 @@
 	</definition>
 	<definition>
 		<key>text_new_order</key>
-		<value><![CDATA[Ny order - #]]></value>
+		<value><![CDATA[Ny beställning - #]]></value>
 	</definition>
 	<definition>
 		<key>text_new_order_text</key>
-		<value><![CDATA[Kund %s lagt till nya order]]></value>
+		<value><![CDATA[Kunden %s lade till en ny beställning]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -118,6 +118,6 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 </definitions>

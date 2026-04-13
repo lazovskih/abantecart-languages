@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Globální Výsledky hledání]]></value>
+		<value><![CDATA[Globální výsledky vyhledávání]]></value>
 	</definition>
 	<definition>
 		<key>no_results_message</key>
-		<value><![CDATA[Je nám líto, ale nemáme výsledky.]]></value>
+		<value><![CDATA[Omlouváme se, ale nemáme žádné výsledky.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte povolení k vyhledávání!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění vyhledávat!]]></value>
 	</definition>
 	<definition>
 		<key>text_orders</key>
-		<value><![CDATA[objednávky]]></value>
+		<value><![CDATA[Objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_customers</key>
-		<value><![CDATA[zákazníci]]></value>
+		<value><![CDATA[Zákazníci]]></value>
 	</definition>
 	<definition>
 		<key>text_downloads</key>
-		<value><![CDATA[Ke stažení]]></value>
+		<value><![CDATA[Stahování]]></value>
 	</definition>
 	<definition>
 		<key>text_product_categories</key>
-		<value><![CDATA[kategorie produktů]]></value>
+		<value><![CDATA[Kategorie produktů]]></value>
 	</definition>
 	<definition>
 		<key>text_products</key>
-		<value><![CDATA[produkty]]></value>
+		<value><![CDATA[Produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_reviews</key>
-		<value><![CDATA[recenze]]></value>
+		<value><![CDATA[Recenze]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[značky]]></value>
+		<value><![CDATA[Značky]]></value>
 	</definition>
 	<definition>
 		<key>text_languages</key>
-		<value><![CDATA[jazyky]]></value>
+		<value><![CDATA[Jazyky]]></value>
 	</definition>
 	<definition>
 		<key>text_pages</key>
-		<value><![CDATA[stránky]]></value>
+		<value><![CDATA[Stránky]]></value>
 	</definition>
 	<definition>
 		<key>text_settings</key>
@@ -54,18 +54,18 @@
 	</definition>
 	<definition>
 		<key>text_messages</key>
-		<value><![CDATA[zprávy]]></value>
+		<value><![CDATA[Zprávy]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions</key>
-		<value><![CDATA[rozšíření]]></value>
+		<value><![CDATA[Rozšíření]]></value>
 	</definition>
 	<definition>
 		<key>text_commands</key>
-		<value><![CDATA[Rychlé Příkazy]]></value>
+		<value><![CDATA[Rychlé příkazy]]></value>
 	</definition>
 	<definition>
 		<key>text_contents</key>
-		<value><![CDATA[Obsah stránek]]></value>
+		<value><![CDATA[Obsahové stránky]]></value>
 	</definition>
 </definitions>

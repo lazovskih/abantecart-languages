@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_cheque_name</key>
-		<value><![CDATA[Ček / novčana uputnica]]></value>
+		<value><![CDATA[Ček / poštanska doznaka]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: izmijenili ste podatke računa za ček/novčanu uplatnicu!]]></value>
+		<value><![CDATA[Uspjeh: izmijenili ste podatke o računu za ček / poštansku doznaku!]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_payable</key>
-		<value><![CDATA[Plaća se na: <br/><span class="help">Navedite ček na ime</span>]]></value>
+		<value><![CDATA[Primatelj:<br /><span class="help">Unesite na čije ime treba napisati ček</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_address</key>
-		<value><![CDATA[Pošalji poštom ili Pošalji na: <br/><span class="help">Navedite adresu na koju želite poslati ček. Ako je prazno, koristit će se glavna adresa trgovine</span>]]></value>
+		<value><![CDATA[Pošaljite poštom ili dostavite na:<br /><span class="help">Unesite adresu gdje poslati ček. Ako je polje prazno, koristit će se adresa glavne trgovine</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_order_status_id</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>default_cheque_location_id</key>
-		<value><![CDATA[Mjesto:]]></value>
+		<value><![CDATA[Lokacija:]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_location_id_0</key>
@@ -34,10 +34,10 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu isplatnog čeka/novčane uputnice!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu načina plaćanja čekom / poštanskom doznakom!]]></value>
 	</definition>
 	<definition>
 		<key>error_payable</key>
-		<value><![CDATA[Obavezno platiti!]]></value>
+		<value><![CDATA[Primatelj plaćanja je obavezan!]]></value>
 	</definition>
 </definitions>

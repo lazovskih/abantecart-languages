@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Fyll inn dine innloggingsdetaljer.]]></value>
+		<value><![CDATA[Vennligst oppgi dine innloggingsdetaljer.]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
@@ -26,26 +26,26 @@
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Logg Inn]]></value>
+		<value><![CDATA[Logg inn]]></value>
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Ingen kamp for brukernavn og / eller passord.]]></value>
+		<value><![CDATA[Ingen samsvar for brukernavn og/eller passord.]]></value>
 	</definition>
 	<definition>
 		<key>error_token</key>
-		<value><![CDATA[Ugyldig token økt. Vennligst logg inn igjen.]]></value>
+		<value><![CDATA[Ugyldig sesjonstoken. Vennligst logg inn på nytt.]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message</key>
-		<value><![CDATA[Mislykket innlogging til admin forsøk fra IP:]]></value>
+		<value><![CDATA[Mislykket påloggingsforsøk til admin fra IP:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message_text</key>
-		<value><![CDATA[Gitt bruker logikk:]]></value>
+		<value><![CDATA[Gitt brukerpålogging:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_secure</key>
-		<value><![CDATA[Du prøver å logge på i ikke-sikker usikker modus! Bytt til sikker <a href="%s">HTTPS</a> for å fortsette ]]></value>
+		<value><![CDATA[Du prøver å logge inn i en ikke-sikker, usikker modus! Vennligst bytt til sikker <a href="%s">HTTPS</a> for å fortsette]]></value>
 	</definition>
 </definitions>

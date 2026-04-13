@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[Bloker ID:]]></value>
+		<value><![CDATA[Blok ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_name</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_block_controller</key>
-		<value><![CDATA[controller:]]></value>
+		<value><![CDATA[Controller:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_path</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_block_template</key>
-		<value><![CDATA[skabelon:]]></value>
+		<value><![CDATA[Skabelon:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_parent</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>text_parent_id</key>
-		<value><![CDATA[Forælder-id:]]></value>
+		<value><![CDATA[Overordnet ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[Tæt]]></value>
+		<value><![CDATA[Luk]]></value>
 	</definition>
 	<definition>
 		<key>text_click</key>

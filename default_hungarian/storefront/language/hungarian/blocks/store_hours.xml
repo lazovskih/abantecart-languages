@@ -2,23 +2,23 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Üzlet nyitva tartása]]></value>
+		<value><![CDATA[Nyitvatartási idő]]></value>
 	</definition>
 	<definition>
 		<key>closed</key>
-		<value><![CDATA[Zárt]]></value>
+		<value><![CDATA[Lezárva]]></value>
 	</definition>
 	<definition>
 		<key>open</key>
-		<value><![CDATA[Nyitott]]></value>
+		<value><![CDATA[Megnyit]]></value>
 	</definition>
 	<definition>
 		<key>sunday</key>
-		<value><![CDATA[vasárnap]]></value>
+		<value><![CDATA[Vasárnap]]></value>
 	</definition>
 	<definition>
 		<key>monday</key>
-		<value><![CDATA[hétfő]]></value>
+		<value><![CDATA[Hétfő]]></value>
 	</definition>
 	<definition>
 		<key>tuesday</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>thursday</key>
-		<value><![CDATA[csütörtök]]></value>
+		<value><![CDATA[Csütörtök]]></value>
 	</definition>
 	<definition>
 		<key>friday</key>
@@ -38,6 +38,6 @@
 	</definition>
 	<definition>
 		<key>saturday</key>
-		<value><![CDATA[szombat]]></value>
+		<value><![CDATA[Szombat]]></value>
 	</definition>
 </definitions>

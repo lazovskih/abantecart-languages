@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>im_text_notification</key>
-		<value><![CDATA[oznámenia]]></value>
+		<value><![CDATA[Oznámenie]]></value>
 	</definition>
 	<definition>
 		<key>im_error_mail_address</key>
-		<value><![CDATA[E-mailová adresa %s nie je platný!]]></value>
+		<value><![CDATA[Emailová adresa %s nie je platná!]]></value>
 	</definition>
 	<definition>
 		<key>im_protocol_email_title</key>
@@ -18,78 +18,78 @@
 	</definition>
 	<definition>
 		<key>im_protocol_sms_empty_warn</key>
-		<value><![CDATA[Oznámenie prostredníctvom SMS nie sú možné. Číslo mobilného telefónu nie je uložený vo svojich záznamoch účtu.]]></value>
+		<value><![CDATA[SMS notifikácie nie sú možné. Mobilné číslo nie je uložené v záznamoch vášho účtu.]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update</key>
-		<value><![CDATA[objednať Aktualizácia]]></value>
+		<value><![CDATA[Aktualizácia objednávky]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update_note</key>
-		<value><![CDATA[Zvoliť, či chcete prijímať oznámenia o aktualizáciách vašich objednávok.]]></value>
+		<value><![CDATA[Vyberte, ak chcete dostávať upozornenia o aktualizáciách vašich objednávok.]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_admin</key>
-		<value><![CDATA[Objednať #%s bola aktualizovaná! Stav objednávky ID %s]]></value>
+		<value><![CDATA[Objednávka #%s bola aktualizovaná! ID stavu objednávky %s]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_customer</key>
-		<value><![CDATA[Vaša objednávka #%s Aktualizované. New Order Status je %s]]></value>
+		<value><![CDATA[Vaša objednávka #%s bola aktualizovaná. Nový stav objednávky je %s]]></value>
 	</definition>
 	<definition>
 		<key>im_new_order_text_to_admin</key>
-		<value><![CDATA[New Order #%s bol kladený!]]></value>
+		<value><![CDATA[Nová objednávka #%s bola zadaná!]]></value>
 	</definition>
 	<definition>
 		<key>im_new_customer_text_to_admin</key>
-		<value><![CDATA[Nový zákazník #%s bola zaregistrovaná!]]></value>
+		<value><![CDATA[Nový zákazník #%s %s bol zaregistrovaný!]]></value>
 	</definition>
 	<definition>
 		<key>im_new_subscriber_text_to_admin</key>
-		<value><![CDATA[Nový Účastník #%s bola zaregistrovaná!]]></value>
+		<value><![CDATA[Nový odberateľ #%s %s bol zaregistrovaný!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_account_update</key>
-		<value><![CDATA[aktualizácia účtu]]></value>
+		<value><![CDATA[Aktualizácia účtu]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_account_update_note</key>
-		<value><![CDATA[Zvoliť, či chcete prijímať oznámenia o vašich aktualizáciách účtu.]]></value>
+		<value><![CDATA[Vyberte, ak chcete dostávať upozornenia o aktualizáciách vášho účtu.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_customer</key>
-		<value><![CDATA[Váš účet bol aktualizovaný! Ak ste neurobili žiadne zmeny, obráťte sa na vlastníka webe]]></value>
+		<value><![CDATA[Váš účet bol aktualizovaný! Ak ste nevykonali žiadne zmeny, kontaktujte vlastníka stránky.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_email_to_customer</key>
-		<value><![CDATA[Váš účet e-mailová adresa bola zmenená na %s! Ak ste neurobili túto zmenu, obráťte sa na vlastníka webe]]></value>
+		<value><![CDATA[E-mailová adresa vášho účtu bola zmenená na %s! Ak ste túto zmenu nevykonali, kontaktujte, prosím, majiteľa stránky.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_login_to_customer</key>
-		<value><![CDATA[Váš účet prihlasovacie meno bolo zmenené na %s! Ak ste neurobili túto zmenu, obráťte sa na vlastníka webe]]></value>
+		<value><![CDATA[Vaše prihlasovacie meno účtu bolo zmenené na %s! Ak ste túto zmenu nevykonali, kontaktujte majiteľa stránky.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_password_to_customer</key>
-		<value><![CDATA[Váš účet heslo bolo zmenené! Ak ste neurobili túto zmenu, obráťte sa na vlastníka webe]]></value>
+		<value><![CDATA[Vaše heslo k účtu bolo zmenené! Ak ste túto zmenu nevykonali, prosím kontaktujte vlastníka stránky.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_contact_admin_text</key>
-		<value><![CDATA[Musíš nový dopyt od zákazníka (%s %s)!]]></value>
+		<value><![CDATA[Máte nový dopyt od zákazníka (%s, %s)!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter</key>
-		<value><![CDATA[spravodajcu]]></value>
+		<value><![CDATA[Spravodaje]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter_note</key>
-		<value><![CDATA[Zvoliť, či chcete dostávať oznámenia o našich produktoch a aktualizáciách služby.]]></value>
+		<value><![CDATA[Zaškrtnite, aby ste dostávali upozornenia o našich produktoch a aktualizáciách služieb.]]></value>
 	</definition>
 	<definition>
 		<key>im_product_review_text_to_admin</key>
-		<value><![CDATA[Nová recenzia produkt bol pridaný. Zobraziť detaily #admin#rt=catalog/review/update&review_id=%s]]></value>
+		<value><![CDATA[Nová recenzia produktu bola pridaná. Pozrite si podrobnosti #admin#rt=catalog/review/update&review_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>im_product_out_of_stock_admin_text</key>
-		<value><![CDATA[Výrobok s ID #%s je vypredaný.]]></value>
+		<value><![CDATA[Produkt s ID #%s nie je na sklade.]]></value>
 	</definition>
 </definitions>

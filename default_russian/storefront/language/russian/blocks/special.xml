@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Специальные предложения]]></value>
+		<value><![CDATA[Скидки]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Просмотр акций]]></value>
+		<value><![CDATA[Акционные товары]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>

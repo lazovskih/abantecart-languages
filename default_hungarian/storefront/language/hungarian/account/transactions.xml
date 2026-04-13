@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Saját tranzakciók]]></value>
+		<value><![CDATA[Tranzakcióim]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_transactions</key>
-		<value><![CDATA[tranzakciók Előzmények]]></value>
+		<value><![CDATA[Tranzakciók előzményei]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Rendelésszám]]></value>
+		<value><![CDATA[Megrendelésszám]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_id</key>
-		<value><![CDATA[ID]]></value>
+		<value><![CDATA[Azonosító]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_type</key>
-		<value><![CDATA[típus]]></value>
+		<value><![CDATA[Típus]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_description</key>
@@ -34,18 +34,18 @@
 	</definition>
 	<definition>
 		<key>text_debit</key>
-		<value><![CDATA[tartozás]]></value>
+		<value><![CDATA[Terhelés]]></value>
 	</definition>
 	<definition>
 		<key>text_credit</key>
-		<value><![CDATA[Hitel]]></value>
+		<value><![CDATA[Jóváírás]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Ön nincs rögzített ügyletek fiókjában!]]></value>
+		<value><![CDATA[Önnek nincsenek a fiókjában rögzített tranzakciók!]]></value>
 	</definition>
 </definitions>

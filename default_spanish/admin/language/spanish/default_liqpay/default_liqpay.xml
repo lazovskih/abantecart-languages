@@ -6,51 +6,39 @@
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[Pago]]></value>
+		<value><![CDATA[Payment]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Enhorabuena: Ha modificado los detalles de su cuenta LIQPAY!]]></value>
-	</definition>
-	<definition>
-		<key>text_liqpay</key>
-		<value><![CDATA[LIQPAY]]></value>
-	</definition>
-	<definition>
-		<key>text_card</key>
-		<value><![CDATA[Tarjeta de crédito]]></value>
+		<value><![CDATA[Éxito: ¡Ha modificado los detalles de la cuenta de LIQPAY!]]></value>
 	</definition>
 	<definition>
 		<key>text_pay</key>
 		<value><![CDATA[LIQPAY]]></value>
 	</definition>
 	<definition>
+		<key>text_card</key>
+		<value><![CDATA[Credit Card]]></value>
+	</definition>
+	<definition>
 		<key>default_liqpay_merchant</key>
-		<value><![CDATA[Merchant ID:]]></value>
+		<value><![CDATA[ID de comerciante:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_signature</key>
 		<value><![CDATA[Firma:]]></value>
 	</definition>
 	<definition>
+		<key>default_liqpay_public_key</key>
+		<value><![CDATA[Clave pública:]]></value>
+	</definition>
+	<definition>
+		<key>default_liqpay_private_key</key>
+		<value><![CDATA[Clave privada:]]></value>
+	</definition>
+	<definition>
 		<key>default_liqpay_type</key>
 		<value><![CDATA[Tipo:]]></value>
-	</definition>
-	<definition>
-		<key>default_liqpay_test_mode</key>
-		<value><![CDATA[Test Mode:]]></value>
-	</definition>
-	<definition>
-		<key>default_liqpay_order_status_id</key>
-		<value><![CDATA[Estado del pedido:]]></value>
-	</definition>
-	<definition>
-		<key>default_liqpay_location_id</key>
-		<value><![CDATA[Localidad:]]></value>
-	</definition>
-	<definition>
-		<key>default_liqpay_location_id_0</key>
-		<value><![CDATA[Todas las localidades]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type_pay</key>
@@ -58,18 +46,34 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_type_card</key>
-		<value><![CDATA[Card]]></value>
+		<value><![CDATA[Tarjeta]]></value>
+	</definition>
+	<definition>
+		<key>default_liqpay_test_mode</key>
+		<value><![CDATA[Modo de prueba:]]></value>
+	</definition>
+	<definition>
+		<key>default_liqpay_order_status_id</key>
+		<value><![CDATA[Estado del pedido:]]></value>
+	</definition>
+	<definition>
+		<key>default_liqpay_location_id_0</key>
+		<value><![CDATA[Todas las ubicaciones]]></value>
+	</definition>
+	<definition>
+		<key>default_liqpay_location_id</key>
+		<value><![CDATA[Ubicación:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Atención: No tiene permisos para modificar su cuenta LIQPAY!]]></value>
+		<value><![CDATA[Advertencia: No tiene permiso para modificar el pago LIQPAY!]]></value>
 	</definition>
 	<definition>
 		<key>error_merchant</key>
-		<value><![CDATA[Merchant ID obligatorio!]]></value>
+		<value><![CDATA[¡Se requiere ID de comerciante!]]></value>
 	</definition>
 	<definition>
 		<key>error_signature</key>
-		<value><![CDATA[Firma obligatoria!]]></value>
+		<value><![CDATA[¡Firma requerida!]]></value>
 	</definition>
 </definitions>

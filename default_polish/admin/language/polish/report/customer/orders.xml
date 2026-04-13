@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>column_customer_id</key>
-		<value><![CDATA[Identyfikator klienta]]></value>
+		<value><![CDATA[ID klienta]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Nazwa klienta]]></value>
+		<value><![CDATA[Imię i nazwisko klienta]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
@@ -18,10 +18,10 @@
 	</definition>
 	<definition>
 		<key>column_order_count</key>
-		<value><![CDATA[Zamówienia hrabia]]></value>
+		<value><![CDATA[Liczba zamówień]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Całkowity]]></value>
+		<value><![CDATA[Razem]]></value>
 	</definition>
 </definitions>

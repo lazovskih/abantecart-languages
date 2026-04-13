@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Közös Letöltések]]></value>
+		<value><![CDATA[Megosztott letöltések]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[megosztani Letöltés]]></value>
+		<value><![CDATA[Megosztott letöltés]]></value>
 	</definition>
 	<definition>
 		<key>insert_title</key>
-		<value><![CDATA[Insert letöltése]]></value>
+		<value><![CDATA[Letöltés beszúrása]]></value>
 	</definition>
 	<definition>
 		<key>update_title</key>
-		<value><![CDATA[frissítés letöltése]]></value>
+		<value><![CDATA[Frissítés Letöltés]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Van módosított letöltések!]]></value>
+		<value><![CDATA[Siker: Ön módosította a letöltéseket!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -26,43 +26,43 @@
 	</definition>
 	<definition>
 		<key>column_remaining</key>
-		<value><![CDATA[Letöltés összesen Engedélyezett]]></value>
+		<value><![CDATA[Engedélyezett letöltések száma]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akció]]></value>
+		<value><![CDATA[Művelet]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Letöltés címe:]]></value>
+		<value><![CDATA[Letöltés neve:]]></value>
 	</definition>
 	<definition>
 		<key>entry_filename</key>
-		<value><![CDATA[Fájl név:]]></value>
+		<value><![CDATA[Fájlnév:]]></value>
 	</definition>
 	<definition>
 		<key>entry_remaining</key>
-		<value><![CDATA[Letöltés összesen hozhatja:]]></value>
+		<value><![CDATA[Engedélyezett letöltések száma:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[Push to korábbi ügyfelek: <br/><span class="help">Jelölje be ezt, hogy frissítse a korábban megvásárolt változat is.</span>]]></value>
+		<value><![CDATA[Küldés a korábbi vásárlóknak:<br /><span class="help">Ezt bejelölve a korábban megvásárolt verziók is frissülnek.</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítani letöltések!]]></value>
+		<value><![CDATA[Figyelmeztetés: Nincs jogosultsága a letöltések módosításához!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Név között kell lennie a 2. és 64 karakter!]]></value>
+		<value><![CDATA[A névnek 2 és 64 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_file</key>
-		<value><![CDATA[Kérjük, állítsa be a fájl letölthető.]]></value>
+		<value><![CDATA[Kérjük, állítsa be a fájlt letöltésre.]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Figyelmeztetés: Ez a letöltés nem törölhető, mert pillanatnyilag hozzá %s termék!]]></value>
+		<value><![CDATA[Figyelmeztetés: Ez a letöltés nem törölhető, mivel jelenleg %s termékhez van hozzárendelve!]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -70,6 +70,6 @@
 	</definition>
 	<definition>
 		<key>column_products_count</key>
-		<value><![CDATA[termékek Count]]></value>
+		<value><![CDATA[Termékek száma]]></value>
 	</definition>
 </definitions>

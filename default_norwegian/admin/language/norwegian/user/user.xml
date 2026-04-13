@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[brukere]]></value>
+		<value><![CDATA[Brukere]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_details</key>
-		<value><![CDATA[Rediger Profil Detaljer]]></value>
+		<value><![CDATA[Rediger profildetaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_user</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>entry_confirm</key>
-		<value><![CDATA[Bekrefte:]]></value>
+		<value><![CDATA[Bekreft:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Skriv inn koden i boksen under:]]></value>
+		<value><![CDATA[Skriv inn koden i boksen nedenfor:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -90,15 +90,15 @@
 	</definition>
 	<definition>
 		<key>error_username</key>
-		<value><![CDATA[Brukernavn må være mellom 2 og 20 tegn!]]></value>
+		<value><![CDATA[Brukernavn må være mellom 2 og 20 tegn og må være unikt!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Passordet må være mer enn 3 tegn!]]></value>
+		<value><![CDATA[Passord må være mer enn 3 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
-		<value><![CDATA[Passord og passord bekreftelse stemmer ikke!]]></value>
+		<value><![CDATA[Passord og passordbekreftelse stemmer ikke overens!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
@@ -114,27 +114,27 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Menneskelig Bekreftelse mislyktes!]]></value>
+		<value><![CDATA[Menneskelig verifisering mislyktes!]]></value>
 	</definition>
 	<definition>
 		<key>error_user_group</key>
-		<value><![CDATA[Du har ingen rettigheter til å endre brukergruppe.]]></value>
+		<value><![CDATA[Du har ikke tillatelse til å endre brukergruppe.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
-		<value><![CDATA[- Velg Group -]]></value>
+		<value><![CDATA[- Velg gruppe -]]></value>
 	</definition>
 	<definition>
 		<key>entry_im_email</key>
-		<value><![CDATA[E-post: <span class="help">En eller flere kommaseparert e-postadresser</span>]]></value>
+		<value><![CDATA[E-post:<span class="help">En eller flere komma-separerte e-postadresser</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_im_sms</key>
-		<value><![CDATA[Mobile Phone: <span class="help">Telefonnummer i internasjonalt format. ex. +14566887777</span>]]></value>
+		<value><![CDATA[Mobiltelefon:<span class="help">Telefonnummer i internasjonalt format. f.eks. +14566887777</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_im</key>
-		<value><![CDATA[Rediger Varsler]]></value>
+		<value><![CDATA[Rediger varsler]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoints</key>
@@ -142,6 +142,6 @@
 	</definition>
 	<definition>
 		<key>text_change_im_addresses</key>
-		<value><![CDATA[Edit Melding Adresser for dette SendPoint]]></value>
+		<value><![CDATA[Rediger varslingsadresser for dette SendPoint]]></value>
 	</definition>
 </definitions>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Produkter Inköpt Rapportera]]></value>
+		<value><![CDATA[Rapport över inköpta produkter]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[produktnamn]]></value>
+		<value><![CDATA[Produktnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[Modell]]></value>
+		<value><![CDATA[modell]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[Kvantitet]]></value>
+		<value><![CDATA[Antal]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 </definitions>

@@ -1,16 +1,16 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Подписка на рассылку]]></value>
+		<value><![CDATA[Подписка на новости]]></value>
 	</definition>
 	<definition>
 		<key>text_signup</key>
-		<value><![CDATA[Подпишитесь на нашу рассылку и получайте привлекательные предложения, подписавшись на нашу рассылку.]]></value>
+		<value><![CDATA[Подпишитесь на нашу рассылку чтобы получать привлекательные предложения.]]></value>
 	</definition>
 	<definition>
 		<key>text_sign_in</key>
-		<value><![CDATA[Войти]]></value>
+		<value><![CDATA[Вход]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribe</key>

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Zapisz się do newslettera]]></value>
+		<value><![CDATA[Rejestracja do newslettera]]></value>
 	</definition>
 	<definition>
 		<key>text_signup</key>
-		<value><![CDATA[Zapisz się do naszego newslettera &amp; uzyskać atrakcyjne oferty poprzez zapisanie się do naszego newslettera.]]></value>
+		<value><![CDATA[Zapisz się do naszego biuletynu i otrzymaj atrakcyjne oferty, subskrybując nasze biuletyny.]]></value>
 	</definition>
 	<definition>
 		<key>text_sign_in</key>
-		<value><![CDATA[Zaloguj]]></value>
+		<value><![CDATA[Zaloguj się]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribe</key>
@@ -18,6 +18,6 @@
 	</definition>
 	<definition>
 		<key>button_subscribe</key>
-		<value><![CDATA[Subskrybować]]></value>
+		<value><![CDATA[Subskrybuj]]></value>
 	</definition>
 </definitions>

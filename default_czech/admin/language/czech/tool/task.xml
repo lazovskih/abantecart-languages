@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[naplánované úlohy]]></value>
+		<value><![CDATA[Naplánované úlohy]]></value>
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[Id]]></value>
+		<value><![CDATA[ID]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
@@ -14,70 +14,70 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[název]]></value>
+		<value><![CDATA[Jméno]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_start_time</key>
-		<value><![CDATA[Doba spuštění]]></value>
+		<value><![CDATA[Čas zahájení]]></value>
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[Stuck]]></value>
+		<value><![CDATA[Zaseklý]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
-		<value><![CDATA[připravený]]></value>
+		<value><![CDATA[Připraveno]]></value>
 	</definition>
 	<definition>
 		<key>text_running</key>
-		<value><![CDATA[Běh]]></value>
+		<value><![CDATA[Probíhá]]></value>
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
-		<value><![CDATA[naplánováno]]></value>
+		<value><![CDATA[Naplánováno]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
-		<value><![CDATA[invalidní]]></value>
+		<value><![CDATA[Zakázáno]]></value>
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[neúspěšný]]></value>
+		<value><![CDATA[Selhalo]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
-		<value><![CDATA[Neúplný]]></value>
+		<value><![CDATA[Nedokončeno]]></value>
 	</definition>
 	<definition>
 		<key>text_completed</key>
-		<value><![CDATA[dokončený]]></value>
+		<value><![CDATA[Dokončeno]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[restart Task]]></value>
+		<value><![CDATA[Restartovat úlohu]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
-		<value><![CDATA[Úkol Run]]></value>
+		<value><![CDATA[Spustit úlohu]]></value>
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[začal úkol]]></value>
+		<value><![CDATA[Úloha zahájena]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
-		<value><![CDATA[Úkol nebyl nalezen.]]></value>
+		<value><![CDATA[Úloha nenalezena.]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_task</key>
-		<value><![CDATA[Úkolem není obsahuje kroky. Odstraněny.]]></value>
+		<value><![CDATA[Úkol neobsahuje kroky. Odebráno.]]></value>
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[Zakázané Chcete-li restartovat!]]></value>
+		<value><![CDATA[Zakázáno restartovat!]]></value>
 	</definition>
 </definitions>

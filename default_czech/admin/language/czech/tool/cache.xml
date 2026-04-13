@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Správa Cache]]></value>
+		<value><![CDATA[Správa mezipaměti]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Úspěšně jste smazali soubory mezipaměti!]]></value>
+		<value><![CDATA[Úspěch: Soubory mezipaměti jste úspěšně odstranili!]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration</key>
@@ -14,19 +14,19 @@
 	</definition>
 	<definition>
 		<key>text_layouts_blocks</key>
-		<value><![CDATA[Rozvržení &amp; bloky]]></value>
+		<value><![CDATA[Rozvržení & bloky]]></value>
 	</definition>
 	<definition>
 		<key>text_flexyforms</key>
-		<value><![CDATA[Flexy Formuláře]]></value>
+		<value><![CDATA[Flexy formuláře]]></value>
 	</definition>
 	<definition>
 		<key>text_images</key>
-		<value><![CDATA[snímky]]></value>
+		<value><![CDATA[Obrázky]]></value>
 	</definition>
 	<definition>
 		<key>text_products</key>
-		<value><![CDATA[produkty]]></value>
+		<value><![CDATA[Produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_categories</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Výrobci]]></value>
+		<value><![CDATA[Značky]]></value>
 	</definition>
 	<definition>
 		<key>text_localisations</key>
-		<value><![CDATA[lokalizace]]></value>
+		<value><![CDATA[Lokalizace]]></value>
 	</definition>
 	<definition>
 		<key>text_error_log</key>
@@ -50,47 +50,47 @@
 	</definition>
 	<definition>
 		<key>text_clear_all_cache</key>
-		<value><![CDATA[Clear All Cache]]></value>
+		<value><![CDATA[Vymazat všechna data]]></value>
 	</definition>
 	<definition>
 		<key>desc_configuration</key>
-		<value><![CDATA[Systémové a ukládat konfigurace]]></value>
+		<value><![CDATA[Konfigurace systému a obchodu]]></value>
 	</definition>
 	<definition>
 		<key>desc_layouts_blocks</key>
-		<value><![CDATA[Stránky, rozvržení stránky, bloky]]></value>
+		<value><![CDATA[Stránky, rozvržení stránek, bloky]]></value>
 	</definition>
 	<definition>
 		<key>desc_flexyforms</key>
-		<value><![CDATA[Flexy formy údajů]]></value>
+		<value><![CDATA[Data Flexy formulářů]]></value>
 	</definition>
 	<definition>
 		<key>desc_images</key>
-		<value><![CDATA[Obrázek miniatury]]></value>
+		<value><![CDATA[Miniatury obrázků]]></value>
 	</definition>
 	<definition>
 		<key>desc_products</key>
-		<value><![CDATA[údaje o výrobku]]></value>
+		<value><![CDATA[Produktová data]]></value>
 	</definition>
 	<definition>
 		<key>desc_categories</key>
-		<value><![CDATA[Kategorie údajů]]></value>
+		<value><![CDATA[Data kategorie]]></value>
 	</definition>
 	<definition>
 		<key>desc_manufacturers</key>
-		<value><![CDATA[údaje o výrobci]]></value>
+		<value><![CDATA[Údaje o značce]]></value>
 	</definition>
 	<definition>
 		<key>desc_localisations</key>
-		<value><![CDATA[Měna, Jazyk, Země, Zone, délka, hmotnost, &amp; jiný]]></value>
+		<value><![CDATA[Měna, Jazyk, Země, Zóna, Délka, Hmotnost, & další]]></value>
 	</definition>
 	<definition>
 		<key>desc_error_log</key>
-		<value><![CDATA[Protokol chyb]]></value>
+		<value><![CDATA[Záznam chyb]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[Typ Cache]]></value>
+		<value><![CDATA[Typ mezipaměti]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[Pomoc při instalaci / upgrade historie]]></value>
+		<value><![CDATA[Historie instalace/aktualizace]]></value>
 	</definition>
 	<definition>
 		<key>desc_install_upgrade_history</key>
-		<value><![CDATA[Clear All Install / Historie upgrade]]></value>
+		<value><![CDATA[Vymazat veškerou historii instalací/aktualizací]]></value>
 	</definition>
 	<definition>
 		<key>text_edits_history</key>
@@ -110,6 +110,6 @@
 	</definition>
 	<definition>
 		<key>desc_edits_history</key>
-		<value><![CDATA[Vymazat celou historii úprav textu]]></value>
+		<value><![CDATA[Vymazat veškerou historii úprav textu]]></value>
 	</definition>
 </definitions>

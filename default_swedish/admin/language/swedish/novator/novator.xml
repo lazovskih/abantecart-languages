@@ -5,11 +5,7 @@
 		<value><![CDATA[novator]]></value>
 	</definition>
 	<definition>
-		<key>novator_note</key>
-		<value><![CDATA[]]></value>
-	</definition>
-	<definition>
 		<key>novator_category_form_info_alert</key>
-		<value><![CDATA[<div class="alert alert-info">Alla bilder efter den första kan användas i &quot;kategoribilder&quot;-blocket. (se block i kategorisidlayouten)</div>]]></value>
+		<value><![CDATA[<div class="alert alert-info">Alla bilder efter den första kan användas i blocket 'kategorislides'. (se blocket i kategorisidans layout)</div>]]></value>
 	</definition>
 </definitions>

@@ -2,14 +2,14 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Ofertas]]></value>
-	</definition>
-	<definition>
-		<key>heading_subtitle</key>
-		<value><![CDATA[Ver productos en oferta]]></value>
+		<value><![CDATA[Specials]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[¡%s de 5 estrellas!]]></value>
+		<value><![CDATA[%s out of 5 Stars!]]></value>
+	</definition>
+	<definition>
+		<key>heading_subtitle</key>
+		<value><![CDATA[Ver los productos a la venta]]></value>
 	</definition>
 </definitions>

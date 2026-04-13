@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[blokker]]></value>
+		<value><![CDATA[Blokker]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[slette blokk]]></value>
+		<value><![CDATA[slett blokk]]></value>
 	</definition>
 	<definition>
 		<key>text_edit</key>
-		<value><![CDATA[edit blokk]]></value>
+		<value><![CDATA[rediger blokk]]></value>
 	</definition>
 	<definition>
 		<key>text_enable</key>
-		<value><![CDATA[På av]]></value>
+		<value><![CDATA[Aktiver/Deaktiver]]></value>
 	</definition>
 	<definition>
 		<key>text_details</key>
-		<value><![CDATA[detaljer]]></value>
+		<value><![CDATA[Detaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_create</key>
-		<value><![CDATA[Lag blokk]]></value>
+		<value><![CDATA[Opprett blokk]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret blokk!]]></value>
+		<value><![CDATA[Suksess: Du har endret blokken!]]></value>
 	</definition>
 	<definition>
 		<key>column_block_id</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>column_block_txt_id</key>
-		<value><![CDATA[Unik Text ID]]></value>
+		<value><![CDATA[Unik Tekst-ID]]></value>
 	</definition>
 	<definition>
 		<key>column_block_name</key>
@@ -66,59 +66,59 @@
 	</definition>
 	<definition>
 		<key>entry_block_status_note</key>
-		<value><![CDATA[Merk: Du må legge til denne blokken i <a style="text-decoration: underline; font-weight: bold;" href="#admin#rt=design/layout">LAYOUT</a> på ønsket side for å se det fungerer]]></value>
+		<value><![CDATA[Merk: Du må legge til denne blokken i <a style="text-decoration: underline; font-weight: bold;" href="#admin#rt=design/layout">OPPSETT</a> på ønsket side for å se at det fungerer.]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_type</key>
-		<value><![CDATA[Custom Block Type]]></value>
+		<value><![CDATA[Egendefinert blokktype]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_name</key>
-		<value><![CDATA[Custom Block navn]]></value>
+		<value><![CDATA[Egendefinert blokknavn]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_wrapper</key>
-		<value><![CDATA[Bruk blokk wrapper (utseende)]]></value>
+		<value><![CDATA[Bruk blokkinnpakning (utseende)]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_framed</key>
-		<value><![CDATA[Bruk blokk ramme]]></value>
+		<value><![CDATA[Bruk blokkens ramme]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_title</key>
-		<value><![CDATA[Custom Block Tittel]]></value>
+		<value><![CDATA[Egendefinert blokktittel]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_description</key>
-		<value><![CDATA[Custom Block beskrivelse <p> bare internt bruk: Merk </p>]]></value>
+		<value><![CDATA[Egendefinert blokkbeskrivelse <p>Merk: kun for internt bruk </p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_content</key>
-		<value><![CDATA[Custom Block innhold]]></value>
+		<value><![CDATA[Egendefinert blokkinnhold]]></value>
 	</definition>
 	<definition>
 		<key>entry_listing_datasource</key>
-		<value><![CDATA[Listing datakilde]]></value>
+		<value><![CDATA[Datakilde for oppføring]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Bekreft for å slette blokk?]]></value>
+		<value><![CDATA[Bekreft at du vil slette blokken?]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[Vennligst fyll ut alle obligatoriske felt!]]></value>
+		<value><![CDATA[Vennligst fyll ut alle påkrevde felt!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[Kan ikke slette fordi denne blokken er i bruk. Vennligst besøk Layout delen.]]></value>
+		<value><![CDATA[Kan ikke slette fordi denne blokken er i bruk. Vennligst gå til Layout-seksjonen.]]></value>
 	</definition>
 	<definition>
 		<key>error_text_status</key>
-		<value><![CDATA[Kan ikke endre status fordi denne blokken ikke er i bruk. Vennligst besøk Layout delen.]]></value>
+		<value><![CDATA[Kan ikke endre status fordi denne blokken ikke er i bruk. Vennligst besøk Layout-seksjonen.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_deleted</key>
-		<value><![CDATA[Suksess: Du har slettet tilpasset blokk!]]></value>
+		<value><![CDATA[Suksess: Du har slettet egendefinert blokk!]]></value>
 	</definition>
 	<definition>
 		<key>entry_data_source</key>
@@ -130,63 +130,71 @@
 	</definition>
 	<definition>
 		<key>text_listing_auto</key>
-		<value><![CDATA[Auto oppføring]]></value>
+		<value><![CDATA[Automatisk oppføring]]></value>
 	</definition>
 	<definition>
 		<key>text_listing_manual</key>
-		<value><![CDATA[Custom oppføring]]></value>
+		<value><![CDATA[Egendefinert oppføring]]></value>
 	</definition>
 	<definition>
 		<key>text_select_listing</key>
-		<value><![CDATA[--- Velg data notering kilde ---]]></value>
+		<value><![CDATA[--- velg kilde for dataliste ---]]></value>
 	</definition>
 	<definition>
 		<key>text_products_special</key>
 		<value><![CDATA[Spesialtilbud]]></value>
 	</definition>
 	<definition>
+		<key>text_products_related</key>
+		<value><![CDATA[Relaterte produkter]]></value>
+	</definition>
+	<definition>
 		<key>text_products_popular</key>
-		<value><![CDATA[populære produkter]]></value>
+		<value><![CDATA[Populære produkter]]></value>
 	</definition>
 	<definition>
 		<key>text_categories</key>
-		<value><![CDATA[kategorier]]></value>
+		<value><![CDATA[Alle kategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[produsenter]]></value>
+		<value><![CDATA[Alle merker]]></value>
 	</definition>
 	<definition>
 		<key>text_featured</key>
-		<value><![CDATA[Utvalgte produkter]]></value>
+		<value><![CDATA[Utvalgte Produkter]]></value>
 	</definition>
 	<definition>
 		<key>text_latest</key>
-		<value><![CDATA[Siste produkter]]></value>
+		<value><![CDATA[Nyeste produkter]]></value>
 	</definition>
 	<definition>
 		<key>text_bestsellers</key>
-		<value><![CDATA[Bestselgere selgere Produkter]]></value>
+		<value><![CDATA[Bestselgende produkter]]></value>
 	</definition>
 	<definition>
 		<key>text_media</key>
-		<value><![CDATA[Media]]></value>
+		<value><![CDATA[Medier]]></value>
 	</definition>
 	<definition>
 		<key>entry_resource_type</key>
-		<value><![CDATA[Media type:]]></value>
+		<value><![CDATA[Medietype:]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_products</key>
-		<value><![CDATA[Custom Products]]></value>
+		<value><![CDATA[Valgte produkter]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_categories</key>
-		<value><![CDATA[definerte kategorier]]></value>
+		<value><![CDATA[Valgte kategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_manufacturers</key>
-		<value><![CDATA[tilpassede produsenter]]></value>
+		<value><![CDATA[Valgte merker]]></value>
+	</definition>
+	<definition>
+		<key>text_selected_content</key>
+		<value><![CDATA[Valgt innhold]]></value>
 	</definition>
 	<definition>
 		<key>text_html_block</key>
@@ -194,7 +202,7 @@
 	</definition>
 	<definition>
 		<key>text_listing_block</key>
-		<value><![CDATA[data Listing]]></value>
+		<value><![CDATA[Dataliste]]></value>
 	</definition>
 	<definition>
 		<key>text_selected</key>
@@ -202,63 +210,55 @@
 	</definition>
 	<definition>
 		<key>text_data_listed</key>
-		<value><![CDATA[Data som skal listet]]></value>
+		<value><![CDATA[Data som skal listes]]></value>
 	</definition>
 	<definition>
 		<key>text_save_edit</key>
-		<value><![CDATA[Legg til / rediger]]></value>
+		<value><![CDATA[Legg til / Rediger]]></value>
 	</definition>
 	<definition>
 		<key>text_apply</key>
-		<value><![CDATA[Påfør valg]]></value>
+		<value><![CDATA[Bruk valg]]></value>
 	</definition>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[Block ID]]></value>
+		<value><![CDATA[Blokk-ID]]></value>
 	</definition>
 	<definition>
 		<key>text_block_txt_id</key>
-		<value><![CDATA[Block Text ID]]></value>
+		<value><![CDATA[Blokktekst-ID]]></value>
 	</definition>
 	<definition>
 		<key>text_controller</key>
-		<value><![CDATA[Controller]]></value>
+		<value><![CDATA[Kontroller]]></value>
 	</definition>
 	<definition>
 		<key>text_templates</key>
-		<value><![CDATA[Block Maler]]></value>
+		<value><![CDATA[Blokkmaler]]></value>
 	</definition>
 	<definition>
 		<key>text_block_date_added</key>
-		<value><![CDATA[Block Dato opprettet]]></value>
+		<value><![CDATA[Blokk opprettelsesdato]]></value>
 	</definition>
 	<definition>
 		<key>text_layouts</key>
-		<value><![CDATA[Brukes i oppsett]]></value>
+		<value><![CDATA[Brukt i layouter]]></value>
 	</definition>
 	<definition>
 		<key>text_block_info</key>
-		<value><![CDATA[Informasjon om Custom Block]]></value>
+		<value><![CDATA[Informasjon om tilpasset blokk]]></value>
 	</definition>
 	<definition>
 		<key>text_add_block</key>
-		<value><![CDATA[Legge blokk til seksjon]]></value>
+		<value><![CDATA[Legge til blokk i seksjon]]></value>
 	</definition>
 	<definition>
 		<key>text_available_block</key>
-		<value><![CDATA[tilgjengelige Blocks]]></value>
+		<value><![CDATA[Tilgjengelige blokker]]></value>
 	</definition>
 	<definition>
 		<key>error_block_not_available</key>
-		<value><![CDATA[Denne blokken vil ikke bli vist i valgt posisjon på en butikk!]]></value>
-	</definition>
-	<definition>
-		<key>text_products_related</key>
-		<value><![CDATA[Relaterte produkter]]></value>
-	</definition>
-	<definition>
-		<key>text_selected_content</key>
-		<value><![CDATA[Valgt innhold]]></value>
+		<value><![CDATA[Denne blokken vil ikke bli vist i den valgte posisjonen på butikkfronten!]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>

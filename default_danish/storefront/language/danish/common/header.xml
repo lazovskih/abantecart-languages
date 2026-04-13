@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_home</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_special</key>
-		<value><![CDATA[Specialtilbud]]></value>
+		<value><![CDATA[Særlige tilbud]]></value>
 	</definition>
 	<definition>
 		<key>text_contact</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_sitemap</key>
-		<value><![CDATA[Sitemap]]></value>
+		<value><![CDATA[Webstedsoversigt]]></value>
 	</definition>
 	<definition>
 		<key>text_bookmark</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Log på]]></value>
+		<value><![CDATA[Log ind]]></value>
 	</definition>
 	<definition>
 		<key>text_logout</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[bestilling]]></value>
+		<value><![CDATA[Kassen]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[nøgleord]]></value>
+		<value><![CDATA[Søgeord]]></value>
 	</definition>
 	<definition>
 		<key>text_advanced</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>text_category</key>
-		<value><![CDATA[alle kategorier]]></value>
+		<value><![CDATA[Alle kategorier]]></value>
 	</definition>
 	<definition>
 		<key>entry_search</key>
@@ -66,6 +66,6 @@
 	</definition>
 	<definition>
 		<key>text_login_or_register</key>
-		<value><![CDATA[Login eller registrer]]></value>
+		<value><![CDATA[Log ind eller registrer]]></value>
 	</definition>
 </definitions>

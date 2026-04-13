@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Update Manager]]></value>
+		<value><![CDATA[Oppdateringsbehandler]]></value>
 	</definition>
 	<definition>
 		<key>text_checkupdates</key>
-		<value><![CDATA[se etter oppdateringer]]></value>
+		<value><![CDATA[sjekk etter oppdateringer]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Navn på utvidelse]]></value>
+		<value><![CDATA[Utvidelsesnavn]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>column_new_version</key>
-		<value><![CDATA[Ny verson]]></value>
+		<value><![CDATA[Ny versjon]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Extensions er oppdatert!]]></value>
+		<value><![CDATA[Suksess: Utvidelser ble oppdatert!]]></value>
 	</definition>
 	<definition>
 		<key>text_update</key>
@@ -46,31 +46,31 @@
 	</definition>
 	<definition>
 		<key>entry_restore_exts</key>
-		<value><![CDATA[Gjenopprett sikkerhetskopierte forlengelse:]]></value>
+		<value><![CDATA[Gjenopprett sikkerhetskopiert utvidelse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[oppdateringer:]]></value>
+		<value><![CDATA[Oppdateringer:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre katalogen:]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre mappen:]]></value>
 	</definition>
 	<definition>
 		<key>warning_server</key>
-		<value><![CDATA[Server med oppdateringer er inaccesible.]]></value>
+		<value><![CDATA[Server med oppdateringer er utilgjengelig.]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_title</key>
-		<value><![CDATA[Update Notice for% EXTENSION%]]></value>
+		<value><![CDATA[Oppdateringsvarsel for %EXTENSION%]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_text</key>
-		<value><![CDATA[&#39;Ny versjon av utvidelsen «% EXTENSION%&quot; er tilgjengelig. Vær så snill, gå til% LINK% og oppgradere den.]]></value>
+		<value><![CDATA[Ny versjon av utvidelsen "%EXTENSION%" er tilgjengelig. Vennligst gå til %LINK% og oppgrader den.]]></value>
 	</definition>
 	<definition>
 		<key>warning_updates</key>
-		<value><![CDATA[Kan ikke få informasjon om oppdateringer.]]></value>
+		<value><![CDATA[Kan ikke hente informasjon om oppdateringer.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
@@ -78,26 +78,26 @@
 	</definition>
 	<definition>
 		<key>error_exts_list</key>
-		<value><![CDATA[Advarsel: Extension listen er ikke matrise!]]></value>
+		<value><![CDATA[Advarsel: Utvidelseslisten er ikke et array!]]></value>
 	</definition>
 	<definition>
 		<key>text_nothing_todo</key>
-		<value><![CDATA[Din extensions er oppdatert. Ingenting å gjøre.]]></value>
+		<value><![CDATA[Dine utvidelser er oppdatert. Ingenting å gjøre.]]></value>
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Koble]]></value>
+		<value><![CDATA[Koble til]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect</key>
-		<value><![CDATA[Koble til markedet]]></value>
+		<value><![CDATA[Koble til markedsplassen]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect_your_store</key>
-		<value><![CDATA[Vennligst Koble din butikk til Market]]></value>
+		<value><![CDATA[Vennligst koble butikken din til markedsplassen]]></value>
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[Merk: Oppdatering tilgjengelig for tilkoblede butikker med kjøpt historie.]]></value>
+		<value><![CDATA[Merk: Oppdatering er kun tilgjengelig for tilknyttede butikker med kjøpshistorikk.]]></value>
 	</definition>
 </definitions>

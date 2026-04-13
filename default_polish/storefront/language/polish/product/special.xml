@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Specjalne oferty]]></value>
+		<value><![CDATA[Oferty Specjalne]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Brak oferty specjalne produkty do listy.]]></value>
+		<value><![CDATA[Nie ma produktów z oferty specjalnej do wyświetlenia.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 gwiazdek!]]></value>
+		<value><![CDATA[%s z 5 gwiazdek!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Zaniedbanie]]></value>
+		<value><![CDATA[Domyślny]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Cena Niska &gt; Wysoki]]></value>
+		<value><![CDATA[Cena: od najniższej do najwyższej]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Cena wysoka &gt; Niska]]></value>
+		<value><![CDATA[Cena: od najwyższej do najniższej]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>

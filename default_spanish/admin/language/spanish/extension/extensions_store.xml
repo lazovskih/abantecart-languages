@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>error_connect</key>
-		<value><![CDATA[Lo sentimos, tu Abantecart no se puede conectar con la tienda de extensión. Por favor, consulte Sistema-> error registros para más detalles.]]></value>
+		<value><![CDATA[Lo sentimos, tu Abantecart no se puede conectar con la tienda de extensión. Por favor, consulte Sistema-&gt; error registros para más detalles.]]></value>
 	</definition>
 	<definition>
 		<key>text_my_extensions</key>

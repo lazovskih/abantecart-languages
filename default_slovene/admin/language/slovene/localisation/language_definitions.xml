@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Jezik Opredelitve]]></value>
+		<value><![CDATA[Definicije jezikov]]></value>
 	</definition>
 	<definition>
 		<key>text_definition</key>
-		<value><![CDATA[Jezik Opredelitev]]></value>
+		<value><![CDATA[Definicija jezika]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Imate spremenjene jezikov!]]></value>
+		<value><![CDATA[Uspeh: spremenili ste jezike!]]></value>
 	</definition>
 	<definition>
 		<key>column_language</key>
@@ -22,19 +22,19 @@
 	</definition>
 	<definition>
 		<key>column_translation</key>
-		<value><![CDATA[prevod]]></value>
+		<value><![CDATA[Prevod]]></value>
 	</definition>
 	<definition>
 		<key>column_block</key>
-		<value><![CDATA[Blokiraj]]></value>
+		<value><![CDATA[Blok]]></value>
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[datum posodobitve]]></value>
+		<value><![CDATA[Datum posodobitve]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[dejanja]]></value>
+		<value><![CDATA[Dejanja]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_key</key>
@@ -42,47 +42,47 @@
 	</definition>
 	<definition>
 		<key>entry_language_value</key>
-		<value><![CDATA[vrednost]]></value>
+		<value><![CDATA[Vrednost]]></value>
 	</definition>
 	<definition>
 		<key>entry_translation</key>
-		<value><![CDATA[prevod]]></value>
+		<value><![CDATA[Prevod]]></value>
 	</definition>
 	<definition>
 		<key>entry_block</key>
-		<value><![CDATA[Blokiraj]]></value>
+		<value><![CDATA[Blok]]></value>
 	</definition>
 	<definition>
 		<key>entry_section</key>
-		<value><![CDATA[Oddelek]]></value>
+		<value><![CDATA[Razdelek]]></value>
 	</definition>
 	<definition>
 		<key>text_admin</key>
-		<value><![CDATA[admin]]></value>
+		<value><![CDATA[Administrator]]></value>
 	</definition>
 	<definition>
 		<key>text_storefront</key>
-		<value><![CDATA[prodajalne]]></value>
+		<value><![CDATA[Spletna trgovina]]></value>
 	</definition>
 	<definition>
 		<key>error_language_key</key>
-		<value><![CDATA[Jezik ključ obvezna!]]></value>
+		<value><![CDATA[Jezični ključ je obvezen!]]></value>
 	</definition>
 	<definition>
 		<key>error_language_value</key>
-		<value><![CDATA[Prevod obvezna!]]></value>
+		<value><![CDATA[Prevajanje zahtevano!]]></value>
 	</definition>
 	<definition>
 		<key>error_block</key>
-		<value><![CDATA[Block obvezna!]]></value>
+		<value><![CDATA[Blok je obvezen!]]></value>
 	</definition>
 	<definition>
 		<key>error_section</key>
-		<value><![CDATA[Oddelek obvezna!]]></value>
+		<value><![CDATA[Sekcija je obvezna!]]></value>
 	</definition>
 	<definition>
 		<key>text_all_section</key>
-		<value><![CDATA[Vsi oddelki]]></value>
+		<value><![CDATA[Vsi razdelki]]></value>
 	</definition>
 	<definition>
 		<key>text_all_languages</key>
@@ -90,6 +90,6 @@
 	</definition>
 	<definition>
 		<key>error_already exists</key>
-		<value><![CDATA[Napaka! <br/> opredelitev jezika s tipko &quot;%s&quot; in blok &quot;%s&quot; za %s odsek že obstaja! <br/> Kliknite na <a target="_blank" href="%s">to povezavo</a> za ogled]]></value>
+		<value><![CDATA[Napaka!<br>Definicija jezika s ključem "%s" in blokom "%s" za razdelek %s že obstaja!<br>Kliknite <a target="_blank" href="%s">to povezavo</a> za ogled]]></value>
 	</definition>
 </definitions>

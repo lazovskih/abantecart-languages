@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_uninstall_confirm</key>
-		<value><![CDATA[Por favor, confirme que desea desinstalar la extensión [%% de la extensión]. Todos los ajustes de extensión y los datos relacionados se pueden borrar y perdió.]]></value>
+		<value><![CDATA[Por favor, confirme que desea desinstalar la extensión. Todos los ajustes de extensión y los datos relacionados se pueden borrar y perdió.]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
@@ -105,10 +105,6 @@
 		<value><![CDATA[Advertencia: Desinstalar extensión antes de borrar!]]></value>
 	</definition>
 	<definition>
-		<key>text_success</key>
-		<value><![CDATA[Éxito: Se ha modificado la configuración de extensión!]]></value>
-	</definition>
-	<definition>
 		<key>text_restore_success</key>
 		<value><![CDATA[Éxito: Se ha restaurado la configuración predeterminada de extensión!]]></value>
 	</definition>
@@ -138,11 +134,11 @@
 	</definition>
 	<definition>
 		<key>text_missing_extension</key>
-		<value><![CDATA["%% EXT Extensión: Placere delete is et visita extention provisor impetro completum fons et intall eam iterum "]]></value>
+		<value><![CDATA[%s Extensión: Placere delete is et visita extention provisor impetro completum fons et intall eam iterum &quot;]]></value>
 	</definition>
 	<definition>
 		<key>text_broken_extension</key>
-		<value><![CDATA[""%% EXT Extensión: Placere delete is et visita extention provisor impetro completum fons et intall eam iterum	"]]></value>
+		<value><![CDATA[%s Extensión: Placere delete is et visita extention provisor impetro completum fons et intall eam iterum	"]]></value>
 	</definition>
 	<definition>
 		<key>text_extension_pagination</key>
@@ -229,24 +225,20 @@
 		<value><![CDATA[La nueva versión (%s) está disponible. <a href="%s">Haga clic para actualizar ahora.</a>]]></value>
 	</definition>
 	<definition>
-		<key>text_update_it</key>
-		<value><![CDATA[Nueva versión (%% NewVersion) está disponible]]></value>
-	</definition>
-	<definition>
 		<key>text_delete_confirm</key>
 		<value><![CDATA[¿Está seguro que desea eliminar la extensión?]]></value>
 	</definition>
 	<definition>
 		<key>error_config_load</key>
-		<value><![CDATA[Error: ¡No se pudo cargar la configuración para <b>%s</b> (%s)!]]></value>
+		<value><![CDATA[Error: No se puede cargar configuración <b>de %s!</b>]]></value>
 	</definition>
 	<definition>
 		<key>error_required_extension</key>
-		<value><![CDATA[La <b>extensión% s</b> no se puede instalar: la <b>extensión% s</b> requiere]]></value>
+		<value><![CDATA[La <b>extensión %s</b> no se puede instalar: la <b>extensión %s</b> requiere]]></value>
 	</definition>
 	<definition>
 		<key>error_required_phpmodule</key>
-		<value><![CDATA[La <b>extensión% s</b> no se puede instalar: el <b>módulo% s</b> requiere PHP]]></value>
+		<value><![CDATA[La <b>extensión %s</b> no se puede instalar: el <b>módulo %s</b> requiere PHP]]></value>
 	</definition>
 	<definition>
 		<key>button_restore_defaults</key>
@@ -437,5 +429,13 @@
 		<key>text_autoselect_shipping</key>
 		<value><![CDATA[
  Selección automática: <span class="help">agiliza el proceso de pago al elegir automáticamente un método de entrega cuando hay múltiples opciones disponibles.</span>]]></value>
+	</definition>
+	<definition>
+		<key>text_customer_groups</key>
+		<value><![CDATA[Permitido solo para grupo(s) de clientes:]]></value>
+	</definition>
+	<definition>
+		<key>button_load_more_languages</key>
+		<value><![CDATA[Cargar más idiomas]]></value>
 	</definition>
 </definitions>

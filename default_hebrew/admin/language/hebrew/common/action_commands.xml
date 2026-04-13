@@ -1,48 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_possible_commands</key>
-		<value><![CDATA[בלו פקודות אפשרי. אתה יכול speek פרטים נוספים אחרי מילת מפתח פקודה. דוגמא, &quot;הודעות בדף פתוחות&quot; או &quot;מוצר הוספה&quot;]]></value>
+		<value><![CDATA[להלן הפקודות האפשריות.	
+אתה יכול לספק פרטים נוספים לאחר מילת המפתח של הפקודה.	
+לדוגמה: “פתח דף הודעות” או “הוסף מוצר”]]></value>
 	</definition>
 	<definition>
 		<key>text_multiple_result_found</key>
-		<value><![CDATA[תוצאת פעולה מרובה נמצאה:]]></value>
+		<value><![CDATA[נמצאו תוצאות מרובות של פעולה:]]></value>
 	</definition>
 	<definition>
 		<key>text_action_confirm</key>
-		<value><![CDATA[נא לאשר את בקשתך:]]></value>
+		<value><![CDATA[אנא אשר את בקשתך:]]></value>
 	</definition>
 	<definition>
 		<key>command_open</key>
-		<value><![CDATA[דף פתוח, פתוח, תפריט פתוח]]></value>
+		<value><![CDATA[פתח, פתח עמוד, פתח תפריט]]></value>
 	</definition>
 	<definition>
 		<key>command_find</key>
-		<value><![CDATA[לאתר, למצוא, חיפוש, לחפש, לחפש 4]]></value>
+		<value><![CDATA[לאתר, למצוא, לחפש, לחפש, לחפש 4]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_cache</key>
-		<value><![CDATA[מטמון ברור, נקה את המטמון המטמון הברורה]]></value>
+		<value><![CDATA[נקה מטמון, ניקוי מטמון, נקה את כל המטמון]]></value>
 	</definition>
 	<definition>
 		<key>command_view_log</key>
-		<value><![CDATA[הצגת יומן, הצגת יומן, לבדוק ביומן, ראה להתחבר, להציג יומן שגיאות, להציג שגיאות]]></value>
+		<value><![CDATA[צפה ביומן, תצוגת יומן, בדוק יומן, ראה יומן, צפה ביומן השגיאות, צפה בשגיאות]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_log</key>
-		<value><![CDATA[נקה יומן, יומן ברור, למחוק יומן, יומן למחוק]]></value>
+		<value><![CDATA[נקה יומן, ניקוי יומן, מחק יומן, מחיקת יומן]]></value>
 	</definition>
 	<definition>
 		<key>command_view_order</key>
-		<value><![CDATA[כדי להציג, מספר הזמנה, כדי פתוח, כדי מופע, מספר הזמנה פתוח, מספר הזמנת נוף, מספר הזמנת מופע, כדי #]]></value>
+		<value><![CDATA[צפה בהזמנה, מספר הזמנה, פתח הזמנה, הצג הזמנה, פתח מספר הזמנה, צפה במספר הזמנה, הצג מספר הזמנה, הזמנה #]]></value>
 	</definition>
 	<definition>
 		<key>command_view_product</key>
-		<value><![CDATA[מוצר נוף, מספר מוצר, מוצר פתוח, מוצר מופע, מספר מוצר פתוח, מספר מוצר נוף, מספר מוצר מופע, # מוצר]]></value>
+		<value><![CDATA[צפה במוצר, מספר מוצר, פתח מוצר, הצג מוצר, פתח מספר מוצר, צפה במספר מוצר, הצג מספר מוצר, מוצר #]]></value>
 	</definition>
 	<definition>
 		<key>command_create_new</key>
-		<value><![CDATA[הכנס, ליצור, להוסיף, חדש, כנס חדש, ליצור חדש, להוסיף חדש]]></value>
+		<value><![CDATA[הכנס, צור, הוסף, חדש, הכנס חדש, צור חדש, הוסף חדש]]></value>
 	</definition>
 	<definition>
 		<key>category</key>
@@ -58,27 +60,27 @@
 	</definition>
 	<definition>
 		<key>manufacturer</key>
-		<value><![CDATA[יַצרָן]]></value>
+		<value><![CDATA[מותג]]></value>
 	</definition>
 	<definition>
 		<key>review</key>
-		<value><![CDATA[סקירה]]></value>
+		<value><![CDATA[ביקורת]]></value>
 	</definition>
 	<definition>
 		<key>download</key>
-		<value><![CDATA[להורדה]]></value>
+		<value><![CDATA[הורד]]></value>
 	</definition>
 	<definition>
 		<key>attribute</key>
-		<value><![CDATA[תְכוּנָה]]></value>
+		<value><![CDATA[מאפיין]]></value>
 	</definition>
 	<definition>
 		<key>customer</key>
-		<value><![CDATA[צרכן]]></value>
+		<value><![CDATA[לקוח]]></value>
 	</definition>
 	<definition>
 		<key>coupon</key>
-		<value><![CDATA[קוּפּוֹן]]></value>
+		<value><![CDATA[קופון]]></value>
 	</definition>
 	<definition>
 		<key>discount</key>
@@ -86,19 +88,19 @@
 	</definition>
 	<definition>
 		<key>block</key>
-		<value><![CDATA[לַחסוֹם]]></value>
+		<value><![CDATA[בלוק]]></value>
 	</definition>
 	<definition>
 		<key>menu</key>
-		<value><![CDATA[תַפרִיט]]></value>
+		<value><![CDATA[תפריט]]></value>
 	</definition>
 	<definition>
 		<key>content</key>
-		<value><![CDATA[תוֹכֶן]]></value>
+		<value><![CDATA[תוכן]]></value>
 	</definition>
 	<definition>
 		<key>banner</key>
-		<value><![CDATA[דֶגֶל]]></value>
+		<value><![CDATA[באנר]]></value>
 	</definition>
 	<definition>
 		<key>page</key>
@@ -106,7 +108,7 @@
 	</definition>
 	<definition>
 		<key>store</key>
-		<value><![CDATA[חֲנוּת]]></value>
+		<value><![CDATA[חנות]]></value>
 	</definition>
 	<definition>
 		<key>language</key>
@@ -114,14 +116,14 @@
 	</definition>
 	<definition>
 		<key>currency</key>
-		<value><![CDATA[מַטְבֵּעַ]]></value>
+		<value><![CDATA[מטבע]]></value>
 	</definition>
 	<definition>
 		<key>location</key>
-		<value><![CDATA[מקום]]></value>
+		<value><![CDATA[מיקום]]></value>
 	</definition>
 	<definition>
 		<key>tax</key>
-		<value><![CDATA[מַס]]></value>
+		<value><![CDATA[מס]]></value>
 	</definition>
 </definitions>

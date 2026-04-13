@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Globalne Wyniki wyszukiwania]]></value>
+		<value><![CDATA[Globalne wyniki wyszukiwania]]></value>
 	</definition>
 	<definition>
 		<key>no_results_message</key>
-		<value><![CDATA[Niestety, ale nie mamy wyników.]]></value>
+		<value><![CDATA[Przepraszamy, ale nie mamy wyników.]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_orders</key>
-		<value><![CDATA[Święcenia]]></value>
+		<value><![CDATA[Zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>text_customers</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_downloads</key>
-		<value><![CDATA[pliki do pobrania]]></value>
+		<value><![CDATA[Pobrania]]></value>
 	</definition>
 	<definition>
 		<key>text_product_categories</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_reviews</key>
-		<value><![CDATA[Opinie]]></value>
+		<value><![CDATA[Recenzje]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[marki]]></value>
+		<value><![CDATA[Marki]]></value>
 	</definition>
 	<definition>
 		<key>text_languages</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_pages</key>
-		<value><![CDATA[strony]]></value>
+		<value><![CDATA[Strony]]></value>
 	</definition>
 	<definition>
 		<key>text_settings</key>
@@ -58,14 +58,14 @@
 	</definition>
 	<definition>
 		<key>text_extensions</key>
-		<value><![CDATA[rozszerzenia]]></value>
+		<value><![CDATA[Rozszerzenia]]></value>
 	</definition>
 	<definition>
 		<key>text_commands</key>
-		<value><![CDATA[Szybkie Polecenia]]></value>
+		<value><![CDATA[Szybkie polecenia]]></value>
 	</definition>
 	<definition>
 		<key>text_contents</key>
-		<value><![CDATA[Strony Content]]></value>
+		<value><![CDATA[Strony z treścią]]></value>
 	</definition>
 </definitions>

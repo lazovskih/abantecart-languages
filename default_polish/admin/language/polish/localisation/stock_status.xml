@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Zbiory Statusy]]></value>
+		<value><![CDATA[Statusy magazynowe]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś statusy magazynie!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowano statusy magazynowe!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Stan magazynowy Nazwa]]></value>
+		<value><![CDATA[Nazwa statusu magazynowego]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -22,18 +22,18 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Stan magazynowy Nazwa:]]></value>
+		<value><![CDATA[Nazwa stanu magazynowego:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania posągi magazynie!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania statusów magazynowych!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Stan Nazwa Zdjęcie musi być od 2 do 32 znaków!]]></value>
+		<value><![CDATA[Nazwa statusu magazynowego musi mieć od 2 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Ostrzeżenie: Ten stan stada nie może zostać usunięty, ponieważ jest aktualnie przypisany do %s produktów!]]></value>
+		<value><![CDATA[Ostrzeżenie: tego statusu magazynowego nie można usunąć, ponieważ jest on obecnie przypisany do %s produktów!]]></value>
 	</definition>
 </definitions>

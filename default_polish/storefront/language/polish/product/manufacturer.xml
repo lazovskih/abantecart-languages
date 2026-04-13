@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_product</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Producent nie znaleziony!]]></value>
+		<value><![CDATA[Nie znaleziono marki!]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Brak produktów do wyświetlenia tego producenta.]]></value>
+		<value><![CDATA[Nie ma produktów do wyświetlenia z tej marki.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 gwiazdek!]]></value>
+		<value><![CDATA[%s z 5 gwiazdek!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Zaniedbanie]]></value>
+		<value><![CDATA[Domyślny]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Nazwa A - Z]]></value>
+		<value><![CDATA[Nazwa od A do Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
@@ -34,18 +34,18 @@
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Cena Niska &gt; Wysoki]]></value>
+		<value><![CDATA[Cena od najniższej do najwyższej]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Cena wysoka &gt; Niska]]></value>
+		<value><![CDATA[Cena: od najwyższej do najniższej]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Najniższa ocena]]></value>
+		<value><![CDATA[Ocena najniższa]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Najwyższa ocena]]></value>
+		<value><![CDATA[Ocena Najwyższa]]></value>
 	</definition>
 </definitions>

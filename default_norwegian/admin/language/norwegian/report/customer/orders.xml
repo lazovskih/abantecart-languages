@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kunde ordrer]]></value>
+		<value><![CDATA[Kundebestillinger]]></value>
 	</definition>
 	<definition>
 		<key>column_customer_id</key>
-		<value><![CDATA[Kunde ID]]></value>
+		<value><![CDATA[Kunde-ID]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
@@ -14,14 +14,14 @@
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[kundegruppe]]></value>
+		<value><![CDATA[Kundegruppe]]></value>
 	</definition>
 	<definition>
 		<key>column_order_count</key>
-		<value><![CDATA[bestillinger Count]]></value>
+		<value><![CDATA[Antall ordrer]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 </definitions>

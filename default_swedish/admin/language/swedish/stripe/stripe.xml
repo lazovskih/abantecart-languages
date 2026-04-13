@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>stripe_name</key>
-		<value><![CDATA[Stripe Payment]]></value>
+		<value><![CDATA[Stripe-betalning]]></value>
 	</definition>
 	<definition>
 		<key>stripe_note</key>
-		<value><![CDATA[Ytterligare inställningar krävs för att slutföra Stripe-betalningskonfigurationen. Se fliken för ytterligare inställningar.]]></value>
+		<value><![CDATA[Ytterligare inställningar krävs för att slutföra Stripe-betalningsinställningen. Se fliken Ytterligare inställningar.]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>stripe_autoselect</key>
-		<value><![CDATA[Autoval: <br/><span class="help">Du kan ställa in att hoppa över betalningsvalssidan om det bara finns ett betalningsalternativ. Denna betalningsmetod kommer att väljas automatiskt</span>]]></value>
+		<value><![CDATA[Automatiskt val:<br /><span class="help">Du kan ställa in att hoppa över sidan för betalningsval om det bara finns ett betalningsalternativ. Denna betalningsmetod väljs automatiskt</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list</key>
-		<value><![CDATA[Tillåtna betalningsmetoder. <br/><span class="help">Lämna tomt för automatiskt val</span>]]></value>
+		<value><![CDATA[Tillåtna betalningsmetoder. <br /><span class="help">Lämna tomt för automatiskt urval</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_card</key>
@@ -66,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_bacs_debit</key>
-		<value><![CDATA[Bacs autogiro]]></value>
+		<value><![CDATA[Bacs direktdebitering]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_affirm</key>
-		<value><![CDATA[Bekräfta]]></value>
+		<value><![CDATA[Affirm]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_bancontact</key>
@@ -94,11 +94,11 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_revolut_pay</key>
-		<value><![CDATA[Revolut Pay]]></value>
+		<value><![CDATA[Revolut Betalning]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_swish</key>
-		<value><![CDATA[Sus]]></value>
+		<value><![CDATA[Swish]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_mobilepay</key>
@@ -106,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_zip</key>
-		<value><![CDATA[Blixtlås]]></value>
+		<value><![CDATA[Postnummer]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_eps</key>
@@ -126,7 +126,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_ideal</key>
-		<value><![CDATA[idealisk]]></value>
+		<value><![CDATA[iDEAL]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_konbini</key>
@@ -158,11 +158,11 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_sepa_debit</key>
-		<value><![CDATA[SEPA autogiro]]></value>
+		<value><![CDATA[SEPA-autogiro]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_us_bank_account</key>
-		<value><![CDATA[ACH autogiro]]></value>
+		<value><![CDATA[ACH-direktdebitering]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_wechat_pay</key>
@@ -174,7 +174,7 @@
 	</definition>
 	<definition>
 		<key>text_stripe_connect</key>
-		<value><![CDATA[Du måste ansluta med stripe för att ställa in betalningsinformation]]></value>
+		<value><![CDATA[Du behöver ansluta till Stripe för att ställa in betalningsuppgifter]]></value>
 	</definition>
 	<definition>
 		<key>text_stripe_settings</key>
@@ -182,23 +182,23 @@
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Anslut med Stripe	]]></value>
+		<value><![CDATA[Anslut till Stripe]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect</key>
-		<value><![CDATA[Koppla bort Stripe]]></value>
+		<value><![CDATA[Koppla från Stripe]]></value>
 	</definition>
 	<definition>
 		<key>text_skip_connect</key>
-		<value><![CDATA[Kan du inte ansluta?]]></value>
+		<value><![CDATA[Kan inte ansluta?]]></value>
 	</definition>
 	<definition>
 		<key>text_connect_success</key>
-		<value><![CDATA[Ansluten till Stripe]]></value>
+		<value><![CDATA[Ansluten till Stripe framgångsrikt]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect_success</key>
-		<value><![CDATA[Kopplad från Stripe]]></value>
+		<value><![CDATA[Frånkopplad från Stripe framgångsrikt]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sort_order</key>
@@ -206,47 +206,48 @@
 	</definition>
 	<definition>
 		<key>stripe_test_mode</key>
-		<value><![CDATA[Testläge: <br/><span class="help">Ställ in på ON om du vill använda testnyckeln</span>]]></value>
+		<value><![CDATA[Testläge:<br /><span class="help">Ställ in på PÅ om du vill använda testnyckel</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sk_live</key>
-		<value><![CDATA[Live Secret Key: <br/><span class="help">Hitta denna i Stripe API Keys Section. Nyckeln börjar med sk_live_...</span>]]></value>
+		<value><![CDATA[Live hemlig nyckel:
+Hitta den här i Stripe API-nycklar-sektionen. Nyckeln börjar med sk_live_...]]></value>
 	</definition>
 	<definition>
 		<key>stripe_pk_live</key>
-		<value><![CDATA[Live publicerbar nyckel: <br/><span class="help">Leta upp denna i Stripe API Keys Section. Nyckeln börjar med pk_live_...</span>]]></value>
+		<value><![CDATA[Publicerbar live-nyckel:<br /><span class="help">Leta upp den i avsnittet för Stripe API-nycklar. Nyckeln börjar med pk_live_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sk_test</key>
-		<value><![CDATA[Testa den hemliga nyckeln: <br/><span class="help">Leta upp denna i Stripe API Keys Section. Nyckeln börjar med sk_test_...</span>]]></value>
+		<value><![CDATA[Testhemlig nyckel:<br /><span class="help">Hitta detta i Stripe API-nyckelavsnittet. Nyckeln börjar med sk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_pk_test</key>
-		<value><![CDATA[Testa publicerbar nyckel: <br/><span class="help">Hitta denna i Stripe API Keys Section. Nyckeln börjar med pk_test_...</span>]]></value>
+		<value><![CDATA[Publicerbar testnyckel:<br /><span class="help">Hitta den i Stripe API-nycklar-sektionen. Nyckeln börjar med pk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement</key>
-		<value><![CDATA[Avvecklingstyp: <br/><span class="help">Om den är inställd på &quot;auto&quot;, kommer transaktionen att inkluderas i dagens avräkning. Om den är inställd på &quot;försenad&quot;, kommer transaktionen att auktoriseras men inte avräknas (fångas). Du måste registrera transaktioner manuellt inom 7 dagar efter auktorisering</span>]]></value>
+		<value><![CDATA[Avvecklingstyp:<br /><span class="help">Om det är inställt på 'auto' inkluderas transaktionen i dagens avveckling. Om det är inställt på 'delayed' auktoriseras transaktionen men avvecklas inte (fångas inte). Du måste manuellt fånga transaktioner inom 7 dagar efter auktorisationen</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_success_settled</key>
-		<value><![CDATA[Framgång och avgjord: <br/><span class="help">Välj huvudorderstatus som du vill ställa in som svar på betalningsbehandlarens status</span>]]></value>
+		<value><![CDATA[Lyckad & avräknad:<br /><span class="help">Välj huvudsaklig orderstatus som du vill ange som svar på betalningsprocessorns status</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_success_unsettled</key>
-		<value><![CDATA[Framgång och inte avklarad: <br/><span class="help">Välj huvudorderstatus som du vill ställa in som svar på betalningsbehandlarens status</span>]]></value>
+		<value><![CDATA[Lyckad & inte avräknad:<br /><span class="help">Välj huvudorderstatus som du vill ange som svar på betalningsprocessorns status</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_decline</key>
-		<value><![CDATA[Avvisa: <br/><span class="help">Orderstatus som du vill registrera i historiken som svar på betalningsbehandlarens status. Huvudorderstatus påverkas inte. Beställning kommer inte att göras först efter att betalningen har lyckats.</span>]]></value>
+		<value><![CDATA[Neka:<br /><span class="help">Orderstatus som du vill registrera i historiken som svar på betalningsprocessorns status. Den huvudsakliga orderstatusen påverkas inte. Ordern kommer inte att registreras förrän betalningen är godkänd.</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_void</key>
-		<value><![CDATA[Annullerad: <br/><span class="help">Orderstatus du vill ska ställas in om betalning annulleras i admin/order.</span>]]></value>
+		<value><![CDATA[Voided:<br /><span class="help">Orderstatus som du vill ska anges om betalningen makuleras i admin/order.</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_refund</key>
-		<value><![CDATA[Återbetald: <br/><span class="help">Orderstatus du vill ska ställas in om betalning återbetalas i admin/order.</span>]]></value>
+		<value><![CDATA[Återbetald:<br /><span class="help">Orderstatus som du vill ska ställas in om betalningen återbetalas i admin/order.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -258,43 +259,43 @@
 	</definition>
 	<definition>
 		<key>text_captured_ok</key>
-		<value><![CDATA[Medel togs upp framgångsrikt]]></value>
+		<value><![CDATA[Pengarna har debiterats framgångsrikt]]></value>
 	</definition>
 	<definition>
 		<key>text_captured_order</key>
-		<value><![CDATA[Infångningen lyckades, orderstatus uppdaterad till framgång - klar]]></value>
+		<value><![CDATA[Capture lyckades, orderstatus uppdaterad till lyckad - reglerad]]></value>
 	</definition>
 	<definition>
 		<key>text_refunded_ok</key>
-		<value><![CDATA[Återbetalningen behandlades framgångsrikt]]></value>
+		<value><![CDATA[Återbetalningen behandlades framgångsrikt.]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_order</key>
-		<value><![CDATA[Återbetalningen lyckades, orderstatus uppdaterad till återbetald]]></value>
+		<value><![CDATA[Återbetalningen lyckades, orderstatusen uppdaterades till återbetald]]></value>
 	</definition>
 	<definition>
 		<key>text_voided</key>
-		<value><![CDATA[Ogiltigförklaring lyckades, orderstatus uppdaterad till ogiltig]]></value>
+		<value><![CDATA[Makuleringen lyckades, orderstatus uppdaterad till makulerad]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement_auto</key>
-		<value><![CDATA[Auto (auktorisera och fånga)]]></value>
+		<value><![CDATA[Automatisk (auktorisera och debitera)]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement_delayed</key>
-		<value><![CDATA[Försenad (endast auktorisera)]]></value>
+		<value><![CDATA[Fördröjd (endast auktorisering)]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
-		<value><![CDATA[Betalningsinformation]]></value>
+		<value><![CDATA[Betalningsuppgifter]]></value>
 	</definition>
 	<definition>
 		<key>text_capture_status</key>
-		<value><![CDATA[Betalningen erhölls]]></value>
+		<value><![CDATA[Betalningen debiterades]]></value>
 	</definition>
 	<definition>
 		<key>text_void_status</key>
-		<value><![CDATA[Betalningen ogiltigförklarades]]></value>
+		<value><![CDATA[Betalningen annullerades]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_status</key>
@@ -302,7 +303,7 @@
 	</definition>
 	<definition>
 		<key>text_capture_amount</key>
-		<value><![CDATA[Fångstmängd]]></value>
+		<value><![CDATA[Belopp att inkassera]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_amount</key>
@@ -310,15 +311,15 @@
 	</definition>
 	<definition>
 		<key>text_order_ref</key>
-		<value><![CDATA[Stripe Charge ID]]></value>
+		<value><![CDATA[Stripe debiterings-ID]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total</key>
-		<value><![CDATA[Totalt belopp auktoriserat]]></value>
+		<value><![CDATA[Totalt auktoriserat belopp]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Saldobelopp]]></value>
+		<value><![CDATA[Saldo]]></value>
 	</definition>
 	<definition>
 		<key>text_transactions</key>
@@ -326,15 +327,15 @@
 	</definition>
 	<definition>
 		<key>text_confirm_void</key>
-		<value><![CDATA[Bekräfta att du vill annullera betalningen?]]></value>
+		<value><![CDATA[Vänligen bekräfta att du vill annullera betalningen?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_capture</key>
-		<value><![CDATA[Vänligen bekräfta att du vill fånga betalningen?]]></value>
+		<value><![CDATA[Vänligen bekräfta att du vill inkassera betalningen?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_refund</key>
-		<value><![CDATA[Bekräfta att du vill återbetala betalningen?]]></value>
+		<value><![CDATA[Vänligen bekräfta att du vill återbetala betalningen?]]></value>
 	</definition>
 	<definition>
 		<key>button_refund</key>
@@ -346,39 +347,39 @@
 	</definition>
 	<definition>
 		<key>button_capture</key>
-		<value><![CDATA[Fånga]]></value>
+		<value><![CDATA[Ta emot betalning]]></value>
 	</definition>
 	<definition>
 		<key>error_system</key>
-		<value><![CDATA[Internt fel. Kontrollera fellogg eller inmatningsparametrar!]]></value>
+		<value><![CDATA[Internt fel. Kontrollera felloggen eller inmatningsparametrarna!]]></value>
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Ange positivt belopp]]></value>
+		<value><![CDATA[Vänligen ange ett positivt belopp]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_capture</key>
-		<value><![CDATA[Det går inte att fånga, uppdatera transaktionsinformation och kontrollera fångstbelopp]]></value>
+		<value><![CDATA[Kan inte genomföra fångst, uppdatera transaktionsdetaljerna och kontrollera fångstbeloppet]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_void</key>
-		<value><![CDATA[Det går inte att ogiltigförklara transaktionen, uppdatera och kontrollera transaktionsinformation]]></value>
+		<value><![CDATA[Kan inte makulera transaktionen, uppdatera sidan och kontrollera transaktionsdetaljerna.]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_refund</key>
-		<value><![CDATA[Det går inte att återbetala, uppdatera transaktionsinformationen och kontrollera återbetalningsbeloppet]]></value>
+		<value><![CDATA[Kunde inte återbetala, uppdatera transaktionsdetaljer och kontrollera återbetalningsbelopp]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_pk_test</key>
-		<value><![CDATA[Stripe Publicerad nyckel krävs]]></value>
+		<value><![CDATA[Stripe publiceringsnyckel krävs]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_pk_live</key>
-		<value><![CDATA[Stripe Publicerad nyckel krävs]]></value>
+		<value><![CDATA[Stripe publicerad nyckel krävs]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_sk_test</key>
-		<value><![CDATA[Stripe test nyckel krävs]]></value>
+		<value><![CDATA[Stripe testnyckel krävs]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_sk_live</key>
@@ -386,21 +387,19 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra Stripe Payment!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra Stripe-betalning!]]></value>
 	</definition>
 	<definition>
 		<key>stripe_webhook_howto_text</key>
-		<value><![CDATA[Obs: För att slutföra installationen bör du skapa webhooks på Stripe Account Side. 
- <br/> Gå till avsnitt 
- <a href="https://dashboard.stripe.com/webhooks" target="_new">för utvecklare av din Stripe Dashboard</a> och Lägg till slutpunkter som tar emot händelser från ditt konto. Efter att Endpoint har skapats, kopiera Signing Secret och spara i Stripe Subscription Extension inställningarna tillhör. 
-]]></value>
+		<value><![CDATA[Note: För att slutföra installationen bör du skapa webhooks på Stripe-kontots sida.
+<br>Gå till din <a href="https://dashboard.stripe.com/webhooks" target="_blank">Stripe-instrumentpanelens utvecklaravsnitt</a> och lägg till slutpunkter som tar emot händelser från ditt konto. Efter att slutpunkten har skapats, kopiera signeringshemligheten och spara den i inställningarna för Stripe-prenumerationstillägget.]]></value>
 	</definition>
 	<definition>
 		<key>stripe_entry_endpoint_url</key>
-		<value><![CDATA[Endpoint URL:]]></value>
+		<value><![CDATA[Slutpunkts-URL:]]></value>
 	</definition>
 	<definition>
 		<key>stripe_entry_endpoint_signing_secret</key>
-		<value><![CDATA[Slutpunktssigneringshemlighet:]]></value>
+		<value><![CDATA[Signeringshemlighet för slutpunkt:]]></value>
 	</definition>
 </definitions>

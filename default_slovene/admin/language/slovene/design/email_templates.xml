@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>email_templates</key>
-		<value><![CDATA[E-poštne predloge]]></value>
+		<value><![CDATA[Predloge e-pošte]]></value>
 	</definition>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[E-poštne predloge]]></value>
+		<value><![CDATA[E-poštni predlogi]]></value>
 	</definition>
 	<definition>
 		<key>column_text_id</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>column_subject</key>
-		<value><![CDATA[Predmet]]></value>
+		<value><![CDATA[Zadeva]]></value>
 	</definition>
 	<definition>
 		<key>button_save</key>
@@ -26,35 +26,35 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[status: ]]></value>
+		<value><![CDATA[Stanje:]]></value>
 	</definition>
 	<definition>
 		<key>entry_text_id</key>
-		<value><![CDATA[ID besedila: ]]></value>
+		<value><![CDATA[ID besedila:]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_id</key>
-		<value><![CDATA[jezik: ]]></value>
+		<value><![CDATA[Jezik:]]></value>
 	</definition>
 	<definition>
 		<key>entry_headers</key>
-		<value><![CDATA[Glave po meri: ]]></value>
+		<value><![CDATA[Zaglavki po meri:]]></value>
 	</definition>
 	<definition>
 		<key>entry_subject</key>
-		<value><![CDATA[Zadeva: ]]></value>
+		<value><![CDATA[Zadeva:]]></value>
 	</definition>
 	<definition>
 		<key>entry_html_body</key>
-		<value><![CDATA[Html telo: ]]></value>
+		<value><![CDATA[Telo HTML:]]></value>
 	</definition>
 	<definition>
 		<key>entry_text_body</key>
-		<value><![CDATA[Telo besedila: ]]></value>
+		<value><![CDATA[Telo besedila:]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_placeholders</key>
-		<value><![CDATA[Dovoljeni nadomestni znaki: <br/><span class="help">Seznam imen spremenljivk, ločenih z vejico</span>]]></value>
+		<value><![CDATA[Dovoljeni nadomestki:<br /><span class="help">Z vejicami ločen seznam imen spremenljivk</span>]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
@@ -62,27 +62,27 @@
 	</definition>
 	<definition>
 		<key>save_error</key>
-		<value><![CDATA[Napaka pri shranjevanju. Oglejte si dnevnik.]]></value>
+		<value><![CDATA[Napaka pri shranjevanju. Prosimo, oglejte si dnevnik.]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_id</key>
-		<value><![CDATA[ID besedila je obvezen in mora vsebovati do 254 znakov! Ena beseda. Nabori znakov: AZ az in _ ]]></value>
+		<value><![CDATA[ID besedila je obvezen in ne sme presegati 254 znakov! Ena beseda. Znakovni nabori: A-Z a-z in _]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_id_unique</key>
-		<value><![CDATA[ID besedila mora biti edinstven!]]></value>
+		<value><![CDATA[ID besedila mora biti enoličen!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_header</key>
-		<value><![CDATA[Glave morajo imeti do 254 znakov!]]></value>
+		<value><![CDATA[Glave morajo biti dolge do 254 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_subject</key>
-		<value><![CDATA[Zadeva je obvezna in mora vsebovati do 254 znakov!]]></value>
+		<value><![CDATA[Zadeva je obvezna in mora biti dolga največ 254 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_html_body</key>
-		<value><![CDATA[Potreben je Html Body!]]></value>
+		<value><![CDATA[HTML telo je obvezno!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_body</key>

@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>date_format_short</key>
-		<value><![CDATA[d/m/Y]]></value>
+		<value><![CDATA[d.m.Y]]></value>
 	</definition>
 	<definition>
 		<key>date_format_long</key>
-		<value><![CDATA[l dS FY]]></value>
+		<value><![CDATA[l, j F Y]]></value>
 	</definition>
 	<definition>
 		<key>time_format</key>
-		<value><![CDATA[d/m/Y H:i:s]]></value>
+		<value><![CDATA[H:i:s]]></value>
 	</definition>
 	<definition>
 		<key>time_format_short</key>
-		<value><![CDATA[h:i:s A]]></value>
+		<value><![CDATA[h:i]]></value>
 	</definition>
 	<definition>
 		<key>decimal_point</key>
@@ -66,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>text_select_all</key>
-		<value><![CDATA[Välj alla]]></value>
+		<value><![CDATA[Markera alla]]></value>
 	</definition>
 	<definition>
 		<key>text_unselect_all</key>
@@ -74,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>text_all_zones</key>
-		<value><![CDATA[alla zoner]]></value>
+		<value><![CDATA[Alla zoner]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
@@ -82,11 +82,11 @@
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[Stänga]]></value>
+		<value><![CDATA[Stäng]]></value>
 	</definition>
 	<definition>
 		<key>text_pagination</key>
-		<value><![CDATA[Visar {start} till {end} av {total} ({pages} Sidor)]]></value>
+		<value><![CDATA[Visar {start} to {end} of {total} ({pages} sidor)]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
@@ -94,11 +94,11 @@
 	</definition>
 	<definition>
 		<key>text_no_results</key>
-		<value><![CDATA[Ingen hittade.]]></value>
+		<value><![CDATA[Inga resultat hittades.]]></value>
 	</definition>
 	<definition>
 		<key>text_separator</key>
-		<value><![CDATA[&gt;]]></value>
+		<value><![CDATA[>]]></value>
 	</definition>
 	<definition>
 		<key>text_edit</key>
@@ -106,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Se]]></value>
+		<value><![CDATA[Visa]]></value>
 	</definition>
 	<definition>
 		<key>text_home</key>
@@ -114,11 +114,11 @@
 	</definition>
 	<definition>
 		<key>button_insert</key>
-		<value><![CDATA[Föra in]]></value>
+		<value><![CDATA[Infoga]]></value>
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Radera]]></value>
+		<value><![CDATA[Ta bort]]></value>
 	</definition>
 	<definition>
 		<key>button_save</key>
@@ -126,15 +126,15 @@
 	</definition>
 	<definition>
 		<key>button_save_and_close</key>
-		<value><![CDATA[Spara och stäng]]></value>
+		<value><![CDATA[Spara & Stäng]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[Annullera]]></value>
+		<value><![CDATA[Avbryt]]></value>
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[Återställa]]></value>
+		<value><![CDATA[Återställ]]></value>
 	</definition>
 	<definition>
 		<key>button_reload</key>
@@ -146,15 +146,15 @@
 	</definition>
 	<definition>
 		<key>button_close</key>
-		<value><![CDATA[Stänga]]></value>
+		<value><![CDATA[Stäng]]></value>
 	</definition>
 	<definition>
 		<key>button_upgrade</key>
-		<value><![CDATA[uppgradering]]></value>
+		<value><![CDATA[Uppgradera]]></value>
 	</definition>
 	<definition>
 		<key>button_filter</key>
-		<value><![CDATA[Filtrera]]></value>
+		<value><![CDATA[Filter]]></value>
 	</definition>
 	<definition>
 		<key>button_send</key>
@@ -170,7 +170,7 @@
 	</definition>
 	<definition>
 		<key>button_agree</key>
-		<value><![CDATA[Hålla med]]></value>
+		<value><![CDATA[Acceptera]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
@@ -178,11 +178,11 @@
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Fortsätta]]></value>
+		<value><![CDATA[Fortsätt]]></value>
 	</definition>
 	<definition>
 		<key>button_remove</key>
-		<value><![CDATA[Avlägsna]]></value>
+		<value><![CDATA[Ta bort]]></value>
 	</definition>
 	<definition>
 		<key>button_backup</key>
@@ -190,7 +190,7 @@
 	</definition>
 	<definition>
 		<key>button_restore</key>
-		<value><![CDATA[Återställa]]></value>
+		<value><![CDATA[Återställ]]></value>
 	</definition>
 	<definition>
 		<key>button_invoice</key>
@@ -202,19 +202,19 @@
 	</definition>
 	<definition>
 		<key>button_add_option</key>
-		<value><![CDATA[Lägg Alternativ]]></value>
+		<value><![CDATA[Lägg till alternativ]]></value>
 	</definition>
 	<definition>
 		<key>button_add_option_value</key>
-		<value><![CDATA[Lägg Option Värde]]></value>
+		<value><![CDATA[Lägg till alternativvärde]]></value>
 	</definition>
 	<definition>
 		<key>button_add_discount</key>
-		<value><![CDATA[Skriv in rabatt]]></value>
+		<value><![CDATA[Lägg till rabatt]]></value>
 	</definition>
 	<definition>
 		<key>button_add_special</key>
-		<value><![CDATA[Lägg Special]]></value>
+		<value><![CDATA[Lägg till specialerbjudande]]></value>
 	</definition>
 	<definition>
 		<key>button_add_image</key>
@@ -222,27 +222,27 @@
 	</definition>
 	<definition>
 		<key>button_add_location_zone</key>
-		<value><![CDATA[Lägg till plats Zone]]></value>
+		<value><![CDATA[Lägg till platszon]]></value>
 	</definition>
 	<definition>
 		<key>button_add_rate</key>
-		<value><![CDATA[Lägg Skattesats]]></value>
+		<value><![CDATA[Lägg till skattesats]]></value>
 	</definition>
 	<definition>
 		<key>button_add_history</key>
-		<value><![CDATA[Lägg Beställningshistorik]]></value>
+		<value><![CDATA[Lägg till orderhistorik]]></value>
 	</definition>
 	<definition>
 		<key>button_actas</key>
-		<value><![CDATA[Agerar på uppdrag av]]></value>
+		<value><![CDATA[Agera på uppdrag av]]></value>
 	</definition>
 	<definition>
 		<key>button_message</key>
-		<value><![CDATA[Kontakta denna kund]]></value>
+		<value><![CDATA[Kontakta den här kunden]]></value>
 	</definition>
 	<definition>
 		<key>button_approve</key>
-		<value><![CDATA[Godkänna]]></value>
+		<value><![CDATA[Godkänn]]></value>
 	</definition>
 	<definition>
 		<key>button_generate</key>
@@ -250,7 +250,7 @@
 	</definition>
 	<definition>
 		<key>tab_admin</key>
-		<value><![CDATA[Administration]]></value>
+		<value><![CDATA[Administratör]]></value>
 	</definition>
 	<definition>
 		<key>tab_data</key>
@@ -258,15 +258,15 @@
 	</definition>
 	<definition>
 		<key>tab_discount</key>
-		<value><![CDATA[rabatter]]></value>
+		<value><![CDATA[Rabatter]]></value>
 	</definition>
 	<definition>
 		<key>tab_details</key>
-		<value><![CDATA[lagra Detaljer]]></value>
+		<value><![CDATA[Butiksdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>tab_checkout</key>
-		<value><![CDATA[Checka ut]]></value>
+		<value><![CDATA[Kassa]]></value>
 	</definition>
 	<definition>
 		<key>tab_appearance</key>
@@ -274,7 +274,7 @@
 	</definition>
 	<definition>
 		<key>tab_im</key>
-		<value><![CDATA[JAG ÄR]]></value>
+		<value><![CDATA[IM]]></value>
 	</definition>
 	<definition>
 		<key>tab_api</key>
@@ -282,27 +282,27 @@
 	</definition>
 	<definition>
 		<key>tab_general</key>
-		<value><![CDATA[Allmän]]></value>
+		<value><![CDATA[Allmänt]]></value>
 	</definition>
 	<definition>
 		<key>tab_image</key>
-		<value><![CDATA[ytterligare bilder]]></value>
+		<value><![CDATA[Ytterligare bilder]]></value>
 	</definition>
 	<definition>
 		<key>tab_option</key>
-		<value><![CDATA[alternativ]]></value>
+		<value><![CDATA[Alternativ]]></value>
 	</definition>
 	<definition>
 		<key>tab_system</key>
-		<value><![CDATA[Systemet]]></value>
+		<value><![CDATA[System]]></value>
 	</definition>
 	<definition>
 		<key>tab_store</key>
-		<value><![CDATA[Lagra]]></value>
+		<value><![CDATA[Butik]]></value>
 	</definition>
 	<definition>
 		<key>tab_special</key>
-		<value><![CDATA[Erbjudanden]]></value>
+		<value><![CDATA[Specialerbjudanden]]></value>
 	</definition>
 	<definition>
 		<key>tab_local</key>
@@ -310,15 +310,15 @@
 	</definition>
 	<definition>
 		<key>tab_mail</key>
-		<value><![CDATA[Post]]></value>
+		<value><![CDATA[E-post]]></value>
 	</definition>
 	<definition>
 		<key>tab_order</key>
-		<value><![CDATA[Orderdetaljer]]></value>
+		<value><![CDATA[Beställningsdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>tab_history</key>
-		<value><![CDATA[Beställningshistorik]]></value>
+		<value><![CDATA[Orderhistorik]]></value>
 	</definition>
 	<definition>
 		<key>tab_product</key>
@@ -326,11 +326,11 @@
 	</definition>
 	<definition>
 		<key>tab_shipping</key>
-		<value><![CDATA[leveransadress]]></value>
+		<value><![CDATA[Leveransadress]]></value>
 	</definition>
 	<definition>
 		<key>tab_payment</key>
-		<value><![CDATA[betalningsadress]]></value>
+		<value><![CDATA[Betalningsadress]]></value>
 	</definition>
 	<definition>
 		<key>entry_discount</key>
@@ -338,91 +338,95 @@
 	</definition>
 	<definition>
 		<key>entry_special</key>
-		<value><![CDATA[Särskild]]></value>
+		<value><![CDATA[Speciell]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_1</key>
-		<value><![CDATA[Varning: Den uppladdade filen överskrider direktivet upload_max_filesize i php.ini!]]></value>
+		<value><![CDATA[Varning: Den uppladdade filen överskrider upload_max_filesize-direktivet i php.ini!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_2</key>
-		<value><![CDATA[Varning: Den uppladdade filen överskrider MAX_FILE_SIZE direktivet som angavs i HTML-formuläret!]]></value>
+		<value><![CDATA[Varning: Den uppladdade filen överskrider MAX_FILE_SIZE-direktivet som angavs i HTML-formuläret!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_3</key>
-		<value><![CDATA[Varning: Den uppladdade filen var endast delvis uppladdad!]]></value>
+		<value><![CDATA[Varning: Den uppladdade filen laddades endast delvis upp!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_4</key>
-		<value><![CDATA[Varning: Ingen fil laddades upp!]]></value>
+		<value><![CDATA[Varning: Ingen fil har laddats upp!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_6</key>
-		<value><![CDATA[Varning: Saknas en tillfällig mapp!]]></value>
+		<value><![CDATA[Varning: Ingen tillfällig mapp hittades!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_7</key>
-		<value><![CDATA[Varning: Det gick inte att skriva filen till hårddisken!]]></value>
+		<value><![CDATA[Varning: Kunde inte skriva fil till disk!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_8</key>
-		<value><![CDATA[Varning: Filuppladdningen stoppas i förlängningen!]]></value>
+		<value><![CDATA[Varning: Filuppladdning stoppades på grund av filändelse!]]></value>
 	</definition>
 	<definition>
 		<key>error_upload_999</key>
-		<value><![CDATA[Varning: Ingen felkod tillgängliga!]]></value>
+		<value><![CDATA[Varning: Ingen felkod tillgänglig!]]></value>
 	</definition>
 	<definition>
 		<key>text_choose_action</key>
-		<value><![CDATA[välja åtgärder ..]]></value>
+		<value><![CDATA[välj åtgärd..]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[Radera]]></value>
+		<value><![CDATA[Ta bort]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_selected</key>
-		<value><![CDATA[radera valda]]></value>
+		<value><![CDATA[ta bort valda]]></value>
 	</definition>
 	<definition>
 		<key>text_save_selected</key>
-		<value><![CDATA[spara markerade]]></value>
+		<value><![CDATA[Spara markerade]]></value>
 	</definition>
 	<definition>
 		<key>text_save_all</key>
-		<value><![CDATA[rädda alla]]></value>
+		<value><![CDATA[Spara alla]]></value>
 	</definition>
 	<definition>
 		<key>text_select_status</key>
-		<value><![CDATA[- Välj Status -]]></value>
+		<value><![CDATA[- Välj status -]]></value>
 	</definition>
 	<definition>
 		<key>text_all_orders</key>
-		<value><![CDATA[alla beställningar]]></value>
+		<value><![CDATA[Alla beställningar]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_password</key>
-		<value><![CDATA[bekräfta lösenord]]></value>
+		<value><![CDATA[Bekräfta lösenord]]></value>
 	</definition>
 	<definition>
 		<key>text_insert</key>
-		<value><![CDATA[Föra in]]></value>
+		<value><![CDATA[Infoga]]></value>
+	</definition>
+	<definition>
+		<key>text_edit</key>
+		<value><![CDATA[Redigera]]></value>
 	</definition>
 	<definition>
 		<key>text_select_items</key>
-		<value><![CDATA[Välj objekt]]></value>
+		<value><![CDATA[Vänligen välj artiklar]]></value>
 	</definition>
 	<definition>
 		<key>button_go</key>
-		<value><![CDATA[GÅ]]></value>
+		<value><![CDATA[Gå]]></value>
 	</definition>
 	<definition>
 		<key>search_everywhere</key>
-		<value><![CDATA[Sök hela webbplatsen]]></value>
+		<value><![CDATA[Sök i hela webbplatsen]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>error_permission_access</key>
@@ -438,11 +442,11 @@
 	</definition>
 	<definition>
 		<key>text_add_block</key>
-		<value><![CDATA[lägga Block]]></value>
+		<value><![CDATA[Lägg till block]]></value>
 	</definition>
 	<definition>
 		<key>text_resource_library</key>
-		<value><![CDATA[resursbiblioteket]]></value>
+		<value><![CDATA[Resursbibliotek]]></value>
 	</definition>
 	<definition>
 		<key>text_add_media</key>
@@ -450,19 +454,21 @@
 	</definition>
 	<definition>
 		<key>confirm_unmap_title</key>
-		<value><![CDATA[Bekräfta resurs (er) Avlänka]]></value>
+		<value><![CDATA[Bekräfta resurs(er)
+Ta bort länk]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_unmap</key>
-		<value><![CDATA[Är du säker på att du vill ta bort länken resurs (s)?]]></value>
+		<value><![CDATA[Är du säker på att du vill koppla bort resurs(er)?]]></value>
 	</definition>
 	<definition>
 		<key>confirm_del_title</key>
-		<value><![CDATA[Bekräfta resurs (s) Ta bort]]></value>
+		<value><![CDATA[Bekräfta resurs(er)
+Radera]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_del</key>
-		<value><![CDATA[Är du säker på att du vill ta bort resurs (s)?]]></value>
+		<value><![CDATA[Är du säker på att du vill ta bort resurs(er)?]]></value>
 	</definition>
 	<definition>
 		<key>text_type_image</key>
@@ -470,7 +476,7 @@
 	</definition>
 	<definition>
 		<key>text_type_audio</key>
-		<value><![CDATA[Audio]]></value>
+		<value><![CDATA[Ljud]]></value>
 	</definition>
 	<definition>
 		<key>text_type_video</key>
@@ -482,23 +488,23 @@
 	</definition>
 	<definition>
 		<key>text_type_archive</key>
-		<value><![CDATA[arkiv]]></value>
+		<value><![CDATA[Arkiv]]></value>
 	</definition>
 	<definition>
 		<key>text_type_download</key>
-		<value><![CDATA[Nedladdning fil]]></value>
+		<value><![CDATA[Ladda ner fil]]></value>
 	</definition>
 	<definition>
 		<key>button_unmap</key>
-		<value><![CDATA[bort länken]]></value>
+		<value><![CDATA[Ta bort länk]]></value>
 	</definition>
 	<definition>
 		<key>button_select_resource</key>
-		<value><![CDATA[Välj]]></value>
+		<value><![CDATA[välj]]></value>
 	</definition>
 	<definition>
 		<key>text_click_to_change</key>
-		<value><![CDATA[Klicka på bilden för att ändra det]]></value>
+		<value><![CDATA[Klicka på bilden för att ändra den]]></value>
 	</definition>
 	<definition>
 		<key>text_select_from_list</key>
@@ -506,43 +512,47 @@
 	</definition>
 	<definition>
 		<key>text_count_selected</key>
-		<value><![CDATA[Räkna av markerade objekt:]]></value>
+		<value><![CDATA[Antal valda artiklar:]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Vänligen bekräfta bort]]></value>
+		<value><![CDATA[Vänligen bekräfta borttagning]]></value>
 	</definition>
 	<definition>
 		<key>text_save_edit</key>
-		<value><![CDATA[Lägg till / redigera]]></value>
+		<value><![CDATA[Lägg till/Redigera]]></value>
 	</definition>
 	<definition>
 		<key>text_apply</key>
-		<value><![CDATA[Tillämpa]]></value>
+		<value><![CDATA[Använd]]></value>
 	</definition>
 	<definition>
 		<key>text_on_top</key>
-		<value><![CDATA[tillbaka på toppen]]></value>
+		<value><![CDATA[tillbaka till toppen]]></value>
 	</definition>
 	<definition>
 		<key>text_all</key>
-		<value><![CDATA[Allt]]></value>
+		<value><![CDATA[Alla]]></value>
+	</definition>
+	<definition>
+		<key>text_all_stores</key>
+		<value><![CDATA[Alla butiker]]></value>
 	</definition>
 	<definition>
 		<key>text_create_new_block</key>
-		<value><![CDATA[Skapa ny Block]]></value>
+		<value><![CDATA[Skapa nytt block]]></value>
 	</definition>
 	<definition>
 		<key>button_unlink</key>
-		<value><![CDATA[bort länken]]></value>
+		<value><![CDATA[Ta bort länk]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_unlink</key>
-		<value><![CDATA[Är du säker på att du vill ta bort länken resurs?]]></value>
+		<value><![CDATA[Är du säker på att du vill koppla bort resursen?]]></value>
 	</definition>
 	<definition>
 		<key>confirm_unlink_title</key>
-		<value><![CDATA[Bekräfta resurs Avlänka]]></value>
+		<value><![CDATA[Bekräfta att koppla bort resursen]]></value>
 	</definition>
 	<definition>
 		<key>text_select_store</key>
@@ -550,7 +560,7 @@
 	</definition>
 	<definition>
 		<key>text_click_browse_file</key>
-		<value><![CDATA[Klicka för att bläddra fil]]></value>
+		<value><![CDATA[Klicka för att bläddra i filen]]></value>
 	</definition>
 	<definition>
 		<key>text_browse</key>
@@ -562,11 +572,11 @@
 	</definition>
 	<definition>
 		<key>error_seo_keyword</key>
-		<value><![CDATA[SEO sökord <a target="_blank" href="%s">&quot;%s&quot;</a> är redan existerar!]]></value>
+		<value><![CDATA[SEO-nyckelordet <a target="_blank" href="%s">"%s"</a> finns redan!]]></value>
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[uppdatering Datum]]></value>
+		<value><![CDATA[Uppdateringsdatum]]></value>
 	</definition>
 	<definition>
 		<key>text_automatic</key>
@@ -586,11 +596,11 @@
 	</definition>
 	<definition>
 		<key>text_new_download</key>
-		<value><![CDATA[ny nedladdning]]></value>
+		<value><![CDATA[Ny nedladdning]]></value>
 	</definition>
 	<definition>
 		<key>text_free</key>
-		<value><![CDATA[Fri]]></value>
+		<value><![CDATA[Gratis]]></value>
 	</definition>
 	<definition>
 		<key>text_sure</key>
@@ -602,7 +612,7 @@
 	</definition>
 	<definition>
 		<key>text_please_confirm</key>
-		<value><![CDATA[Var god bekräfta]]></value>
+		<value><![CDATA[Vänligen bekräfta]]></value>
 	</definition>
 	<definition>
 		<key>button_confirm</key>
@@ -618,15 +628,15 @@
 	</definition>
 	<definition>
 		<key>new_orders</key>
-		<value><![CDATA[nya beställningar]]></value>
+		<value><![CDATA[Nya beställningar]]></value>
 	</definition>
 	<definition>
 		<key>text_saved</key>
-		<value><![CDATA[Sparad]]></value>
+		<value><![CDATA[Sparat framgångsrikt]]></value>
 	</definition>
 	<definition>
 		<key>text_processing</key>
-		<value><![CDATA[Bearbetning ...]]></value>
+		<value><![CDATA[Bearbetar ...]]></value>
 	</definition>
 	<definition>
 		<key>text_next</key>
@@ -634,7 +644,7 @@
 	</definition>
 	<definition>
 		<key>text_previous</key>
-		<value><![CDATA[Tidigare]]></value>
+		<value><![CDATA[Föregående]]></value>
 	</definition>
 	<definition>
 		<key>text_on</key>
@@ -646,15 +656,15 @@
 	</definition>
 	<definition>
 		<key>text_external_help</key>
-		<value><![CDATA[extern hjälp]]></value>
+		<value><![CDATA[Extern Hjälp]]></value>
 	</definition>
 	<definition>
 		<key>text_select_from_lookup</key>
-		<value><![CDATA[Börja skriva (namn, modell, sku, etc.) för att leta upp och välj resultat]]></value>
+		<value><![CDATA[Börja skriva (name, model, sku, etc.) för att söka och välja resultat]]></value>
 	</definition>
 	<definition>
 		<key>text_continue_typing</key>
-		<value><![CDATA[Fortsätt att skriva ...]]></value>
+		<value><![CDATA[Fortsätt skriva ...]]></value>
 	</definition>
 	<definition>
 		<key>text_looking_for</key>
@@ -666,19 +676,23 @@
 	</definition>
 	<definition>
 		<key>text_abc_notification</key>
-		<value><![CDATA[Programuppdateringar och meddelanden]]></value>
+		<value><![CDATA[Programvaruuppdateringar & aviseringar]]></value>
 	</definition>
 	<definition>
 		<key>text_not_applicable</key>
-		<value><![CDATA[NA]]></value>
+		<value><![CDATA[Ej tillämpligt]]></value>
 	</definition>
 	<definition>
 		<key>text_share_embed_code</key>
-		<value><![CDATA[Hämta inbäddad kod]]></value>
+		<value><![CDATA[Hämta inbäddningskod]]></value>
 	</definition>
 	<definition>
 		<key>text_copy_embed_code</key>
-		<value><![CDATA[Kopia och klistra in i din HTML-koden där du vill sälja]]></value>
+		<value><![CDATA[Kopiera och klistra in det här i din HTML-kod där du vill sälja]]></value>
+	</definition>
+	<definition>
+		<key>text_copy_embed_url</key>
+		<value><![CDATA[Kopiera och klistra in denna URL på din andra webbplats där du vill sälja]]></value>
 	</definition>
 	<definition>
 		<key>button_retry</key>
@@ -686,23 +700,23 @@
 	</definition>
 	<definition>
 		<key>text_system_error</key>
-		<value><![CDATA[Systemfel har inträffat. Kontrollera systemet <a target="_blank" href="%s">meddelanden</a> eller <a target="_blank" href="%s">fellogg</a>]]></value>
+		<value><![CDATA[Systemfel har uppstått. Kontrollera systemets <a target="_blank" href="%s">meddelanden</a> eller <a target="_blank" href="%s">fellogg</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_system_warning</key>
-		<value><![CDATA[Varningssystem har rapporterats. Kontrollera systemet <a target="_blank" href="%s">meddelanden</a>]]></value>
+		<value><![CDATA[Systemvarning har rapporterats. Kontrollera system <a target="_blank" href="%s">meddelanden</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_system_notice</key>
-		<value><![CDATA[Systemmeddelande har rapporterats. Kontrollera systemet <a target="_blank" href="%s">meddelanden</a>]]></value>
+		<value><![CDATA[Systemmeddelandet har rapporterats. Kontrollera system <a target="_blank" href="%s">meddelanden</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_set_related</key>
-		<value><![CDATA[inställd Relaterat]]></value>
+		<value><![CDATA[Ställ in relaterade]]></value>
 	</definition>
 	<definition>
 		<key>tab_text</key>
-		<value><![CDATA[HTML / text]]></value>
+		<value><![CDATA[HTML/Text]]></value>
 	</definition>
 	<definition>
 		<key>tab_visual</key>
@@ -711,6 +725,10 @@
 	<definition>
 		<key>button_add_media</key>
 		<value><![CDATA[Lägg till media]]></value>
+	</definition>
+	<definition>
+		<key>button_field_history</key>
+		<value><![CDATA[Visa fältets historik]]></value>
 	</definition>
 	<definition>
 		<key>text_view_more</key>
@@ -722,19 +740,19 @@
 	</definition>
 	<definition>
 		<key>text_storefront</key>
-		<value><![CDATA[Skyltfönster]]></value>
+		<value><![CDATA[Butiksfront]]></value>
 	</definition>
 	<definition>
 		<key>text_texteditor_extended_mode</key>
-		<value><![CDATA[<a class="texteditor_ext_mode" href="%s" ><i class="fa fa-external-link"></i> Redigera i Utökat läge</a>]]></value>
+		<value><![CDATA[<a class="texteditor_ext_mode" href="%s" ><i class="fa fa-external-link"></i> Redigera i utökat läge</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_quick_view</key>
-		<value><![CDATA[Snabbtitt]]></value>
+		<value><![CDATA[Snabbvy]]></value>
 	</definition>
 	<definition>
 		<key>text_more_current</key>
-		<value><![CDATA[Helsida redigera]]></value>
+		<value><![CDATA[Redigera hela sidan]]></value>
 	</definition>
 	<definition>
 		<key>text_more_new</key>
@@ -742,39 +760,27 @@
 	</definition>
 	<definition>
 		<key>text_back_to_list</key>
-		<value><![CDATA[Tillbaka till notering]]></value>
-	</definition>
-	<definition>
-		<key>text_all_stores</key>
-		<value><![CDATA[Alla butiker]]></value>
-	</definition>
-	<definition>
-		<key>text_copy_embed_url</key>
-		<value><![CDATA[Kopiera och klistra in den här webbadressen på din annan sida där du vill sälja]]></value>
-	</definition>
-	<definition>
-		<key>button_field_history</key>
-		<value><![CDATA[Visa fälthistorik]]></value>
+		<value><![CDATA[Tillbaka till listan]]></value>
 	</definition>
 	<definition>
 		<key>text_help_link</key>
-		<value><![CDATA[<a href="http://www.abantecart.com/contact-us" target="_abantecart">Behöver du hjälp?</a>]]></value>
+		<value><![CDATA[<a href="https://www.abantecart.com/contact-us" target="_abantecart">Behöver hjälp?</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_subtract_order</key>
-		<value><![CDATA[Subtrahera ordning]]></value>
+		<value><![CDATA[Dra av order]]></value>
 	</definition>
 	<definition>
 		<key>button_preview</key>
-		<value><![CDATA[Förhandsvisning]]></value>
+		<value><![CDATA[Förhandsgranskning]]></value>
 	</definition>
 	<definition>
 		<key>warning_extensions_with_layouts</key>
-		<value><![CDATA[ Följande tillägg <br/> %s <br/> inkluderar sidor eller layouter som inte finns i den valda mallen. För att inkludera funktioner från dessa tillägg måste du installera om tillägg efter att du har aktiverat den nya mallen. Om ominstallation inte hjälper, kontakta de ursprungliga utvecklarna av ovanstående tillägg för hjälp.	]]></value>
+		<value><![CDATA[Följande tillägg <br> %s <br> innehåller sidor eller layouter som inte finns i den valda mallen. För att inkludera funktioner från dessa tillägg måste du installera om tilläggen efter att du aktiverat den nya mallen. Om ominstallationen inte hjälper, kontakta de ursprungliga utvecklarna av ovanstående tillägg för hjälp.]]></value>
 	</definition>
 	<definition>
 		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Artikelnummer]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -790,7 +796,7 @@
 	</definition>
 	<definition>
 		<key>text_select_brand</key>
-		<value><![CDATA[-Välj varumärke-]]></value>
+		<value><![CDATA[-Välj märke-]]></value>
 	</definition>
 	<definition>
 		<key>text_advanced_settings</key>

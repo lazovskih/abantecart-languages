@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[עסקאות הלקוח]]></value>
+		<value><![CDATA[עסקאות לקוחות]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_date</key>
-		<value><![CDATA[תאריך עסקה]]></value>
+		<value><![CDATA[תאריך העסקה]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[שם לקוח]]></value>
+		<value><![CDATA[שם הלקוח]]></value>
 	</definition>
 	<definition>
 		<key>column_created_by</key>
@@ -18,14 +18,14 @@
 	</definition>
 	<definition>
 		<key>column_debit</key>
-		<value><![CDATA[חוֹבָה]]></value>
+		<value><![CDATA[חיוב]]></value>
 	</definition>
 	<definition>
 		<key>column_credit</key>
-		<value><![CDATA[אַשׁרַאי]]></value>
+		<value><![CDATA[זיכוי]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[סוג העסקה]]></value>
+		<value><![CDATA[סוג עסקה]]></value>
 	</definition>
 </definitions>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[globálne atribúty]]></value>
+		<value><![CDATA[Globálne atribúty]]></value>
 	</definition>
 	<definition>
 		<key>text_attribute</key>
-		<value><![CDATA[globálne Atribút]]></value>
+		<value><![CDATA[Globálny atribút]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Máte modifikované atribúty!]]></value>
+		<value><![CDATA[Úspech: Upravili ste atribúty!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_type</key>
-		<value><![CDATA[- Zvoľte typ -]]></value>
+		<value><![CDATA[- Vyberte typ -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_parent</key>
@@ -22,35 +22,39 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[názov]]></value>
+		<value><![CDATA[Meno]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[typ]]></value>
+		<value><![CDATA[Typ]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[poradie zoradenia]]></value>
+		<value><![CDATA[Poradie triedenia]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
+	</definition>
+	<definition>
+		<key>column_txt_id</key>
+		<value><![CDATA[Jedinečné ID textu]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Názov:]]></value>
+		<value><![CDATA[Meno:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_parent</key>
-		<value><![CDATA[Atribút Parent:]]></value>
+		<value><![CDATA[Nadradený atribút:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_group</key>
-		<value><![CDATA[Atribút Skupina:]]></value>
+		<value><![CDATA[Skupina atribútov:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_type</key>
@@ -58,95 +62,91 @@
 	</definition>
 	<definition>
 		<key>entry_element_type</key>
-		<value><![CDATA[Typ prvok:]]></value>
+		<value><![CDATA[Typ prvku:]]></value>
 	</definition>
 	<definition>
 		<key>entry_element_values</key>
-		<value><![CDATA[Element Hodnoty:]]></value>
+		<value><![CDATA[Hodnoty prvkov:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[usporiadanie:]]></value>
+		<value><![CDATA[Poradie zoradenia:]]></value>
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Požadovaný:]]></value>
+		<value><![CDATA[Povinné:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavenie:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_children_attributes</key>
-		<value><![CDATA[Deti atribúty:]]></value>
+		<value><![CDATA[Atribúty detí:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varovanie: Nemáte oprávnenie na zmenu globálnych atribútov!]]></value>
+		<value><![CDATA[Varovanie: Nemáte povolenie na úpravu globálnych atribútov!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Názov skupiny musí byť medzi 2 a 32 znakov!]]></value>
+		<value><![CDATA[Meno skupiny musí mať dĺžku medzi 2 a 32 znakmi!]]></value>
 	</definition>
 	<definition>
 		<key>error_required</key>
-		<value><![CDATA[Toto pole je vyžadované!]]></value>
+		<value><![CDATA[Toto pole je povinné!]]></value>
 	</definition>
 	<definition>
 		<key>text_parent_note</key>
-		<value><![CDATA[Pokiaľ sa jedná o nadradený atribút s deťmi atribúty, môže to byť len typu selectbox, Multiselect Box, políčko a Checkbox skupiny. <br/> Deti hodnoty kombinácie sa zobrazí ako jednu sadu.]]></value>
+		<value><![CDATA[Ak ide o nadradený atribút s podriadenými atribútmi, môže byť iba typu Rozbaľovacie pole, Viacnásobné výberové pole, Zaškrtávacie políčko a Skupina zaškrtávacích políčok.<br>Kombinácia hodnôt podriadených atribútov sa zobrazí ako jedna sada.]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_extensions</key>
-		<value><![CDATA[Povolené prípony súborov (txt, jpg ...)]]></value>
+		<value><![CDATA[Povolené prípony súborov (txt, jpg …)]]></value>
 	</definition>
 	<definition>
 		<key>entry_min_size</key>
-		<value><![CDATA[veľkosť súboru Min (kb)]]></value>
+		<value><![CDATA[Minimálna veľkosť súboru (Kb)]]></value>
 	</definition>
 	<definition>
 		<key>entry_max_size</key>
-		<value><![CDATA[Maximálna veľkosť súboru (kb)]]></value>
+		<value><![CDATA[Maximálna veľkosť súboru (Kb)]]></value>
 	</definition>
 	<definition>
 		<key>entry_upload_dir</key>
-		<value><![CDATA[Vložiť názov adresára <br/> %s]]></value>
+		<value><![CDATA[Názov adresára na nahrávanie<br>%s]]></value>
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
-		<value><![CDATA[Regulárny výraz vzor pre validáciu hodnôt:]]></value>
+		<value><![CDATA[Vzor regulárneho výrazu na validáciu hodnôt:]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
-		<value><![CDATA[Chybové hlásenie neplatné Hodnota:]]></value>
+		<value><![CDATA[Chybová správa neplatnej hodnoty:]]></value>
 	</definition>
 	<definition>
 		<key>entry_placeholder</key>
-		<value><![CDATA[zástupný:]]></value>
+		<value><![CDATA[Zástupný text:]]></value>
 	</definition>
 	<definition>
 		<key>error_attribute_name</key>
-		<value><![CDATA[Atribút názov musí byť v rozmedzí 2 až 64 znakov!]]></value>
+		<value><![CDATA[Názov atribútu musí mať od 2 do 64 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_error_text</key>
-		<value><![CDATA[Chyba text o neplatnú hodnotu atribútu musí byť v rozmedzí 2 až 255 znakov!]]></value>
+		<value><![CDATA[Text chybovej správy o neplatnej hodnote atribútu musí mať dĺžku od 2 do 255 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_regexp_pattern</key>
-		<value><![CDATA[Regulárny výraz vzor je neplatný!]]></value>
+		<value><![CDATA[Vzor regulárneho výrazu je neplatný!]]></value>
 	</definition>
 	<definition>
 		<key>entry_show_to_customer</key>
-		<value><![CDATA[ukázať zákazníkovi]]></value>
-	</definition>
-	<definition>
-		<key>column_txt_id</key>
-		<value><![CDATA[Jedinečné ID textu]]></value>
+		<value><![CDATA[Zobraziť zákazníkovi]]></value>
 	</definition>
 	<definition>
 		<key>entry_price_prefix</key>
-		<value><![CDATA[Upraviť cenu podľa:]]></value>
+		<value><![CDATA[Upraviť cenu o:]]></value>
 	</definition>
 	<definition>
 		<key>entry_price_modifier</key>
@@ -154,6 +154,6 @@
 	</definition>
 	<definition>
 		<key>error_not_unique</key>
-		<value><![CDATA[ID textu hodnoty nie je jedinečné!]]></value>
+		<value><![CDATA[Textové ID hodnoty nie je jedinečné!]]></value>
 	</definition>
 </definitions>

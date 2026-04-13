@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>im_text_notification</key>
@@ -6,11 +6,15 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update</key>
-		<value><![CDATA[Narudžba ažuriranja]]></value>
+		<value><![CDATA[Ažuriranja narudžbi]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_customer</key>
-		<value><![CDATA[Vaša narudžba <a href="%s">#%s</a> je ažuriran. Za više detalja prijaviti na %s računu.]]></value>
+		<value><![CDATA[Vaša narudžba <a href="%s">#%s</a> je ažurirana. Za više detalja, prijavite se na %s račun.]]></value>
+	</definition>
+	<definition>
+		<key>im_order_update_text_to_guest</key>
+		<value><![CDATA[Vaša narudžba <a href="%s">#%s</a> je ažurirana. Za više detalja, molimo posjetite stranicu narudžbe %s.]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_order</key>
@@ -18,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>im_new_order_text_to_admin</key>
-		<value><![CDATA[New Order <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> je stvoren!]]></value>
+		<value><![CDATA[Nova narudžba <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> je kreirana!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_customer</key>
-		<value><![CDATA[Prijave za kupca]]></value>
+		<value><![CDATA[Registracije kupaca]]></value>
 	</definition>
 	<definition>
 		<key>im_new_customer_text_to_admin</key>
@@ -30,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_account_update</key>
-		<value><![CDATA[Ažuriranja korisničkog računa administratora]]></value>
+		<value><![CDATA[Ažuriranja administratorskog korisničkog računa]]></value>
 	</definition>
 	<definition>
 		<key>im_account_update_text_to_admin</key>
-		<value><![CDATA[Vaši podaci korisničkog računa administratora su se promijenili.]]></value>
+		<value><![CDATA[Podaci vašeg administratorskog korisničkog računa su promijenjeni.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_admin</key>
@@ -46,23 +50,23 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_out_of_stock</key>
-		<value><![CDATA[Proizvodi na skladištu]]></value>
+		<value><![CDATA[Proizvodi nisu dostupni]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_review</key>
-		<value><![CDATA[Novi Recenzije proizvoda]]></value>
+		<value><![CDATA[Recenzije novih proizvoda]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter</key>
-		<value><![CDATA[Newsletteri]]></value>
+		<value><![CDATA[Bilteni]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_system_messages</key>
-		<value><![CDATA[Poruke sustava]]></value>
+		<value><![CDATA[Sistemske poruke]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_customer</key>
-		<value><![CDATA[Novi Transakcija je objavljena na svoj %s računu u iznosu od %s. Za više detalja prijaviti na %s računu.]]></value>
+		<value><![CDATA[Nova transakcija je objavljena na vašem %s računu u iznosu od %s. Za više detalja, prijavite se na %s račun.]]></value>
 	</definition>
 	<definition>
 		<key>text_notification_for</key>
@@ -70,19 +74,15 @@
 	</definition>
 	<definition>
 		<key>error_unknown_sendpoint</key>
-		<value><![CDATA[Sendpoint %s ne nalaze u popisu sendpoints!]]></value>
+		<value><![CDATA[Sendpoint %s nije pronađen na popisu sendpointova!]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_success_saved</key>
-		<value><![CDATA[Postavke obavijesti uspješno spremljen!]]></value>
+		<value><![CDATA[Postavke obavijesti su uspješno spremljene!]]></value>
 	</definition>
 	<definition>
 		<key>im_error_mail_address</key>
-		<value><![CDATA[Adresa e-pošte %s izgleda kao invalid!]]></value>
-	</definition>
-	<definition>
-		<key>im_order_update_text_to_guest</key>
-		<value><![CDATA[Vaša narudžba <a href="%s">#%s</a> je ažuriran. Za više detalja, posjetite stranicu za narudžbu %s.]]></value>
+		<value><![CDATA[Adresa e-pošte %s izgleda nevažeća!]]></value>
 	</definition>
 	<definition>
 		<key>im_threshold</key>

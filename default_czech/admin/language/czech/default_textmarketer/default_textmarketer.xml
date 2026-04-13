@@ -6,11 +6,10 @@
 	</definition>
 	<definition>
 		<key>default_textmarketer_note</key>
-		<value><![CDATA[Chcete-li povolit zasílání zpráv SMS, přejděte do části Systém -&gt; Nastavení -&gt; <a href="#admin#rt=setting/setting/im" target="_im">IM</a><br/> 
- a jako výchozí ovladač SMS vyberte TextMarketer. Nezapomeňte povolit sekci, odkud chcete dostávat sms od (admin nebo obchod). <br/> 
- Toto rozšíření umožní administrátorům a zákazníkům poskytovat pole Mobilní telefon. Pamatujte, že deaktivací tohoto rozšíření toto pole skryjete. 
- Pokud je přidán do stávajícího obchodu se zákazníky, mějte na paměti, že tyto informace budou chybět. 
-		]]></value>
+		<value><![CDATA[Pro povolení zasílání SMS přejděte do Systém -> Nastavení -> <a href="#admin#rt=setting/setting/im" target="_im">IM</a><br/>
+a vyberte TextMarketer jako výchozí SMS-ovladač. Nezapomeňte také povolit sekci, ze které chcete SMS přijímat (administrace nebo veřejné části obchodu).<br/>
+Toto rozšíření přidá pole Mobilní telefon pro administrátory a zákazníky. Pamatujte, že deaktivace tohoto rozšíření toto pole skryje.	
+Pokud je rozšíření přidáno do existujícího obchodu se zákazníky, mějte na paměti, že tyto informace budou chybět.]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_username</key>
@@ -18,11 +17,11 @@
 	</definition>
 	<definition>
 		<key>default_textmarketer_password</key>
-		<value><![CDATA[Heslo API]]></value>
+		<value><![CDATA[API heslo]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_originator</key>
-		<value><![CDATA[Původce: <span class="help">Od koho zpráva pochází (ID původce nebo odesílatele). Může to být 11 alfanumerických znaků nebo pouze 16 číselných znaků.</span>]]></value>
+		<value><![CDATA[Odesílatel: <span class="help">Od koho zpráva pochází (ID původce nebo odesílatele). Může obsahovat 11 alfanumerických nebo 16 čistě číselných znaků.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_test</key>
@@ -30,7 +29,7 @@
 	</definition>
 	<definition>
 		<key>default_textmarketer_test_0</key>
-		<value><![CDATA[Žádný]]></value>
+		<value><![CDATA[Ne]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_test_1</key>
@@ -38,19 +37,19 @@
 	</definition>
 	<definition>
 		<key>default_textmarketer_logging</key>
-		<value><![CDATA[Stav protokolování chyb <span class="help">Pokud chcete protokolovat všechny chyby rozšíření TextMarketer, zapněte toto nastavení.</span>]]></value>
+		<value><![CDATA[Stav protokolování chyb<span class="help">Pokud chcete zaznamenávat všechny chyby rozšíření TextMarketer, zapněte toto nastavení.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_sms</key>
-		<value><![CDATA[ Mobilní telefon ]]></value>
+		<value><![CDATA[Mobilní telefon]]></value>
 	</definition>
 	<definition>
 		<key>default_textmarketer_test_connection</key>
-		<value><![CDATA[Otestujte své připojení: <span class="help">Můžete otestovat, zda jsou přihlašovací údaje API, které jste zadali, správné.</span>]]></value>
+		<value><![CDATA[Otestujte své připojení:<span class="help">Můžete otestovat, zda jsou zadané přihlašovací údaje API správné.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_test</key>
-		<value><![CDATA[ Test ]]></value>
+		<value><![CDATA[Test]]></value>
 	</definition>
 	<definition>
 		<key>error_turn_extension_on</key>
@@ -58,14 +57,14 @@
 	</definition>
 	<definition>
 		<key>error_empty_test_phone_number</key>
-		<value><![CDATA[Chyba! Zadejte telefonní číslo příjemce.]]></value>
+		<value><![CDATA[Chyba! Prosím zadejte telefonní číslo příjemce.]]></value>
 	</definition>
 	<definition>
 		<key>text_see_log</key>
-		<value><![CDATA[Podrobnosti naleznete v protokolu chyb.]]></value>
+		<value><![CDATA[Podívejte se do protokolu chyb pro podrobnosti.]]></value>
 	</definition>
 	<definition>
 		<key>text_connection_success</key>
-		<value><![CDATA[Připojení je úspěšné a pověření API jsou správně nakonfigurována.]]></value>
+		<value><![CDATA[Připojení bylo úspěšné a přihlašovací údaje k API jsou správně nakonfigurovány.]]></value>
 	</definition>
 </definitions>

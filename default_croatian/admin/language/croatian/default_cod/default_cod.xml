@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: izmijenili ste modul plaćanja gotovinom pouzećem!]]></value>
+		<value><![CDATA[Uspjeh: izmijenili ste modul plaćanja pouzećem!]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_order_status_id</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>default_cod_location_id</key>
-		<value><![CDATA[Mjesto:]]></value>
+		<value><![CDATA[Lokacija:]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_location_id_0</key>
@@ -26,6 +26,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu plaćanja pouzećem!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu plaćanja pouzećem!]]></value>
 	</definition>
 </definitions>

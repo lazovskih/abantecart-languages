@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[nyhetsbrev prenumeration]]></value>
+		<value><![CDATA[Prenumeration på nyhetsbrev]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[konto]]></value>
+		<value><![CDATA[Konto]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Din prenumeration har uppdaterats!]]></value>
+		<value><![CDATA[Framgång: Din nyhetsbrevsprenumeration har framgångsrikt uppdaterats!]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_customer_registration</key>
-		<value><![CDATA[kund Registrering]]></value>
+		<value><![CDATA[Kundregistrering]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
@@ -30,6 +30,6 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Mänsklig kontroll har misslyckats! Försök agan.]]></value>
+		<value><![CDATA[Mänsklig verifiering har misslyckats! Försök igen.]]></value>
 	</definition>
 </definitions>

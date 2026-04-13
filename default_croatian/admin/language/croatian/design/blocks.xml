@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[blokovi]]></value>
+		<value><![CDATA[Blokovi]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[brisanje bloka]]></value>
+		<value><![CDATA[Obriši blok]]></value>
 	</definition>
 	<definition>
 		<key>text_edit</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_enable</key>
-		<value><![CDATA[Omogući onemogući]]></value>
+		<value><![CDATA[Omogući/Onemogući]]></value>
 	</definition>
 	<definition>
 		<key>text_details</key>
@@ -22,19 +22,19 @@
 	</definition>
 	<definition>
 		<key>text_create</key>
-		<value><![CDATA[Izrada blok]]></value>
+		<value><![CDATA[Kreiraj blok]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Izmijenili ste blok!]]></value>
+		<value><![CDATA[Uspjeh: promijenili ste blok!]]></value>
 	</definition>
 	<definition>
 		<key>column_block_id</key>
-		<value><![CDATA[iskaznica]]></value>
+		<value><![CDATA[ID]]></value>
 	</definition>
 	<definition>
 		<key>column_block_txt_id</key>
-		<value><![CDATA[Jedinstveni ID tekst]]></value>
+		<value><![CDATA[Jedinstveni ID teksta]]></value>
 	</definition>
 	<definition>
 		<key>column_block_name</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Datum dodan]]></value>
+		<value><![CDATA[Datum dodavanja]]></value>
 	</definition>
 	<definition>
 		<key>column_block_type</key>
@@ -50,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[Redoslijed]]></value>
+		<value><![CDATA[Redoslijed sortiranja]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -66,59 +66,59 @@
 	</definition>
 	<definition>
 		<key>entry_block_status_note</key>
-		<value><![CDATA[Napomena: Morate dodati ovaj blok u <a style="text-decoration: underline; font-weight: bold;" href="#admin#rt=design/layout">izgledu</a> na željenu stranicu da ga vidi raditi]]></value>
+		<value><![CDATA[Napomena: Trebate dodati ovaj blok u <a style="text-decoration: underline; font-weight: bold;" href="#admin#rt=design/layout">LAYOUT</a> na željenoj stranici da vidite da radi]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_type</key>
-		<value><![CDATA[Prilagođeni blok Tip]]></value>
+		<value><![CDATA[Vrsta prilagođenog bloka]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_name</key>
-		<value><![CDATA[Naziv Custom Block]]></value>
+		<value><![CDATA[Naziv prilagođenog bloka]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_wrapper</key>
-		<value><![CDATA[Koristite blok omot (izgled)]]></value>
+		<value><![CDATA[Koristite blok omotač (izgled)]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_framed</key>
-		<value><![CDATA[Okvir Korištenje Block-a]]></value>
+		<value><![CDATA[Koristite okvir bloka]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_title</key>
-		<value><![CDATA[Prilagođena Blok Naslov]]></value>
+		<value><![CDATA[Naslov prilagođenog bloka]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_description</key>
-		<value><![CDATA[Opis prilagođenog Block <p> samo za internu upotrebu: Napomena </p>]]></value>
+		<value><![CDATA[Opis prilagođenog bloka <p>Napomena: samo za internu upotrebu </p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_content</key>
-		<value><![CDATA[Prilagođena Blokiranje sadržaja]]></value>
+		<value><![CDATA[Sadržaj prilagođenog bloka]]></value>
 	</definition>
 	<definition>
 		<key>entry_listing_datasource</key>
-		<value><![CDATA[Oglas Izvor podataka]]></value>
+		<value><![CDATA[Izvor podataka za popis]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Potvrdi brisanje bloka?]]></value>
+		<value><![CDATA[Potvrdite brisanje bloka?]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[Molimo Vas da ispunite sva obavezna polja!]]></value>
+		<value><![CDATA[Molimo ispunite sva obavezna polja!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[Nije moguće izbrisati jer ovaj blok je u upotrebi. Posjetite odjeljak Layout.]]></value>
+		<value><![CDATA[Nije moguće izbrisati jer je ovaj blok u upotrebi. Molimo posjetite odjeljak Izgled.]]></value>
 	</definition>
 	<definition>
 		<key>error_text_status</key>
-		<value><![CDATA[stanje se ne može promijeniti, jer ovo blok nije u uporabi. Posjetite odjeljak Layout.]]></value>
+		<value><![CDATA[Ne mogu promijeniti status jer se ovaj blok ne koristi. Molimo posjetite odjeljak Izgled.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_deleted</key>
-		<value><![CDATA[Uspjeh: Izbrisali ste običaj blok!]]></value>
+		<value><![CDATA[Uspjeh: Izbrisali ste prilagođeni blok!]]></value>
 	</definition>
 	<definition>
 		<key>entry_data_source</key>
@@ -126,11 +126,11 @@
 	</definition>
 	<definition>
 		<key>entry_limit</key>
-		<value><![CDATA[Ograničiti:]]></value>
+		<value><![CDATA[Ograničenje:]]></value>
 	</definition>
 	<definition>
 		<key>text_listing_auto</key>
-		<value><![CDATA[Auto oglas]]></value>
+		<value><![CDATA[Automatsko listanje]]></value>
 	</definition>
 	<definition>
 		<key>text_listing_manual</key>
@@ -138,11 +138,15 @@
 	</definition>
 	<definition>
 		<key>text_select_listing</key>
-		<value><![CDATA[--- odaberite podaci Izvor unosa ---]]></value>
+		<value><![CDATA[--- odaberite izvor popisa podataka ---]]></value>
 	</definition>
 	<definition>
 		<key>text_products_special</key>
 		<value><![CDATA[Posebne ponude]]></value>
+	</definition>
+	<definition>
+		<key>text_products_related</key>
+		<value><![CDATA[Povezani proizvodi]]></value>
 	</definition>
 	<definition>
 		<key>text_products_popular</key>
@@ -150,15 +154,15 @@
 	</definition>
 	<definition>
 		<key>text_categories</key>
-		<value><![CDATA[Kategorije]]></value>
+		<value><![CDATA[Sve kategorije]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Proizvođači]]></value>
+		<value><![CDATA[Svi brendovi]]></value>
 	</definition>
 	<definition>
 		<key>text_featured</key>
-		<value><![CDATA[Istaknuti Proizvodi]]></value>
+		<value><![CDATA[Istaknuti proizvodi]]></value>
 	</definition>
 	<definition>
 		<key>text_latest</key>
@@ -166,27 +170,31 @@
 	</definition>
 	<definition>
 		<key>text_bestsellers</key>
-		<value><![CDATA[Najprodavanije Proizvodi]]></value>
+		<value><![CDATA[Najprodavaniji proizvodi]]></value>
 	</definition>
 	<definition>
 		<key>text_media</key>
-		<value><![CDATA[media]]></value>
+		<value><![CDATA[Mediji]]></value>
 	</definition>
 	<definition>
 		<key>entry_resource_type</key>
-		<value><![CDATA[Tip medija:]]></value>
+		<value><![CDATA[Vrsta medija:]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_products</key>
-		<value><![CDATA[Uobičajeni proizvodi]]></value>
+		<value><![CDATA[Odabrani proizvodi]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_categories</key>
-		<value><![CDATA[Prilagođeni Kategorije]]></value>
+		<value><![CDATA[Odabrane kategorije]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_manufacturers</key>
-		<value><![CDATA[Prilagođeni Proizvođači]]></value>
+		<value><![CDATA[Odabrane marke]]></value>
+	</definition>
+	<definition>
+		<key>text_selected_content</key>
+		<value><![CDATA[Odabrani sadržaj]]></value>
 	</definition>
 	<definition>
 		<key>text_html_block</key>
@@ -194,15 +202,15 @@
 	</definition>
 	<definition>
 		<key>text_listing_block</key>
-		<value><![CDATA[podaci oglas]]></value>
+		<value><![CDATA[Popis podataka]]></value>
 	</definition>
 	<definition>
 		<key>text_selected</key>
-		<value><![CDATA[Odabrane stavke:]]></value>
+		<value><![CDATA[Odabrani artikli:]]></value>
 	</definition>
 	<definition>
 		<key>text_data_listed</key>
-		<value><![CDATA[Podaci koji se na popisu]]></value>
+		<value><![CDATA[Podaci za popis]]></value>
 	</definition>
 	<definition>
 		<key>text_save_edit</key>
@@ -210,55 +218,47 @@
 	</definition>
 	<definition>
 		<key>text_apply</key>
-		<value><![CDATA[Primijeni izbor]]></value>
+		<value><![CDATA[Primijeni odabir]]></value>
 	</definition>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[Blok ID]]></value>
+		<value><![CDATA[Identifikator bloka]]></value>
 	</definition>
 	<definition>
 		<key>text_block_txt_id</key>
-		<value><![CDATA[Blok teksta ID]]></value>
+		<value><![CDATA[ID bloka teksta]]></value>
 	</definition>
 	<definition>
 		<key>text_controller</key>
-		<value><![CDATA[kontrolor]]></value>
+		<value><![CDATA[Kontroler]]></value>
 	</definition>
 	<definition>
 		<key>text_templates</key>
-		<value><![CDATA[Blok Predlošci]]></value>
+		<value><![CDATA[Predlošci blokova]]></value>
 	</definition>
 	<definition>
 		<key>text_block_date_added</key>
-		<value><![CDATA[Blok Datum izrade]]></value>
+		<value><![CDATA[Datum stvaranja bloka]]></value>
 	</definition>
 	<definition>
 		<key>text_layouts</key>
-		<value><![CDATA[Koristi se u rasporedima]]></value>
+		<value><![CDATA[Koristi se u izgledima]]></value>
 	</definition>
 	<definition>
 		<key>text_block_info</key>
-		<value><![CDATA[Informacije o prilagođenom Block]]></value>
+		<value><![CDATA[Informacije o prilagođenom bloku]]></value>
 	</definition>
 	<definition>
 		<key>text_add_block</key>
-		<value><![CDATA[Dodavanje blok na odjeljak]]></value>
+		<value><![CDATA[Dodavanje bloka u odjeljak]]></value>
 	</definition>
 	<definition>
 		<key>text_available_block</key>
-		<value><![CDATA[Dostupni Blokovi]]></value>
+		<value><![CDATA[Dostupni blokovi]]></value>
 	</definition>
 	<definition>
 		<key>error_block_not_available</key>
-		<value><![CDATA[Ovaj blok neće biti prikazan u odabranom položaju na izloga!]]></value>
-	</definition>
-	<definition>
-		<key>text_products_related</key>
-		<value><![CDATA[Srodni proizvodi]]></value>
-	</definition>
-	<definition>
-		<key>text_selected_content</key>
-		<value><![CDATA[Odabrani sadržaj]]></value>
+		<value><![CDATA[Ovaj blok neće biti prikazan na odabranoj poziciji na izgledu trgovine!]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>
@@ -266,7 +266,7 @@
 	</definition>
 	<definition>
 		<key>entry_collection_resource_type</key>
-		<value><![CDATA[Odabrana zbirka:]]></value>
+		<value><![CDATA[Odabrana kolekcija:]]></value>
 	</definition>
 	<definition>
 		<key>text_top_level</key>

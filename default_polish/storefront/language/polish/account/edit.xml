@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_edit</key>
-		<value><![CDATA[Edycja informacji]]></value>
+		<value><![CDATA[Edytuj informacje]]></value>
 	</definition>
 	<definition>
 		<key>text_your_details</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
-		<value><![CDATA[Pierwsze imię:]]></value>
+		<value><![CDATA[Imię:]]></value>
 	</definition>
 	<definition>
 		<key>entry_lastname</key>
@@ -50,34 +50,34 @@
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Błąd: Adres e-mail jest już zarejestrowany!]]></value>
+		<value><![CDATA[Błąd: adres e-mail jest już zarejestrowany!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Logowanie Nazwa musi być tylko i od 5 do 64 znaków alfanumerycznych!]]></value>
+		<value><![CDATA[Nazwa użytkownika musi być wyłącznie alfanumeryczna i mieć od 5 do 64 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Ta nazwa użytkownika jest niedostępna. Spróbuj inną nazwę logowania!]]></value>
+		<value><![CDATA[Ta nazwa logowania jest niedostępna. Spróbuj innej nazwy logowania!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Imię musi wynosić od 1 do 32 znaków!]]></value>
+		<value><![CDATA[Imię musi mieć od 1 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Nazwisko musi wynosić od 1 do 32 znaków!]]></value>
+		<value><![CDATA[Nazwisko musi mieć od 1 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail nie wydaje się być ważne!]]></value>
+		<value><![CDATA[Adres e-mail nie wygląda na prawidłowy!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon musi mieć od 3 do 32 znaków!]]></value>
+		<value><![CDATA[Telefon musi zawierać wyłącznie cyfry i mieć od 3 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>loginname_update_required</key>
-		<value><![CDATA[Twoja nazwa użytkownika jest taka sama jak w e-mailu. Aby utrzymać swoje konto zabezpieczone, należy utworzyć nową unikalną nazwę logowania]]></value>
+		<value><![CDATA[Twoja nazwa logowania jest taka sama jak Twój adres e-mail. Aby chronić Twoje konto, utwórz nową, unikalną nazwę logowania.]]></value>
 	</definition>
 </definitions>

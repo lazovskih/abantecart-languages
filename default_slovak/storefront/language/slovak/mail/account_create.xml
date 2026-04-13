@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Ďakujeme vám za registráciu]]></value>
+		<value><![CDATA[%s - Ďakujeme za registráciu]]></value>
 	</definition>
 	<definition>
 		<key>text_welcome</key>
-		<value><![CDATA[Vítame Vás a ďakujem za registráciu na %s!]]></value>
+		<value><![CDATA[Vitajte a ďakujeme, že ste sa zaregistrovali na %s!]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Váš účet bol teraz vytvorený a môžete k nemu pristupovať tým, že navštívite naše webové stránky, alebo na adrese:]]></value>
+		<value><![CDATA[Váš účet bol práve vytvorený a k nemu môžete pristupovať návštevou našej webovej stránky alebo na nasledujúcej URL:]]></value>
 	</definition>
 	<definition>
 		<key>text_approval</key>
-		<value><![CDATA[Váš účet musí byť schválená skôr, ako sa môžete prihlásiť. Po schválení sa môžete prihlásiť pomocou svojej e-mailovej adresy a hesla tým, že navštívite naše webové stránky, alebo na adrese:]]></value>
+		<value><![CDATA[Váš účet musí byť schválený predtým, než sa budete môcť prihlásiť. Po schválení sa môžete prihlásiť pomocou vašej e-mailovej adresy a hesla návštevou našej webovej stránky alebo na nasledujúcej URL:]]></value>
 	</definition>
 	<definition>
 		<key>text_activate</key>
-		<value><![CDATA[Než budeme môcť aktivovať váš účet je potrebné vziať posledný krok k dokončeniu registrácie. <br/> 
- Je nutné dokončiť tento posledný krok, aby sa stal registrovaným členom. Pre aktiváciu účtu kliknite na nasledujúci odkaz %s.]]></value>
+		<value><![CDATA[Predtým, než môžeme aktivovať váš účet, je potrebné urobiť ešte jeden krok, aby sa dokončila vaša registrácia.<br>
+Musíte dokončiť tento posledný krok, aby ste sa stali registrovaným členom. Kliknite prosím na nasledujúci odkaz pre aktiváciu vášho účtu %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_services</key>
-		<value><![CDATA[Po prihlásení, budete mať prístup k ďalším službám, vrátane preskúmania minulé objednávky, tlač faktúr a úpravy informácií o účte.]]></value>
+		<value><![CDATA[Po prihlásení budete mať prístup k ďalším službám vrátane prezerania predchádzajúcich objednávok, tlače faktúr a úpravy informácií o vašom účte.]]></value>
 	</definition>
 	<definition>
 		<key>text_thanks</key>

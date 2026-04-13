@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[adók jelentés]]></value>
+		<value><![CDATA[Adó jelentés]]></value>
 	</definition>
 	<definition>
 		<key>text_year</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_month</key>
-		<value><![CDATA[hónapok]]></value>
+		<value><![CDATA[Hónapok]]></value>
 	</definition>
 	<definition>
 		<key>text_week</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>text_all_status</key>
-		<value><![CDATA[minden állapot]]></value>
+		<value><![CDATA[Minden státusz]]></value>
 	</definition>
 	<definition>
 		<key>column_date_start</key>
-		<value><![CDATA[Dátum Kezdő]]></value>
+		<value><![CDATA[Kezdő dátum]]></value>
 	</definition>
 	<definition>
 		<key>column_date_end</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[Nem rendelések]]></value>
+		<value><![CDATA[Rendelések száma]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -46,14 +46,14 @@
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Dátum Kezdés:]]></value>
+		<value><![CDATA[Kezdő dátum:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[Dátum Vége:]]></value>
+		<value><![CDATA[Dátum vége:]]></value>
 	</definition>
 	<definition>
 		<key>entry_group</key>
-		<value><![CDATA[Csoportosít:]]></value>
+		<value><![CDATA[Csoportosítás szerint:]]></value>
 	</definition>
 </definitions>

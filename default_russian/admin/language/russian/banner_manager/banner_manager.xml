@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>banner_manager_name</key>
-		<value><![CDATA[Баннер менеджер]]></value>
+		<value><![CDATA[Менеджер баннеров]]></value>
 	</definition>
 	<definition>
 		<key>banner_manager_note</key>
-		<value>
-			<![CDATA[Для управления баннерами перейдите в меню <b>Дизайн -> Баннер менеджер</b> после того как будет включено расширение<br> 
-			Чтобы увидеть статистику баннера следуйте <b>Отчеты -> Статистика Баннеров</b> после включений расширения и создания баннера
-			]]></value>
+		<value><![CDATA[Чтобы управлять баннерами, перейдите в меню <b>Design -> Banner Mannger</b> после включения расширения <br>Чтобы просмотреть статистику баннеров, перейдите в меню <b>Reports -> Banner Statistic</b> после включения расширения и создания баннеров]]></value>
 	</definition>
 	<definition>
 		<key>banner_manager_list</key>
@@ -17,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>banner_manager_name_stat</key>
-		<value><![CDATA[Статистика Баннеров]]></value>
+		<value><![CDATA[Статистика баннера]]></value>
 	</definition>
 	<definition>
 		<key>column_banner_id</key>
-		<value><![CDATA[Id]]></value>
+		<value><![CDATA[Идентификатор]]></value>
 	</definition>
 	<definition>
 		<key>column_banner_name</key>
-		<value><![CDATA[Название]]></value>
+		<value><![CDATA[Имя]]></value>
 	</definition>
 	<definition>
 		<key>column_banner_group</key>
@@ -41,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[Дата Обновления]]></value>
+		<value><![CDATA[Дата обновления]]></value>
 	</definition>
 	<definition>
 		<key>column_clicked</key>
@@ -49,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>column_viewed</key>
-		<value><![CDATA[Просмотров]]></value>
+		<value><![CDATA[Просмотрено]]></value>
 	</definition>
 	<definition>
 		<key>column_percent</key>
@@ -65,15 +62,15 @@
 	</definition>
 	<definition>
 		<key>text_text_banner</key>
-		<value><![CDATA[Текстовый Баннер]]></value>
-	</definition>
-	<definition>
-		<key>entry_banner_status</key>
-		<value><![CDATA[ Статус: ]]></value>
+		<value><![CDATA[Текстовый баннер]]></value>
 	</definition>
 	<definition>
 		<key>entry_banner_name</key>
 		<value><![CDATA[Имя:]]></value>
+	</definition>
+	<definition>
+		<key>entry_banner_status</key>
+		<value><![CDATA[Статус:]]></value>
 	</definition>
 	<definition>
 		<key>entry_banner_group_name</key>
@@ -89,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>entry_banner_meta</key>
-		<value><![CDATA[Мета информация:<span class="help">SEO ключевые слова и т.д.</span>]]></value>
+		<value><![CDATA[Мета-информация: <span class="help">SEO keywords etc</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_banner_url</key>
@@ -101,86 +98,86 @@
 	</definition>
 	<definition>
 		<key>entry_banner_sort_order</key>
-		<value><![CDATA[ Порядок сортировки в группе: ]]></value>
+		<value><![CDATA[Порядок сортировки в группе:]]></value>
 	</definition>
 	<definition>
 		<key>entry_banner_date_start</key>
-		<value><![CDATA[ Дата начала: ]]></value>
+		<value><![CDATA[Дата начала:]]></value>
 	</definition>
 	<definition>
 		<key>entry_banner_date_end</key>
-		<value><![CDATA[ Дата окончания: ]]></value>
+		<value><![CDATA[Дата окончания:]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new_group</key>
-		<value><![CDATA[ -- Добавить новую группу -- ]]></value>
+		<value><![CDATA[-- Добавить новую группу --]]></value>
 	</definition>
 	<definition>
 		<key>text_put_new_group</key>
-		<value><![CDATA[ Здесь введите имя новой группы ]]></value>
+		<value><![CDATA[Введите здесь новое название группы]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[ Ошибка: Пожалуйста, заполните все обязательные поля формы. ]]></value>
+		<value><![CDATA[Ошибка: Пожалуйста, заполните все обязательные поля формы.]]></value>
 	</definition>
 	<definition>
 		<key>text_banner_success</key>
-		<value><![CDATA[ Успех : Вы изменили баннер. ]]></value>
+		<value><![CDATA[Успех: вы изменили баннер.]]></value>
 	</definition>
 	<definition>
 		<key>text_view_stat</key>
-		<value><![CDATA[ Просмотр статистики ]]></value>
+		<value><![CDATA[Просмотреть статистику]]></value>
 	</definition>
 	<definition>
 		<key>text_banner_block</key>
-		<value><![CDATA[ Блок баннера ]]></value>
+		<value><![CDATA[Баннерный блок]]></value>
 	</definition>
 	<definition>
 		<key>text_create_block</key>
-		<value><![CDATA[ Создать блок баннера ]]></value>
+		<value><![CDATA[Создать баннерный блок]]></value>
 	</definition>
 	<definition>
 		<key>text_banner</key>
-		<value><![CDATA[ Баннер ]]></value>
+		<value><![CDATA[Баннер]]></value>
 	</definition>
 	<definition>
 		<key>entry_banners_selected</key>
-		<value><![CDATA[ Выбранные баннеры: ]]></value>
+		<value><![CDATA[Выбранные баннеры:]]></value>
 	</definition>
 	<definition>
 		<key>text_select_banners</key>
-		<value><![CDATA[ Выбрать баннеры ]]></value>
+		<value><![CDATA[Выберите баннеры]]></value>
 	</definition>
 	<definition>
 		<key>text_hours</key>
-		<value><![CDATA[ часы ]]></value>
+		<value><![CDATA[часы]]></value>
 	</definition>
 	<definition>
 		<key>text_weeks</key>
-		<value><![CDATA[ дни недели ]]></value>
+		<value><![CDATA[дни недели]]></value>
 	</definition>
 	<definition>
 		<key>text_days</key>
-		<value><![CDATA[ дни ]]></value>
+		<value><![CDATA[дни]]></value>
 	</definition>
 	<definition>
 		<key>text_months</key>
-		<value><![CDATA[ месяцы ]]></value>
+		<value><![CDATA[месяцы]]></value>
 	</definition>
 	<definition>
 		<key>text_count</key>
-		<value><![CDATA[ количество ]]></value>
+		<value><![CDATA[количество]]></value>
 	</definition>
 	<definition>
 		<key>text_banners</key>
-		<value><![CDATA[ баннеры ]]></value>
+		<value><![CDATA[Баннеры]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_statistic</key>
-		<value><![CDATA[ Удалить статистику ]]></value>
+		<value><![CDATA[Удалить статистику]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_success</key>
-		<value><![CDATA[ Статистика успешно удалена! ]]></value>
+		<value><![CDATA[Статистика успешно удалена!]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś grup klientów!]]></value>
+		<value><![CDATA[Sukces: Ty zmodyfikowałeś grupy klientów!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>column_tax_exempt</key>
-		<value><![CDATA[Zwolnione z podatku]]></value>
+		<value><![CDATA[Zwolniony z podatku]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Grupa klientów Nazwa:]]></value>
+		<value><![CDATA[Nazwa grupy klientów:]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_exempt</key>
-		<value><![CDATA[Zwolnione z wszelkich podatków:]]></value>
+		<value><![CDATA[Zwolnione ze wszystkich podatków:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -38,18 +38,18 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Klient Nazwa grupy musi wynosić od 2 do 64 znaków!]]></value>
+		<value><![CDATA[Nazwa grupy klientów musi zawierać od 2 do 64 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Ostrzeżenie: Ta grupa klientów nie może zostać usunięty, ponieważ jest obecnie przypisany jako grupa magazynu domyślnego klienta!]]></value>
+		<value><![CDATA[Ostrzeżenie: tej grupy klientów nie można usunąć, ponieważ jest ona obecnie przypisana jako domyślna grupa klientów sklepu!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Ostrzeżenie: Ta grupa klientów nie może zostać usunięty, ponieważ jest aktualnie przypisany do %s sklepach!]]></value>
+		<value><![CDATA[Ostrzeżenie: tej grupy klientów nie można usunąć, ponieważ ona jest obecnie przypisana do %s sklepów!]]></value>
 	</definition>
 	<definition>
 		<key>error_customer</key>
-		<value><![CDATA[Ostrzeżenie: Ta grupa klientów nie może zostać usunięty, ponieważ jest aktualnie przypisany do %s klientów!]]></value>
+		<value><![CDATA[Ostrzeżenie: nie można usunąć tej grupy klientów, ponieważ jest obecnie przypisana do %s klientów!]]></value>
 	</definition>
 </definitions>

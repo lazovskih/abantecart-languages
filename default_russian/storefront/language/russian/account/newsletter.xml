@@ -1,28 +1,28 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Подписка на рассылку]]></value>
+		<value><![CDATA[Подписка на новости]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Аккаунт]]></value>
+		<value><![CDATA[Личный Кабинет]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Рассылка]]></value>
+		<value><![CDATA[Подписка на новости]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Успех: Ваша подписка на рассылку была успешно обновлена!]]></value>
+		<value><![CDATA[Ваша подписка успешно обновлена!]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
-		<value><![CDATA[Подписка:]]></value>
+		<value><![CDATA[Подписка на новости:]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_registration</key>
-		<value><![CDATA[Регистрация клиента]]></value>
+		<value><![CDATA[Зарегистрироваться как клиент]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
@@ -30,6 +30,6 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Не удалось подтвердить, что вы человек! Пожалуйста, попробуйте еще раз.]]></value>
+		<value><![CDATA[Набран неверный код с картинки!]]></value>
 	</definition>
 </definitions>

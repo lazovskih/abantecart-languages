@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[globale attributter]]></value>
+		<value><![CDATA[Globale attributter]]></value>
 	</definition>
 	<definition>
 		<key>text_attribute</key>
-		<value><![CDATA[globale egenskaper]]></value>
+		<value><![CDATA[Globalt attributt]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_select_parent</key>
-		<value><![CDATA[- Velg Parent -]]></value>
+		<value><![CDATA[- Velg forelder -]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -41,20 +41,24 @@
 		<value><![CDATA[Handling]]></value>
 	</definition>
 	<definition>
+		<key>column_txt_id</key>
+		<value><![CDATA[Unik Tekst-ID]]></value>
+	</definition>
+	<definition>
 		<key>entry_name</key>
 		<value><![CDATA[Navn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_parent</key>
-		<value><![CDATA[Attributt Parent:]]></value>
+		<value><![CDATA[Overordnet attributt:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_group</key>
-		<value><![CDATA[Egenskapsgruppe:]]></value>
+		<value><![CDATA[Attributtgruppe:]]></value>
 	</definition>
 	<definition>
 		<key>entry_attribute_type</key>
-		<value><![CDATA[Attributt Type:]]></value>
+		<value><![CDATA[Attributtype:]]></value>
 	</definition>
 	<definition>
 		<key>entry_element_type</key>
@@ -62,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>entry_element_values</key>
-		<value><![CDATA[Element Verdier:]]></value>
+		<value><![CDATA[Elementverdier:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -70,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Nødvendig:]]></value>
+		<value><![CDATA[Påkrevd:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -78,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>entry_children_attributes</key>
-		<value><![CDATA[Barn attributter:]]></value>
+		<value><![CDATA[Barneattributter:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -90,35 +94,35 @@
 	</definition>
 	<definition>
 		<key>error_required</key>
-		<value><![CDATA[Dette feltet er obligatorisk!]]></value>
+		<value><![CDATA[Dette feltet er påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>text_parent_note</key>
-		<value><![CDATA[Hvis dette er en forelder attributt med barn attributter, kan det bare være av typen SelectBox, Multiselect Box, boksen og Checkbox gruppe. <br/> Barn verdier kombinasjonen vil bli vist som ett sett.]]></value>
+		<value><![CDATA[Hvis dette er et overordnet attributt med underordnede attributter, kan det bare være av typen SelectBox, MultiSelect Box, Checkbox og Checkbox-gruppe.<br>Kombinasjonen av underordnede verdier vises som ett sett.]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_extensions</key>
-		<value><![CDATA[Tillatt filtyper (txt, jpg ...)]]></value>
+		<value><![CDATA[Tillatte filendelser (txt, jpg …)]]></value>
 	</definition>
 	<definition>
 		<key>entry_min_size</key>
-		<value><![CDATA[filstørrelse Min (Kb)]]></value>
+		<value><![CDATA[Min filstørrelse (Kb)]]></value>
 	</definition>
 	<definition>
 		<key>entry_max_size</key>
-		<value><![CDATA[filstørrelse Max (Kb)]]></value>
+		<value><![CDATA[Maks filstørrelse (Kb)]]></value>
 	</definition>
 	<definition>
 		<key>entry_upload_dir</key>
-		<value><![CDATA[Last opp katalognavn <br/> %s]]></value>
+		<value><![CDATA[Navn på opplastingskatalog<br>%s]]></value>
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
-		<value><![CDATA[Regular Expression Pattern for validering av verdier:]]></value>
+		<value><![CDATA[Regulært uttrykksmønster for validering av verdier:]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
-		<value><![CDATA[Feilmelding ugyldig Verdi:]]></value>
+		<value><![CDATA[Feilmelding om ugyldig verdi:]]></value>
 	</definition>
 	<definition>
 		<key>entry_placeholder</key>
@@ -130,23 +134,19 @@
 	</definition>
 	<definition>
 		<key>error_error_text</key>
-		<value><![CDATA[Feil tekst om ugyldig attributtverdi må være mellom 2 og 255 tegn!]]></value>
+		<value><![CDATA[Feilmelding om ugyldig attributtverdi må være mellom 2 og 255 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_regexp_pattern</key>
-		<value><![CDATA[Regular Expression Pattern er ugyldig!]]></value>
+		<value><![CDATA[Regulært uttrykksmønster er ugyldig!]]></value>
 	</definition>
 	<definition>
 		<key>entry_show_to_customer</key>
-		<value><![CDATA[Vis til Customer]]></value>
-	</definition>
-	<definition>
-		<key>column_txt_id</key>
-		<value><![CDATA[Unik tekst-ID]]></value>
+		<value><![CDATA[Vis for kunden]]></value>
 	</definition>
 	<definition>
 		<key>entry_price_prefix</key>
-		<value><![CDATA[Endre pris etter:]]></value>
+		<value><![CDATA[Endre pris med:]]></value>
 	</definition>
 	<definition>
 		<key>entry_price_modifier</key>
@@ -154,6 +154,6 @@
 	</definition>
 	<definition>
 		<key>error_not_unique</key>
-		<value><![CDATA[Verdi Tekst-ID er ikke unik!]]></value>
+		<value><![CDATA[Verditekst-ID er ikke unik!]]></value>
 	</definition>
 </definitions>

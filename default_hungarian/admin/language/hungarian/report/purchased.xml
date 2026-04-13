@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Vásárolt termékek Jelentés]]></value>
+		<value><![CDATA[Megvásárolt termékek jelentése]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[termék név]]></value>
+		<value><![CDATA[Termék neve]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
@@ -18,6 +18,6 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 </definitions>

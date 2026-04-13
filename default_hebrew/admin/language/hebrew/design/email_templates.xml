@@ -10,55 +10,51 @@
 	</definition>
 	<definition>
 		<key>column_text_id</key>
-		<value><![CDATA[מזהה טקסט של תבנית אימייל]]></value>
+		<value><![CDATA[מזהה טקסט תבנית הדוא"ל]]></value>
 	</definition>
 	<definition>
 		<key>column_language</key>
-		<value><![CDATA[שָׂפָה]]></value>
+		<value><![CDATA[שפה]]></value>
 	</definition>
 	<definition>
 		<key>column_subject</key>
-		<value><![CDATA[נוֹשֵׂא]]></value>
+		<value><![CDATA[נושא]]></value>
 	</definition>
 	<definition>
 		<key>button_save</key>
-		<value><![CDATA[לְהַצִיל]]></value>
+		<value><![CDATA[שמור]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[סטָטוּס: ]]></value>
-	</definition>
-	<definition>
-		<key>entry_text_id</key>
-		<value><![CDATA[מזהה טקסט: ]]></value>
+		<value><![CDATA[מצב:]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_id</key>
-		<value><![CDATA[שָׂפָה: ]]></value>
+		<value><![CDATA[שפה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_headers</key>
-		<value><![CDATA[כותרות מותאמות אישית: ]]></value>
+		<value><![CDATA[כותרות מותאמות אישית:]]></value>
 	</definition>
 	<definition>
 		<key>entry_subject</key>
-		<value><![CDATA[נוֹשֵׂא: ]]></value>
+		<value><![CDATA[נושא:]]></value>
 	</definition>
 	<definition>
 		<key>entry_html_body</key>
-		<value><![CDATA[גוף HTML: ]]></value>
+		<value><![CDATA[גוף HTML:]]></value>
 	</definition>
 	<definition>
 		<key>entry_text_body</key>
-		<value><![CDATA[גוף הטקסט: ]]></value>
+		<value><![CDATA[אין טקסט לתרגום.]]></value>
 	</definition>
 	<definition>
 		<key>entry_allowed_placeholders</key>
-		<value><![CDATA[מצייני מיקום מותרים: <br/><span class="help">רשימה מופרדת בתרדמת של שמות משתנים</span>]]></value>
+		<value><![CDATA[ממלאי מקום מותרים:<br /><span class="help">רשימה מופרדת בפסיקים של שמות משתנים</span>]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[השמירה הושלמה]]></value>
+		<value><![CDATA[שמירה הושלמה]]></value>
 	</definition>
 	<definition>
 		<key>save_error</key>
@@ -66,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>save_error_text_id</key>
-		<value><![CDATA[זיהוי טקסט נדרש וחייב להיות עד 254 תווים! מילה אחת. ערכות תווים: AZ az ו-_ ]]></value>
+		<value><![CDATA[מזהה הטקסט נדרש והאורך שלו עד 254 תווים! מילה אחת. ערכות תווים: A-Z a-z ו־_]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_id_unique</key>
-		<value><![CDATA[מזהה טקסט חייב להיות ייחודי!]]></value>
+		<value><![CDATA[מזהה הטקסט חייב להיות ייחודי!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_header</key>
@@ -78,22 +74,26 @@
 	</definition>
 	<definition>
 		<key>save_error_text_subject</key>
-		<value><![CDATA[נושא חובה וחייב להיות עד 254 תווים!]]></value>
+		<value><![CDATA[שדה הנושא נדרש ויכול להכיל עד 254 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_html_body</key>
-		<value><![CDATA[חובה גוף HTML!]]></value>
+		<value><![CDATA[גוף ה-HTML נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_text_body</key>
-		<value><![CDATA[נדרש גוף טקסט!]]></value>
+		<value><![CDATA[גוף הטקסט נדרש!]]></value>
 	</definition>
 	<definition>
 		<key>save_error_language_id</key>
-		<value><![CDATA[נדרשת שפה!]]></value>
+		<value><![CDATA[שפה נדרשת!]]></value>
 	</definition>
 	<definition>
 		<key>text_preview</key>
 		<value><![CDATA[תצוגה מקדימה]]></value>
+	</definition>
+	<definition>
+		<key>entry_text_id</key>
+		<value><![CDATA[מזהה טקסט:]]></value>
 	</definition>
 </definitions>

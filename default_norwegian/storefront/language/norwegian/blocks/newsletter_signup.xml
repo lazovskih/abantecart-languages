@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Meld deg på nyhetsbrev]]></value>
+		<value><![CDATA[Påmelding til nyhetsbrev]]></value>
 	</definition>
 	<definition>
 		<key>text_signup</key>
-		<value><![CDATA[Meld deg på vårt nyhetsbrev &amp; få attraktive tilbud ved å abonnere på vårt nyhetsbrev.]]></value>
+		<value><![CDATA[Meld deg på vårt nyhetsbrev & få attraktive tilbud ved å abonnere på våre nyhetsbrev.]]></value>
 	</definition>
 	<definition>
 		<key>text_sign_in</key>
@@ -18,6 +18,6 @@
 	</definition>
 	<definition>
 		<key>button_subscribe</key>
-		<value><![CDATA[Abonnere]]></value>
+		<value><![CDATA[Abonner]]></value>
 	</definition>
 </definitions>

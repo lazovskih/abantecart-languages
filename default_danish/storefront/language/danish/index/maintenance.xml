@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,6 +10,6 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<h1 style="text-align:center;"> Vi er i øjeblikket udfører nogle planlagt vedligeholdelse. <br/> Vi vil være tilbage så hurtigt som muligt. Vend tilbage snart. </h1>]]></value>
+		<value><![CDATA[<h1 style="text-align:center;">Vi udfører i øjeblikket planlagt vedligeholdelse. <br/>Vi er tilbage så hurtigt som muligt. Kom venligst snart tilbage.</h1>]]></value>
 	</definition>
 </definitions>

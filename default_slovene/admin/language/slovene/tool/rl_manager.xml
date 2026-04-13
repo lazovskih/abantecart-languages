@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,50 +6,50 @@
 	</definition>
 	<definition>
 		<key>text_rl_latest</key>
-		<value><![CDATA[Zadnje dodano viri]]></value>
+		<value><![CDATA[Najnovejši dodani viri]]></value>
 	</definition>
 	<definition>
 		<key>text_rl_type</key>
-		<value><![CDATA[Vrsta vira]]></value>
+		<value><![CDATA[vrsta vira]]></value>
 	</definition>
 	<definition>
 		<key>entry_type_name</key>
-		<value><![CDATA[Vrsta Resource Key <br/><span class="help">vrednost Ta vir ključ tip / ime ni mogoče spremeniti</span>]]></value>
+		<value><![CDATA[Ključ tipa vira<br/><span class="help">Ta vrednost ključa/ imena tipa vira ni mogoče spremeniti</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_default_directory</key>
-		<value><![CDATA[Imenik Resource <br/><span class="help">Directory vir lociranje za to vrsto. Če spremenila obstoječe vire ne bo acceccible in bo treba kopirati na nove imenik!</span>]]></value>
+		<value><![CDATA[Mapa virov<br/><span class="help">Mapa, ki določa lokacijo virov za ta tip. Če jo spremenite, obstoječi viri ne bodo dostopni in jih bo treba kopirati v novo mapo!</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_default_icon</key>
-		<value><![CDATA[Privzeta ikona <br/><span class="help">Icon sliko, ki bo prikazana na seznamu virov (Lokacija: /image/...).</span>]]></value>
+		<value><![CDATA[Privzeta ikona<br/><span class="help">Slika ikone, ki bo prikazana v seznamu virov (Lokacija: /image/... ).</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_types</key>
-		<value><![CDATA[Dovoljene končnice datotek <br/><span class="help">Regex s seznamom dovoljenih datotečnih pripon za to vrsto virov</span>]]></value>
+		<value><![CDATA[Dovoljene končnice datotek<br/><span class="help">Regularni izraz s seznamom dovoljenih končnic datotek za to vrsto vira</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Posodobili ste tip vir!]]></value>
+		<value><![CDATA[Uspeh: Posodobili ste vrsto vira!]]></value>
 	</definition>
 	<definition>
 		<key>error_missing_type_id</key>
-		<value><![CDATA[Napaka: Missing vir tip ID!]]></value>
+		<value><![CDATA[Napaka: Manjka ID vrste vira!]]></value>
 	</definition>
 	<definition>
 		<key>error_type_name</key>
-		<value><![CDATA[Napaka: ime, vrsta vira mora biti med 2 in 40 charcters]]></value>
+		<value><![CDATA[Napaka: Ime vrste vira mora biti dolgo med 2 in 40 znaki.]]></value>
 	</definition>
 	<definition>
 		<key>error_default_directory</key>
-		<value><![CDATA[Napaka: Vrsta vira imenik mora biti med 2 in 64 charcters]]></value>
+		<value><![CDATA[Napaka: mapa vrste vira mora biti dolga med 2 in 64 znaki]]></value>
 	</definition>
 	<definition>
 		<key>error_default_icon</key>
-		<value><![CDATA[Napaka: Vrsta vira ikona mora biti med 2 in 64 charcters]]></value>
+		<value><![CDATA[Napaka: ikona vrste vira mora biti dolga med 2 in 64 znaki]]></value>
 	</definition>
 	<definition>
 		<key>error_file_types</key>
-		<value><![CDATA[Napaka: Resource tip datoteke Razširitve regex mora biti med 2 in 40 charcters]]></value>
+		<value><![CDATA[Napaka: regularni izraz za pripone datotek vrste vira mora imeti med 2 in 40 znaki]]></value>
 	</definition>
 </definitions>

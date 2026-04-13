@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Återställ lösenord]]></value>
+		<value><![CDATA[%s - Återställning av lösenord]]></value>
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[En återställning av lösenord begärdes från %s.]]></value>
+		<value><![CDATA[En lösenordsåterställning begärdes från %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
-		<value><![CDATA[Om du vill återställa ditt lösenord, klicka länken nedan:]]></value>
+		<value><![CDATA[För att återställa ditt lösenord, klicka på länken nedan:]]></value>
 	</definition>
 	<definition>
 		<key>text_password_reset</key>
-		<value><![CDATA[Ditt lösenord har nollställts på %s.]]></value>
+		<value><![CDATA[Ditt lösenord återställdes framgångsrikt den %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_new_password</key>
@@ -22,6 +22,6 @@
 	</definition>
 	<definition>
 		<key>error_reset_token</key>
-		<value><![CDATA[Felaktig länk för lösenord begäran. Försök att återställa en gång och använd länken från den senaste e-post.]]></value>
+		<value><![CDATA[Felaktig länk för lösenordsbegäran. Försök återställa en gång till och använd länken från det senaste e-postmeddelandet.]]></value>
 	</definition>
 </definitions>

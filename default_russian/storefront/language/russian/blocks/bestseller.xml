@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>
-		<value><![CDATA[Смотрите самые продаваемые товары]]></value>
+		<value><![CDATA[Самые Популярные Товары]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>

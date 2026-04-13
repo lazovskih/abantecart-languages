@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[מזהה בלוק:]]></value>
+		<value><![CDATA[מזהה הבלוק:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_name</key>
-		<value><![CDATA[שֵׁם:]]></value>
+		<value><![CDATA[שם:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_controller</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_block_path</key>
-		<value><![CDATA[נָתִיב:]]></value>
+		<value><![CDATA[נתיב:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_template</key>
@@ -22,15 +22,15 @@
 	</definition>
 	<definition>
 		<key>text_block_parent</key>
-		<value><![CDATA[הוֹרֶה:]]></value>
+		<value><![CDATA[הורה:]]></value>
 	</definition>
 	<definition>
 		<key>text_parent_id</key>
-		<value><![CDATA[זיהוי אב:]]></value>
+		<value><![CDATA[מזהה הורה:]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[לִסְגוֹר]]></value>
+		<value><![CDATA[סגור]]></value>
 	</definition>
 	<definition>
 		<key>text_click</key>

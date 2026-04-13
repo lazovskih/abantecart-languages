@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Nákupný vozík]]></value>
+		<value><![CDATA[Nákupný košík]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
-		<value><![CDATA[košík]]></value>
+		<value><![CDATA[Košík]]></value>
 	</definition>
 	<definition>
 		<key>text_sub_total</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_weight</key>
-		<value><![CDATA[Košík Hmotnosť:]]></value>
+		<value><![CDATA[Hmotnosť košíka:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -22,23 +22,27 @@
 	</definition>
 	<definition>
 		<key>column_remove</key>
-		<value><![CDATA[odstrániť]]></value>
+		<value><![CDATA[Odstrániť]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
-		<value><![CDATA[obraz]]></value>
+		<value><![CDATA[Obrázok]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[názov]]></value>
+		<value><![CDATA[Meno]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
 		<value><![CDATA[Model]]></value>
 	</definition>
 	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[SKU]]></value>
+	</definition>
+	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[množstvo]]></value>
+		<value><![CDATA[Množstvo]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
@@ -46,59 +50,59 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[celkom]]></value>
+		<value><![CDATA[Spolu]]></value>
 	</definition>
 	<definition>
 		<key>text_continue_shopping</key>
-		<value><![CDATA[Pokračovať v nákupe]]></value>
+		<value><![CDATA[Pokračovať v nakupovaní]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_codes</key>
-		<value><![CDATA[Použiť Kupón Kód]]></value>
+		<value><![CDATA[Použiť kód kupónu]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipping_tax</key>
-		<value><![CDATA[Odhad Dodávky Dane]]></value>
+		<value><![CDATA[Odhad dopravy a daní]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_country</key>
-		<value><![CDATA[Krajina a stať]]></value>
+		<value><![CDATA[Krajina a štát]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_postcode</key>
-		<value><![CDATA[ZIP / PSČ]]></value>
+		<value><![CDATA[PSČ/Poštové smerovacie číslo]]></value>
 	</definition>
 	<definition>
 		<key>button_text_estimate</key>
-		<value><![CDATA[odhad]]></value>
+		<value><![CDATA[Odhad]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipments</key>
-		<value><![CDATA[zásielky]]></value>
+		<value><![CDATA[Zásielky]]></value>
 	</definition>
 	<definition>
 		<key>error_coupon</key>
-		<value><![CDATA[Chyba: Kupón je buď neplatné, ktorých platnosť skončila alebo dosiahla je to obmedzenie použitia!]]></value>
+		<value><![CDATA[Chyba: Kupón je buď neplatný, vypršaný alebo dosiahol svoj limit použitia!]]></value>
 	</definition>
 	<definition>
 		<key>error_stock</key>
-		<value><![CDATA[Výrobky označené *** nie sú k dispozícii v požadovanom množstve, alebo je vypredaný!]]></value>
+		<value><![CDATA[Produkty označené *** nie sú k dispozícii v požadovanom množstve alebo sú vypredané!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_options</key>
-		<value><![CDATA[Prosím, vyberte všetky požadované možnosti!]]></value>
+		<value><![CDATA[Prosím, vyberte všetky povinné možnosti!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_minimum</key>
-		<value><![CDATA[Vaša objednávka nižšia ako celková suma nespĺňa minimálnu výšku %s požadované. Prosím, pridajte ďalšie produkty do nákupného košíka!]]></value>
+		<value><![CDATA[Medzisúčet vašej objednávky nedosahuje požadovanú minimálnu čiastku %s. Prosím, pridajte do košíka viac produktov!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_maximum</key>
-		<value><![CDATA[Vaša objednávka nižšia ako celková suma presahuje maximálnu výšku %s povolenú na objednávku. Odstráňte niektoré položky z košíka!]]></value>
+		<value><![CDATA[Váš medzisúčet objednávky prekračuje maximálnu povolenú sumu %s na jednu objednávku. Prosím, odstráňte niektoré položky z Vášho košíka!]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_data</key>
-		<value><![CDATA[dátový súbor je poškodený alebo prázdne.]]></value>
+		<value><![CDATA[Údaje súboru sú poškodené alebo prázdne.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_name</key>
@@ -106,19 +110,19 @@
 	</definition>
 	<definition>
 		<key>error_file_extension</key>
-		<value><![CDATA[Iba súbory s príponou (y) %s je (sú) povolený!]]></value>
+		<value><![CDATA[Povolené sú iba súbory s príponou %s!]]></value>
 	</definition>
 	<definition>
 		<key>error_min_file_size</key>
-		<value><![CDATA[Minimálna veľkosť súboru pre upload je %s Kb.]]></value>
+		<value><![CDATA[Minimálna veľkosť súboru na nahratie je %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>error_max_file_size</key>
-		<value><![CDATA[Maximálna veľkosť súboru pre upload je %s Kb.]]></value>
+		<value><![CDATA[Maximálna veľkosť súboru na nahratie je %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_success</key>
-		<value><![CDATA[Úspech: Váš kupón zľava bola použitá!]]></value>
+		<value><![CDATA[Úspech: Vaša kupónová zľava bola uplatnená!]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_removal</key>
@@ -126,14 +130,10 @@
 	</definition>
 	<definition>
 		<key>error_quantity_maximum</key>
-		<value><![CDATA[povoleného množstva produktu prekračuje. Množstvo bola nastavená na maximum.]]></value>
+		<value><![CDATA[Povolené množstvo produktu bolo prekročené. Množstvo bolo nastavené na maximum.]]></value>
 	</definition>
 	<definition>
 		<key>error_quantity_minimum</key>
-		<value><![CDATA[povoleného množstva výrobku je nižšia ako požadované minimum. Množstvo bola nastavená na minimálnu výšku.]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
+		<value><![CDATA[Povolené množstvo produktu je nižšie ako požadované minimum. Množstvo bolo nastavené na minimálnu hodnotu.]]></value>
 	</definition>
 </definitions>

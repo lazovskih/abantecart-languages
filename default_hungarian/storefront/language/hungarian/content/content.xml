@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
-	<definition>
-		<key>text_error</key>
-		<value><![CDATA[Információs oldal nem található!]]></value>
-	</definition>
 	<definition>
 		<key>heading_title</key>
 		<value><![CDATA[Tartalmi oldalak]]></value>
@@ -14,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_published</key>
-		<value><![CDATA[Közzétett:]]></value>
+		<value><![CDATA[Közzétéve:]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -30,6 +26,10 @@
 	</definition>
 	<definition>
 		<key>content_not_found</key>
-		<value><![CDATA[Nem található tartalom. Próbáld újra.]]></value>
+		<value><![CDATA[Nem található tartalom. Próbálja újra.]]></value>
+	</definition>
+	<definition>
+		<key>text_error</key>
+		<value><![CDATA[Információs oldal nem található!]]></value>
 	</definition>
 </definitions>

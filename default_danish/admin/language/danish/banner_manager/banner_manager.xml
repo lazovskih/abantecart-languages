@@ -21,7 +21,7 @@
 	</definition>
 	<definition>
 		<key>column_banner_id</key>
-		<value><![CDATA[ Id ]]></value>
+		<value><![CDATA[Id]]></value>
 	</definition>
 	<definition>
 		<key>column_banner_name</key>
@@ -33,11 +33,11 @@
 	</definition>
 	<definition>
 		<key>column_banner_type</key>
-		<value><![CDATA[ Type ]]></value>
+		<value><![CDATA[Type]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[ Status ]]></value>
+		<value><![CDATA[Status]]></value>
 	</definition>
 	<definition>
 		<key>column_update_date</key>
@@ -73,7 +73,7 @@
 	</definition>
 	<definition>
 		<key>entry_banner_status</key>
-		<value><![CDATA[ Status: ]]></value>
+		<value><![CDATA[Status:]]></value>
 	</definition>
 	<definition>
 		<key>entry_banner_group_name</key>
@@ -93,7 +93,7 @@
 	</definition>
 	<definition>
 		<key>entry_banner_url</key>
-		<value><![CDATA[ URL: ]]></value>
+		<value><![CDATA[URL:]]></value>
 	</definition>
 	<definition>
 		<key>entry_banner_blank</key>
@@ -141,7 +141,7 @@
 	</definition>
 	<definition>
 		<key>text_banner</key>
-		<value><![CDATA[ Banner ]]></value>
+		<value><![CDATA[Banner]]></value>
 	</definition>
 	<definition>
 		<key>entry_banners_selected</key>

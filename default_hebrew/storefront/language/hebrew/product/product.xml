@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_enlarge</key>
-		<value><![CDATA[לחצו על התמונה להגדלה]]></value>
+		<value><![CDATA[לחץ על התמונה להגדלה]]></value>
 	</definition>
 	<definition>
 		<key>text_zoom</key>
-		<value><![CDATA[העבר את המצביע מעל התמונה כדי להגדיל]]></value>
+		<value><![CDATA[העבר את הסמן מעל התמונה כדי להגדיל אותה]]></value>
+	</definition>
+	<definition>
+		<key>text_quantity_discount</key>
+		<value><![CDATA[הנחת כמות:]]></value>
 	</definition>
 	<definition>
 		<key>text_options</key>
@@ -14,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[מוצר לא נמצא!]]></value>
+		<value><![CDATA[המוצר לא נמצא!]]></value>
 	</definition>
 	<definition>
 		<key>text_price</key>
@@ -26,31 +30,39 @@
 	</definition>
 	<definition>
 		<key>text_model</key>
-		<value><![CDATA[דֶגֶם:]]></value>
+		<value><![CDATA[דגם:]]></value>
+	</definition>
+	<definition>
+		<key>text_sku</key>
+		<value><![CDATA[מק"ט:]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[יַצרָן:]]></value>
+		<value><![CDATA[מותג:]]></value>
 	</definition>
 	<definition>
 		<key>text_instock</key>
 		<value><![CDATA[במלאי]]></value>
 	</definition>
 	<definition>
+		<key>text_out_of_stock</key>
+		<value><![CDATA[אזל מהמלאי]]></value>
+	</definition>
+	<definition>
 		<key>text_order_quantity</key>
-		<value><![CDATA[כמות ההזמנה]]></value>
+		<value><![CDATA[כמות הזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_price_per_item</key>
-		<value><![CDATA[מחיר לכל פריט]]></value>
+		<value><![CDATA[מחיר לפריט]]></value>
 	</definition>
 	<definition>
 		<key>text_write</key>
-		<value><![CDATA[כתוב סקירה]]></value>
+		<value><![CDATA[כתוב ביקורת]]></value>
 	</definition>
 	<definition>
 		<key>text_no_reviews</key>
-		<value><![CDATA[אין ביקורות עבור מוצר זה.]]></value>
+		<value><![CDATA[אין ביקורות למוצר זה.]]></value>
 	</definition>
 	<definition>
 		<key>text_average</key>
@@ -62,15 +74,15 @@
 	</definition>
 	<definition>
 		<key>text_no_rating</key>
-		<value><![CDATA[לא מדורג]]></value>
+		<value><![CDATA[לא דורג]]></value>
 	</definition>
 	<definition>
 		<key>text_no_images</key>
-		<value><![CDATA[אין תמונות נוספות עבור מוצר זה.]]></value>
+		<value><![CDATA[אין תמונות נוספות למוצר זה.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_related</key>
-		<value><![CDATA[אין מוצרים קשורים עבור מוצר זה.]]></value>
+		<value><![CDATA[אין מוצרים קשורים למוצר זה.]]></value>
 	</definition>
 	<definition>
 		<key>text_qty</key>
@@ -78,59 +90,59 @@
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[<span style="color: #FF0000;">הערה:</span> אין להשתמש ב- HTML בטקסט.]]></value>
+		<value><![CDATA[הערה: אל תשתמש ב-HTML בטקסט.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[תודה לעיונכם. זה כבר הגיש למנהל האתר לאישור.]]></value>
+		<value><![CDATA[תודה על הביקורת שלך. היא הוגשה למנהל האתר לאישור.]]></value>
 	</definition>
 	<definition>
 		<key>text_wait</key>
-		<value><![CDATA[המתן בבקשה!]]></value>
+		<value><![CDATA[אנא המתן!]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[חפש]]></value>
+		<value><![CDATA[חיפוש]]></value>
 	</definition>
 	<definition>
 		<key>text_tags</key>
-		<value><![CDATA[תגיות:]]></value>
+		<value><![CDATA[תגים:]]></value>
 	</definition>
 	<definition>
 		<key>text_minimum</key>
-		<value><![CDATA[(יש מוצר זה כמות מינימלית של %s)]]></value>
+		<value><![CDATA[(למוצר הזה יש כמות מינימלית של %s)]]></value>
 	</definition>
 	<definition>
 		<key>text_maximum</key>
-		<value><![CDATA[(יש מוצר זה גבול מוגדר פריט %s (ים) לפי סדר)]]></value>
+		<value><![CDATA[(לפריט זה הוגדרה הגבלה של %s פריט(ים) להזמנה)]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[השם שלך:]]></value>
+		<value><![CDATA[שמך:]]></value>
 	</definition>
 	<definition>
 		<key>entry_review</key>
-		<value><![CDATA[חוות דעת:]]></value>
+		<value><![CDATA[הביקורת שלך:]]></value>
 	</definition>
 	<definition>
 		<key>entry_rating</key>
-		<value><![CDATA[דֵרוּג:]]></value>
+		<value><![CDATA[דירוג:]]></value>
 	</definition>
 	<definition>
 		<key>entry_good</key>
-		<value><![CDATA[טוֹב]]></value>
+		<value><![CDATA[טוב]]></value>
 	</definition>
 	<definition>
 		<key>entry_bad</key>
-		<value><![CDATA[רַע]]></value>
+		<value><![CDATA[רע]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[הקלד את הקוד המופיע בתמונה שלפניך:]]></value>
+		<value><![CDATA[הזן את הקוד בתיבה שלמטה:]]></value>
 	</definition>
 	<definition>
 		<key>tab_description</key>
-		<value><![CDATA[תאור]]></value>
+		<value><![CDATA[תיאור]]></value>
 	</definition>
 	<definition>
 		<key>tab_image</key>
@@ -141,16 +153,20 @@
 		<value><![CDATA[ביקורות (%s)]]></value>
 	</definition>
 	<definition>
+		<key>tab_review_empty</key>
+		<value><![CDATA[ביקורות]]></value>
+	</definition>
+	<definition>
 		<key>tab_related</key>
 		<value><![CDATA[מוצרים קשורים]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[שגיאה: סקירה שם חייב להיות בין 3 ל -25 תווים!]]></value>
+		<value><![CDATA[שגיאה: שם הביקורת חייב להיות בין 3 ל-25 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[שגיאה: טקסט סקירה חייב להיות בין 25 ל 1000 תווים!]]></value>
+		<value><![CDATA[שגיאה: טקסט הביקורת חייב להיות בין 25 ל-1000 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
@@ -158,11 +174,11 @@
 	</definition>
 	<definition>
 		<key>text_total_price</key>
-		<value><![CDATA[מחיר סופי:]]></value>
+		<value><![CDATA[מחיר כולל:]]></value>
 	</definition>
 	<definition>
 		<key>text_login_view_price</key>
-		<value><![CDATA[אנא התחבר או הירשם כדי לראות מחירים או להורות.]]></value>
+		<value><![CDATA[אנא היכנס או הירשם כדי לראות מחיר או לבצע הזמנה.]]></value>
 	</definition>
 	<definition>
 		<key>tab_downloads</key>
@@ -170,31 +186,15 @@
 	</definition>
 	<definition>
 		<key>text_start_download</key>
-		<value><![CDATA[התחל הורדה]]></value>
+		<value><![CDATA[התחל בהורדה]]></value>
 	</definition>
 	<definition>
 		<key>text_new_review</key>
-		<value><![CDATA[אישור חוות דעת על מוצר תלוי ועומד]]></value>
+		<value><![CDATA[אישור סקירת המוצר ממתין]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_review_approval</key>
-		<value><![CDATA[סקירה למוצר id %s היא פורסמה. פעולת אישור נדרשה! לחץ לצפיה # מנהל #admin#rt=catalog/review/update&review_id=%s]]></value>
-	</definition>
-	<definition>
-		<key>text_quantity_discount</key>
-		<value><![CDATA[הנחה בכמות:]]></value>
-	</definition>
-	<definition>
-		<key>text_sku</key>
-		<value><![CDATA[מק&quot;ט:]]></value>
-	</definition>
-	<definition>
-		<key>text_out_of_stock</key>
-		<value><![CDATA[אזל מהמלאי]]></value>
-	</definition>
-	<definition>
-		<key>tab_review_empty</key>
-		<value><![CDATA[ביקורות]]></value>
+		<value><![CDATA[הביקורת עבור מוצר עם מזהה %s פורסמה. נדרשת פעולה לאישור! לחץ כדי לצפות #admin#rt=catalog/review/update&review_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>text_verified_review</key>
@@ -202,7 +202,7 @@
 	</definition>
 	<definition>
 		<key>percentage_review</key>
-		<value><![CDATA[מהקונים המליצו על כך.]]></value>
+		<value><![CDATA[מתוך הקונים המליצו על כך.]]></value>
 	</definition>
 	<definition>
 		<key>feedback_customer_title</key>

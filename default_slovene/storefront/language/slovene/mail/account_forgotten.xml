@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
@@ -6,22 +6,22 @@
 	</definition>
 	<definition>
 		<key>text_greeting</key>
-		<value><![CDATA[Za ponastavitev gesla zahtevale od %s.]]></value>
+		<value><![CDATA[Ponastavitev gesla je bila zahtevana od %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
-		<value><![CDATA[Spodaj ponastavitev gesla klikni povezavo:]]></value>
+		<value><![CDATA[Za ponastavitev vašega gesla kliknite na spodnjo povezavo:]]></value>
 	</definition>
 	<definition>
 		<key>text_password_reset</key>
-		<value><![CDATA[Vaše geslo je bilo uspešno ponastavitev %s.]]></value>
+		<value><![CDATA[Vaše geslo je bilo uspešno ponastavljeno dne %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_new_password</key>
-		<value><![CDATA[Spodaj vnesite novo geslo:]]></value>
+		<value><![CDATA[Vnesite spodaj novo geslo:]]></value>
 	</definition>
 	<definition>
 		<key>error_reset_token</key>
-		<value><![CDATA[Nepravilna povezava za zahtevo gesla. Poskusite ponastaviti še enkrat in uporabite povezavo iz najnovejših e-pošte.]]></value>
+		<value><![CDATA[Neveljavna povezava za zahtevo za geslo. Poskusite ponastaviti geslo še enkrat in uporabite povezavo iz najnovejšega e-poštnega sporočila.]]></value>
 	</definition>
 </definitions>

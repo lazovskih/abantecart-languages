@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>im_text_notification</key>
@@ -6,11 +6,15 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update</key>
-		<value><![CDATA[Aktualizacje Zamówienie]]></value>
+		<value><![CDATA[Aktualizacje zamówień]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_customer</key>
-		<value><![CDATA[Twoje zamówienie <a href="%s">#%s</a> został zaktualizowany. Aby uzyskać więcej informacji, zaloguj się do konta %s.]]></value>
+		<value><![CDATA[Twoje zamówienie <a href="%s">#%s</a> zostało zaktualizowane. Aby uzyskać więcej szczegółów, zaloguj się na konto %s.]]></value>
+	</definition>
+	<definition>
+		<key>im_order_update_text_to_guest</key>
+		<value><![CDATA[Twoje zamówienie <a href="%s">#%s</a> zostało zaktualizowane. Aby uzyskać więcej informacji, odwiedź stronę zamówienia %s.]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_order</key>
@@ -18,23 +22,23 @@
 	</definition>
 	<definition>
 		<key>im_new_order_text_to_admin</key>
-		<value><![CDATA[New Order <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> został stworzony!]]></value>
+		<value><![CDATA[Nowe zamówienie <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> zostało utworzone!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_customer</key>
-		<value><![CDATA[Zgłoszenia klientów]]></value>
+		<value><![CDATA[Rejestracje klientów]]></value>
 	</definition>
 	<definition>
 		<key>im_new_customer_text_to_admin</key>
-		<value><![CDATA[Nowy klient #%s zostało zarejestrowane!]]></value>
+		<value><![CDATA[Nowy klient #%s został zarejestrowany!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_account_update</key>
-		<value><![CDATA[Aktualizacje konta administratora]]></value>
+		<value><![CDATA[Aktualizacje konta użytkownika administratora]]></value>
 	</definition>
 	<definition>
 		<key>im_account_update_text_to_admin</key>
-		<value><![CDATA[Twoje dane konta administratora zostały zmienione.]]></value>
+		<value><![CDATA[Szczegóły Twojego konta administratora zostały zmienione.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_admin</key>
@@ -46,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_out_of_stock</key>
-		<value><![CDATA[Produkty niedostepny]]></value>
+		<value><![CDATA[Produkty niedostępne]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_review</key>
-		<value><![CDATA[Nowe opinie o produkcie]]></value>
+		<value><![CDATA[Nowe recenzje produktów]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter</key>
@@ -62,30 +66,26 @@
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_customer</key>
-		<value><![CDATA[Nowa transakcja została wysłana do Twojego %s rachunek w wysokości %s. Aby uzyskać więcej informacji, zaloguj się do konta %s.]]></value>
+		<value><![CDATA[Nowa transakcja została zaksięgowana na Twoim koncie %s w kwocie %s. Aby uzyskać więcej szczegółów, zaloguj się na konto %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_notification_for</key>
-		<value><![CDATA[Powiadomienia dla użytkowników %s]]></value>
+		<value><![CDATA[Powiadomienia dla użytkownika %s]]></value>
 	</definition>
 	<definition>
 		<key>error_unknown_sendpoint</key>
-		<value><![CDATA[Sendpoint %s nie znalazł się na liście sendpoints!]]></value>
+		<value><![CDATA[Sendpoint %s nie został znaleziony na liście sendpointów!]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_success_saved</key>
-		<value><![CDATA[Ustawienia powiadomień zostały zapisane!]]></value>
+		<value><![CDATA[Ustawienia powiadomień zostały pomyślnie zapisane!]]></value>
 	</definition>
 	<definition>
 		<key>im_error_mail_address</key>
-		<value><![CDATA[Adres e-mail %s wygląda nieważne!]]></value>
-	</definition>
-	<definition>
-		<key>im_order_update_text_to_guest</key>
-		<value><![CDATA[Twoje zamówienie <a href="%s">#%s</a> został zaktualizowany. Aby uzyskać więcej informacji, prosimy odwiedzić stronę zlecenia %s.]]></value>
+		<value><![CDATA[Adres e-mail %s wygląda na nieprawidłowy!]]></value>
 	</definition>
 	<definition>
 		<key>im_threshold</key>
-		<value><![CDATA[Minimalny próg zapasów]]></value>
+		<value><![CDATA[Minimalny próg stanu magazynowego]]></value>
 	</definition>
 </definitions>

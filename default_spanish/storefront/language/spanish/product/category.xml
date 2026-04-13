@@ -2,15 +2,15 @@
 <definitions>
 	<definition>
 		<key>text_product</key>
-		<value><![CDATA[Products]]></value>
+		<value><![CDATA[Productos]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Category not found!]]></value>
+		<value><![CDATA[Categoría no encontrada!]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[There are no products to list in this category.]]></value>
+		<value><![CDATA[No hay productos para listar en esta categoría.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
@@ -18,38 +18,38 @@
 	</definition>
 	<definition>
 		<key>text_sort</key>
-		<value><![CDATA[Sort By:]]></value>
-	</definition>
-	<definition>
-		<key>text_default</key>
-		<value><![CDATA[Default]]></value>
+		<value><![CDATA[Ordenado por:]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Name A - Z]]></value>
+		<value><![CDATA[Nombre A - Z]]></value>
+	</definition>
+	<definition>
+		<key>text_default</key>
+		<value><![CDATA[Defecto]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Name Z - A]]></value>
+		<value><![CDATA[Nombre Z - A]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Price Low &gt; High]]></value>
+		<value><![CDATA[Precio menor &gt; mayor]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Price High &gt; Low]]></value>
+		<value><![CDATA[Precio mayor &lt; menor]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Rating Lowest]]></value>
+		<value><![CDATA[Votación más baja]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Rating Highest]]></value>
+		<value><![CDATA[Votación más alta]]></value>
 	</definition>
 	<definition>
 		<key>text_top_category</key>
-		<value><![CDATA[Top Category]]></value>
+		<value><![CDATA[Top Categoría]]></value>
 	</definition>
 </definitions>

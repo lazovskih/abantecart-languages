@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_cheque_name</key>
-		<value><![CDATA[Šek / peňažný príkaz]]></value>
+		<value><![CDATA[Šek / Peňažný poukaz]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Upravili ste podrobnosti účtu šeku / peňažného príkazu!]]></value>
+		<value><![CDATA[Úspech: upravili ste údaje účtu šeku / poštového poukazu!]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_payable</key>
-		<value><![CDATA[Splatné: <br/><span class="help">Uveďte meno, na ktoré je potrebné zapísať šek</span>]]></value>
+		<value><![CDATA[Vyplatiť na:<br /><span class="help">Uveďte meno, na ktoré má byť šek vystavený</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_address</key>
-		<value><![CDATA[Mail alebo Send To: <br/><span class="help">Zadajte adresu, kam sa má poslať šek. Ak je prázdna, použije sa adresa hlavnej predajne</span>]]></value>
+		<value><![CDATA[Poslať poštou alebo zaslať na:<br /><span class="help">Uveďte adresu, kam odoslať šek. Ak je prázdne, použije sa adresa hlavného obchodu.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_order_status_id</key>
@@ -26,18 +26,18 @@
 	</definition>
 	<definition>
 		<key>default_cheque_location_id</key>
-		<value><![CDATA[miesto:]]></value>
+		<value><![CDATA[Umiestnenie:]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_location_id_0</key>
-		<value><![CDATA[Všetky miesta]]></value>
+		<value><![CDATA[Všetky lokality]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornenie: Nemáte povolenie na úpravu platobného šeku / peňažného príkazu!]]></value>
+		<value><![CDATA[Varovanie: Nemáte oprávnenie upravovať platobný šek / poštový poukaz!]]></value>
 	</definition>
 	<definition>
 		<key>error_payable</key>
-		<value><![CDATA[Splatné na povinné!]]></value>
+		<value><![CDATA[Príjemca platby je povinný!]]></value>
 	</definition>
 </definitions>

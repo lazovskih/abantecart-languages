@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[nahrávanie súborov]]></value>
+		<value><![CDATA[Nahrávanie súborov]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Dátum pridané]]></value>
+		<value><![CDATA[Dátum pridania]]></value>
 	</definition>
 	<definition>
 		<key>column_path</key>
-		<value><![CDATA[súbor]]></value>
+		<value><![CDATA[Súbor]]></value>
 	</definition>
 	<definition>
 		<key>column_section</key>
-		<value><![CDATA[časť]]></value>
+		<value><![CDATA[Sekcia]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>

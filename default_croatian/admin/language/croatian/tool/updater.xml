@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_checkupdates</key>
-		<value><![CDATA[provjeriti ažuriranja]]></value>
+		<value><![CDATA[provjeri ima li ažuriranja]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[Tip]]></value>
+		<value><![CDATA[Vrsta]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Proširenja uspješno je ažuriran!]]></value>
+		<value><![CDATA[Uspjeh: Proširenja su uspješno ažurirana!]]></value>
 	</definition>
 	<definition>
 		<key>text_update</key>
@@ -46,58 +46,58 @@
 	</definition>
 	<definition>
 		<key>entry_restore_exts</key>
-		<value><![CDATA[Vrati backuped proširenje:]]></value>
+		<value><![CDATA[Obnovi proširenje iz sigurnosne kopije:]]></value>
 	</definition>
 	<definition>
 		<key>entry_update</key>
-		<value><![CDATA[Nadogradnje:]]></value>
+		<value><![CDATA[Ažuriranja:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu katalog:]]></value>
+		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu direktorija:]]></value>
 	</definition>
 	<definition>
 		<key>warning_server</key>
-		<value><![CDATA[Server sa promjenama je inaccesible.]]></value>
+		<value><![CDATA[Server s ažuriranjima nije dostupan.]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_title</key>
-		<value><![CDATA[Obavijest ažuriranje za% PROŠIRENJE%]]></value>
+		<value><![CDATA[Obavijest o ažuriranju za %EXTENSION%]]></value>
 	</definition>
 	<definition>
 		<key>text_notice_text</key>
-		<value><![CDATA[&#39;Nova verzija proširenje &quot;% PROŠIRENJE%&quot; je dostupna. Molimo idite na% LINK% i nadograditi.]]></value>
+		<value><![CDATA[Nova verzija ekstenzije "%EXTENSION%" je dostupna. Molimo, idite na %LINK% i nadogradite je.]]></value>
 	</definition>
 	<definition>
 		<key>warning_updates</key>
-		<value><![CDATA[Ne mogu dobiti informacije o novostima.]]></value>
+		<value><![CDATA[Ne mogu dobiti informacije o ažuriranjima.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[Upozorenje: Datoteka koju ste prenijeli je prazna!]]></value>
+		<value><![CDATA[Upozorenje: datoteka koju ste prenijeli je bila prazna!]]></value>
 	</definition>
 	<definition>
 		<key>error_exts_list</key>
-		<value><![CDATA[Upozorenje: Popis Proširenje nije niz!]]></value>
+		<value><![CDATA[Upozorenje: popis proširenja nije niz!]]></value>
 	</definition>
 	<definition>
 		<key>text_nothing_todo</key>
-		<value><![CDATA[Vaša&#39;S proširenja do danas. Ništa za raditi.]]></value>
+		<value><![CDATA[Vaša proširenja su ažurirana. Nema ništa za napraviti.]]></value>
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Spojiti]]></value>
+		<value><![CDATA[Poveži]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect</key>
-		<value><![CDATA[Povezivanje na tržištu]]></value>
+		<value><![CDATA[Povežite se na tržište]]></value>
 	</definition>
 	<definition>
 		<key>text_marketplace_connect_your_store</key>
-		<value><![CDATA[Molimo spojiti svoj Store na tržište]]></value>
+		<value><![CDATA[Molimo povežite vašu trgovinu s tržnicom.]]></value>
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[Napomena: Ažuriranje je dostupno samo za spojenih prodavaonicama pretežno kupili povijesti.]]></value>
+		<value><![CDATA[Napomena: Ažuriranje je dostupno samo za povezane trgovine s poviješću kupnje.]]></value>
 	</definition>
 </definitions>

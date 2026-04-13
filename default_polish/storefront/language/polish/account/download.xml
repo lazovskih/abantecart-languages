@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[konto pobrania]]></value>
+		<value><![CDATA[Pobrania konta]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_downloads</key>
-		<value><![CDATA[pliki do pobrania]]></value>
+		<value><![CDATA[Pobrania]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Numer zamówienia:]]></value>
+		<value><![CDATA[ID zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_remaining</key>
-		<value><![CDATA[Pozostały:]]></value>
+		<value><![CDATA[Pozostało:]]></value>
 	</definition>
 	<definition>
 		<key>text_size</key>
@@ -38,23 +38,23 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Pobieranie]]></value>
+		<value><![CDATA[Pobierz]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Nie dokonano żadnych wcześniejszych pobrania rozkazy!]]></value>
+		<value><![CDATA[Nie złożyłeś żadnych wcześniejszych zamówień do pobrania!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
-		<value><![CDATA[Data ważności:]]></value>
+		<value><![CDATA[Data wygaśnięcia:]]></value>
 	</definition>
 	<definition>
 		<key>text_expired</key>
-		<value><![CDATA[Przedawniony]]></value>
+		<value><![CDATA[Wygasły]]></value>
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[W oczekiwaniu]]></value>
+		<value><![CDATA[Oczekujące]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[konto Login]]></value>
+		<value><![CDATA[Konto-login]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Registrer konto]]></value>
+		<value><![CDATA[Opret konto]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Log på]]></value>
+		<value><![CDATA[Log ind]]></value>
 	</definition>
 	<definition>
 		<key>text_i_am_new_customer</key>
@@ -18,15 +18,15 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Kassen Valg:]]></value>
+		<value><![CDATA[Kasseindstillinger:]]></value>
 	</definition>
 	<definition>
 		<key>text_guest</key>
-		<value><![CDATA[gæst bestilling]]></value>
+		<value><![CDATA[Gæsteudtjekning]]></value>
 	</definition>
 	<definition>
 		<key>text_create_account</key>
-		<value><![CDATA[Ved at oprette en konto, vil du kunne handle hurtigere, være up to date på en ordre status, og holde styr på de ordrer du tidligere har lavet.]]></value>
+		<value><![CDATA[Ved at oprette en konto kan du handle hurtigere, holde dig opdateret om en ordres status og holde styr på de ordrer, du tidligere har afgivet.]]></value>
 	</definition>
 	<definition>
 		<key>text_returning_customer</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>text_forgotten_login</key>
-		<value><![CDATA[Har du glemt dit login?]]></value>
+		<value><![CDATA[Glemt din login?]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_password</key>
@@ -46,11 +46,11 @@
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Login-navn:]]></value>
+		<value><![CDATA[Brugernavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email_address</key>
-		<value><![CDATA[Email adresse:]]></value>
+		<value><![CDATA[E-mailadresse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -58,18 +58,22 @@
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Fejl: Forkert login eller kodeord forudsat.]]></value>
+		<value><![CDATA[Fejl: Forkert login eller adgangskode angivet.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_activated</key>
-		<value><![CDATA[Succes: Din konto blev aktiveret med succes. Log på med dine legitimationsoplysninger.]]></value>
+		<value><![CDATA[Succes: Din konto blev aktiveret med succes. Log ind med dine adgangsoplysninger.]]></value>
 	</definition>
 	<definition>
 		<key>text_already_activated</key>
-		<value><![CDATA[Din konto er allerede aktiveret. Log på med dine legitimationsoplysninger.]]></value>
+		<value><![CDATA[Din konto er allerede aktiveret. Log venligst ind med dine adgangsoplysninger.]]></value>
 	</definition>
 	<definition>
 		<key>text_resend_activation_email</key>
-		<value><![CDATA[Fejl: Din e-mail-adresse blev endnu ikke bekræftet. For at sende ny bekræftelsesmail du klikke på dette <a href=" %s ">link</a>]]></value>
+		<value><![CDATA[Fejl: Din e-mailadresse er endnu ikke bekræftet. For at gensende en ny bekræftelses-e-mail, klik venligst på dette <a href=" %s ">link</a>]]></value>
+	</definition>
+	<definition>
+		<key>welcome_unauth_customer</key>
+		<value><![CDATA[Velkommen %s, log venligst ind på din konto eller <a href="%s">fortsæt med at gennemse som gæst</a>]]></value>
 	</definition>
 </definitions>

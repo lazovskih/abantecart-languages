@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Moja zgodovina naročil]]></value>
+		<value><![CDATA[Zgodovina mojih naročil]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Številka naročila:]]></value>
+		<value><![CDATA[ID naročila:]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
@@ -22,15 +22,15 @@
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum vpisa:]]></value>
+		<value><![CDATA[Datum dodajanja:]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[stranka:]]></value>
+		<value><![CDATA[Kupec:]]></value>
 	</definition>
 	<definition>
 		<key>text_products</key>
-		<value><![CDATA[izdelki:]]></value>
+		<value><![CDATA[Izdelki:]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
@@ -38,6 +38,6 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Vi niste nobenih prejšnjih naročil!]]></value>
+		<value><![CDATA[Še niste oddali nobenih prejšnjih naročil!]]></value>
 	</definition>
 </definitions>

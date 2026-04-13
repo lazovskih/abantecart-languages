@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[datoteke izdelek]]></value>
+		<value><![CDATA[Datoteke izdelka]]></value>
 	</definition>
 	<definition>
 		<key>text_product</key>
@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_edit_product_file</key>
-		<value><![CDATA[Urejanje datoteke izdelka]]></value>
+		<value><![CDATA[Uredi datoteko izdelka]]></value>
 	</definition>
 	<definition>
 		<key>tab_files</key>
-		<value><![CDATA[datoteke]]></value>
+		<value><![CDATA[Datoteke]]></value>
 	</definition>
 	<definition>
 		<key>tab_general</key>
-		<value><![CDATA[splošno]]></value>
+		<value><![CDATA[Splošno]]></value>
 	</definition>
 	<definition>
 		<key>tab_attributes</key>
-		<value><![CDATA[Prenos atributi]]></value>
+		<value><![CDATA[Prenesi atribute]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_icon</key>
@@ -34,23 +34,23 @@
 	</definition>
 	<definition>
 		<key>entry_resource</key>
-		<value><![CDATA[Resource]]></value>
+		<value><![CDATA[Vir]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[ime]]></value>
+		<value><![CDATA[Ime]]></value>
 	</definition>
 	<definition>
 		<key>entry_download_name</key>
-		<value><![CDATA[Prenos Ime]]></value>
+		<value><![CDATA[Ime prenosa]]></value>
 	</definition>
 	<definition>
 		<key>entry_mask</key>
-		<value><![CDATA[Prenos maska <span class="help">Naziv sicer za prenos stranka izhod</span>]]></value>
+		<value><![CDATA[Maska za prenos <span class="help">Nadomestno ime datoteke za izhod prenosa stranke</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_full_path</key>
-		<value><![CDATA[Datoteka Server Pot]]></value>
+		<value><![CDATA[Pot do strežnika datotek]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_max_downloads</key>
@@ -58,19 +58,23 @@
 	</definition>
 	<definition>
 		<key>entry_file_sort_order</key>
-		<value><![CDATA[vrstni red]]></value>
+		<value><![CDATA[Vrstni red]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_status</key>
 		<value><![CDATA[Stanje]]></value>
 	</definition>
 	<definition>
+		<key>entry_also_mapped_to</key>
+		<value><![CDATA[Deljeno z]]></value>
+	</definition>
+	<definition>
 		<key>entry_file_push_to_customers</key>
-		<value><![CDATA[Push strankam]]></value>
+		<value><![CDATA[Pošlji strankam]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_activation</key>
-		<value><![CDATA[Način aktiviranje]]></value>
+		<value><![CDATA[Način aktivacije]]></value>
 	</definition>
 	<definition>
 		<key>text_add_file</key>
@@ -82,27 +86,27 @@
 	</definition>
 	<definition>
 		<key>text_download_attributes</key>
-		<value><![CDATA[Prenos atributi]]></value>
+		<value><![CDATA[Atributi prenosov]]></value>
 	</definition>
 	<definition>
 		<key>text_download_information</key>
-		<value><![CDATA[splošno]]></value>
+		<value><![CDATA[Splošno]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
-		<value><![CDATA[dodano na]]></value>
+		<value><![CDATA[Dodano dne]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_modified</key>
-		<value><![CDATA[Spremenjen]]></value>
+		<value><![CDATA[Spremenjeno]]></value>
 	</definition>
 	<definition>
 		<key>entry_max_downloads</key>
-		<value><![CDATA[Max prenosi <span class="help">Štetje prenosov dovoljeno za stranke</span>]]></value>
+		<value><![CDATA[Največ prenosov <span class="help">Število prenosov, dovoljenih kupcu</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_activate</key>
-		<value><![CDATA[Aktivirani <span class="help">Prenos bo aktivira v primeru izbrali. <br/> Primer: Takoj. Prenos se aktivira po naročilu, ne glede na status naročila</span>]]></value>
+		<value><![CDATA[Aktivirano<span class="help">Prenos bo aktiviran ob izbranem dogodku.<br>Primer: Takoj. Prenos je aktiviran po oddaji naročila, ne glede na stanje naročila</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -110,55 +114,55 @@
 	</definition>
 	<definition>
 		<key>entry_expire_days</key>
-		<value><![CDATA[Izteče dni <span class="help">grofa dni od dneva nakupa</span>]]></value>
+		<value><![CDATA[Dnevi veljavnosti<span class="help">Število dni od datuma nakupa</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_before_order</key>
-		<value><![CDATA[pred reda]]></value>
+		<value><![CDATA[Pred naročilom]]></value>
 	</definition>
 	<definition>
 		<key>text_immediately</key>
-		<value><![CDATA[takoj]]></value>
+		<value><![CDATA[Takoj]]></value>
 	</definition>
 	<definition>
 		<key>text_on_order_status</key>
-		<value><![CDATA[o statusu naročila]]></value>
+		<value><![CDATA[o stanju naročila]]></value>
 	</definition>
 	<definition>
 		<key>text_manually</key>
-		<value><![CDATA[ročno]]></value>
+		<value><![CDATA[Ročno]]></value>
 	</definition>
 	<definition>
 		<key>text_success_download_save</key>
-		<value><![CDATA[Uspeh: ste spremenjene datoteke!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste datoteko!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_exists</key>
-		<value><![CDATA[Napaka: Ne morem posodobiti prenosa, saj ne v bazi podatkov ne obstaja!]]></value>
+		<value><![CDATA[Napaka: Ni mogoče posodobiti prenosa, ker v podatkovni bazi ne obstaja!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_name</key>
-		<value><![CDATA[Napaka: Prenos ime mora imeti dolžino med 2 in 128 znakov!]]></value>
+		<value><![CDATA[Napaka: Ime prenosa mora imeti dolžino med 2 in 128 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_max_downloads</key>
-		<value><![CDATA[Napaka: največ prenosov štetje mora biti večja 0!]]></value>
+		<value><![CDATA[Napaka: maksimalno število prenosov mora biti večje od 0!]]></value>
 	</definition>
 	<definition>
 		<key>error_activate</key>
-		<value><![CDATA[Napaka: izberite ukrepi za aktiviranje prenos!]]></value>
+		<value><![CDATA[Napaka: izberite dejanje za aktivacijo prenosa!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_status</key>
-		<value><![CDATA[Napaka: izberite stanje naročila za aktiviranje prenos!]]></value>
+		<value><![CDATA[Napaka: izberite status naročila za aktivacijo prenosa!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_attributes</key>
-		<value><![CDATA[Prenos Lastnosti Error (s):]]></value>
+		<value><![CDATA[Napake prenosnih atributov:]]></value>
 	</definition>
 	<definition>
 		<key>text_shared_downloads</key>
-		<value><![CDATA[Shared Prenosi]]></value>
+		<value><![CDATA[Skupni prenosi]]></value>
 	</definition>
 	<definition>
 		<key>text_create_download</key>
@@ -170,11 +174,11 @@
 	</definition>
 	<definition>
 		<key>text_preview</key>
-		<value><![CDATA[predogled]]></value>
+		<value><![CDATA[Predogled]]></value>
 	</definition>
 	<definition>
 		<key>entry_shared</key>
-		<value><![CDATA[deljeno Download]]></value>
+		<value><![CDATA[Deljeni prenos]]></value>
 	</definition>
 	<definition>
 		<key>text_assign</key>
@@ -182,31 +186,31 @@
 	</definition>
 	<definition>
 		<key>text_assigned_to</key>
-		<value><![CDATA[dodeljena tudi za:]]></value>
+		<value><![CDATA[Dodeljeno tudi:]]></value>
 	</definition>
 	<definition>
 		<key>text_select_shared_downloads</key>
-		<value><![CDATA[Izberite skupnih prenosov]]></value>
+		<value><![CDATA[Izberite skupne prenose]]></value>
 	</definition>
 	<definition>
 		<key>error_selected_downloads</key>
-		<value><![CDATA[Opozorilo: Izberite prenosov v skupni rabi za Določi.]]></value>
+		<value><![CDATA[Opozorilo: Prosimo, izberite skupne prenose za dodelitev.]]></value>
 	</definition>
 	<definition>
 		<key>text_map_success</key>
-		<value><![CDATA[Uspeh: ste dodelili skupnih prenosov za izbrani artikel!]]></value>
+		<value><![CDATA[Uspešno: dodelili ste deljene prenose izdelku!]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_or_refuse</key>
-		<value><![CDATA[izbrisati ali zavrne (v skupni rabi)]]></value>
+		<value><![CDATA[izbriši ali zavrni (za skupno)]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_delete</key>
-		<value><![CDATA[Potrdi prenos izbrisati / zavrne]]></value>
+		<value><![CDATA[Potrdite prenos izbriši/zavrni]]></value>
 	</definition>
 	<definition>
 		<key>text_success_remove</key>
-		<value><![CDATA[Uspeh: seznam datotek izdelek spremenilo!]]></value>
+		<value><![CDATA[Uspešno: seznam datotek izdelka je spremenjen!]]></value>
 	</definition>
 	<definition>
 		<key>text_push</key>
@@ -214,27 +218,27 @@
 	</definition>
 	<definition>
 		<key>text_push_to_customers</key>
-		<value><![CDATA[Pritisni stranke]]></value>
+		<value><![CDATA[Potisni strankam]]></value>
 	</definition>
 	<definition>
 		<key>text_push_to_orders</key>
-		<value><![CDATA[Pritisni Prenesi za %s naročila]]></value>
+		<value><![CDATA[Pošlji prenos %s naročilom]]></value>
 	</definition>
 	<definition>
 		<key>success_push_to_orders</key>
-		<value><![CDATA[Uspeh: Prenos je bila odrinjena na %s da (i) uspešno]]></value>
+		<value><![CDATA[Uspeh: Prenos je bil uspešno dodeljen k %s naročilom]]></value>
 	</definition>
 	<definition>
 		<key>text_no_download_attributes_yet</key>
-		<value><![CDATA[Prenos ni atribute še. <a href="%s" target="_blank">Kliknite za dodajanje</a>]]></value>
+		<value><![CDATA[Še ni atributov prenosa. <a href="%s" target="_blank">Kliknite za dodajanje</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_push</key>
-		<value><![CDATA[Potrdi?]]></value>
+		<value><![CDATA[Potrdite?]]></value>
 	</definition>
 	<definition>
 		<key>error_downloads_disabled</key>
-		<value><![CDATA[Opozorilo: Prenosi so onemogočeni shranjevanje nastavitev. <a href="#admin#rt=setting/setting&active=general" target="new">Kliknite za urejanje</a> !]]></value>
+		<value><![CDATA[Opozorilo: Prenosi so onemogočeni v nastavitvah trgovine. <a href="#admin#rt=setting/setting&active=general" target="new">Kliknite za urejanje</a>!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -242,18 +246,14 @@
 	</definition>
 	<definition>
 		<key>error_file</key>
-		<value><![CDATA[Nastavite datoteko za prenos.]]></value>
+		<value><![CDATA[Prosimo, nastavite datoteko za prenos.]]></value>
 	</definition>
 	<definition>
 		<key>attention_shared</key>
-		<value><![CDATA[Ste pred tem urediti skupno download. Uredi bo imel vpliva na druge izdelke.]]></value>
+		<value><![CDATA[Pravkar boste urejali skupno datoteko za prenos. Urejanje bo vplivalo na druge izdelke.]]></value>
 	</definition>
 	<definition>
 		<key>text_shared_with</key>
-		<value><![CDATA[V skupni rabi z:]]></value>
-	</definition>
-	<definition>
-		<key>entry_also_mapped_to</key>
-		<value><![CDATA[V skupni rabi z]]></value>
+		<value><![CDATA[Deljeno z:]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[rabatter Rapporter]]></value>
+		<value><![CDATA[Rabatterapport]]></value>
 	</definition>
 	<definition>
 		<key>column_coupon_name</key>
-		<value><![CDATA[Rabatt / kupong navn]]></value>
+		<value><![CDATA[Rabattnavn/Kupongnavn]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -18,18 +18,18 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Totalt]]></value>
 	</definition>
 	<definition>
 		<key>column_discount_total</key>
-		<value><![CDATA[Total Rabatt]]></value>
+		<value><![CDATA[Total rabatt]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Dato Start:]]></value>
+		<value><![CDATA[Startdato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[Dato End:]]></value>
+		<value><![CDATA[Sluttdato:]]></value>
 	</definition>
 </definitions>

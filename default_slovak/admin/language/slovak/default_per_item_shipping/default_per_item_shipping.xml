@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Upravili ste ceny dopravy za položky!]]></value>
+		<value><![CDATA[Úspech: Zmenili ste sadzby dopravy za položku!]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_cost</key>
-		<value><![CDATA[Cena:]]></value>
+		<value><![CDATA[Náklady:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax</key>
@@ -26,14 +26,14 @@
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id</key>
-		<value><![CDATA[miesto:]]></value>
+		<value><![CDATA[Poloha:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id_0</key>
-		<value><![CDATA[Všetky miesta]]></value>
+		<value><![CDATA[Všetky lokality]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornenie: Nemáte povolenie na úpravu cien za dopravu za jednotlivé položky!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upravovať sadzby prepravného za položku!]]></value>
 	</definition>
 </definitions>

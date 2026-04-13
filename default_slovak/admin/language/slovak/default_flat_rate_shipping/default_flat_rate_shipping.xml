@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_flat_rate_shipping_name</key>
-		<value><![CDATA[Paušálna sadzba]]></value>
+		<value><![CDATA[Pevná sadzba]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Upravili ste paušálnu cenu dopravy!]]></value>
+		<value><![CDATA[Úspech: Zmenili ste jednotnú cenu dopravy!]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_rates</key>
-		<value><![CDATA[sadzby:]]></value>
+		<value><![CDATA[Sadzby:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_status</key>
@@ -30,18 +30,18 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id_0</key>
-		<value><![CDATA[ ---Žiadne---]]></value>
+		<value><![CDATA[---Žiadne---]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id</key>
-		<value><![CDATA[miesto:]]></value>
+		<value><![CDATA[Umiestnenie:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id_0</key>
-		<value><![CDATA[Všetky miesta]]></value>
+		<value><![CDATA[Všetky lokality]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornenie: Nemáte povolenie upravovať paušálne prepravné!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upravovať poštovné s pevnou sadzbou!]]></value>
 	</definition>
 </definitions>

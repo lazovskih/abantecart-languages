@@ -1,48 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_possible_commands</key>
-		<value><![CDATA[Bellow är möjliga kommandon. Du kan speek mer information efter kommando sökord. Exempel, &quot;öppna sökmeddelanden&quot; eller &quot;insatsprodukt&quot;]]></value>
+		<value><![CDATA[Nedan är möjliga kommandon. Du kan ange fler detaljer efter kommandonyckelordet. Exempel: "open page messages" eller "insert product]]></value>
 	</definition>
 	<definition>
 		<key>text_multiple_result_found</key>
-		<value><![CDATA[Multipel åtgärder hittade:]]></value>
+		<value><![CDATA[Flera åtgärdsresultat hittades:]]></value>
 	</definition>
 	<definition>
 		<key>text_action_confirm</key>
-		<value><![CDATA[Vänligen bekräfta din begäran:]]></value>
+		<value><![CDATA[Vänligen bekräfta din förfrågan:]]></value>
 	</definition>
 	<definition>
 		<key>command_open</key>
-		<value><![CDATA[öppna, öppna sida, öppna menyn]]></value>
+		<value><![CDATA[öppna, öppna sida, öppna meny]]></value>
 	</definition>
 	<definition>
 		<key>command_find</key>
-		<value><![CDATA[lokalisera, fynd, sökande, söka, söka 4]]></value>
+		<value><![CDATA[lokalisera, hitta, söka, söka efter, söka 4]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_cache</key>
-		<value><![CDATA[Töm cache, cache klar, klar alla cache]]></value>
+		<value><![CDATA[rensa cache, cache-rensa, rensa all cache]]></value>
 	</definition>
 	<definition>
 		<key>command_view_log</key>
-		<value><![CDATA[Visa logg, loggen, inspektera log, se log, visa felloggen, visa fel]]></value>
+		<value><![CDATA[visa logg, loggvy, granska logg, se logg, visa fellogg, visa fel]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_log</key>
-		<value><![CDATA[rensa loggen, log klar, ta bort log, log bort]]></value>
+		<value><![CDATA[rensa logg, logg rensa, ta bort logg, logg ta bort]]></value>
 	</definition>
 	<definition>
 		<key>command_view_order</key>
-		<value><![CDATA[visa order, ordernummer, öppna ordning, visa ordning, öppna ordernummer, visa ordernummer, visa ordernummer, order #]]></value>
+		<value><![CDATA[visa beställning, beställningsnummer, öppna beställning, visa beställning, öppna beställningsnummer, visa beställningsnummer, visa beställningsnummer, beställning #]]></value>
 	</definition>
 	<definition>
 		<key>command_view_product</key>
-		<value><![CDATA[Visa produkt, produktnummer, öppen produkt, visa produkten, öppna produktnummer, visa produktnummer, visa produktnummer, produkt #]]></value>
+		<value><![CDATA[visa produkt, produktnummer, öppna produkt, visa produkt, öppna produktnummer, visa produktnummer, visa produktnummer, produkt #]]></value>
 	</definition>
 	<definition>
 		<key>command_create_new</key>
-		<value><![CDATA[infoga, skapa, lägga till, nya, infoga nya, skapa nya, lägg till ny]]></value>
+		<value><![CDATA[infoga, skapa, lägg till, ny, infoga ny, skapa ny, lägg till ny]]></value>
 	</definition>
 	<definition>
 		<key>category</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>brand</key>
-		<value><![CDATA[varumärke]]></value>
+		<value><![CDATA[Varumärke]]></value>
 	</definition>
 	<definition>
 		<key>manufacturer</key>
-		<value><![CDATA[tillverkare]]></value>
+		<value><![CDATA[varumärke]]></value>
 	</definition>
 	<definition>
 		<key>review</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>block</key>
-		<value><![CDATA[blockera]]></value>
+		<value><![CDATA[block]]></value>
 	</definition>
 	<definition>
 		<key>menu</key>
@@ -98,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>banner</key>
-		<value><![CDATA[baner]]></value>
+		<value><![CDATA[banner]]></value>
 	</definition>
 	<definition>
 		<key>page</key>
@@ -106,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>store</key>
-		<value><![CDATA[Lagra]]></value>
+		<value><![CDATA[butik]]></value>
 	</definition>
 	<definition>
 		<key>language</key>
@@ -122,6 +122,6 @@
 	</definition>
 	<definition>
 		<key>tax</key>
-		<value><![CDATA[beskatta]]></value>
+		<value><![CDATA[skatt]]></value>
 	</definition>
 </definitions>

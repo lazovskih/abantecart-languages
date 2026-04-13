@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[site Map]]></value>
+		<value><![CDATA[Webstedskort]]></value>
 	</definition>
 	<definition>
 		<key>text_special</key>
-		<value><![CDATA[Specialtilbud]]></value>
+		<value><![CDATA[Særlige tilbud]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_history</key>
-		<value><![CDATA[ordre historik]]></value>
+		<value><![CDATA[Ordrehistorik]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[bestilling]]></value>
+		<value><![CDATA[Kassen]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>

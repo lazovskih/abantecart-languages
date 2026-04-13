@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[razširitve]]></value>
+		<value><![CDATA[Razširitve]]></value>
 	</definition>
 	<definition>
 		<key>text_install</key>
-		<value><![CDATA[namestitev]]></value>
+		<value><![CDATA[Namesti]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
@@ -14,63 +14,63 @@
 	</definition>
 	<definition>
 		<key>text_uninstall_delete</key>
-		<value><![CDATA[Odstrani / Izbriši]]></value>
+		<value><![CDATA[Odstrani/Izbriši]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall_confirm</key>
-		<value><![CDATA[Potrdite, da želite odstraniti razširitev. Vse nastavitve razširitve in z njimi povezane podatke, se lahko črta, izgubljena.]]></value>
+		<value><![CDATA[Prosimo, potrdite, da želite odstraniti razširitev. Vse nastavitve razširitve in povezani podatki bodo morda izbrisani in izgubljeni.]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[Brisanje]]></value>
+		<value><![CDATA[Izbriši]]></value>
 	</definition>
 	<definition>
 		<key>text_enlarge</key>
-		<value><![CDATA[Klikni na sliko za povečavo]]></value>
+		<value><![CDATA[Kliknite sliko za povečavo]]></value>
 	</definition>
 	<definition>
 		<key>text_activate</key>
-		<value><![CDATA[Aktivirajte]]></value>
+		<value><![CDATA[Aktiviraj]]></value>
 	</definition>
 	<definition>
 		<key>text_deactivate</key>
-		<value><![CDATA[deaktiviranje]]></value>
+		<value><![CDATA[Deaktiviraj]]></value>
 	</definition>
 	<definition>
 		<key>text_left</key>
-		<value><![CDATA[levo]]></value>
+		<value><![CDATA[Levo]]></value>
 	</definition>
 	<definition>
 		<key>text_right</key>
-		<value><![CDATA[Prav]]></value>
+		<value><![CDATA[Desno]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[dodano na]]></value>
+		<value><![CDATA[Dodano dne]]></value>
 	</definition>
 	<definition>
 		<key>column_icon</key>
-		<value><![CDATA[ikona]]></value>
+		<value><![CDATA[Ikona]]></value>
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[razširitev ID]]></value>
+		<value><![CDATA[ID razširitve]]></value>
 	</definition>
 	<definition>
 		<key>column_required</key>
-		<value><![CDATA[Zahtevana]]></value>
+		<value><![CDATA[Zahtevano]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[razširitev Ime]]></value>
+		<value><![CDATA[Ime razširitve]]></value>
 	</definition>
 	<definition>
 		<key>column_position</key>
-		<value><![CDATA[položaj]]></value>
+		<value><![CDATA[Položaj]]></value>
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[posodobitev Datum]]></value>
+		<value><![CDATA[Datum posodobitve]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
@@ -86,43 +86,43 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Hitri Actions]]></value>
+		<value><![CDATA[Hitre akcije]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje razširitve!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje razširitev!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_field</key>
-		<value><![CDATA[Napaka: Prosimo, da zahtevana polja. Nič je bila posodobljena!]]></value>
+		<value><![CDATA[Napaka: Prosimo, izpolnite vsa zahtevana polja. Nič ni bilo posodobljeno!]]></value>
 	</definition>
 	<definition>
 		<key>error_payment_uninstall</key>
-		<value><![CDATA[Opozorilo: Onemogočite podaljšanje pred odstranjevanjem!]]></value>
+		<value><![CDATA[Opozorilo: Onemogočite razširitev pred odstranitvijo!]]></value>
 	</definition>
 	<definition>
 		<key>error_uninstall</key>
-		<value><![CDATA[Opozorilo: Uninstall podaljšanje pred izbrisom!]]></value>
+		<value><![CDATA[Opozorilo: pred brisanjem odstranite razširitev!]]></value>
 	</definition>
 	<definition>
 		<key>text_save_success</key>
-		<value><![CDATA[Uspeh: ste spremenjene nastavitve razširitev!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste nastavitve razširitve!]]></value>
 	</definition>
 	<definition>
 		<key>text_restore_success</key>
-		<value><![CDATA[Uspeh: Imate obnoviti privzete nastavitve razširitev!]]></value>
+		<value><![CDATA[Uspeh: Vi ste obnovili privzete nastavitve razširitve!]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
-		<value><![CDATA[dobili končnice]]></value>
+		<value><![CDATA[Pridobite razširitve]]></value>
 	</definition>
 	<definition>
 		<key>text_required</key>
-		<value><![CDATA[Zahtevana]]></value>
+		<value><![CDATA[Obvezno]]></value>
 	</definition>
 	<definition>
 		<key>text_optional</key>
-		<value><![CDATA[neobvezno]]></value>
+		<value><![CDATA[Neobvezno]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new</key>
@@ -134,19 +134,19 @@
 	</definition>
 	<definition>
 		<key>text_search_for_extension</key>
-		<value><![CDATA[Iskanje Extension]]></value>
+		<value><![CDATA[Išči razširitev]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_extension</key>
-		<value><![CDATA[&quot;Razširitev %s Vir: ne moremo se nahaja Izbrišite jo in obisk ponudnik Razširitev, da bi dobili popoln vir in ga ponovno namestiti!&quot;]]></value>
+		<value><![CDATA[Razširitev %s: vira ni mogoče najti! Prosimo, izbrišite jo in obiščite ponudnika razširitve, da pridobite celoten vir in jo znova namestite.]]></value>
 	</definition>
 	<definition>
 		<key>text_broken_extension</key>
-		<value><![CDATA[&quot;Razširitev %s:!. Vir verjetno razpadla ni mogoče najti config.xml ali main.php datoteke Izbrišite jo in obisk ponudnik Razširitev, da bi dobili popoln vir in ga ponovno namestiti&quot;]]></value>
+		<value><![CDATA[Razširitev %s: Izvorna koda je verjetno pokvarjena! Datotek config.xml ali main.php ni mogoče najti. Prosimo, jo odstranite in obiščite ponudnika razširitve, da pridobite celotno izvorno kodo in jo nato ponovno namestite.]]></value>
 	</definition>
 	<definition>
 		<key>text_extension_pagination</key>
-		<value><![CDATA[Extension (s) {start} na {end} od {total}]]></value>
+		<value><![CDATA[Razširitev(s) {start} to {end} of {total}]]></value>
 	</definition>
 	<definition>
 		<key>text_per_page</key>
@@ -154,11 +154,11 @@
 	</definition>
 	<definition>
 		<key>text_error_in_ajax</key>
-		<value><![CDATA[Napaka v ajax klic]]></value>
+		<value><![CDATA[Napaka pri AJAX klicu]]></value>
 	</definition>
 	<definition>
 		<key>text_saved</key>
-		<value><![CDATA[shranjen]]></value>
+		<value><![CDATA[Shranjeno]]></value>
 	</definition>
 	<definition>
 		<key>text_save</key>
@@ -166,7 +166,7 @@
 	</definition>
 	<definition>
 		<key>text_reset</key>
-		<value><![CDATA[Ponastaviti]]></value>
+		<value><![CDATA[Ponastavi]]></value>
 	</definition>
 	<definition>
 		<key>text_back</key>
@@ -182,11 +182,11 @@
 	</definition>
 	<definition>
 		<key>text_version</key>
-		<value><![CDATA[različica]]></value>
+		<value><![CDATA[Različica]]></value>
 	</definition>
 	<definition>
 		<key>text_installed_on</key>
-		<value><![CDATA[nameščen na]]></value>
+		<value><![CDATA[Nameščeno dne]]></value>
 	</definition>
 	<definition>
 		<key>text_installed</key>
@@ -198,15 +198,15 @@
 	</definition>
 	<definition>
 		<key>text_visit_repository</key>
-		<value><![CDATA[Obiščite razširitev skladišča za prenos razširitve]]></value>
+		<value><![CDATA[Prosimo, obiščite repozitorij razširitev</a>, da prenesete razširitev.]]></value>
 	</definition>
 	<definition>
 		<key>text_license</key>
-		<value><![CDATA[licenca]]></value>
+		<value><![CDATA[Licenca]]></value>
 	</definition>
 	<definition>
 		<key>text_dependency</key>
-		<value><![CDATA[odvisnost]]></value>
+		<value><![CDATA[Odvisnost]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration_settings</key>
@@ -214,19 +214,19 @@
 	</definition>
 	<definition>
 		<key>text_upgrade</key>
-		<value><![CDATA[nadgradnja]]></value>
+		<value><![CDATA[Nadgradnja]]></value>
 	</definition>
 	<definition>
 		<key>text_help</key>
-		<value><![CDATA[pomaga]]></value>
+		<value><![CDATA[Pomoč]]></value>
 	</definition>
 	<definition>
 		<key>text_dependencies</key>
-		<value><![CDATA[odvisnosti]]></value>
+		<value><![CDATA[Odvisnosti]]></value>
 	</definition>
 	<definition>
 		<key>text_update_available</key>
-		<value><![CDATA[Nova različica (%s) je na voljo. <a href="%s">Kliknite za zdaj posodobiti.</a>]]></value>
+		<value><![CDATA[Nova različica (%s) je na voljo. <a href="%s">Kliknite za posodobitev zdaj.</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
@@ -234,15 +234,15 @@
 	</definition>
 	<definition>
 		<key>error_config_load</key>
-		<value><![CDATA[Napaka: Ni bilo mogoče naložiti konfiguracija za <b>%s!</b>]]></value>
+		<value><![CDATA[Napaka: Ni bilo mogoče naložiti konfiguracije za <b>%s</b>!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_extension</key>
-		<value><![CDATA[<b>%s</b> Podaljšanje ni mogoče namestiti: <b>%s</b> zahteva razširitev]]></value>
+		<value><![CDATA[<b>%s</b> razširitev ne more biti nameščena: <b>%s</b> razširitev je potrebna]]></value>
 	</definition>
 	<definition>
 		<key>error_required_phpmodule</key>
-		<value><![CDATA[<b>%s</b> Podaljšanje ni mogoče namestiti: zahtevano <b>%s</b> php modul]]></value>
+		<value><![CDATA[Razširitev <b>%s</b> ni mogoče namestiti: zahteva se PHP modul <b>%s</b>]]></value>
 	</definition>
 	<definition>
 		<key>button_restore_defaults</key>
@@ -250,19 +250,19 @@
 	</definition>
 	<definition>
 		<key>additional_settings_confirm</key>
-		<value><![CDATA[Nastaviti dodatne nastavitve podaljšanje druge trgovine, kar potrebujete za prijavo v nadzorno ploščo na drugo ime domene. V redu?]]></value>
+		<value><![CDATA[Če želite nastaviti dodatne nastavitve razširitve druge trgovine, se morate prijaviti v nadzorno ploščo na drugi domeni. V redu?]]></value>
 	</definition>
 	<definition>
 		<key>error_no_help_file</key>
-		<value><![CDATA[Žal, ni datoteke pomoči za to razširitev.]]></value>
+		<value><![CDATA[Žal ni datoteke pomoči za to razširitev.]]></value>
 	</definition>
 	<definition>
 		<key>text_more_help</key>
-		<value><![CDATA[več pomoči]]></value>
+		<value><![CDATA[Več pomoči]]></value>
 	</definition>
 	<definition>
 		<key>entry_total_type</key>
-		<value><![CDATA[Vrsta]]></value>
+		<value><![CDATA[Tip]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
@@ -270,7 +270,7 @@
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
-		<value><![CDATA[Seštevek]]></value>
+		<value><![CDATA[Vmesni seštevek]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -278,7 +278,7 @@
 	</definition>
 	<definition>
 		<key>text_tax</key>
-		<value><![CDATA[davčna]]></value>
+		<value><![CDATA[Davek]]></value>
 	</definition>
 	<definition>
 		<key>text_fee</key>
@@ -286,59 +286,59 @@
 	</definition>
 	<definition>
 		<key>text_discount</key>
-		<value><![CDATA[popust]]></value>
+		<value><![CDATA[Popust]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_disable_dependants</key>
-		<value><![CDATA[Podaljšanje %s imajo vzdrževani, so: <br/> %s <br/> se je samodejno onemogoči preveč. <br/> Ali lahko potrdite?]]></value>
+		<value><![CDATA[Razširitev %s ima odvisnike: <br>%s<br> Prav tako bo samodejno onemogočena.<br> Potrjujete?]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
-		<value><![CDATA[Status: <span class="help">To je za nadzor prodajalne stanje podaljšek.</span>]]></value>
+		<value><![CDATA[Stanje:<span class="help">To je za nadzor stanja razširitve spletne trgovine.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_sort_order</key>
-		<value><![CDATA[Run Order: <span class="help">Število določiti zaporedje prikazov položaj za to razširitev v primerjavi z drugimi omogočene razširitve. (Sortiranje iz nižje v višjo številko, ignoriranje 0 in prazne vrednosti)</span>]]></value>
+		<value><![CDATA[Zaporedje zagona:<span class="help">Številka za nastavitev vrstnega reda prikaza te razširitve v primerjavi z drugimi omogočenimi razširitvami. (Razvrščanje poteka od najnižje do najvišje številke, pri čemer se 0 in prazne vrednosti ignorirajo)</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_minimum_total</key>
-		<value><![CDATA[Skupaj Najmanjše naročilo: <span class="help">Minimalni znesek Da bi lahko dosegli, da bi to plačilo</span>]]></value>
+		<value><![CDATA[Minimalni znesek naročila:<span class="help">Minimalni znesek naročila, ki ga je treba doseči, da se dovoli to plačilo</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_maximum_total</key>
-		<value><![CDATA[Skupaj red Največ: <span class="help">Najvišji znesek Da bi lahko dosegli, da zavrne ta plačila</span>]]></value>
+		<value><![CDATA[Največji znesek naročila:<span class="help">Največji znesek naročila, pri katerem bo to plačilo onemogočeno</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_storefront_icon</key>
-		<value><![CDATA[Prodajalne Icon: <span class="help">Plačilo Ikona se prikaže ob izbiri plačila blagajni</span>]]></value>
+		<value><![CDATA[Ikona trgovine:<span class="help">Ikona plačila, ki bo prikazana pri izbiri načina plačila pri zaključku nakupa</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_storefront_icon</key>
-		<value><![CDATA[Prodajalne Icon: <span class="help">Dostava ikona se prikaže na blagajni izboru ladijskega</span>]]></value>
+		<value><![CDATA[Ikona trgovine:<span class="help">Ikona pošiljanja, prikazana pri izbiri načina dostave v blagajni</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_autoselect_payment</key>
-		<value><![CDATA[Auto Select: <span class="help">Nastavite lahko to plačilo za privzeto izbrana. Ta način plačila bo predhodno izbran za več plačil. Če je to edina možnost plačila na voljo, bo možnost plačila korak izbor preskoči.</span>]]></value>
+		<value><![CDATA[Samodejna izbira:<span class="help">Poenostavi postopek zaključevanja nakupa z samodejno izbiro načina plačila, kadar je na voljo več možnosti.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_autoselect_shipping</key>
-		<value><![CDATA[Auto Select: <span class="help">Nastavite lahko preskočite stran izbiro ladijskega prometa, če je samo ena možnost ladijskega prometa. Ta način pošiljanja bo samodejno izbrana</span>]]></value>
+		<value><![CDATA[Auto Select:<span class="help">Poenostavi postopek zaključka nakupa z avtomatsko izbiro načina dostave, kadar je na voljo več možnosti.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_accept_payments_shipping</key>
-		<value><![CDATA[Sprejmi ta plačila: <span class="help">Če so potrebne le posebne metode plačila za ta način pošiljanja, izberite jih tukaj. Če nič izbrano, bodo prikazane vse razpoložljive metode plačila</span>]]></value>
+		<value><![CDATA[Izberite za omejitev plačil:<span class="help">Če za ta način dostave potrebujete le določene načine plačila, jih izberite tukaj. Če noben ni izbran, bodo prikazani vsi razpoložljivi načini plačila</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_ready_to_install</key>
-		<value><![CDATA[Pripravljen za namestitev]]></value>
+		<value><![CDATA[Pripravljeno za namestitev]]></value>
 	</definition>
 	<definition>
 		<key>button_install</key>
-		<value><![CDATA[namestitev]]></value>
+		<value><![CDATA[Namesti]]></value>
 	</definition>
 	<definition>
 		<key>error_dependencies</key>
-		<value><![CDATA[Ta razširitev ni mogoče omogočiti, ker zahteva odvisnost manjka ali ni omogočeno.]]></value>
+		<value><![CDATA[Ta razširitev ne more biti omogočena, ker zahtevana odvisnost manjka ali ni omogočena.]]></value>
 	</definition>
 	<definition>
 		<key>button_howto</key>
@@ -350,11 +350,11 @@
 	</definition>
 	<definition>
 		<key>text_preview</key>
-		<value><![CDATA[predogled]]></value>
+		<value><![CDATA[Predogled]]></value>
 	</definition>
 	<definition>
 		<key>text_confirmation</key>
-		<value><![CDATA[potrditev]]></value>
+		<value><![CDATA[Potrditev]]></value>
 	</definition>
 	<definition>
 		<key>button_confirm</key>
@@ -362,7 +362,7 @@
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Naprej]]></value>
+		<value><![CDATA[Nadaljuj]]></value>
 	</definition>
 	<definition>
 		<key>button_cancel</key>
@@ -370,15 +370,15 @@
 	</definition>
 	<definition>
 		<key>error_could_not_load_config</key>
-		<value><![CDATA[Napaka: Ni bilo mogoče naložiti konfiguracija za <b>%s</b> (%s)!]]></value>
+		<value><![CDATA[Napaka: Ni bilo mogoče naložiti konfiguracije za <b>%s</b> (%s)!]]></value>
 	</definition>
 	<definition>
 		<key>error_could_not_load_override</key>
-		<value><![CDATA[Napaka: Ne morem naložiti override predlogo %s v podaljšku %s!]]></value>
+		<value><![CDATA[Napaka: ni mogoče naložiti nadomestne predloge %s v razširitvi %s!]]></value>
 	</definition>
 	<definition>
 		<key>tab_general</key>
-		<value><![CDATA[splošno]]></value>
+		<value><![CDATA[Splošno]]></value>
 	</definition>
 	<definition>
 		<key>tab_additional_settings</key>
@@ -386,7 +386,7 @@
 	</definition>
 	<definition>
 		<key>text_more_extensions</key>
-		<value><![CDATA[Več razširitve so na voljo za enostavno namestitev.]]></value>
+		<value><![CDATA[Na voljo je več razširitev za enostavno namestitev.]]></value>
 	</definition>
 	<definition>
 		<key>text_support_expiration</key>
@@ -398,7 +398,7 @@
 	</definition>
 	<definition>
 		<key>text_license_expired</key>
-		<value><![CDATA[Podpora za razširitev je potekla ali ni povezana s tržnico]]></value>
+		<value><![CDATA[Podpora za razširitev je potekla ali ni povezana s tržnico.]]></value>
 	</definition>
 	<definition>
 		<key>button_get_support</key>
@@ -406,26 +406,34 @@
 	</definition>
 	<definition>
 		<key>text_min_volume</key>
-		<value><![CDATA[Najmanjša količina paketa za naročilo v (kubičnih %s) <span class="help">Najmanjša vrednost za možnost pošiljanja, ki bo na voljo stranki. Ta vrednost temelji na kombiniranih velikostih izdelkov v naročilu</span>]]></value>
+		<value><![CDATA[Minimalna prostornina paketa pri naročilu v (kubičnih %s) <span class="help">Minimalna vrednost, da je možnost pošiljanja na voljo kupcu. Ta vrednost temelji na združenih velikostih izdelkov v naročilu</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_max_volume</key>
-		<value><![CDATA[Največja količina paketa velikosti naročila v (kubičnih %s) <span class="help">Največja vrednost za možnost pošiljanja, ki bo na voljo stranki. Ta vrednost temelji na kombiniranih velikostih izdelkov v naročilu</span>]]></value>
+		<value><![CDATA[Največja prostornina paketa naročila v (kubičnih %s) <span class="help">Najvišja vrednost, pri kateri je možnost pošiljanja na voljo kupcu. Ta vrednost temelji na skupnih velikostih izdelkov v naročilu</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_min_weight</key>
-		<value><![CDATA[Najmanjša teža paketa (%s)]]></value>
+		<value><![CDATA[Minimalna teža paketa (%s)]]></value>
 	</definition>
 	<definition>
 		<key>text_max_weight</key>
-		<value><![CDATA[Največja teža paketa (%s)]]></value>
+		<value><![CDATA[Največja teža pošiljke (%s)]]></value>
 	</definition>
 	<definition>
 		<key>text_min_order_subtotal</key>
-		<value><![CDATA[Najnižja vmesna vsota naročila: <span class="help">Vnesite najmanjšo vmesno vsoto naročila za možnost pošiljanja, ki bo na voljo stranki. To polje ni obvezno.</span>]]></value>
+		<value><![CDATA[Minimalni seštevek naročila: <span class="help">Vnesite minimalno vrednost seštevka naročila, da bo možnost pošiljanja na voljo kupcu. To polje je neobvezno.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_max_order_subtotal</key>
-		<value><![CDATA[Največja vmesna vsota naročila: <span class="help">Vnesite največjo vmesno vsoto naročila za možnost pošiljanja, ki bo na voljo stranki. To polje ni obvezno.</span>]]></value>
+		<value><![CDATA[Največji vmesni seštevek naročila: <span class="help">Vnesite največjo vrednost vmesnega seštevka naročila, da bo možnost pošiljanja na voljo kupcu. To polje je neobvezno.</span>]]></value>
+	</definition>
+	<definition>
+		<key>text_customer_groups</key>
+		<value><![CDATA[Dovoljeno samo za skupino(-e) strank:]]></value>
+	</definition>
+	<definition>
+		<key>button_load_more_languages</key>
+		<value><![CDATA[Naloži več jezikov]]></value>
 	</definition>
 </definitions>

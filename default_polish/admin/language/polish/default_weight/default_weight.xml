@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_weight_name</key>
-		<value><![CDATA[Wysyłka w zależności od wagi]]></value>
+		<value><![CDATA[Wysyłka według wagi]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
-		<value><![CDATA[ Ustawienia dodatkowe ]]></value>
+		<value><![CDATA[Dodatkowe Ustawienia]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś wysyłkę zależną od wagi!]]></value>
+		<value><![CDATA[Sukces: Zmodyfikowałeś wysyłkę opartą na wadze!]]></value>
 	</definition>
 	<definition>
 		<key>entry_rate</key>
-		<value><![CDATA[Stawki: <br/><span class="help">Przykład: 5:10.00,7:12.00 Waga:Koszt,Waga:Koszt, itd. W tym przykładzie 5 funtów = 10,00 USD. Gdzie funt to klasa wagi sklepu, a $ to waluta bazowa sklepu. Możesz zmienić obie wartości w Ustawieniach sklepu</span>]]></value>
+		<value><![CDATA[Stawki:<br /><span class="help">Przykład: 5:10.00,7:12.00 Waga:Koszt,Waga:Koszt itp. W tym przykładzie 5 funtów = $10.00. Gdzie funt to klasa wagowa sklepu, a $ to podstawowa waluta sklepu. Możesz zmienić oba w Ustawieniach sklepu</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -38,14 +38,14 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania kosztów wysyłki w oparciu o wagę!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania wysyłki opartej na wadze!]]></value>
 	</definition>
 	<definition>
 		<key>example_weight_text</key>
-		<value><![CDATA[Waga: ]]></value>
+		<value><![CDATA[Waga:]]></value>
 	</definition>
 	<definition>
 		<key>example_currency_text</key>
-		<value><![CDATA[Waluta: ]]></value>
+		<value><![CDATA[Waluta:]]></value>
 	</definition>
 </definitions>

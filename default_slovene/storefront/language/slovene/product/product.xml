@@ -1,20 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_enlarge</key>
-		<value><![CDATA[Klikni na sliko za povečavo]]></value>
+		<value><![CDATA[Kliknite na sliko za povečavo]]></value>
 	</definition>
 	<definition>
 		<key>text_zoom</key>
-		<value><![CDATA[Premaknite kazalec na sliko za povečavo]]></value>
+		<value><![CDATA[Premaknite kazalec nad sliko za povečavo]]></value>
+	</definition>
+	<definition>
+		<key>text_quantity_discount</key>
+		<value><![CDATA[Količinski popust:]]></value>
 	</definition>
 	<definition>
 		<key>text_options</key>
-		<value><![CDATA[Opcije na voljo:]]></value>
+		<value><![CDATA[Razpoložljive možnosti:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Izdelka ni na voljo!]]></value>
+		<value><![CDATA[Izdelek ni bil najden!]]></value>
 	</definition>
 	<definition>
 		<key>text_price</key>
@@ -22,35 +26,43 @@
 	</definition>
 	<definition>
 		<key>text_availability</key>
-		<value><![CDATA[Na voljo:]]></value>
+		<value><![CDATA[Razpoložljivost:]]></value>
 	</definition>
 	<definition>
 		<key>text_model</key>
 		<value><![CDATA[Model:]]></value>
 	</definition>
 	<definition>
+		<key>text_sku</key>
+		<value><![CDATA[SKU:]]></value>
+	</definition>
+	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[Proizvajalec:]]></value>
+		<value><![CDATA[Znamka:]]></value>
 	</definition>
 	<definition>
 		<key>text_instock</key>
 		<value><![CDATA[Na zalogi]]></value>
 	</definition>
 	<definition>
+		<key>text_out_of_stock</key>
+		<value><![CDATA[Ni na zalogi]]></value>
+	</definition>
+	<definition>
 		<key>text_order_quantity</key>
-		<value><![CDATA[kol]]></value>
+		<value><![CDATA[Količina naročila]]></value>
 	</definition>
 	<definition>
 		<key>text_price_per_item</key>
-		<value><![CDATA[Cena na enoto]]></value>
+		<value><![CDATA[Cena na kos]]></value>
 	</definition>
 	<definition>
 		<key>text_write</key>
-		<value><![CDATA[Napiši oceno]]></value>
+		<value><![CDATA[Napišite mnenje]]></value>
 	</definition>
 	<definition>
 		<key>text_no_reviews</key>
-		<value><![CDATA[Za ta izdelek ni mnenja.]]></value>
+		<value><![CDATA[Za ta izdelek ni ocen.]]></value>
 	</definition>
 	<definition>
 		<key>text_average</key>
@@ -58,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Od 5 zvezdic!]]></value>
+		<value><![CDATA[%s od 5 zvezdic!]]></value>
 	</definition>
 	<definition>
 		<key>text_no_rating</key>
@@ -66,11 +78,11 @@
 	</definition>
 	<definition>
 		<key>text_no_images</key>
-		<value><![CDATA[Ni dodatnih slik za ta izdelek.]]></value>
+		<value><![CDATA[Za ta izdelek ni dodatnih slik.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_related</key>
-		<value><![CDATA[Ni sorodnih izdelkov za ta izdelek.]]></value>
+		<value><![CDATA[Za ta izdelek ni sorodnih izdelkov.]]></value>
 	</definition>
 	<definition>
 		<key>text_qty</key>
@@ -78,15 +90,15 @@
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[<span style="color: #FF0000;">Opomba:</span> Ne uporabljajte HTML v besedilo.]]></value>
+		<value><![CDATA[Opomba: Ne uporabljajte HTML v besedilu.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Hvala za vaše mnenje. To je bil predložen webmaster za odobritev.]]></value>
+		<value><![CDATA[Hvala za vaše mnenje. Poslali smo ga spletnemu skrbniku v odobritev.]]></value>
 	</definition>
 	<definition>
 		<key>text_wait</key>
-		<value><![CDATA[Prosim počakaj!]]></value>
+		<value><![CDATA[Prosimo počakajte!]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
@@ -102,15 +114,15 @@
 	</definition>
 	<definition>
 		<key>text_maximum</key>
-		<value><![CDATA[(Ta izdelek ima mejo, določeno za %s postavko (-e) na naročilo)]]></value>
+		<value><![CDATA[(Ta izdelek je omejen na %s izdelek(ov) na naročilo)]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Tvoje ime:]]></value>
+		<value><![CDATA[Vaše ime:]]></value>
 	</definition>
 	<definition>
 		<key>entry_review</key>
-		<value><![CDATA[Vaša ocena:]]></value>
+		<value><![CDATA[Vaše mnenje:]]></value>
 	</definition>
 	<definition>
 		<key>entry_rating</key>
@@ -118,7 +130,7 @@
 	</definition>
 	<definition>
 		<key>entry_good</key>
-		<value><![CDATA[dobro]]></value>
+		<value><![CDATA[Dobro]]></value>
 	</definition>
 	<definition>
 		<key>entry_bad</key>
@@ -126,7 +138,7 @@
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Vnesite kodo v polje spodaj:]]></value>
+		<value><![CDATA[Vnesite kodo v spodnje polje:]]></value>
 	</definition>
 	<definition>
 		<key>tab_description</key>
@@ -134,27 +146,31 @@
 	</definition>
 	<definition>
 		<key>tab_image</key>
-		<value><![CDATA[Dodatne Slike]]></value>
+		<value><![CDATA[Dodatne slike]]></value>
 	</definition>
 	<definition>
 		<key>tab_review</key>
 		<value><![CDATA[Mnenja (%s)]]></value>
 	</definition>
 	<definition>
+		<key>tab_review_empty</key>
+		<value><![CDATA[Mnenja]]></value>
+	</definition>
+	<definition>
 		<key>tab_related</key>
-		<value><![CDATA[Podobni izdelki]]></value>
+		<value><![CDATA[Sorodni izdelki]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Napaka: Pregled ime mora biti med 3 in 25 znakov!]]></value>
+		<value><![CDATA[Napaka: Ime ocene mora biti med 3 in 25 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
-		<value><![CDATA[Napaka: Pregled Besedilo mora biti med 25 in 1000 znakov!]]></value>
+		<value><![CDATA[Napaka: Besedilo ocene mora biti med 25 in 1000 znaki!]]></value>
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Napaka: Izberite oceno pregled!]]></value>
+		<value><![CDATA[Napaka: Prosimo, izberite oceno mnenja!]]></value>
 	</definition>
 	<definition>
 		<key>text_total_price</key>
@@ -162,7 +178,7 @@
 	</definition>
 	<definition>
 		<key>text_login_view_price</key>
-		<value><![CDATA[Prosim, prijavite se ali registrirajte za ogled cen ali po naročilu.]]></value>
+		<value><![CDATA[Prosimo, prijavite se ali se registrirajte, da vidite ceno ali naročite.]]></value>
 	</definition>
 	<definition>
 		<key>tab_downloads</key>
@@ -174,27 +190,11 @@
 	</definition>
 	<definition>
 		<key>text_new_review</key>
-		<value><![CDATA[Odobritev pregled izdelek je v teku]]></value>
+		<value><![CDATA[Odobritev ocene izdelka je na čakanju]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_review_approval</key>
-		<value><![CDATA[Pregled za id izdelka %s je objavljen. Ukrep odobritve je potrebno! Kliknite za ogled #admin#rt=catalog/review/update&review_id=%s]]></value>
-	</definition>
-	<definition>
-		<key>text_quantity_discount</key>
-		<value><![CDATA[Količinski popust:]]></value>
-	</definition>
-	<definition>
-		<key>text_sku</key>
-		<value><![CDATA[SKU:]]></value>
-	</definition>
-	<definition>
-		<key>text_out_of_stock</key>
-		<value><![CDATA[Ni na zalogi]]></value>
-	</definition>
-	<definition>
-		<key>tab_review_empty</key>
-		<value><![CDATA[Ocene]]></value>
+		<value><![CDATA[Ocena za izdelek z ID %s je objavljena. Zahteva se odobritev! Kliknite za ogled #admin#rt=catalog/review/update&review_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>text_verified_review</key>
@@ -202,7 +202,7 @@
 	</definition>
 	<definition>
 		<key>percentage_review</key>
-		<value><![CDATA[kupcev je to priporočilo.]]></value>
+		<value><![CDATA[Kupci so to priporočili.]]></value>
 	</definition>
 	<definition>
 		<key>feedback_customer_title</key>
@@ -210,7 +210,7 @@
 	</definition>
 	<definition>
 		<key>review_title</key>
-		<value><![CDATA[Ocene]]></value>
+		<value><![CDATA[Mnenja]]></value>
 	</definition>
 	<definition>
 		<key>write_review_title</key>

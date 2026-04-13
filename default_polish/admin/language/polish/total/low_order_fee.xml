@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Niska opłata Zamówienie]]></value>
+		<value><![CDATA[Opłata za małe zamówienie]]></value>
 	</definition>
 	<definition>
 		<key>total_name</key>
-		<value><![CDATA[Niska opłata Zamówienie]]></value>
+		<value><![CDATA[Opłata za niską wartość zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Sumy Zamówienie]]></value>
+		<value><![CDATA[Podsumowanie zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś całkowitą opłatę niskie zamówienia!]]></value>
+		<value><![CDATA[Sukces: Ty zmodyfikowałeś całkowitą opłatę za małe zamówienie!]]></value>
 	</definition>
 	<definition>
 		<key>entry_total</key>
@@ -34,14 +34,14 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Porządek sortowania:]]></value>
+		<value><![CDATA[Kolejność sortowania:]]></value>
 	</definition>
 	<definition>
 		<key>entry_calculation_order</key>
-		<value><![CDATA[Obliczanie Order:]]></value>
+		<value><![CDATA[Kolejność obliczeń:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania całkowitą opłatę niskie zamówienia!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania całkowitej opłaty za małe zamówienie!]]></value>
 	</definition>
 </definitions>

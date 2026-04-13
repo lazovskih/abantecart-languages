@@ -1,52 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_possible_commands</key>
-		<value><![CDATA[Níže jsou možné příkazy. Můžete speek více detailů po příkazu klíčové slovo. Například, &quot;otevřenou stránku zprávy&quot; nebo &quot;insert produkt&quot;]]></value>
+		<value><![CDATA[Níže jsou možné příkazy. Po klíčovém slovu příkazu můžete uvést více podrobností. Příklad: "open page messages" nebo "insert product]]></value>
 	</definition>
 	<definition>
 		<key>text_multiple_result_found</key>
-		<value><![CDATA[Multiple akce výsledek:]]></value>
+		<value><![CDATA[Nalezeno více výsledků akce:]]></value>
 	</definition>
 	<definition>
 		<key>text_action_confirm</key>
-		<value><![CDATA[Potvrďte prosím svůj požadavek:]]></value>
+		<value><![CDATA[Prosím potvrďte svůj požadavek:]]></value>
 	</definition>
 	<definition>
 		<key>command_open</key>
-		<value><![CDATA[širým, otevřeno strana, otevřete menu]]></value>
+		<value><![CDATA[otevřít, otevřít stránku, otevřít nabídku]]></value>
 	</definition>
 	<definition>
 		<key>command_find</key>
-		<value><![CDATA[lokalizovat, najít, hledat, hledat, hledat 4]]></value>
+		<value><![CDATA[lokalizovat, najít, vyhledat, vyhledat, vyhledat 4]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_cache</key>
-		<value><![CDATA[vymazat cache, vyrovnávací paměť jasné, vymazat všechny vyrovnávací paměti]]></value>
+		<value><![CDATA[vymazat mezipaměť, vymazání mezipaměti, vymazat všechnu mezipaměť]]></value>
 	</definition>
 	<definition>
 		<key>command_view_log</key>
-		<value><![CDATA[Pohled log, log názor, zkontrolujte protokol, viz log, zobrazit protokol chyb, zobrazení chyby]]></value>
+		<value><![CDATA[zobrazit protokol, zobrazení protokolu, zkontrolovat protokol, prohlédnout protokol, zobrazit chybový protokol, zobrazit chyby]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_log</key>
-		<value><![CDATA[clear log, log jasné, odstranění log, log smazat]]></value>
+		<value><![CDATA[clear log: vyčistit protokol	
+log clear: vyčistit protokol	
+delete log: smazat protokol	
+log delete: smazat protokol]]></value>
 	</definition>
 	<definition>
 		<key>command_view_order</key>
-		<value><![CDATA[Pohled objednávky, číslo objednávky, otevřené objednávky, show příkaz, open pořadové číslo, číslo objednávky pohled, počet výstava řád, pořádek #]]></value>
+		<value><![CDATA[view order: zobrazit objednávku	
+order number: číslo objednávky	
+open order: otevřít objednávku	
+show order: zobrazit objednávku	
+open order number: otevřít číslo objednávky	
+view order number: zobrazit číslo objednávky	
+show order number: zobrazit číslo objednávky	
+order #: objednávka #]]></value>
 	</definition>
 	<definition>
 		<key>command_view_product</key>
-		<value><![CDATA[náhled výrobku, číslo produktu, otevřený produkt, show produkt, otevřený číslo výrobku, počet Zobrazit produkt, počet ukázat produkt, produkt #]]></value>
+		<value><![CDATA[zobrazit produkt, číslo produktu, otevřít produkt, zobrazit produkt, otevřít číslo produktu, zobrazit číslo produktu, zobrazit číslo produktu, produkt #]]></value>
 	</definition>
 	<definition>
 		<key>command_create_new</key>
-		<value><![CDATA[vkládat, vytvářet, přidávat nové, vložit nový, vytvořit nový, přidat nový]]></value>
+		<value><![CDATA[vložit, vytvořit, přidat, nový, vložit nový, vytvořit nový, přidat nový]]></value>
 	</definition>
 	<definition>
 		<key>category</key>
-		<value><![CDATA[kategorie]]></value>
+		<value><![CDATA[Kategorie]]></value>
 	</definition>
 	<definition>
 		<key>product</key>
@@ -58,15 +68,15 @@
 	</definition>
 	<definition>
 		<key>manufacturer</key>
-		<value><![CDATA[výrobce]]></value>
+		<value><![CDATA[značka]]></value>
 	</definition>
 	<definition>
 		<key>review</key>
-		<value><![CDATA[Posouzení]]></value>
+		<value><![CDATA[recenze]]></value>
 	</definition>
 	<definition>
 		<key>download</key>
-		<value><![CDATA[stažení]]></value>
+		<value><![CDATA[Stáhnout]]></value>
 	</definition>
 	<definition>
 		<key>attribute</key>
@@ -90,7 +100,7 @@
 	</definition>
 	<definition>
 		<key>menu</key>
-		<value><![CDATA[jídelní lístek]]></value>
+		<value><![CDATA[nabídka]]></value>
 	</definition>
 	<definition>
 		<key>content</key>
@@ -98,11 +108,11 @@
 	</definition>
 	<definition>
 		<key>banner</key>
-		<value><![CDATA[prapor]]></value>
+		<value><![CDATA[banner]]></value>
 	</definition>
 	<definition>
 		<key>page</key>
-		<value><![CDATA[strana]]></value>
+		<value><![CDATA[stránka]]></value>
 	</definition>
 	<definition>
 		<key>store</key>

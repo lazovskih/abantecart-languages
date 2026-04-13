@@ -1,48 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Kezelési költség]]></value>
+		<value><![CDATA[Kezelési díj]]></value>
 	</definition>
 	<definition>
 		<key>total_name</key>
-		<value><![CDATA[Kezelési költség]]></value>
+		<value><![CDATA[Kezelési díj]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Rendelési összesítések]]></value>
+		<value><![CDATA[Rendelés végösszegek]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Frissítetted teljes kezelési díjat!]]></value>
+		<value><![CDATA[Siker: Frissítette a teljes kezelési díjat!]]></value>
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[Összesen: <span class="help">Minimális rendelési összeg elérte, hogy alkalmazza a díjat. Ha az ügyfél érdekében teljes meghaladja ezt az összeget, a kezelési feee nem kell alkalmazni. Ez az érték felülbírálja fizetési adott beállítás.</span>]]></value>
+		<value><![CDATA[Order Total: Rendelés összege:<span class="help">A díj alkalmazásához szükséges minimális rendelési összeg. Ha a vásárló rendelésének összértéke meghaladja ezt az összeget, a kezelési költség nem kerül felszámításra. Ezt az értéket felülírja a fizetési mód-specifikus beállítás.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_total_placeholder</key>
-		<value><![CDATA[Rendelési mennyiség]]></value>
+		<value><![CDATA[Rendelés összege]]></value>
 	</definition>
 	<definition>
 		<key>entry_fee</key>
-		<value><![CDATA[Díj: <span class="help">díj hozzáadandó rendelni teljes, ha minimális feltétel nem teljesül. Ezt az összeget felülbírálja fizetési adott beállítás</span>]]></value>
+		<value><![CDATA[Díj:<span class="help">Díj, amely a rendelés végösszegéhez hozzáadandó, ha a minimális összeg feltétele nem teljesül. Ezt az összeget a fizetési mód egyedi beállítása felülírja</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_payment_fee</key>
-		<value><![CDATA[Díj: <span class="help">díj hozzáadandó rendelni teljes, ha minimum alatti összeg a feltétel nem teljesül. Ez az összeg felülbírálja fő díj beállítás</span>]]></value>
+		<value><![CDATA[Díj:<span class="help">A rendelés végösszegéhez adandó díj, ha a minimális részösszeg feltétele nem teljesül. Ez az összeg felülírja a fő díjbeállítást</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_payment</key>
-		<value><![CDATA[Fizetési lehetőség: <span class="help">Válasszon ki egy konkrét fizetési meg kell adni a díjat. Ezek a beállítások felülírják a fő beállításokat, ha a fizetés által használt ügyfél.</span>]]></value>
+		<value><![CDATA[Fizetés:<span class="help">Válassza ki azt a konkrét fizetési módot, amelyhez hozzá szeretné adni a díjat. Ezek a beállítások felülírják az alapbeállításokat, ha az ügyfél ezt a fizetési módot használja.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_order_subtotal</key>
-		<value><![CDATA[Rendelje Részösszeg: <span class="help">Minimum rendelés részösszeg összegének el kell érni, hogy alkalmazza a díjat. Ez felülbírálja legfontosabb beállítása</span>]]></value>
+		<value><![CDATA[Rendelés részösszege:<span class="help">A díj alkalmazásához elérendő minimális rendelésrészösszeg. Ez felülírja a fő beállítást</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax</key>
-		<value><![CDATA[Adó Osztály: <span class="help">Jelölje be, ha szükség van-adó felhasználását on-top a kezelési díj</span>]]></value>
+		<value><![CDATA[Adóosztály:<span class="help">Válassza ki, ha szükséges, hogy a kezelési díjra adót számoljunk</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -50,18 +50,18 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Sorrend:]]></value>
+		<value><![CDATA[Rendezési sorrend:]]></value>
 	</definition>
 	<definition>
 		<key>entry_calculation_order</key>
-		<value><![CDATA[Számítási Order:]]></value>
+		<value><![CDATA[Számítási sorrend:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítására teljes kezelési díjat!]]></value>
+		<value><![CDATA[Figyelmeztetés: Nincs engedélye a teljes kezelési díj módosítására!]]></value>
 	</definition>
 	<definition>
 		<key>error_number</key>
-		<value><![CDATA[Figyelmeztetés: rendelés teljes és kezelési költség kell egy számot!]]></value>
+		<value><![CDATA[Figyelmeztetés: A rendelés összértékének és a kezelési díjnak számoknak kell lenniük!]]></value>
 	</definition>
 </definitions>

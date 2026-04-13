@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_advanced</key>
-		<value><![CDATA[avancerad sökning]]></value>
+		<value><![CDATA[Avancerad sökning]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>

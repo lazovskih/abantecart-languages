@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>stripe_name</key>
-		<value><![CDATA[Stripe betaling]]></value>
+		<value><![CDATA[Stripe-betaling]]></value>
 	</definition>
 	<definition>
 		<key>stripe_note</key>
-		<value><![CDATA[Ytterligere innstillinger kreves for å fullføre Stripe-betalingsoppsettet. Se kategorien for tilleggsinnstillinger.]]></value>
+		<value><![CDATA[Ytterligere innstillinger kreves for å fullføre Stripe-betalingsoppsettet. Se fanen Ytterligere innstillinger.]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret betalingsinnstillingene for Stripe!]]></value>
+		<value><![CDATA[Suksess: Du har endret Stripe-betalingsinnstillingene!]]></value>
 	</definition>
 	<definition>
 		<key>stripe_location_id</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>stripe_autoselect</key>
-		<value><![CDATA[Autovalg: <br/><span class="help">Du kan angi å hoppe over betalingsvalgsiden hvis det bare er ett betalingsalternativ. Denne betalingsmåten velges automatisk</span>]]></value>
+		<value><![CDATA[Automatisk valg:<br /><span class="help">Du kan stille inn at betalingsvalgsiden hoppes over hvis det bare finnes ett betalingsalternativ. Denne betalingsmetoden velges automatisk</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list</key>
-		<value><![CDATA[Tillatte betalingsmåter. <br/><span class="help">La stå tomt for automatisk valg</span>]]></value>
+		<value><![CDATA[Tillatte betalingsmetoder. <br /><span class="help">La stå tomt for automatisk utvalg</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_card</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_afterpay_clearpay</key>
-		<value><![CDATA[Etterbetaling/Clearpay]]></value>
+		<value><![CDATA[Afterpay/Clearpay]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_alipay</key>
@@ -62,15 +62,15 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_au_becs_debit</key>
-		<value><![CDATA[BECS avtalegiro]]></value>
+		<value><![CDATA[BECS Direkte belastering]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_bacs_debit</key>
-		<value><![CDATA[Bacs direkte belastning]]></value>
+		<value><![CDATA[Bacs direkte debitering]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_affirm</key>
-		<value><![CDATA[Bekrefte]]></value>
+		<value><![CDATA[Bekreft]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_bancontact</key>
@@ -106,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_zip</key>
-		<value><![CDATA[Zip]]></value>
+		<value><![CDATA[Postnummer]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_eps</key>
@@ -134,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_link</key>
-		<value><![CDATA[Link]]></value>
+		<value><![CDATA[Lenke]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_oxxo</key>
@@ -162,7 +162,7 @@
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_us_bank_account</key>
-		<value><![CDATA[ACH direkte belastning]]></value>
+		<value><![CDATA[ACH Direkte belastning]]></value>
 	</definition>
 	<definition>
 		<key>stripe_payment_method_list_wechat_pay</key>
@@ -174,7 +174,7 @@
 	</definition>
 	<definition>
 		<key>text_stripe_connect</key>
-		<value><![CDATA[Du må koble til med stripe for å konfigurere betalingsdetaljer]]></value>
+		<value><![CDATA[Du må koble til stripe for å sette opp betalingsdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>text_stripe_settings</key>
@@ -182,7 +182,7 @@
 	</definition>
 	<definition>
 		<key>text_connect</key>
-		<value><![CDATA[Koble til Stripe	]]></value>
+		<value><![CDATA[Koble til Stripe]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect</key>
@@ -190,15 +190,15 @@
 	</definition>
 	<definition>
 		<key>text_skip_connect</key>
-		<value><![CDATA[Kan du ikke koble til?]]></value>
+		<value><![CDATA[Kan ikke koble til?]]></value>
 	</definition>
 	<definition>
 		<key>text_connect_success</key>
-		<value><![CDATA[Koblet til Stripe]]></value>
+		<value><![CDATA[Tilkoblet Stripe med hell]]></value>
 	</definition>
 	<definition>
 		<key>text_disconnect_success</key>
-		<value><![CDATA[Koblet fra Stripe]]></value>
+		<value><![CDATA[Frakoblet fra Stripe med hell]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sort_order</key>
@@ -206,47 +206,47 @@
 	</definition>
 	<definition>
 		<key>stripe_test_mode</key>
-		<value><![CDATA[Testmodus: <br/><span class="help">Sett til PÅ hvis du vil bruke testnøkkelen</span>]]></value>
+		<value><![CDATA[Testmodus:<br /><span class="help">Sett til PÅ hvis du vil bruke testnøkkel</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sk_live</key>
-		<value><![CDATA[Live Secret Key: <br/><span class="help">Finn denne i Stripe API Keys-seksjonen. Nøkkelen starter med sk_live_...</span>]]></value>
+		<value><![CDATA[Live hemmelig nøkkel:<br /><span class="help">Finn denne i Stripe API-nøkkelseksjonen. Nøkkelen starter med sk_live_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_pk_live</key>
-		<value><![CDATA[Direkte publiserbar nøkkel: <br/><span class="help">Finn denne i Stripe API Keys-seksjonen. Nøkkelen starter med pk_live_...</span>]]></value>
+		<value><![CDATA[Live publiserbar nøkkel:<br /><span class="help">Finn dette i Stripe API-nøkkel-seksjonen. Nøkkelen starter med pk_live_...</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_sk_test</key>
-		<value><![CDATA[Test hemmelig nøkkel: <br/><span class="help">Finn denne i Stripe API Keys-seksjonen. Nøkkelen starter med sk_test_...</span>]]></value>
+		<value><![CDATA[Test hemmelig nøkkel:<br /><span class="help">Finn dette i Stripe API-nøkkelseksjonen. Nøkkelen starter med sk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_pk_test</key>
-		<value><![CDATA[Test publiserbar nøkkel: <br/><span class="help">Finn denne i Stripe API Keys-seksjonen. Nøkkelen starter med pk_test_...</span>]]></value>
+		<value><![CDATA[Test publiserbar nøkkel:<br /><span class="help">Finn denne i Stripe API-nøkkelseksjonen. Nøkkelen begynner med pk_test_... </span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement</key>
-		<value><![CDATA[Oppgjørstype: <br/><span class="help">Hvis satt til &#39;auto&#39;, vil transaksjonen inkluderes i dagens oppgjør. Hvis satt til &quot;forsinket&quot;, vil transaksjonen bli autorisert, men ikke avgjort (fanget). Du må registrere transaksjoner manuelt innen 7 dager etter autorisasjon</span>]]></value>
+		<value><![CDATA[Oppgjørstype:<br /><span class="help">Hvis satt til 'auto', vil transaksjonen bli inkludert i dagens oppgjør. Hvis satt til 'delayed', vil transaksjonen bli autorisert, men ikke avregnet (innløst). Du må manuelt innløse transaksjoner innen 7 dager etter autorisasjon.</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_success_settled</key>
-		<value><![CDATA[Vellykket og avgjort: <br/><span class="help">Velg hovedordrestatus du vil angi som svar på betalingsbehandlerstatus</span>]]></value>
+		<value><![CDATA[Suksess & avregnet:<br /><span class="help">Velg hovedordrestatus du vil angi som svar på betalingsprosessorens status</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_success_unsettled</key>
-		<value><![CDATA[Suksess og ikke avgjort: <br/><span class="help">Velg hovedordrestatus du vil angi som svar på betalingsbehandlerstatus</span>]]></value>
+		<value><![CDATA[Suksess & ikke avregnet:<br /><span class="help">Velg hvilken hovedordrestatus du vil sette som svar på betalingsprosessorens status</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_decline</key>
-		<value><![CDATA[Avslå: <br/><span class="help">Ordrestatus du ønsker å registrere i historikken som svar på betalingsbehandlerstatus. Hovedordrestatus påvirkes ikke. Bestillingen vil ikke bli plassert først etter at betalingen er vellykket.</span>]]></value>
+		<value><![CDATA[Avvis:<br /><span class="help">Ordrestatus du vil registrere i historikken som svar på betalingsprosessorens status. Hovedordrestatus påvirkes ikke. Ordren vil kun bli opprettet etter at betalingen er vellykket.</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_void</key>
-		<value><![CDATA[Annullert: <br/><span class="help">Ordrestatus du ønsker skal settes dersom betaling annulleres i admin/ordre.</span>]]></value>
+		<value><![CDATA[Annullert:<br /><span class="help">Ordrestatus du ønsker skal settes hvis betalingen annulleres i admin/order.</span>]]></value>
 	</definition>
 	<definition>
 		<key>stripe_status_refund</key>
-		<value><![CDATA[Refundert: <br/><span class="help">Ordrestatus du ønsker skal settes dersom betaling refunderes i admin/ordre.</span>]]></value>
+		<value><![CDATA[Refundert:<br /><span class="help">Ordrestatusen du ønsker skal settes når betalingen refunderes i admin/order.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_column_date_added</key>
@@ -258,31 +258,31 @@
 	</definition>
 	<definition>
 		<key>text_captured_ok</key>
-		<value><![CDATA[Midlene ble tatt opp med hell]]></value>
+		<value><![CDATA[Midlene ble innkrevd med hell]]></value>
 	</definition>
 	<definition>
 		<key>text_captured_order</key>
-		<value><![CDATA[Capture var vellykket, ordrestatus oppdatert til suksess - avgjort]]></value>
+		<value><![CDATA[Belastningen var vellykket, bestillingsstatus oppdatert til suksess - oppgjort]]></value>
 	</definition>
 	<definition>
 		<key>text_refunded_ok</key>
-		<value><![CDATA[Tilbakebetalingen ble behandlet]]></value>
+		<value><![CDATA[Refusjonen ble behandlet vellykket.]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_order</key>
-		<value><![CDATA[Tilbakebetaling var vellykket, ordrestatus oppdatert til refundert]]></value>
+		<value><![CDATA[Refusjonen var vellykket, ordrestatus oppdatert til refundert]]></value>
 	</definition>
 	<definition>
 		<key>text_voided</key>
-		<value><![CDATA[Annullering var vellykket, ordrestatus oppdatert til annullert]]></value>
+		<value><![CDATA[Stornering var vellykket, ordrestatus oppdatert til stornert]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement_auto</key>
-		<value><![CDATA[Auto (autorisere og ta opp)]]></value>
+		<value><![CDATA[Automatisk (autorisere og belaste)]]></value>
 	</definition>
 	<definition>
 		<key>stripe_settlement_delayed</key>
-		<value><![CDATA[Forsinket (bare autoriser)]]></value>
+		<value><![CDATA[Forsinket (kun autorisering)]]></value>
 	</definition>
 	<definition>
 		<key>text_payment_info</key>
@@ -290,7 +290,7 @@
 	</definition>
 	<definition>
 		<key>text_capture_status</key>
-		<value><![CDATA[Betaling ble tatt]]></value>
+		<value><![CDATA[Betalingen ble innløst]]></value>
 	</definition>
 	<definition>
 		<key>text_void_status</key>
@@ -298,11 +298,11 @@
 	</definition>
 	<definition>
 		<key>text_refund_status</key>
-		<value><![CDATA[Betaling ble refundert]]></value>
+		<value><![CDATA[Betalingen ble tilbakebetalt]]></value>
 	</definition>
 	<definition>
 		<key>text_capture_amount</key>
-		<value><![CDATA[Fangst beløp]]></value>
+		<value><![CDATA[Beløp som innkreves]]></value>
 	</definition>
 	<definition>
 		<key>text_refund_amount</key>
@@ -310,15 +310,15 @@
 	</definition>
 	<definition>
 		<key>text_order_ref</key>
-		<value><![CDATA[Stripe Charge ID]]></value>
+		<value><![CDATA[Stripe betalings-ID]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total</key>
-		<value><![CDATA[Totalbeløp autorisert]]></value>
+		<value><![CDATA[Totalt autorisert beløp]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Saldobeløp]]></value>
+		<value><![CDATA[Saldo]]></value>
 	</definition>
 	<definition>
 		<key>text_transactions</key>
@@ -326,63 +326,63 @@
 	</definition>
 	<definition>
 		<key>text_confirm_void</key>
-		<value><![CDATA[Bekreft at du vil annullere betalingen?]]></value>
+		<value><![CDATA[Vennligst bekreft at du ønsker å annullere betalingen?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_capture</key>
-		<value><![CDATA[Bekreft at du ønsker å motta betalingen?]]></value>
+		<value><![CDATA[Vennligst bekreft at du vil innløse betalingen?]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_refund</key>
-		<value><![CDATA[Bekreft at du vil refundere betalingen?]]></value>
+		<value><![CDATA[Vennligst bekreft at du ønsker å refundere betalingen?]]></value>
 	</definition>
 	<definition>
 		<key>button_refund</key>
-		<value><![CDATA[Tilbakebetaling]]></value>
+		<value><![CDATA[Refusjon]]></value>
 	</definition>
 	<definition>
 		<key>button_void</key>
-		<value><![CDATA[Ugyldig]]></value>
+		<value><![CDATA[Annullert]]></value>
 	</definition>
 	<definition>
 		<key>button_capture</key>
-		<value><![CDATA[Fangst]]></value>
+		<value><![CDATA[Capture]]></value>
 	</definition>
 	<definition>
 		<key>error_system</key>
-		<value><![CDATA[Intern feil. Sjekk feillogg eller inndataparametere!]]></value>
+		<value><![CDATA[Intern feil. Sjekk feilloggen eller inngangsparameterne!]]></value>
 	</definition>
 	<definition>
 		<key>error_missing_amount</key>
-		<value><![CDATA[Vennligst skriv inn positivt beløp]]></value>
+		<value><![CDATA[Vennligst oppgi et positivt beløp]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_capture</key>
-		<value><![CDATA[Kan ikke fange opp, oppdatere transaksjonsdetaljer og sjekke fangstbeløp]]></value>
+		<value><![CDATA[Kunne ikke gjennomføre innkreving, oppdater transaksjonsdetaljer og sjekk innkrevingsbeløp]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_void</key>
-		<value><![CDATA[Kan ikke annullere transaksjonen, oppdatere og sjekke transaksjonsdetaljer]]></value>
+		<value><![CDATA[Kan ikke annullere transaksjonen, oppdater og sjekk transaksjonsdetaljer]]></value>
 	</definition>
 	<definition>
 		<key>error_unable_to_refund</key>
-		<value><![CDATA[Kan ikke refundere, oppdater transaksjonsdetaljer og kontroller refusjonsbeløpet]]></value>
+		<value><![CDATA[Kan ikke refundere, oppdater transaksjonsdetaljer og sjekk refusjonsbeløpet]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_pk_test</key>
-		<value><![CDATA[Stripe Publisert nøkkel kreves]]></value>
+		<value><![CDATA[Stripe publisert nøkkel er påkrevd.]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_pk_live</key>
-		<value><![CDATA[Stripe Publisert nøkkel kreves]]></value>
+		<value><![CDATA[Stripe publisert nøkkel er påkrevd]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_sk_test</key>
-		<value><![CDATA[Stripe testnøkkel er nødvendig]]></value>
+		<value><![CDATA[Stripe testnøkkel er påkrevd]]></value>
 	</definition>
 	<definition>
 		<key>error_stripe_sk_live</key>
-		<value><![CDATA[Stripe live nøkkel kreves]]></value>
+		<value><![CDATA[Stripe live-nøkkel er påkrevd]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -390,17 +390,16 @@
 	</definition>
 	<definition>
 		<key>stripe_webhook_howto_text</key>
-		<value><![CDATA[Merk: For å fullføre oppsettet bør du lage webhooks på Stripe Account Side. 
- <br/> Gå til Your <a href="https://dashboard.stripe.com/webhooks" target="_new">Stripe Dashboard Developer Section</a> 
- og Legg til endepunkter som mottar hendelser fra kontoen din. Etter at Endpoint er opprettet, kopier Signing Secret og lagre i Stripe Subscription Extension-innstillingene hører hjemme. 
-]]></value>
+		<value><![CDATA[Merk: For å fullføre oppsettet må du opprette webhooks på Stripe-kontosiden.
+<br> Gå til din <a href="https://dashboard.stripe.com/webhooks" target="_blank">Stripe-dashboardets utviklerseksjon</a>
+og legg til endepunkter som mottar hendelser fra kontoen din. Etter at endepunktet er opprettet kopierer du Signing Secret og lagrer den i Stripe Subscription Extension-innstillingene.]]></value>
 	</definition>
 	<definition>
 		<key>stripe_entry_endpoint_url</key>
-		<value><![CDATA[Endpoint URL:]]></value>
+		<value><![CDATA[Endepunkt-URL:]]></value>
 	</definition>
 	<definition>
 		<key>stripe_entry_endpoint_signing_secret</key>
-		<value><![CDATA[Endpoint Signing Secret:]]></value>
+		<value><![CDATA[Endepunkts signeringshemmelighet:]]></value>
 	</definition>
 </definitions>

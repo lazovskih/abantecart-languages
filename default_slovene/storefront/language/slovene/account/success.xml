@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,26 +6,31 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Čestitke! Vaš novi račun je bil uspešno ustvarjen! </p><p> Sedaj lahko izkoristite ugodnosti članic za izboljšanje vaše spletno nakupovalno izkušnjo z nami. </p><p> Če imate kakršnakoli vprašanja o delovanju te spletne trgovine, pišite lastnika trgovine. </p><p> Potrditev je bila poslana navedenim e-poštnim naslovom. Če je niste prejeli v roku ene ure, se <a href="%s">obrnite na nas</a>. </p>]]></value>
+		<value><![CDATA[<p>Čestitamo! Vaš novi račun je bil uspešno ustvarjen!</p> 
+<p>Zdaj lahko izkoristite članske ugodnosti in izboljšate svojo spletno nakupovalno izkušnjo pri nas.</p> 
+<p>Če imate kakršna koli vprašanja o delovanju te spletne trgovine, prosimo, pošljite e-pošto lastniku trgovine.</p> 
+<p>Potrdilo je bilo poslano na navedeni e-poštni naslov. Če ga niste prejeli v eni uri, prosimo, <a href="%s">kontaktirajte nas</a>.</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_approval</key>
-		<value><![CDATA[<p> Hvala za registracijo z %s! </p><p> Ti bodo obveščeni po elektronski pošti, ko je bil vaš račun aktiviran s strani lastnika trgovine. </p><p> Če imate kakršnakoli vprašanja o delovanju te spletne trgovine, se <a href="%s">obrnite na lastnika trgovine</a>. </p>]]></value>
-	</definition>
-	<definition>
-		<key>text_activate</key>
-		<value><![CDATA[<p> Hvala za registracijo z %s! </p><p> Vas bomo obvestili preko e-pošte z računa navodili za aktivacijo. Morate klikniti na povezavo v sporočilu, da aktivirate svoj račun. Če ne prejmete e-pošto, preverite v vaših junk ali spam mape. </p><p> Če imate kakršnakoli vprašanja o delovanju te spletne trgovine, se <a href="%s">obrnite na lastnika trgovine</a>. </p>]]></value>
-	</definition>
-	<definition>
-		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
-	</definition>
-	<definition>
-		<key>text_success</key>
-		<value><![CDATA[uspeh]]></value>
+		<value><![CDATA[<p>Hvala, ker ste se registrirali pri %s!</p>
+<p>O tem boste obveščeni po e-pošti, ko ga bo aktiviral lastnik trgovine.</p>
+<p>Če imate kakršnakoli vprašanja glede delovanja te spletne trgovine, prosimo <a href="%s">kontaktirajte lastnika trgovine</a>.</p>]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_activation</key>
-		<value><![CDATA[Vaš račun je bil ustvarjen, vendar je potrebna aktivacija. Sledite navodilom.]]></value>
+		<value><![CDATA[Vaš račun je bil ustvarjen, vendar je potrebna aktivacija. Prosimo, sledite navodilom.]]></value>
+	</definition>
+	<definition>
+		<key>text_activate</key>
+		<value><![CDATA[<p>Hvala, ker ste se registrirali pri %s!</p><p>Prejeli boste e-pošto z navodili za aktivacijo vašega računa. Za aktivacijo računa morate klikniti povezavo, ki je priložena v e-pošti. Če ne prejmete e-pošte, prosimo, preverite mapo z neželeno ali vsiljeno pošto.</p><p>Če imate KAKRŠNA koli vprašanja o delovanju te spletne trgovine, prosimo, <a href="%s">kontaktirajte lastnika trgovine</a>.</p>]]></value>
+	</definition>
+	<definition>
+		<key>text_account</key>
+		<value><![CDATA[Račun]]></value>
+	</definition>
+	<definition>
+		<key>text_success</key>
+		<value><![CDATA[Uspeh]]></value>
 	</definition>
 </definitions>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Přehled objednávky]]></value>
+		<value><![CDATA[Souhrn objednávky]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
@@ -22,14 +22,14 @@
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Prohlédnout košík]]></value>
+		<value><![CDATA[Zobrazit košík]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Překontrolovat]]></value>
+		<value><![CDATA[Pokladna]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>
-		<value><![CDATA[předměty]]></value>
+		<value><![CDATA[Položky]]></value>
 	</definition>
 </definitions>

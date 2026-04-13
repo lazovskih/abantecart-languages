@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Upravili ste nastavenia a podrobnosti bankového prevodu!]]></value>
+		<value><![CDATA[Úspech: Zmenili ste nastavenia a detaily bankového prevodu!]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_instructions</key>
-		<value><![CDATA[Pokyny pre bankový prevod: <span class="help">Pokyny zobrazené zákazníkom na uskutočnenie bankového alebo bankového prevodu na váš bankový účet</span>]]></value>
+		<value><![CDATA[Pokyny k bankovému prevodu:<span class="help">Pokyn zobrazený zákazníkom na vykonanie bankového alebo medzibankového prevodu na váš bankový účet</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_min</key>
-		<value><![CDATA[Celkový limit objednávky: <span class="help">Minimálna suma objednávky, ktorá sa má dosiahnuť, aby bola možná platba</span>]]></value>
+		<value><![CDATA[Celkový limit objednávky:<span class="help">Minimálna suma objednávky, ktorá musí byť dosiahnutá, aby bola táto platba povolená</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_order_status_id</key>
@@ -26,18 +26,18 @@
 	</definition>
 	<definition>
 		<key>default_banktransfer_location_id</key>
-		<value><![CDATA[miesto:]]></value>
+		<value><![CDATA[Poloha:]]></value>
 	</definition>
 	<definition>
 		<key>default_banktransfer_location_id_0</key>
-		<value><![CDATA[Všetky miesta]]></value>
+		<value><![CDATA[Všetky lokality]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornenie: Nemáte povolenie na úpravu platby bankovým prevodom!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie upraviť platbu bankovým prevodom!]]></value>
 	</definition>
 	<definition>
 		<key>error_instructions</key>
-		<value><![CDATA[Vyžadujú sa pokyny na bankový prevod!]]></value>
+		<value><![CDATA[Pokyny na bankový prevod sú povinné!]]></value>
 	</definition>
 </definitions>

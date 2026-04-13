@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[לוח המחוונים חשבון]]></value>
+		<value><![CDATA[לוח הבקרה של החשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[חֶשְׁבּוֹן]]></value>
+		<value><![CDATA[חשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_my_account</key>
@@ -26,15 +26,15 @@
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[פרטי חשבון ערוך]]></value>
+		<value><![CDATA[ערוך פרטי החשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
-		<value><![CDATA[שנה סיסמא]]></value>
+		<value><![CDATA[שנה סיסמה]]></value>
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[נהל את פנקס הכתובות]]></value>
+		<value><![CDATA[ניהול ספר הכתובות]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[מנוי לעיתון]]></value>
+		<value><![CDATA[הרשמה לניוזלטר]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>

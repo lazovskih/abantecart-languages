@@ -2,26 +2,15 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[¡Tu cuenta ha sido creada!]]></value>
+		<value><![CDATA[Se ha creado su Cuenta]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-<value>
-<![CDATA[<p>¡Felicidades! ¡Tu nueva cuenta ha sido creada exitosamente!</p> <p>Ahora puedes aprovechar los privilegios de miembro para mejorar tu experiencia de compra en línea con nosotros.</p> <p>Si tienes alguna pregunta sobre el funcionamiento de esta tienda en línea, por favor envía un correo al propietario de la tienda.</p> <p>Se ha enviado una confirmación a la dirección de correo electrónico proporcionada. Si no la has recibido en una hora, por favor <a href="%s">contáctanos</a>.</p>]]></value>
+		<value><![CDATA[<p>Felicidades! Su nueva cuenta se ha creado satisfactoriamente!</p> <p>Puede ahora usar los privilegios que le da el estar registrado a la hora de comprar con nosotros.</p> <p>Si tiene alguna duda sobre como realizar sus compras, por favor, envíenos un correo electrónico.</p> <p>Se ha enviado una confirmación a su dirección de correo electrónico.</p> <p>Si no la ha recibido en el plazo de una hora, por favor, revise su carpeta de spam en su correo o póngase en contacto con nosotros.</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_approval</key>
-<value>
-<![CDATA[<p>¡Gracias por registrarte en %s!</p><p>Serás notificado por correo electrónico una vez que tu cuenta haya sido activada por el propietario de la tienda.</p><p>Si tienes alguna pregunta sobre el funcionamiento de esta tienda en línea, por favor <a href="%s">contacta al propietario de la tienda</a>.</p>]]></value>
-	</definition>
-	<definition>
-		<key>heading_title_activation</key>
-		<value><![CDATA[¡Tu cuenta ha sido creada pero requiere activación! Por favor, sigue las instrucciones.]]></value>
-	</definition>
-	<definition>
-		<key>text_activate</key>
-<value>
-<![CDATA[<p>¡Gracias por registrarte en %s!</p><p>Recibirás por correo electrónico las instrucciones para activar tu cuenta. Debes hacer clic en el enlace proporcionado en el correo para activar tu cuenta. Si no recibes el correo, revisa tu carpeta de spam o correo no deseado.</p><p>Si tienes alguna pregunta sobre el funcionamiento de esta tienda en línea, por favor <a href="%s">contacta al propietario de la tienda</a>.</p>]]></value>
+		<value><![CDATA[<p>Gracias por registrarse en %s!</p><p>Por favor, revise su correo le hemos enviado un mensaje.</p><p>Si tiene alguna pregunta sobre esta operación, por favor <a href="%s">contáctenos</a>.</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -29,6 +18,14 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Éxito]]></value>
+		<value><![CDATA[Exito]]></value>
+	</definition>
+	<definition>
+		<key>text_activate</key>
+		<value><![CDATA[<p>Gracias por registrarse con %s!</p><p>Se le notificará por correo electrónico con su cuenta las instrucciones de activación. Debe hacer clic en el enlace proporcionado en el correo electrónico para activar su cuenta. Si usted no recibe el correo electrónico, por favor, compruebe en sus carpetas de spam o basura. </p><p>Si usted tiene alguna pregunta acerca del funcionamiento de esta tienda en línea, <a href="%s">en contacto con el dueño de la tienda</a>.</p>]]></value>
+	</definition>
+	<definition>
+		<key>heading_title_activation</key>
+		<value><![CDATA[Su cuenta ha sido creada pero se requiere activación. Siga las instrucciones.]]></value>
 	</definition>
 </definitions>

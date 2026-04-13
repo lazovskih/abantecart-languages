@@ -2,23 +2,23 @@
 <definitions>
 	<definition>
 		<key>default_cheque_name</key>
-		<value><![CDATA[Czek / Przekaz pieniężny]]></value>
+		<value><![CDATA[Czek / Przekaz Pieniężny]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[Zapłata]]></value>
+		<value><![CDATA[Płatność]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmodyfikowano dane konta czekowego/przekazu pieniężnego!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowano szczegóły konta czeku / przekazu pieniężnego!]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_payable</key>
-		<value><![CDATA[Płatne na: <br/><span class="help">Podaj nazwę, czek musi zostać wystawiony na</span>]]></value>
+		<value><![CDATA[Płatne na:<br /><span class="help">Podaj nazwę, na którą należy wypisać czek</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_address</key>
-		<value><![CDATA[Wyślij pocztą lub do: <br/><span class="help">Podaj adres, na który ma zostać wysłany czek. Adres głównego sklepu zostanie użyty, jeśli pole jest puste</span>]]></value>
+		<value><![CDATA[Wyślij pocztą lub prześlij do:<br /><span class="help">Podaj adres, na który wysłać czek. Główny adres sklepu zostanie użyty, jeśli pole będzie puste</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_cheque_order_status_id</key>
@@ -38,6 +38,6 @@
 	</definition>
 	<definition>
 		<key>error_payable</key>
-		<value><![CDATA[Płatne na rzecz wymaganego!]]></value>
+		<value><![CDATA[Odbiorca płatności jest wymagany!]]></value>
 	</definition>
 </definitions>

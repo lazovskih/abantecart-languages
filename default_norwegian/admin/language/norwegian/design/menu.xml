@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>entry_item_id</key>
-		<value><![CDATA[unik ID]]></value>
+		<value><![CDATA[Unik ID]]></value>
 	</definition>
 	<definition>
 		<key>entry_item_icon</key>
@@ -22,39 +22,43 @@
 	</definition>
 	<definition>
 		<key>entry_item_url</key>
-		<value><![CDATA[Link <br/><span class="help">For eksterne lenker legge http:// eller https:// i begynnelsen</span>]]></value>
+		<value><![CDATA[Link<br /><span class="help">For eksterne lenker legg til http:// eller https:// i begynnelsen. Du kan også bruke relativ URL som ../subfolder/index.php</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_item_target</key>
+		<value><![CDATA[Mål<br/><span class="help">_self - åpner det tilknyttede dokumentet i samme ramme som det ble klikket i.<br>_blank - åpner det tilknyttede dokumentet i et nytt vindu eller fane</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_parent_id</key>
-		<value><![CDATA[Foreldre]]></value>
+		<value><![CDATA[Forelder]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
 		<value><![CDATA[Sorteringsrekkefølge]]></value>
 	</definition>
 	<definition>
+		<key>entry_link_type</key>
+		<value><![CDATA[Lenketype]]></value>
+	</definition>
+	<definition>
 		<key>text_select_parent_id</key>
-		<value><![CDATA[- Root Meny -]]></value>
+		<value><![CDATA[- Rotmeny -]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[Feltet kan ikke være tom!]]></value>
+		<value><![CDATA[Feltet kan ikke være tomt!]]></value>
 	</definition>
 	<definition>
 		<key>error_non_unique</key>
-		<value><![CDATA[Artikkel-ID ikke er unik!]]></value>
+		<value><![CDATA[Vare-ID er ikke unik!]]></value>
 	</definition>
 	<definition>
 		<key>error_non_ascii</key>
-		<value><![CDATA[Bare alfanumeriske tegn er tillatt for meny-ID-feltet!]]></value>
-	</definition>
-	<definition>
-		<key>entry_link_type</key>
-		<value><![CDATA[lenke Type]]></value>
+		<value><![CDATA[Kun alfanumeriske tegn er tillatt i meny-ID-feltet!]]></value>
 	</definition>
 	<definition>
 		<key>text_category_link_type</key>
-		<value><![CDATA[Kategori Page]]></value>
+		<value><![CDATA[Kategoriside]]></value>
 	</definition>
 	<definition>
 		<key>text_content_link_type</key>
@@ -62,14 +66,10 @@
 	</definition>
 	<definition>
 		<key>text_custom_link_type</key>
-		<value><![CDATA[Custom Link eller URL]]></value>
-	</definition>
-	<definition>
-		<key>entry_item_target</key>
-		<value><![CDATA[Target <br/><span class="help">_self - åpner det koblede dokumentet i samme ramme som det ble klikket på. <br/> _blank - åpner det koblede dokumentet i et nytt vindu eller fane</span>]]></value>
+		<value><![CDATA[Egendefinert lenke eller URL]]></value>
 	</definition>
 	<definition>
 		<key>entry_include_children_items</key>
-		<value><![CDATA[Inkluder barneartikler]]></value>
+		<value><![CDATA[Inkluder underordnede elementer]]></value>
 	</definition>
 </definitions>

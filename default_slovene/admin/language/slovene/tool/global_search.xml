@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Globalni Rezultati iskanja]]></value>
+		<value><![CDATA[Globalni rezultati iskanja]]></value>
 	</definition>
 	<definition>
 		<key>no_results_message</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_orders</key>
-		<value><![CDATA[naročila]]></value>
+		<value><![CDATA[Naročila]]></value>
 	</definition>
 	<definition>
 		<key>text_customers</key>
-		<value><![CDATA[stranke]]></value>
+		<value><![CDATA[Stranke]]></value>
 	</definition>
 	<definition>
 		<key>text_downloads</key>
@@ -30,23 +30,23 @@
 	</definition>
 	<definition>
 		<key>text_products</key>
-		<value><![CDATA[izdelki]]></value>
+		<value><![CDATA[Izdelki]]></value>
 	</definition>
 	<definition>
 		<key>text_reviews</key>
-		<value><![CDATA[komentarji]]></value>
+		<value><![CDATA[Mnenja]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Blagovne znamke]]></value>
+		<value><![CDATA[Znamke]]></value>
 	</definition>
 	<definition>
 		<key>text_languages</key>
-		<value><![CDATA[jeziki]]></value>
+		<value><![CDATA[Jeziki]]></value>
 	</definition>
 	<definition>
 		<key>text_pages</key>
-		<value><![CDATA[strani]]></value>
+		<value><![CDATA[Strani]]></value>
 	</definition>
 	<definition>
 		<key>text_settings</key>
@@ -54,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>text_messages</key>
-		<value><![CDATA[sporočila]]></value>
+		<value><![CDATA[Sporočila]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions</key>
-		<value><![CDATA[razširitve]]></value>
+		<value><![CDATA[Razširitve]]></value>
 	</definition>
 	<definition>
 		<key>text_commands</key>
@@ -66,6 +66,6 @@
 	</definition>
 	<definition>
 		<key>text_contents</key>
-		<value><![CDATA[strani vsebine]]></value>
+		<value><![CDATA[Vsebinske strani]]></value>
 	</definition>
 </definitions>

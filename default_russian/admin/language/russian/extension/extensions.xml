@@ -105,12 +105,8 @@
 		<value><![CDATA[Внимание: Деинсталлируйте расширение перед удалением!]]></value>
 	</definition>
 	<definition>
-		<key>text_success</key>
-		<value><![CDATA[Вы изменили настройки модуля!]]></value>
-	</definition>
-	<definition>
 		<key>text_restore_success</key>
-		<value><![CDATA[Вы восстановили настройки расширения по умолчанию!]]></value>
+		<value><![CDATA[Успешно: Вы восстановили настройки расширения по умолчанию!]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
@@ -138,11 +134,11 @@
 	</definition>
 	<definition>
 		<key>text_missing_extension</key>
-		<value><![CDATA["Расширение %s: Источник не может быть определен! Пожалуйста, удалите его и вернитесь к поставщику расширений, чтобы загрузить его еще раз"]]></value>
+		<value><![CDATA[&quot;Расширение %s: Источник не может быть определен! Пожалуйста, удалите его и вернитесь к поставщику расширений, чтобы загрузить его еще раз&quot;]]></value>
 	</definition>
 	<definition>
 		<key>text_broken_extension</key>
-		<value><![CDATA["Расширение %s: Источник, вероятно, сломан! Не удается найти config.xml или main.php файлы. Пожалуйста, удалите его и вернитесь к поставщику расширений, чтобы получить исходный код и переустановить расширение."]]></value>
+		<value><![CDATA[&quot;Расширение %s: Источник, вероятно, сломан! Не удается найти config.xml или main.php файлы. Пожалуйста, удалите его и вернитесь к поставщику расширений, чтобы получить исходный код и переустановить расширение.&quot;]]></value>
 	</definition>
 	<definition>
 		<key>text_extension_pagination</key>
@@ -186,7 +182,7 @@
 	</definition>
 	<definition>
 		<key>text_installed_on</key>
-		<value><![CDATA[Установлено]]></value>
+		<value><![CDATA[Устанавлено]]></value>
 	</definition>
 	<definition>
 		<key>text_installed</key>
@@ -227,10 +223,6 @@
 	<definition>
 		<key>text_update_available</key>
 		<value><![CDATA[Доступна новая версия (%s). <a href="%s">Нажмите, чтобы обновить сейчас.</a>]]></value>
-	</definition>
-	<definition>
-		<key>text_update_it</key>
-		<value><![CDATA[Доступна новая версия (%NEWVERSION%) ]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
@@ -437,5 +429,13 @@
 		<key>text_autoselect_shipping</key>
 		<value><![CDATA[
  Автоматический выбор: <span class="help">оптимизирует процесс оформления заказа, автоматически выбирая способ доставки, когда доступно несколько вариантов.</span>]]></value>
+	</definition>
+	<definition>
+		<key>text_customer_groups</key>
+		<value><![CDATA[Разрешено только для группы(групп) клиентов:]]></value>
+	</definition>
+	<definition>
+		<key>button_load_more_languages</key>
+		<value><![CDATA[Загрузить больше языков]]></value>
 	</definition>
 </definitions>

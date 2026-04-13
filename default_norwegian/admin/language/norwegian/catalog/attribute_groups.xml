@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Global Egenskap Grupper]]></value>
+		<value><![CDATA[Globale attributtgrupper]]></value>
 	</definition>
 	<definition>
 		<key>text_group</key>
-		<value><![CDATA[egenskapsgruppe]]></value>
+		<value><![CDATA[Attributtgruppe]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -34,15 +34,15 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Gruppe Sorteringsrekkefølge:]]></value>
+		<value><![CDATA[Gruppe sorteringsrekkefølge:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Gruppe Status:]]></value>
+		<value><![CDATA[Gruppestatus:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre attributt grupper!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre attributtgrupper!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>

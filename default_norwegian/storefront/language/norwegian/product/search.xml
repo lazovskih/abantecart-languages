@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Søke]]></value>
+		<value><![CDATA[Søk]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Produkter som matcher dine søkekriterier]]></value>
+		<value><![CDATA[Produkter som oppfyller søkekriteriene]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[nøkkelord]]></value>
+		<value><![CDATA[Nøkkelord]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
-		<value><![CDATA[Alle Kategorier]]></value>
+		<value><![CDATA[Alle kategorier]]></value>
 	</definition>
 	<definition>
 		<key>text_critea</key>
@@ -22,11 +22,11 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Det er ingen produkter funnet som matcher dine søkekriterier.]]></value>
+		<value><![CDATA[Det finnes ikke noe produkt som samsvarer med søkekriteriene.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Av 5 mulige!]]></value>
+		<value><![CDATA[%s av 5 stjerner!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Misligholde]]></value>
+		<value><![CDATA[Standard]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Navn A - Å]]></value>
+		<value><![CDATA[Navn A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
@@ -50,19 +50,19 @@
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Pris Høy &gt; Lav]]></value>
+		<value><![CDATA[Pris Høy > Lav]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Rating Laveste]]></value>
+		<value><![CDATA[Laveste vurdering]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Rangering høyest]]></value>
+		<value><![CDATA[Høyeste vurdering]]></value>
 	</definition>
 	<definition>
 		<key>entry_search</key>
-		<value><![CDATA[Søke:]]></value>
+		<value><![CDATA[Søk:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>

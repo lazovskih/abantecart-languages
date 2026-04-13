@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Ordersammanfattning]]></value>
+		<value><![CDATA[Orderöversikt]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 objekt]]></value>
+		<value><![CDATA[0 artiklar]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
@@ -18,18 +18,18 @@
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Avlägsna]]></value>
+		<value><![CDATA[Ta bort]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Visa kundvagn]]></value>
+		<value><![CDATA[Visa varukorg]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Checka ut]]></value>
+		<value><![CDATA[Kassan]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>
-		<value><![CDATA[objekt]]></value>
+		<value><![CDATA[Artiklar]]></value>
 	</definition>
 </definitions>

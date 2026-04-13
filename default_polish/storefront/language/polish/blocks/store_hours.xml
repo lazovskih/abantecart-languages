@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>closed</key>
-		<value><![CDATA[Zamknięte]]></value>
+		<value><![CDATA[Zamknięty]]></value>
 	</definition>
 	<definition>
 		<key>open</key>
-		<value><![CDATA[Otwarte]]></value>
+		<value><![CDATA[Otwórz]]></value>
 	</definition>
 	<definition>
 		<key>sunday</key>
-		<value><![CDATA[Niedziela]]></value>
+		<value><![CDATA[niedziela]]></value>
 	</definition>
 	<definition>
 		<key>monday</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>wednesday</key>
-		<value><![CDATA[Środa]]></value>
+		<value><![CDATA[środa]]></value>
 	</definition>
 	<definition>
 		<key>thursday</key>

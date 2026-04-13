@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kunder]]></value>
+		<value><![CDATA[Kunder]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du har modifierade kunder!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat kunder!]]></value>
 	</definition>
 	<definition>
 		<key>text_approved</key>
@@ -22,19 +22,23 @@
 	</definition>
 	<definition>
 		<key>text_customer_addresses</key>
-		<value><![CDATA[kundadresser]]></value>
+		<value><![CDATA[Kundadresser]]></value>
 	</definition>
 	<definition>
 		<key>text_add_address</key>
-		<value><![CDATA[Lägg till ny adress]]></value>
+		<value><![CDATA[Lägg till adress]]></value>
 	</definition>
 	<definition>
 		<key>button_add</key>
 		<value><![CDATA[Lägg till]]></value>
 	</definition>
 	<definition>
+		<key>column_id</key>
+		<value><![CDATA[ID]]></value>
+	</definition>
+	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Köparens namn]]></value>
+		<value><![CDATA[Kundnamn]]></value>
 	</definition>
 	<definition>
 		<key>column_email</key>
@@ -42,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>column_customer_group</key>
-		<value><![CDATA[kundgrupp]]></value>
+		<value><![CDATA[Kundgrupp]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
@@ -58,15 +62,15 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[datum tillagt]]></value>
+		<value><![CDATA[Datum tillagt]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Inloggningsnamn:]]></value>
+		<value><![CDATA[Användarnamn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -94,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>entry_customer_group</key>
-		<value><![CDATA[Kund Grupp:]]></value>
+		<value><![CDATA[Kundgrupp:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -142,19 +146,15 @@
 	</definition>
 	<definition>
 		<key>entry_zone</key>
-		<value><![CDATA[Region / Stat:]]></value>
-	</definition>
-	<definition>
-		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra kunder!]]></value>
+		<value><![CDATA[Region / stat:]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Inloggningsnamn måste vara bara och mellan 5 och 64 tecken alfanumerisk!]]></value>
+		<value><![CDATA[Inloggningsnamnet måste bestå av enbart alfanumeriska tecken och vara mellan 5 och 64 tecken långt!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Denna inloggningsnamn är inte tillgänglig. Prova olika inloggningsnamn!]]></value>
+		<value><![CDATA[Detta inloggningsnamn är inte tillgängligt. Försök med ett annat inloggningsnamn!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
@@ -166,19 +166,15 @@
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-postadress verkar inte vara giltig!]]></value>
+		<value><![CDATA[E-postadressen verkar inte vara giltig!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon måste vara mellan 3 och 32 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_password</key>
-		<value><![CDATA[Lösenordet måste vara mellan 3 och 20 tecken!]]></value>
+		<value><![CDATA[Telefon måste bestå av mellan 3 och 32 siffror!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
-		<value><![CDATA[Lösenord och bekräftelse lösenord stämmer inte överens!]]></value>
+		<value><![CDATA[Lösenord och lösenordsbekräftelse matchar inte!]]></value>
 	</definition>
 	<definition>
 		<key>error_address_firstname</key>
@@ -190,19 +186,19 @@
 	</definition>
 	<definition>
 		<key>error_address_1</key>
-		<value><![CDATA[Adress måste vara mellan 3 och 128 tecken!]]></value>
+		<value><![CDATA[Adressen måste vara mellan 3 och 128 tecken!]]></value>
 	</definition>
 	<definition>
 		<key>error_city</key>
-		<value><![CDATA[Staden måste vara mellan 3 och 128 tecken!]]></value>
+		<value><![CDATA[Stad måste vara mellan 3 och 128 tecken!]]></value>
 	</definition>
 	<definition>
 		<key>error_country</key>
-		<value><![CDATA[Välj ett land!]]></value>
+		<value><![CDATA[Vänligen välj ett land!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone</key>
-		<value><![CDATA[Välj en region / stat!]]></value>
+		<value><![CDATA[Vänligen välj en region / stat!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_approved</key>
@@ -214,11 +210,11 @@
 	</definition>
 	<definition>
 		<key>tab_customer_details</key>
-		<value><![CDATA[Kunddetaljer]]></value>
+		<value><![CDATA[Kunduppgifter]]></value>
 	</definition>
 	<definition>
 		<key>tab_transactions</key>
-		<value><![CDATA[transaktioner]]></value>
+		<value><![CDATA[Transaktioner]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_transactions</key>
@@ -234,23 +230,23 @@
 	</definition>
 	<definition>
 		<key>column_debit</key>
-		<value><![CDATA[Debitera]]></value>
+		<value><![CDATA[Debet]]></value>
 	</definition>
 	<definition>
 		<key>column_credit</key>
-		<value><![CDATA[Kreditera]]></value>
+		<value><![CDATA[Kredit]]></value>
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[Överföringstyp]]></value>
+		<value><![CDATA[Transaktionstyp]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Balans:]]></value>
+		<value><![CDATA[Saldo:]]></value>
 	</definition>
 	<definition>
 		<key>text_last_login</key>
-		<value><![CDATA[Senaste inloggning:]]></value>
+		<value><![CDATA[Senaste inloggningen:]]></value>
 	</definition>
 	<definition>
 		<key>text_never</key>
@@ -258,7 +254,7 @@
 	</definition>
 	<definition>
 		<key>popup_title_info</key>
-		<value><![CDATA[transaktionsinformation]]></value>
+		<value><![CDATA[Transaktionsinformation]]></value>
 	</definition>
 	<definition>
 		<key>popup_title_insert</key>
@@ -266,27 +262,31 @@
 	</definition>
 	<definition>
 		<key>entry_credit</key>
-		<value><![CDATA[Credit (ökning balans)]]></value>
+		<value><![CDATA[Kredit (öka saldo)]]></value>
 	</definition>
 	<definition>
 		<key>entry_debit</key>
-		<value><![CDATA[Debet (minskning balans)]]></value>
+		<value><![CDATA[Debet (minskar saldot)]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_type</key>
-		<value><![CDATA[Överföringstyp:]]></value>
+		<value><![CDATA[Transaktionstyp:]]></value>
 	</definition>
 	<definition>
 		<key>entry_other_type</key>
-		<value><![CDATA[Andra Anpassad Transaktionstyp:]]></value>
+		<value><![CDATA[Lägg till ny anpassad transaktionstyp:]]></value>
+	</definition>
+	<definition>
+		<key>text_other_type_placeholder</key>
+		<value><![CDATA[Skriv nytt namn här]]></value>
 	</definition>
 	<definition>
 		<key>text_option_other_type</key>
-		<value><![CDATA[Andra...]]></value>
+		<value><![CDATA[Övrigt...]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_description</key>
-		<value><![CDATA[Beskrivning (för kunden):]]></value>
+		<value><![CDATA[Beskrivning (för kund):]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_comment</key>
@@ -294,39 +294,47 @@
 	</definition>
 	<definition>
 		<key>entry_update_date</key>
-		<value><![CDATA[Uppdatera Datum:]]></value>
+		<value><![CDATA[Uppdateringsdatum:]]></value>
 	</definition>
 	<definition>
 		<key>entry_create_date</key>
-		<value><![CDATA[Skapa datum:]]></value>
+		<value><![CDATA[Skapat datum:]]></value>
 	</definition>
 	<definition>
 		<key>error_transaction_type</key>
-		<value><![CDATA[Fel: Fyll transaktionstypen formulärfält.]]></value>
+		<value><![CDATA[Fel: Vänligen fyll i formulärfältet för transaktionstyp.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_debit_credit</key>
-		<value><![CDATA[Fel: Fyll betal- eller kreditvärde för kundtransaktion.]]></value>
+		<value><![CDATA[Fel: Vänligen ange debet- eller kreditbelopp för kundtransaktionen.]]></value>
+	</definition>
+	<definition>
+		<key>error_incorrect_debit_credit</key>
+		<value><![CDATA[Fel: debet- eller kreditbeloppet får inte vara större än 99999999999.9999]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_success</key>
-		<value><![CDATA[Framgång: Du har ändrat transaktion!]]></value>
+		<value><![CDATA[Framgång: Du har ändrat transaktionen!]]></value>
+	</definition>
+	<definition>
+		<key>text_add_address</key>
+		<value><![CDATA[Lägg till adress]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_address</key>
-		<value><![CDATA[Ändra adress]]></value>
+		<value><![CDATA[Redigera adress]]></value>
 	</definition>
 	<definition>
 		<key>entry_default</key>
-		<value><![CDATA[Standard adress:]]></value>
+		<value><![CDATA[Standardadress:]]></value>
 	</definition>
 	<definition>
 		<key>error_delete_default</key>
-		<value><![CDATA[Fel: Standard adress kan inte tas bort!]]></value>
+		<value><![CDATA[Fel: Standardadressen kan inte tas bort!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete_last</key>
-		<value><![CDATA[Fel: Du måste ha åtminstone en adress!]]></value>
+		<value><![CDATA[Fel: Du måste ha minst en adress!]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
@@ -334,39 +342,27 @@
 	</definition>
 	<definition>
 		<key>entry_date_modified</key>
-		<value><![CDATA[Datum ändrat:]]></value>
+		<value><![CDATA[Ändringsdatum:]]></value>
 	</definition>
 	<definition>
 		<key>warning_actonbehalf_additional_store</key>
-		<value><![CDATA[Att agera på uppdrag av kund i ytterligare en butik du ska logga in i en annan butikens admin sida. Fortsätta?]]></value>
+		<value><![CDATA[För att agera på kundens vägnar i en ytterligare butik måste du logga in på en annan butiks administrationssida. Fortsätta?]]></value>
 	</definition>
 	<definition>
 		<key>entry_notify</key>
-		<value><![CDATA[Meddela Kund:]]></value>
+		<value><![CDATA[Meddela kund:]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_notification_subject</key>
-		<value><![CDATA[Ny transaktion har lagts till din %s konto]]></value>
+		<value><![CDATA[Ny transaktion har registrerats på ditt %s-konto]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_notification_message</key>
-		<value><![CDATA[Ny transaktion har lagts till din %s konto i mängden %s. För mer information, logga in på %s konto]]></value>
+		<value><![CDATA[En ny transaktion har bokförts på ditt %s-konto med ett belopp på %s. För mer information, logga in på ditt %s-konto.]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
-		<value><![CDATA[Totalt Order:]]></value>
-	</definition>
-	<definition>
-		<key>column_id</key>
-		<value><![CDATA[ID]]></value>
-	</definition>
-	<definition>
-		<key>text_other_type_placeholder</key>
-		<value><![CDATA[skriv nytt namn här ]]></value>
-	</definition>
-	<definition>
-		<key>error_incorrect_debit_credit</key>
-		<value><![CDATA[Fel: debet- eller kreditvärde får inte vara högre än 99999999999.9999]]></value>
+		<value><![CDATA[Totala beställningar:]]></value>
 	</definition>
 	<definition>
 		<key>text_register_date</key>
@@ -375,5 +371,13 @@
 	<definition>
 		<key>error_email_exists</key>
 		<value><![CDATA[Kund med denna e-postadress finns redan!]]></value>
+	</definition>
+	<definition>
+		<key>error_permission</key>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra kunder!]]></value>
+	</definition>
+	<definition>
+		<key>error_password</key>
+		<value><![CDATA[Lösenordet måste vara mellan 3 och 20 tecken!]]></value>
 	</definition>
 </definitions>

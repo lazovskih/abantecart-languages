@@ -10,12 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_accept_agree</key>
-		<value><![CDATA[
- A Megrendelés megerősítése lehetőségre kattintva elfogadja és elfogadja az összes feltételt]]></value>
+		<value><![CDATA[A Megrendelés megerősítése gombra kattintva Ön elfogadja és egyetért az összes feltétellel]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_items</key>
-		<value><![CDATA[Tételek a kosarában]]></value>
+		<value><![CDATA[A kosárban lévő tételek]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -35,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Erősítse meg]]></value>
+		<value><![CDATA[Megerősít]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping_address</key>
@@ -55,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_change</key>
-		<value><![CDATA[Változás]]></value>
+		<value><![CDATA[Módosítás]]></value>
 	</definition>
 	<definition>
 		<key>text_comment</key>
@@ -63,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>text_discount</key>
-		<value><![CDATA[Kedvezmény kupon]]></value>
+		<value><![CDATA[Kedvezménykupon]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -83,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Teljes]]></value>
+		<value><![CDATA[Összesen]]></value>
 	</definition>
 	<definition>
 		<key>text_add_coupon</key>
@@ -95,27 +94,27 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_fast_checkout_title</key>
-		<value><![CDATA[Gyors fizetés]]></value>
+		<value><![CDATA[Gyors pénztár]]></value>
 	</definition>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Gyors fizetés]]></value>
+		<value><![CDATA[Gyors pénztár]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_buy_now</key>
-		<value><![CDATA[Vásároljon most]]></value>
+		<value><![CDATA[Vásárlás most]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_incorrect_request</key>
-		<value><![CDATA[Hoppá! Helytelen kérés.]]></value>
+		<value><![CDATA[Hoppá! Hibás kérés.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler</key>
-		<value><![CDATA[Nem található a fizetéskezelő! Kérjük, ellenőrizze a %s vagy %s fájlokat]]></value>
+		<value><![CDATA[A fizetési kezelő nem található! Kérjük, ellenőrizze a %s vagy a %s fájlokat]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_handler</key>
-		<value><![CDATA[Nem áll rendelkezésre fizetésfeldolgozó.]]></value>
+		<value><![CDATA[Nincs elérhető fizetési processzor.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unknown_payment</key>
@@ -123,47 +122,47 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected</key>
-		<value><![CDATA[Váratlan hiba történt! Kérjük, próbálja újra.]]></value>
+		<value><![CDATA[Váratlan hiba történt! Kérjük, próbálja meg újra.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_unexpected_log</key>
-		<value><![CDATA[Váratlan hiba történt. Nem lehet rendelési adatokat összeállítani a következő tömb alapján: %s]]></value>
+		<value><![CDATA[Váratlan hiba történt. Nem sikerült összeállítani a rendelés adatait a tömb alapján: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_handler_object</key>
-		<value><![CDATA[Nem sikerült megerősíteni a rendelést. A fizetéskezelő nem objektum.]]></value>
+		<value><![CDATA[Nem lehet megerősíteni a rendelést. A fizetési kezelő nem objektum.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_system_issue</key>
-		<value><![CDATA[Hoppá! Rendszer probléma. Vegye fel a kapcsolatot a webhely rendszergazdájával.]]></value>
+		<value><![CDATA[Hoppá! Rendszerhiba. Lépjen kapcsolatba a webhely rendszergazdával.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_payment</key>
-		<value><![CDATA[Nem áll rendelkezésre fizetés.]]></value>
+		<value><![CDATA[Nincsenek elérhető fizetési módok.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_product_option</key>
-		<value><![CDATA[Termék opció hiba. %s]]></value>
+		<value><![CDATA[Termékopció hiba. %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_no_address</key>
-		<value><![CDATA[Nem található cím a fiókjában! Kérjük, adjon meg egy címet a fiókjában.]]></value>
+		<value><![CDATA[Nem található cím a fiókjában! Kérjük, adjon hozzá egy címet a fiókjához.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_low_balance</key>
-		<value><![CDATA[Nincs elegendő számlaegyenlege ehhez a rendeléshez!]]></value>
+		<value><![CDATA[Nincs elegendő számlaegyenleged ehhez a rendeléshez!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_pay</key>
-		<value><![CDATA[Hiba történt a számlajóváírás kifizetése során! Kérjük, próbálja újra.]]></value>
+		<value><![CDATA[Hiba történt a számlaegyenleggel történő fizetés feldolgozása során! Kérjük, próbálja meg újra.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_address</key>
-		<value><![CDATA[Hiányzik vagy nincs kiválasztva a fizetési cím.]]></value>
+		<value><![CDATA[A fizetési cím hiányzik vagy nincs kiválasztva.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_payment_unavailable</key>
-		<value><![CDATA[Az Ön tartózkodási helyén nem lehet fizetni.]]></value>
+		<value><![CDATA[A fizetés az Ön tartózkodási helyén nem érhető el.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_shipping_address</key>
@@ -171,51 +170,47 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_error_shipping_method</key>
-		<value><![CDATA[A szállítási mód nincs kiválasztva.]]></value>
+		<value><![CDATA[A szállítási mód nem lett kiválasztva.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_phone</key>
-		<value><![CDATA[Kapcsolattartási telefonszáma nincs megadva.]]></value>
+		<value><![CDATA[Az Ön elérhetőségi telefonszáma nincs megadva.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_owner</key>
 		<value><![CDATA[Az Ön neve nincs megadva.]]></value>
 	</definition>
 	<definition>
-		<key>fast_checkout_error_email</key>
-		<value><![CDATA[Az e-mail címed nincs megadva, vagy érvénytelen.]]></value>
-	</definition>
-	<definition>
 		<key>fast_checkout_error_card_number</key>
-		<value><![CDATA[A hitelkártya számát nem adják meg.]]></value>
+		<value><![CDATA[A hitelkártyaszám nincs megadva.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_cvv</key>
-		<value><![CDATA[CVV szám nincs megadva.]]></value>
+		<value><![CDATA[A CVV szám nincs megadva.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_expire</key>
-		<value><![CDATA[A hitelkosár lejárati dátuma nincs megadva, vagy érvénytelen.]]></value>
+		<value><![CDATA[A hitelkártya lejárati dátuma nincs megadva vagy érvénytelen.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_balance_apply</key>
-		<value><![CDATA[A hitelkosár lejárati dátuma nincs megadva, vagy érvénytelen.]]></value>
+		<value><![CDATA[A hitelkártya lejárati dátuma nincs megadva vagy érvénytelen.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_account_created</key>
-		<value><![CDATA[A fiók létrejött, és a bejelentkezési utasítást elküldtük az Ön e-mail címére.]]></value>
+		<value><![CDATA[A fiók létrejött, és a bejelentkezési utasításokat elküldtük az e-mail címedre.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_mail_login_password</key>
-		<value><![CDATA[Az Ön bejelentkezési neve: %s <br/> Az Ön jelszava: %s]]></value>
+		<value><![CDATA[Az Ön bejelentkezési neve: %s <br>Az Ön jelszava: %s]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_success_message</key>
-		<value><![CDATA[Siker! Megrendelése sikeresen létrejött!]]></value>
+		<value><![CDATA[Siker! Az Ön rendelése sikeresen elkészült!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_processing_message</key>
-		<value><![CDATA[Siker! Rendelés most feldolgozás alatt!]]></value>
+		<value><![CDATA[Siker! A rendelés most feldolgozás alatt van!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_payment_address</key>
@@ -227,11 +222,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_shipping_method</key>
-		<value><![CDATA[Válasszon szállítási módot]]></value>
+		<value><![CDATA[Válasszon kézbesítési módot]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay_with</key>
-		<value><![CDATA[Fizetés a következővel:]]></value>
+		<value><![CDATA[Fizetés ezzel:]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_credit_card</key>
@@ -239,7 +234,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_account_credit</key>
-		<value><![CDATA[Számlajóváírás (%s)]]></value>
+		<value><![CDATA[Fiókegyenleg (%s)]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay</key>
@@ -247,11 +242,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_enter_cc_details</key>
-		<value><![CDATA[Adja meg alább a hitelkártya adatait]]></value>
+		<value><![CDATA[Adja meg a hitelkártya adatait alább.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_your_balance</key>
-		<value><![CDATA[Számlájának egyenlege az]]></value>
+		<value><![CDATA[Az Ön fiókjának hitel-egyenlege]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_pay_from_balance</key>
@@ -259,11 +254,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_telephone_placeholder</key>
-		<value><![CDATA[Kapcsolattartási telefonszám pl. +1 212 555 5555]]></value>
+		<value><![CDATA[Kapcsolattartó telefonszám, pl.: +1.212.555.5555]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_same_as_shipping_address</key>
-		<value><![CDATA[Ugyanez a szállításra]]></value>
+		<value><![CDATA[Ugyanez vonatkozik a kézbesítésre.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_enter_address</key>
@@ -275,11 +270,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_bill_me_monthly</key>
-		<value><![CDATA[Számlázzon havonta]]></value>
+		<value><![CDATA[Számlázzon nekem havonta]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_create_account</key>
-		<value><![CDATA[Hozzon létre fiókot]]></value>
+		<value><![CDATA[Fiók létrehozása]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_please_login</key>
@@ -287,11 +282,11 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_button_login</key>
-		<value><![CDATA[BEJELENTKEZÉS]]></value>
+		<value><![CDATA[Bejelentkezés]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_reset_login</key>
-		<value><![CDATA[Regisztráció / bejelentkezés visszaállítása]]></value>
+		<value><![CDATA[Regisztráció / Bejelentkezés visszaállítása]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_login</key>
@@ -307,15 +302,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_new_customer</key>
-		<value><![CDATA[Új vásárló vagyok]]></value>
+		<value><![CDATA[Én új vásárló vagyok]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_loading</key>
-		<value><![CDATA[Terhelés...]]></value>
+		<value><![CDATA[Betöltés...]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_is_completed</key>
-		<value><![CDATA[A rendelés elkészült!]]></value>
+		<value><![CDATA[A rendelés befejeződött!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_thank_you</key>
@@ -323,15 +318,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_button_start_download</key>
-		<value><![CDATA[Indítsa el a Letöltést]]></value>
+		<value><![CDATA[Letöltés indítása]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_downloads</key>
-		<value><![CDATA[Letöltések rendelése]]></value>
+		<value><![CDATA[Rendelési letöltések]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_button_order_details</key>
-		<value><![CDATA[Megrendelés részletei]]></value>
+		<value><![CDATA[Rendelés részletei]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_select_delivery</key>
@@ -343,31 +338,31 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_download_pending</key>
-		<value><![CDATA[A megrendelt termék letöltése még nem érhető el. Kérjük, várja meg a rendelés ellenőrzését!]]></value>
+		<value><![CDATA[A termék letöltése a rendelésedben még nem érhető el. Kérjük, várj a rendelés ellenőrzésére!]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_info_duplicate_order</key>
-		<value><![CDATA[Úgy tűnik, éppen egy másik rendelést adott le. <a href="%s">Lásd a rendelés részleteit</a>]]></value>
+		<value><![CDATA[Úgy tűnik, épp egy másik rendelést adtál le. <a href="%s">Rendelés részleteinek megtekintése</a>]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_email_start_download</key>
-		<value><![CDATA[A letöltés(ek)et az alábbi linken érheti el.]]></value>
+		<value><![CDATA[Az alábbi hivatkozással elérheti a saját letöltés(ek)et.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_email_order_downloads</key>
-		<value><![CDATA[A megrendelések letöltését az alábbi linken érheti el.]]></value>
+		<value><![CDATA[Az alábbi linken férhet hozzá a rendelés letöltéseihez.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_download_subject</key>
-		<value><![CDATA[Megrendelésed letöltése.]]></value>
+		<value><![CDATA[A rendelése letöltése.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_apply</key>
-		<value><![CDATA[Alkalmazni]]></value>
+		<value><![CDATA[Alkalmaz]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_remove</key>
-		<value><![CDATA[Távolítsa el]]></value>
+		<value><![CDATA[Eltávolítás]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_coupon_code</key>
@@ -375,7 +370,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_order_comment</key>
-		<value><![CDATA[Adja hozzá a megrendelés megjegyzését]]></value>
+		<value><![CDATA[Adja hozzá a megjegyzést a rendeléshez]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_error_coupon</key>
@@ -383,15 +378,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_back_to_cart</key>
-		<value><![CDATA[Vissza a kosárba]]></value>
+		<value><![CDATA[Vissza a kosárhoz]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_order_summary</key>
-		<value><![CDATA[Rendelési összefoglaló]]></value>
+		<value><![CDATA[Rendelés összefoglaló]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_no_shipments_available</key>
-		<value><![CDATA[Szállítás nem elérhető.]]></value>
+		<value><![CDATA[Nincs elérhető szállítás.]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_telephone_placeholder</key>
@@ -399,15 +394,15 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_email_placeholder</key>
-		<value><![CDATA[Az Ön email címe]]></value>
+		<value><![CDATA[Az Ön e-mail címe]]></value>
 	</definition>
 	<definition>
 		<key>button_history</key>
-		<value><![CDATA[Történelem]]></value>
+		<value><![CDATA[Előzmények]]></value>
 	</definition>
 	<definition>
 		<key>error_postcode</key>
-		<value><![CDATA[Az irányítószám hibás]]></value>
+		<value><![CDATA[Hibás irányítószám]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
@@ -415,7 +410,7 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_comment_placeholder</key>
-		<value><![CDATA[Adjon hozzá megjegyzést a rendeléshez]]></value>
+		<value><![CDATA[Rendelés megjegyzés hozzáadása]]></value>
 	</definition>
 	<definition>
 		<key>fast_checkout_text_not_enough_stock</key>
@@ -435,23 +430,21 @@
 	</definition>
 	<definition>
 		<key>fast_checkout_text_authenticating</key>
-		<value><![CDATA[Hitelesítés... ]]></value>
+		<value><![CDATA[Hitelesítés ...]]></value>
 	</definition>
 	<definition>
 		<key>text_message_account</key>
-		<value><![CDATA[
-<p> Megrendelése #%s létrejött!</p> 
-<p> Megrendelésének részleteit a <a href="%s">számla oldalon</a> tekintheti meg.</p> 
-<p> Kérdéseivel forduljon az <a href="%s">üzlet tulajdonosához</a> .</p> 
-<p> Köszönjük, hogy nálunk vásárolt!</p>]]></value>
+		<value><![CDATA[<p>A(z) #%s számú rendelése elkészült!</p>
+<p>A megrendelés részleteit a <a href="%s">számlák oldalán</a> tekintheti meg.</p>
+<p>Kérdéseivel forduljon a <a href="%s">webáruház tulajdonosához</a>.</p>
+<p>Köszönjük, hogy nálunk vásárolt!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_message_guest</key>
-		<value><![CDATA[
-<p> Megrendelését sikeresen feldolgoztuk!</p> 
-<p> Megrendelésének részleteit a <a href="%s">számla oldalon</a> tekintheti meg.</p> 
-<p> Kérdéseivel forduljon az <a href="%s">üzlet tulajdonosához</a> .</p> 
-<p> Köszönjük, hogy nálunk vásárolt!</p>]]></value>
+		<value><![CDATA[<p>Megrendelését sikeresen feldolgoztuk!</p>
+<p>Megrendelése részleteit megtekintheti a <a href="%s">számlaoldalon</a>.</p>
+<p>Kérdéseivel forduljon a <a href="%s">bolttulajdonoshoz</a>.</p>
+<p>Köszönjük, hogy nálunk vásárolt!</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_basket</key>
@@ -471,7 +464,7 @@
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Erősítse meg]]></value>
+		<value><![CDATA[Megerősít]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -479,7 +472,7 @@
 	</definition>
 	<definition>
 		<key>text_message_failed_order</key>
-		<value><![CDATA[Hoppá! Problémát tapasztaltunk a tranzakcióval kapcsolatban. Megrendelését a rendszergazda manuálisan ellenőrzi.]]></value>
+		<value><![CDATA[Hoppá! Problémát észleltünk az Ön tranzakciójával kapcsolatban. Az adminisztrátor manuálisan ellenőrzi az Ön megrendelését.]]></value>
 	</definition>
 	<definition>
 		<key>text_title_failed_order_to_admin</key>
@@ -487,6 +480,10 @@
 	</definition>
 	<definition>
 		<key>text_message_failed_order_to_admin</key>
-		<value><![CDATA[Sikertelen vagy hiányzó válasz a fizetés ellenőrzéséből. Kézi ellenőrzés szükséges!]]></value>
+		<value><![CDATA[Sikertelen vagy hiányzó válasz a fizetés ellenőrzéséről. Kézi ellenőrzés szükséges!]]></value>
+	</definition>
+	<definition>
+		<key>fast_checkout_error_email</key>
+		<value><![CDATA[Az Ön e-mail címe nincs megadva vagy érvénytelen.]]></value>
 	</definition>
 </definitions>

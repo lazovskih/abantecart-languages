@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Dostava]]></value>
+		<value><![CDATA[Isporuka]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>
-		<value><![CDATA[Minimalni iznos narudžbe: <br/><span class="help">Minimalni međuukupni iznos koji treba ispuniti da bi opcija isporuke bila dostupna.</span>]]></value>
+		<value><![CDATA[Minimalni iznos narudžbe:<br /><span class="help">Najmanji iznos podzbroja koji mora biti ostvaren da bi opcija dostave bila dostupna.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_cost</key>
@@ -26,14 +26,14 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>
-		<value><![CDATA[Poštanski brojevi: <br/><span class="help">popisa poštanskih brojeva odvojenih zarezima. Zamjenski znak * podržan. Primjer 30001,3002,40*,*ND</span>]]></value>
+		<value><![CDATA[Poštanski brojevi:<br /><span class="help">Lista poštanskih brojeva odvojenih zarezima. Podržan zamjenski znak *. Primjer 30001,3002,40*,*ND</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dopuštenje za izmjenu lokalne isporuke!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu lokalne dostave!]]></value>
 	</definition>
 </definitions>

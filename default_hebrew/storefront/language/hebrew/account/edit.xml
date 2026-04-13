@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[חֶשְׁבּוֹן]]></value>
+		<value><![CDATA[חשבון]]></value>
 	</definition>
 	<definition>
 		<key>text_edit</key>
-		<value><![CDATA[מידע ערוך]]></value>
+		<value><![CDATA[ערוך מידע]]></value>
 	</definition>
 	<definition>
 		<key>text_your_details</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: חשבונך עודכן בהצלחה.]]></value>
+		<value><![CDATA[הצלחה: החשבון שלך עודכן בהצלחה.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[שם כניסה:]]></value>
+		<value><![CDATA[שם משתמש:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -38,46 +38,46 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[אֶלֶקטרוֹנִי:]]></value>
+		<value><![CDATA[דוא"ל:]]></value>
 	</definition>
 	<definition>
 		<key>entry_telephone</key>
-		<value><![CDATA[טֵלֵפוֹן:]]></value>
+		<value><![CDATA[טלפון:]]></value>
 	</definition>
 	<definition>
 		<key>entry_fax</key>
-		<value><![CDATA[פַקס:]]></value>
+		<value><![CDATA[פקס:]]></value>
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[שגיאה: E-Mail כתובת כבר רשום!]]></value>
+		<value><![CDATA[שגיאה: כתובת הדואר האלקטרוני כבר רשומה!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[שם התחבר חייב להיות אלפאנומריים בלבד בין 5 ל 64 תווים!]]></value>
+		<value><![CDATA[שם המשתמש חייב להיות אלפאנומרי בלבד ובין 5 ל-64 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[שם התחברות זו אינה זמינה. נסו שם פרטי כניסה שונים!]]></value>
+		<value><![CDATA[שם המשתמש הזה אינו זמין. נסה שם משתמש אחר!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[שם פרטי חייב להיות בין 1 ל -32 תווים!]]></value>
+		<value><![CDATA[השם הפרטי חייב להיות בין 1 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[שם משפחה חייב להיות בין 1 ל -32 תווים!]]></value>
+		<value><![CDATA[שם משפחה חייב להיות בין 1 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[כתובת הדואר האלקטרוני לא להיראות תקף!]]></value>
+		<value><![CDATA[כתובת הדוא"ל אינה נראית תקינה!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[טלפון חייב להיות בין 3 ל -32 תווים!]]></value>
+		<value><![CDATA[טלפון חייב להיות בין 3 ל-32 תווים מספריים בלבד!]]></value>
 	</definition>
 	<definition>
 		<key>loginname_update_required</key>
-		<value><![CDATA[שם המשתמש שלך הוא זהה לכתובת הדוא&quot;ל שלך. כדי לשמור מוגן חשבונך, צור שם כניסה חדשה וייחודית]]></value>
+		<value><![CDATA[שם המשתמש שלך זהה לכתובת האימייל שלך. כדי לשמור על חשבונך מוגן, אנא צור שם משתמש חדש וייחודי.]]></value>
 	</definition>
 </definitions>

@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Protokol chyb]]></value>
+		<value><![CDATA[Chybový protokol]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Úspěšně jste vymazány protokol chyb!]]></value>
+		<value><![CDATA[Úspěch: Úspěšně jste vymazali protokol chyb!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_tail</key>
-		<value><![CDATA[Vzhledem ke značné velikosti souboru protokolu, pouze poslední 500KB dat si můžete prohlédnout zde. 
- Chcete-li zobrazit kompletní protokol, dostat to ze serveru přímo. 
- Cesta:]]></value>
+		<value><![CDATA[Kvůli velké velikosti logovacího souboru lze zde zobrazit pouze posledních 500Kb dat.<br>Pro zobrazení kompletního logu si jej stáhněte přímo ze svého serveru.Cesta:]]></value>
 	</definition>
 	<definition>
 		<key>text_file_error</key>
-		<value><![CDATA[ Soubor neexistuje nebo není čitelný! ]]></value>
+		<value><![CDATA[Soubor neexistuje nebo není čitelný!]]></value>
 	</definition>
 </definitions>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Wózek sklepowy]]></value>
+		<value><![CDATA[Koszyk]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
@@ -10,26 +10,26 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 szt]]></value>
+		<value><![CDATA[0 przedmiotów]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Potwierdzać?]]></value>
+		<value><![CDATA[Potwierdź?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[Usunąć]]></value>
+		<value><![CDATA[Usuń]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Zobacz Koszyk]]></value>
+		<value><![CDATA[Zobacz koszyk]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Sprawdzić]]></value>
+		<value><![CDATA[Realizacja zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>
-		<value><![CDATA[Przedmiotów]]></value>
+		<value><![CDATA[Pozycje]]></value>
 	</definition>
 </definitions>

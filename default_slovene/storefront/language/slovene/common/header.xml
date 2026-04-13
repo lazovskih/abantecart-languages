@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_home</key>
@@ -14,19 +14,19 @@
 	</definition>
 	<definition>
 		<key>text_sitemap</key>
-		<value><![CDATA[Kazalo]]></value>
+		<value><![CDATA[Zemljevid spletnega mesta]]></value>
 	</definition>
 	<definition>
 		<key>text_bookmark</key>
-		<value><![CDATA[zaznamek]]></value>
+		<value><![CDATA[Zaznamek]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Vpiši se]]></value>
+		<value><![CDATA[Prijava]]></value>
 	</definition>
 	<definition>
 		<key>text_logout</key>
@@ -34,23 +34,23 @@
 	</definition>
 	<definition>
 		<key>text_cart</key>
-		<value><![CDATA[Košara]]></value>
+		<value><![CDATA[Košarica]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Preveri]]></value>
+		<value><![CDATA[Blagajna]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[ključne besede]]></value>
+		<value><![CDATA[Ključne besede]]></value>
 	</definition>
 	<definition>
 		<key>text_advanced</key>
-		<value><![CDATA[napredno iskanje]]></value>
+		<value><![CDATA[Napredno iskanje]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
-		<value><![CDATA[vse kategorije]]></value>
+		<value><![CDATA[Vse kategorije]]></value>
 	</definition>
 	<definition>
 		<key>entry_search</key>
@@ -58,14 +58,14 @@
 	</definition>
 	<definition>
 		<key>text_welcome</key>
-		<value><![CDATA[Dobrodošel nazaj]]></value>
+		<value><![CDATA[Dobrodošli nazaj]]></value>
 	</definition>
 	<definition>
 		<key>text_not</key>
-		<value><![CDATA[ne]]></value>
+		<value><![CDATA[Ne]]></value>
 	</definition>
 	<definition>
 		<key>text_login_or_register</key>
-		<value><![CDATA[Prijavite se ali registrirajte]]></value>
+		<value><![CDATA[Prijava ali registracija]]></value>
 	</definition>
 </definitions>

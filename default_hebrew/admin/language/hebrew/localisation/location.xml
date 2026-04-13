@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_location</key>
-		<value><![CDATA[מקום]]></value>
+		<value><![CDATA[מיקום]]></value>
 	</definition>
 	<definition>
 		<key>text_location_zone</key>
@@ -18,15 +18,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך מיקומים שהשתנו!]]></value>
+		<value><![CDATA[הצלחה: שינית את המיקומים!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם מיקום]]></value>
+		<value><![CDATA[שם המיקום]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
-		<value><![CDATA[תאור]]></value>
+		<value><![CDATA[תיאור]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[שם מיקום:]]></value>
+		<value><![CDATA[שם המיקום:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[תאור:]]></value>
+		<value><![CDATA[תיאור:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>entry_zone</key>
-		<value><![CDATA[אזור (ים):]]></value>
+		<value><![CDATA[אזור(ים):]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -62,14 +62,14 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[שם מיקום חייב להיות בין 2 ו -32 תווים!]]></value>
+		<value><![CDATA[שם המיקום חייב להיות בין 2 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_description</key>
-		<value><![CDATA[שם תיאור חייב להיות בין 2 ל -255 תווים!]]></value>
+		<value><![CDATA[שם התיאור חייב להיות בין 2 ל-255 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_tax_rate</key>
-		<value><![CDATA[אזהרה: מיקום זה לא ניתן למחוק כפי שהוא מוקצה כעת שיעורי מס אחד או יותר!]]></value>
+		<value><![CDATA[אזהרה: מיקום זה לא ניתן למחיקה כיוון שהוא משוייך כרגע לאחד או יותר משיעורי מס!]]></value>
 	</definition>
 </definitions>

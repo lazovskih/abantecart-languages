@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[עגלת קניות]]></value>
+		<value><![CDATA[עגלת הקניות]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
-		<value><![CDATA[סיכום ביניים:]]></value>
+		<value><![CDATA[סך ביניים:]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
@@ -14,19 +14,19 @@
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[לְאַשֵׁר?]]></value>
+		<value><![CDATA[לאשר?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
-		<value><![CDATA[לְהַסִיר]]></value>
+		<value><![CDATA[הסר]]></value>
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[צפה בסל]]></value>
+		<value><![CDATA[הצג עגלה]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[לבדוק]]></value>
+		<value><![CDATA[המשך לתשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_items</key>

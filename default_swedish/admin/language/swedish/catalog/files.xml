@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[produkt filer]]></value>
+		<value><![CDATA[Produktfiler]]></value>
 	</definition>
 	<definition>
 		<key>text_product</key>
@@ -10,23 +10,23 @@
 	</definition>
 	<definition>
 		<key>text_edit_product_file</key>
-		<value><![CDATA[Redigera Produkt Arkiv]]></value>
+		<value><![CDATA[Redigera produktfil]]></value>
 	</definition>
 	<definition>
 		<key>tab_files</key>
-		<value><![CDATA[filer]]></value>
+		<value><![CDATA[Filer]]></value>
 	</definition>
 	<definition>
 		<key>tab_general</key>
-		<value><![CDATA[Allmän]]></value>
+		<value><![CDATA[Allmänt]]></value>
 	</definition>
 	<definition>
 		<key>tab_attributes</key>
-		<value><![CDATA[nedladdnings attribut]]></value>
+		<value><![CDATA[Ladda ner attribut]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_icon</key>
-		<value><![CDATA[fil Ikon]]></value>
+		<value><![CDATA[Filikon]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -38,23 +38,23 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[namn]]></value>
+		<value><![CDATA[Namn]]></value>
 	</definition>
 	<definition>
 		<key>entry_download_name</key>
-		<value><![CDATA[nedladdning Namn]]></value>
+		<value><![CDATA[Nedladdningsnamn]]></value>
 	</definition>
 	<definition>
 		<key>entry_mask</key>
-		<value><![CDATA[Hämta mask <span class="help">Filnamn alias för kund nedladdning utgång</span>]]></value>
+		<value><![CDATA[Nedladdningsmask <span class="help">Filnamnsalias för kundens nedladdningsutdata</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_full_path</key>
-		<value><![CDATA[Filserver Path]]></value>
+		<value><![CDATA[Filserverns sökväg]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_max_downloads</key>
-		<value><![CDATA[Max Hämta]]></value>
+		<value><![CDATA[Maximal nedladdning]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_sort_order</key>
@@ -65,12 +65,16 @@
 		<value><![CDATA[Status]]></value>
 	</definition>
 	<definition>
+		<key>entry_also_mapped_to</key>
+		<value><![CDATA[Delat med]]></value>
+	</definition>
+	<definition>
 		<key>entry_file_push_to_customers</key>
-		<value><![CDATA[Tryck till kunder]]></value>
+		<value><![CDATA[Skicka till kunder]]></value>
 	</definition>
 	<definition>
 		<key>entry_file_activation</key>
-		<value><![CDATA[aktiveringsläge]]></value>
+		<value><![CDATA[Aktiveringsläge]]></value>
 	</definition>
 	<definition>
 		<key>text_add_file</key>
@@ -82,15 +86,15 @@
 	</definition>
 	<definition>
 		<key>text_download_attributes</key>
-		<value><![CDATA[nedladdnings attribut]]></value>
+		<value><![CDATA[Nedladdningsattribut]]></value>
 	</definition>
 	<definition>
 		<key>text_download_information</key>
-		<value><![CDATA[Allmän]]></value>
+		<value><![CDATA[Allmänt]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
-		<value><![CDATA[läggas på]]></value>
+		<value><![CDATA[Tillagd den]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_modified</key>
@@ -98,11 +102,11 @@
 	</definition>
 	<definition>
 		<key>entry_max_downloads</key>
-		<value><![CDATA[Max nedladdningar <span class="help">Räkna nedladdningar tillåtet för kunden</span>]]></value>
+		<value><![CDATA[Max nedladdningar <span class="help">Antal nedladdningar som är tillåtna för kunden</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_activate</key>
-		<value><![CDATA[Aktiverad <span class="help">Nedladdningen vara aktiveras på händelsen vald. <br/> Exempel: Omedelbart. Nedladdningen är aktiveras efter beställning, oavsett orderstatus</span>]]></value>
+		<value><![CDATA[Aktiverad<span class="help">Nedladdningen kommer att aktiveras vid det valda evenemanget.<br>Exempel: Omedelbart. Nedladdningen aktiveras efter att beställningen har lagts, oavsett orderstatus</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -110,11 +114,11 @@
 	</definition>
 	<definition>
 		<key>entry_expire_days</key>
-		<value><![CDATA[Upphöra dagar <span class="help">Räkna dagar från inköpsdatum</span>]]></value>
+		<value><![CDATA[Utgångsdagar<span class="help">Antal dagar från inköpsdatumet</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_before_order</key>
-		<value><![CDATA[före Order]]></value>
+		<value><![CDATA[Innan beställning]]></value>
 	</definition>
 	<definition>
 		<key>text_immediately</key>
@@ -134,31 +138,31 @@
 	</definition>
 	<definition>
 		<key>error_download_exists</key>
-		<value><![CDATA[Fel: Det går inte att uppdatera nedladdning eftersom den inte finns i databasen!]]></value>
+		<value><![CDATA[Fel: Kan inte uppdatera nedladdningen eftersom den inte finns i databasen!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_name</key>
-		<value><![CDATA[Fel: Hämta namn måste ha längd mellan 2 och 128 tecken!]]></value>
+		<value><![CDATA[Fel: Nedladdningsnamnet måste ha en längd mellan 2 och 128 tecken!]]></value>
 	</definition>
 	<definition>
 		<key>error_max_downloads</key>
-		<value><![CDATA[Fel: maximal nedladdningar räkna måste vara större 0!]]></value>
+		<value><![CDATA[Fel: maximalt antal nedladdningar måste vara större än 0!]]></value>
 	</definition>
 	<definition>
 		<key>error_activate</key>
-		<value><![CDATA[Fel: Välj åtgärd för aktivering av nedladdning!]]></value>
+		<value><![CDATA[Fel: välj en åtgärd för att aktivera nedladdning!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_status</key>
-		<value><![CDATA[Fel: välj orderstatus för aktivering av nedladdning!]]></value>
+		<value><![CDATA[Fel: välj orderstatus för att aktivera nedladdningen!]]></value>
 	</definition>
 	<definition>
 		<key>error_download_attributes</key>
-		<value><![CDATA[Ladda ner Egenskaper Error (s):]]></value>
+		<value><![CDATA[Fel vid nedladdning av attribut:]]></value>
 	</definition>
 	<definition>
 		<key>text_shared_downloads</key>
-		<value><![CDATA[Delade data]]></value>
+		<value><![CDATA[Delade nedladdningar]]></value>
 	</definition>
 	<definition>
 		<key>text_create_download</key>
@@ -170,11 +174,11 @@
 	</definition>
 	<definition>
 		<key>text_preview</key>
-		<value><![CDATA[Förhandsvisning]]></value>
+		<value><![CDATA[Förhandsgranskning]]></value>
 	</definition>
 	<definition>
 		<key>entry_shared</key>
-		<value><![CDATA[delad Hämta]]></value>
+		<value><![CDATA[Delad nedladdning]]></value>
 	</definition>
 	<definition>
 		<key>text_assign</key>
@@ -182,7 +186,7 @@
 	</definition>
 	<definition>
 		<key>text_assigned_to</key>
-		<value><![CDATA[Dessutom tilldelas:]]></value>
+		<value><![CDATA[Även tilldelad till:]]></value>
 	</definition>
 	<definition>
 		<key>text_select_shared_downloads</key>
@@ -190,43 +194,43 @@
 	</definition>
 	<definition>
 		<key>error_selected_downloads</key>
-		<value><![CDATA[Varning: Välj de delade nedladdningar för tilldela.]]></value>
+		<value><![CDATA[Varning: Vänligen välj de delade nedladdningarna för tilldelning.]]></value>
 	</definition>
 	<definition>
 		<key>text_map_success</key>
-		<value><![CDATA[Framgång: Du har tilldelat delat nedladdningar till produkt!]]></value>
+		<value><![CDATA[Framgång: Du har tilldelat delade nedladdningar till produkten!]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_or_refuse</key>
-		<value><![CDATA[radera eller vägra (för gemensamt)]]></value>
+		<value><![CDATA[ta bort eller neka (för delade)]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_delete</key>
-		<value><![CDATA[Bekräfta nedladdning radera / vägra]]></value>
+		<value><![CDATA[Bekräfta nedladdning radera/avvisa]]></value>
 	</definition>
 	<definition>
 		<key>text_success_remove</key>
-		<value><![CDATA[Framgång: produktfiler lista förändrats!]]></value>
+		<value><![CDATA[Framgång: produktfilslistan har ändrats!]]></value>
 	</definition>
 	<definition>
 		<key>text_push</key>
-		<value><![CDATA[Skjuta på]]></value>
+		<value><![CDATA[Tryck]]></value>
 	</definition>
 	<definition>
 		<key>text_push_to_customers</key>
-		<value><![CDATA[Tryck till kunder]]></value>
+		<value><![CDATA[Skicka till kunder]]></value>
 	</definition>
 	<definition>
 		<key>text_push_to_orders</key>
-		<value><![CDATA[Tryck Ladda ner till %s Beställningar]]></value>
+		<value><![CDATA[Skicka nedladdning till %s beställningar]]></value>
 	</definition>
 	<definition>
 		<key>success_push_to_orders</key>
-		<value><![CDATA[Framgång: Hämta sköts till %s ordning (s) framgångsrikt]]></value>
+		<value><![CDATA[Framgång: Nedladdningen skickades till %s beställning(ar) framgångsrikt]]></value>
 	</definition>
 	<definition>
 		<key>text_no_download_attributes_yet</key>
-		<value><![CDATA[Ingen nedladdning attribut ännu. <a href="%s" target="_blank">Klicka för att lägga</a>]]></value>
+		<value><![CDATA[Inga nedladdningsattribut ännu. <a href="%s" target="_blank">Klicka för att lägga till</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm_push</key>
@@ -234,26 +238,22 @@
 	</definition>
 	<definition>
 		<key>error_downloads_disabled</key>
-		<value><![CDATA[Varning: Downloads är inaktiverade i lagra inställningar. <a href="#admin#rt=setting/setting&active=general" target="new">Klicka för att redigera</a> !]]></value>
+		<value><![CDATA[Varning: Nedladdningar är inaktiverade i butikens inställningar. <a href="#admin#rt=setting/setting&active=general" target="new">Klicka för att redigera</a>!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varning: Du har inte behörighet att ändra produktfilerna!]]></value>
+		<value><![CDATA[Varning: Du har inte behörighet att ändra produktfiler!]]></value>
 	</definition>
 	<definition>
 		<key>error_file</key>
-		<value><![CDATA[Ställ in filen för nedladdning.]]></value>
+		<value><![CDATA[Vänligen ange filen för nedladdning.]]></value>
 	</definition>
 	<definition>
 		<key>attention_shared</key>
-		<value><![CDATA[Du håller på att redigera delade nedladdning. Redigera kommer att påverka andra produkter.]]></value>
+		<value><![CDATA[Du är på väg att redigera en delad nedladdning. Ändringen kommer att påverka andra produkter.]]></value>
 	</definition>
 	<definition>
 		<key>text_shared_with</key>
-		<value><![CDATA[Delad med:]]></value>
-	</definition>
-	<definition>
-		<key>entry_also_mapped_to</key>
-		<value><![CDATA[Delas med]]></value>
+		<value><![CDATA[Delat med:]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[nedladdningar]]></value>
+		<value><![CDATA[Kontots nedladdningar]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[konto]]></value>
+		<value><![CDATA[Konto]]></value>
 	</definition>
 	<definition>
 		<key>text_downloads</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[För ID:]]></value>
+		<value><![CDATA[Beställnings-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Du har inte gjort några tidigare nedladdnings order!]]></value>
+		<value><![CDATA[Du har inte gjort några tidigare nedladdningsbara beställningar!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
@@ -54,18 +54,18 @@
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[Avvaktan]]></value>
+		<value><![CDATA[Väntande]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[Inte tillgänglig]]></value>
+		<value><![CDATA[Otillgänglig]]></value>
 	</definition>
 	<definition>
 		<key>text_reached_limit</key>
-		<value><![CDATA[nått Gräns]]></value>
+		<value><![CDATA[Gränsen är nådd]]></value>
 	</definition>
 	<definition>
 		<key>error_download_not_exists</key>
-		<value><![CDATA[Önskade filen inte existerar!]]></value>
+		<value><![CDATA[Den begärda filen finns inte!]]></value>
 	</definition>
 </definitions>

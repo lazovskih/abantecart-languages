@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[vodná doprava Správa]]></value>
+		<value><![CDATA[Správa o doprave]]></value>
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[leta]]></value>
+		<value><![CDATA[Roky]]></value>
 	</definition>
 	<definition>
 		<key>text_month</key>
-		<value><![CDATA[mesiaca]]></value>
+		<value><![CDATA[Mesiace]]></value>
 	</definition>
 	<definition>
 		<key>text_week</key>
-		<value><![CDATA[týždne]]></value>
+		<value><![CDATA[Týždne]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_all_status</key>
-		<value><![CDATA[všetky Stavy]]></value>
+		<value><![CDATA[Všetky stavy]]></value>
 	</definition>
 	<definition>
 		<key>column_date_start</key>
@@ -34,19 +34,19 @@
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[počet objednávok]]></value>
+		<value><![CDATA[Počet objednávok]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[celkom]]></value>
+		<value><![CDATA[Celkom]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavenie:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Termín nástupu:]]></value>
+		<value><![CDATA[Dátum začiatku:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
@@ -54,6 +54,6 @@
 	</definition>
 	<definition>
 		<key>entry_group</key>
-		<value><![CDATA[Skupina By:]]></value>
+		<value><![CDATA[Zoskupiť podľa:]]></value>
 	</definition>
 </definitions>

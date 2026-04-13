@@ -1,24 +1,24 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Загрузки аккаунта]]></value>
+		<value><![CDATA[Файлы для скачивания]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Аккаунт]]></value>
+		<value><![CDATA[Личный Кабинет]]></value>
 	</definition>
 	<definition>
 		<key>text_downloads</key>
-		<value><![CDATA[Загрузки]]></value>
+		<value><![CDATA[Файлы для скачивания]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Идентификатор заказа:]]></value>
+		<value><![CDATA[Номер заказа:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Дата добавления:]]></value>
+		<value><![CDATA[Добавлено:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_purchased</key>
@@ -42,30 +42,30 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Вы не сделали никаких предыдущих загрузок!]]></value>
+		<value><![CDATA[Нет доступных файлов для скачивания!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
-		<value><![CDATA[Дата истечения:]]></value>
+		<value><![CDATA[Доступен до:]]></value>
 	</definition>
 	<definition>
 		<key>text_expired</key>
-		<value><![CDATA[Истек]]></value>
+		<value><![CDATA[Недоступен]]></value>
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[Ожидание]]></value>
+		<value><![CDATA[В ожидании]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
-		<value><![CDATA[Недоступно]]></value>
+		<value><![CDATA[Недоступен (ошибка)]]></value>
 	</definition>
 	<definition>
 		<key>text_reached_limit</key>
-		<value><![CDATA[Достигнут лимит]]></value>
+		<value><![CDATA[Достигнут лимит загрузок]]></value>
 	</definition>
 	<definition>
 		<key>error_download_not_exists</key>
-		<value><![CDATA[Запрашиваемый файл не существует!]]></value>
+		<value><![CDATA[Запрашиваемый файл недоступен!]]></value>
 	</definition>
 </definitions>

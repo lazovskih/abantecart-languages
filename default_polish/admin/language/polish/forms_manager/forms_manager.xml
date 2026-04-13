@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>forms_manager_note</key>
-		<value><![CDATA[Aby zarządzać formularzami, włącz rozszerzenie i przejdź do Projekt-&gt; <a href="#admin#rt=tool/forms_manager">Menedżer formularzy</a>]]></value>
+		<value><![CDATA[Aby zarządzać formularzami, włącz rozszerzenie i przejdź do Design-><a href="#admin#rt=tool/forms_manager">Menedżer formularzy</a>]]></value>
 	</definition>
 	<definition>
 		<key>custom_forms_block</key>
-		<value><![CDATA[Blok formularzy niestandardowych]]></value>
+		<value><![CDATA[Blok niestandardowych formularzy]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_name</key>
-		<value><![CDATA[Nazwa formularza <br/><span class="help">litery łacińskie, podkreślenie, tylko minus</span>]]></value>
+		<value><![CDATA[Nazwa formularza<br/><span class="help">Tylko litery łacińskie, podkreślnik i minus</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_controller_path</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>entry_success_page</key>
-		<value><![CDATA[Strona sukcesu <br/><span class="help">Pozostaw puste, jeśli chcesz przekierować na tę samą stronę co kontroler</span>]]></value>
+		<value><![CDATA[Strona sukcesu<br/><span class="help">Pozostaw puste, jeśli chcesz przekierować na tę samą stronę co kontroler</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_description</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_default_email</key>
-		<value><![CDATA[Domyślny adres e-mail]]></value>
+		<value><![CDATA[Domyślny e-mail]]></value>
 	</definition>
 	<definition>
 		<key>text_contactus_page</key>
@@ -58,11 +58,11 @@
 	</definition>
 	<definition>
 		<key>filter_exact_match</key>
-		<value><![CDATA[Dokładne sformułowanie]]></value>
+		<value><![CDATA[Dokładne wyrażenie]]></value>
 	</definition>
 	<definition>
 		<key>filter_any_word</key>
-		<value><![CDATA[Którekolwiek z tych słów]]></value>
+		<value><![CDATA[Dowolne z tych słów]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_words</key>
@@ -70,11 +70,11 @@
 	</definition>
 	<definition>
 		<key>text_clone</key>
-		<value><![CDATA[Klon]]></value>
+		<value><![CDATA[Klonuj]]></value>
 	</definition>
 	<definition>
 		<key>filter_form</key>
-		<value><![CDATA[Wyszukaj formularz]]></value>
+		<value><![CDATA[Szukaj formularza]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new_field</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[Nastawić]]></value>
+		<value><![CDATA[Resetuj]]></value>
 	</definition>
 	<definition>
 		<key>text_field_type</key>
@@ -102,7 +102,7 @@
 	</definition>
 	<definition>
 		<key>entry_field_name</key>
-		<value><![CDATA[Nazwa pola (tylko litery łacińskie, podkreślenie, minus)]]></value>
+		<value><![CDATA[Nazwa pola (tylko litery łacińskie, podkreślnik i minus)]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -110,7 +110,7 @@
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Wymagany]]></value>
+		<value><![CDATA[Wymagane]]></value>
 	</definition>
 	<definition>
 		<key>entry_edit_fields</key>
@@ -130,7 +130,7 @@
 	</definition>
 	<definition>
 		<key>error_duplicate_field_name</key>
-		<value><![CDATA[Pole o takiej nazwie już istnieje w bieżącym formularzu.]]></value>
+		<value><![CDATA[W bieżącym formularzu już istnieje pole o takiej nazwie.]]></value>
 	</definition>
 	<definition>
 		<key>text_field_removed</key>
@@ -170,7 +170,7 @@
 	</definition>
 	<definition>
 		<key>entry_no_set_values</key>
-		<value><![CDATA[Nie można ustawić wartości dla tego typu pola.]]></value>
+		<value><![CDATA[Nie możesz ustawić wartości dla tego typu pola.]]></value>
 	</definition>
 	<definition>
 		<key>text_field_values</key>
@@ -178,11 +178,11 @@
 	</definition>
 	<definition>
 		<key>note_create_form_block</key>
-		<value><![CDATA[UWAGA: Aby wyświetlić ten formularz w witrynie sklepowej, utwórz blok formularza w Projekt -&gt; <a href="%s">Bloki</a> i dodaj go do odpowiedniej strony w Projekt -&gt; <a href="%s">Układy</a> .]]></value>
+		<value><![CDATA[UWAGA: Aby zobaczyć ten formularz na witrynie sklepu, utwórz blok formularza w Design-><a href="%s">Blocks</a> i dodaj go do odpowiedniej strony w Design-><a href="%s">Layouts</a>.]]></value>
 	</definition>
 	<definition>
 		<key>note_edit_layout</key>
-		<value><![CDATA[UWAGA: Aby zobaczyć ten blok w sklepie, dodaj go do odpowiedniej strony w Design-&gt; <a href="%s">Layouts</a>. Aby utworzyć nowy formularz, przejdź do strony Design-&gt; <a href="%s">Form Manager</a> .]]></value>
+		<value><![CDATA[UWAGA: Aby ten blok był widoczny na witrynie sklepu, dodaj go do odpowiedniej strony w Projektowanie-><a href="%s">Układy</a>. Aby utworzyć nowy formularz, przejdź do Projektowanie-><a href="%s">Menedżer formularzy</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_field_type</key>
@@ -190,7 +190,7 @@
 	</definition>
 	<definition>
 		<key>entry_field_note</key>
-		<value><![CDATA[Notatka terenowa]]></value>
+		<value><![CDATA[Wewnętrzna notatka pola]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_default_sender_name</key>
@@ -207,6 +207,10 @@
 	<definition>
 		<key>entry_regexp_pattern</key>
 		<value><![CDATA[Wzorzec wyrażenia regularnego:]]></value>
+	</definition>
+	<definition>
+		<key>entry_html_attributes</key>
+		<value><![CDATA[html-atrybuty:<br /><span class="help">Możesz dodać własne atrybuty HTML dla elementu opcji. Przykład: data-some-attribute="jakąś wartość"</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
@@ -230,10 +234,94 @@
 	</definition>
 	<definition>
 		<key>error_field_name_exists</key>
-		<value><![CDATA[Pole o nazwie %s już obecne w formularzu!]]></value>
+		<value><![CDATA[Pole o nazwie %s jest już obecne w formularzu!]]></value>
+	</definition>
+	<definition>
+		<key>error_regexp_pattern</key>
+		<value><![CDATA[Wzorzec wyrażenia regularnego jest nieprawidłowy!]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_error_empty_sender</key>
-		<value><![CDATA[Ostrzeżenie! Proszę ustawić domyślną nazwę nadawcy i domyślny adres e-mail nadawcy w <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">ustawieniach menedżera formularzy</a>]]></value>
+		<value><![CDATA[Uwaga! Proszę ustawić domyślną nazwę nadawcy i domyślny adres e-mail nadawcy w <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">ustawieniach menedżera formularzy</a>]]></value>
+	</definition>
+	<definition>
+		<key>column_field_name</key>
+		<value><![CDATA[Nazwa pola]]></value>
+	</definition>
+	<definition>
+		<key>text_groups</key>
+		<value><![CDATA[Grupy]]></value>
+	</definition>
+	<definition>
+		<key>text_fields</key>
+		<value><![CDATA[Pola]]></value>
+	</definition>
+	<definition>
+		<key>text_assign_fields_to_groups</key>
+		<value><![CDATA[Przypisz pola do grup]]></value>
+	</definition>
+	<definition>
+		<key>text_add_new_group</key>
+		<value><![CDATA[Dodaj nową grupę pól]]></value>
+	</definition>
+	<definition>
+		<key>text_no_group</key>
+		<value><![CDATA[Brak dostępnych grup pól]]></value>
+	</definition>
+	<definition>
+		<key>text_no_fields</key>
+		<value><![CDATA[Brak dostępnych pól]]></value>
+	</definition>
+	<definition>
+		<key>text_action</key>
+		<value><![CDATA[Akcja]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_name</key>
+		<value><![CDATA[Nazwa grupy]]></value>
+	</definition>
+	<definition>
+		<key>entry_group</key>
+		<value><![CDATA[Grupa]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_description</key>
+		<value><![CDATA[Opis grupy]]></value>
+	</definition>
+	<definition>
+		<key>button_save</key>
+		<value><![CDATA[Zapisz]]></value>
+	</definition>
+	<definition>
+		<key>button_cancel</key>
+		<value><![CDATA[Anuluj]]></value>
+	</definition>
+	<definition>
+		<key>error_group_name_required</key>
+		<value><![CDATA[Nazwa grupy jest wymagana!]]></value>
+	</definition>
+	<definition>
+		<key>error_unknown</key>
+		<value><![CDATA[Wystąpił nieznany błąd]]></value>
+	</definition>
+	<definition>
+		<key>text_success_fields_assigned</key>
+		<value><![CDATA[Pola zostały pomyślnie przypisane do grup.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_added_group</key>
+		<value><![CDATA[Grupa została pomyślnie dodana.]]></value>
+	</definition>
+	<definition>
+		<key>column_text_id</key>
+		<value><![CDATA[ID tekstu]]></value>
+	</definition>
+	<definition>
+		<key>error_group_has_fields</key>
+		<value><![CDATA[Nie można usunąć grupy. Jedno lub więcej pól jest przypisanych do tej grupy.]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_field_values</key>
+		<value><![CDATA[Edytuj wartości pola]]></value>
 	</definition>
 </definitions>

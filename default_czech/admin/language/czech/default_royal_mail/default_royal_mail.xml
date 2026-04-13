@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Upravili jste zásilku Royal Mail!]]></value>
+		<value><![CDATA[Úspěch: upravili jste dopravu Royal Mail!]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_1st_class</key>
-		<value><![CDATA[1. třída (pouze pro GB) <br/><span class="help">Doručení dopisů a balíků do druhého dne</span>]]></value>
+		<value><![CDATA[1. třída (pouze pro GB)<br/><span class="help">Cílem je doručení dopisů a balíků následující den</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_1st_class_rates</key>
-		<value><![CDATA[Sazby 1. třídy: <br/><span class="help">Příklad: 0,1:1,58, 0,25:1,96, 0,5:2,48 Hmotnost: Náklady, Hmotnost: Náklady atd. V tomto příkladu 0,1 kg = 1,58 GBP. Kde KG je vaše hmotnostní třída nastavená v nastavení Royal Mail a £ je základní měna obchodu. Skladová hmotnostní třída bude ignorována.</span>]]></value>
+		<value><![CDATA[Sazby 1. třídy:<br/><span class="help">Příklad: .1:1.58,.25:1.96,.5:2.48 Hmotnost:Cena,Hmotnost:Cena atd. V tomto příkladu 0.1kg = £1.58. Kde KG je vaše jednotka hmotnosti nastavená v nastavení Royal Mail a £ je základní měna obchodu. Jednotka hmotnosti obchodu bude ignorována.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_1st_class_compensation_rates</key>
-		<value><![CDATA[Kompenzační sazby 1. třídy]]></value>
+		<value><![CDATA[Sazby kompenzace první třídy]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_2nd_class</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_2nd_class_rates</key>
-		<value><![CDATA[Sazby 2. třídy]]></value>
+		<value><![CDATA[Sazby druhé třídy]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_2nd_class_compensation_rates</key>
-		<value><![CDATA[Kompenzační sazby 2. třídy]]></value>
+		<value><![CDATA[Sazby kompenzace 2. třídy]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked24</key>
@@ -42,31 +42,31 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked24_rates</key>
-		<value><![CDATA[Sledované 24® sazby]]></value>
+		<value><![CDATA[Sazby Tracked 24®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked24_compensation_rates</key>
-		<value><![CDATA[Sledované 24® kompenzační sazby]]></value>
+		<value><![CDATA[Sazby odškodnění Tracked 24®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked48</key>
-		<value><![CDATA[Tracked 48® (pouze pro GB)]]></value>
+		<value><![CDATA[Sledované 48® (pouze pro GB)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked48_rates</key>
-		<value><![CDATA[Sledováno 48® sazeb]]></value>
+		<value><![CDATA[Sledované 48® sazby]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tracked48_compensation_rates</key>
-		<value><![CDATA[Sledované 48® kompenzační sazby]]></value>
+		<value><![CDATA[Kompenzační sazby Tracked 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail24</key>
-		<value><![CDATA[Mail 24® (pouze pro GB)]]></value>
+		<value><![CDATA[Mail 24® (pouze pro VB)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail24_rates</key>
-		<value><![CDATA[Sazby Mail 24®]]></value>
+		<value><![CDATA[Mail 24® Sazby]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail24_compensation_rates</key>
@@ -82,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_mail48_compensation_rates</key>
-		<value><![CDATA[Kompenzační sazby Mail 48®]]></value>
+		<value><![CDATA[Sazby odměn Mail 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_sameday</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_sameday_rates</key>
-		<value><![CDATA[Sazby Sameday®]]></value>
+		<value><![CDATA[Sameday® sazby]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_sameday_compensation_rates</key>
@@ -98,19 +98,19 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_special_delivery_guaranteed</key>
-		<value><![CDATA[Special Delivery Guaranteed® (pouze pro GB)]]></value>
+		<value><![CDATA[Zaručené expresní doručení® (pouze pro GB)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_special_delivery_guaranteed_rates</key>
-		<value><![CDATA[Speciální garantované ceny doručení®]]></value>
+		<value><![CDATA[Sazby zaručeného expresního doručení®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_special_delivery_guaranteed_compensation_rates</key>
-		<value><![CDATA[Speciální kompenzační sazby garantované doručením®]]></value>
+		<value><![CDATA[Sazby kompenzace pro službu Speciální zaručené doručení®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb</key>
-		<value><![CDATA[Způsob dopravy pro dopravu zdarma (pouze GB) <span class="help">Vyberte prosím způsob dopravy v případě, že košík obsahuje pouze produkty s dopravou zdarma</span>]]></value>
+		<value><![CDATA[Způsob dopravy zdarma (pouze GB)<span class="help">Vyberte prosím, jaká metoda bude zvolena, pokud košík obsahuje pouze produkty s dopravou zdarma</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_1st_class</key>
@@ -126,15 +126,15 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_tracked48</key>
-		<value><![CDATA[Tracked 48®]]></value>
+		<value><![CDATA[Sledováno 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_mail24</key>
-		<value><![CDATA[Mail 24®]]></value>
+		<value><![CDATA[Pošta 24®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_mail48</key>
-		<value><![CDATA[Mail 48®]]></value>
+		<value><![CDATA[Pošta 48®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_sameday</key>
@@ -142,79 +142,79 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_free_gb_special_delivery_guaranteed</key>
-		<value><![CDATA[Speciální dodávka zaručena®]]></value>
+		<value><![CDATA[Speciální doručení zaručeno®]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_europe_zone_1</key>
-		<value><![CDATA[Mezinárodní cenová zóna Evropa 1]]></value>
+		<value><![CDATA[Mezinárodní ceny Evropa zóna 1]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_europe_zone_2</key>
-		<value><![CDATA[Mezinárodní cenová zóna Evropa 2]]></value>
+		<value><![CDATA[Mezinárodní ceny Evropa zóna 2]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_europe_zone_3</key>
-		<value><![CDATA[Mezinárodní cenová zóna Evropa 3]]></value>
+		<value><![CDATA[Mezinárodní ceny – evropská zóna 3]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_world_zone_1</key>
-		<value><![CDATA[Mezinárodní cenová zóna světa 1]]></value>
+		<value><![CDATA[Mezinárodní ceny Světová zóna 1]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_world_zone_2</key>
-		<value><![CDATA[Mezinárodní cenová světová zóna 2]]></value>
+		<value><![CDATA[Mezinárodní ceny Světová zóna 2]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_world_zone_3</key>
-		<value><![CDATA[Světová zóna mezinárodních cen 3]]></value>
+		<value><![CDATA[Mezinárodní ceny světová zóna 3]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_1</key>
-		<value><![CDATA[Mezinárodní standardní ekonomika (Evropa zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní Standardní Ekonomický (Evropská Zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_1_rates</key>
-		<value><![CDATA[Standardní ekonomické sazby (Evropa zóna 1)]]></value>
+		<value><![CDATA[Standardní ekonomické sazby (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_2</key>
-		<value><![CDATA[Mezinárodní standardní ekonomika (Evropa zóna 2)]]></value>
+		<value><![CDATA[Mezinárodní standardní ekonomická (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_2_rates</key>
-		<value><![CDATA[Standardní ekonomické sazby (Evropa zóna 2)]]></value>
+		<value><![CDATA[Standardní ekonomické sazby (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_3</key>
-		<value><![CDATA[Mezinárodní standardní ekonomika (Evropa zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní standardní ekonomická (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_europe_zone_3_rates</key>
-		<value><![CDATA[Standardní ekonomické sazby (Evropa zóna 3)]]></value>
+		<value><![CDATA[Standardní ekonomické sazby (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_1</key>
-		<value><![CDATA[Mezinárodní standardní ekonomika (světová zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní standardní ekonomická (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_1_rates</key>
-		<value><![CDATA[Standardní ekonomické sazby (světová zóna 1)]]></value>
+		<value><![CDATA[Standardní ekonomické sazby (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_2</key>
-		<value><![CDATA[Mezinárodní standardní ekonomika (Světová zóna 2)]]></value>
+		<value><![CDATA[Mezinárodní standardní ekonomická (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_2_rates</key>
-		<value><![CDATA[Standardní ekonomické sazby (World Zone 2)]]></value>
+		<value><![CDATA[Standardní ekonomické sazby (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_3</key>
-		<value><![CDATA[Mezinárodní standardní ekonomika (světová zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní standardní ekonomická (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_economy_world_zone_3_rates</key>
-		<value><![CDATA[Standardní ekonomické sazby (světová zóna 3)]]></value>
+		<value><![CDATA[Standardní ekonomické sazby (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_1</key>
@@ -222,7 +222,7 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_1_rates</key>
-		<value><![CDATA[Standardní prioritní sazby (Evropa zóna 1)]]></value>
+		<value><![CDATA[Standardní prioritní sazby (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_2</key>
@@ -230,7 +230,7 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_2_rates</key>
-		<value><![CDATA[Standardní prioritní sazby (Evropa zóna 2)]]></value>
+		<value><![CDATA[Standardní prioritní sazby (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_3</key>
@@ -238,272 +238,271 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_europe_zone_3_rates</key>
-		<value><![CDATA[Standardní prioritní sazby (Evropa zóna 3)]]></value>
+		<value><![CDATA[Standardní prioritní sazby (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_1</key>
-		<value><![CDATA[Mezinárodní standardní priorita (světová zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní standardní priorita (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_1_rates</key>
-		<value><![CDATA[Standardní prioritní sazby (světová zóna 1)]]></value>
+		<value><![CDATA[Standardní prioritní sazby (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_2</key>
-		<value><![CDATA[Mezinárodní standardní priorita (světová zóna 2)]]></value>
+		<value><![CDATA[Mezinárodní standardní priorita (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_2_rates</key>
-		<value><![CDATA[Standardní prioritní sazby (World Zone 2)]]></value>
+		<value><![CDATA[Standardní prioritní sazby (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_3</key>
-		<value><![CDATA[Mezinárodní standardní priorita (světová zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní standardní priorita (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_standard_priority_world_zone_3_rates</key>
-		<value><![CDATA[Standardní prioritní sazby (World Zone 3)]]></value>
+		<value><![CDATA[Standardní prioritní sazby (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_1</key>
-		<value><![CDATA[Mezinárodní podpis (Evropa zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní doporučeně s dodejkou (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_1_rates</key>
-		<value><![CDATA[Podepsané sazby (Evropa zóna 1)]]></value>
+		<value><![CDATA[Podepsané sazby (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_2</key>
-		<value><![CDATA[Mezinárodní podpis (Evropa zóna 2)]]></value>
+		<value><![CDATA[Mezinárodní doporučené (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_2_rates</key>
-		<value><![CDATA[Podepsané sazby (Evropa zóna 2)]]></value>
+		<value><![CDATA[Podepsané sazby (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_3</key>
-		<value><![CDATA[Mezinárodní podpis (Evropa zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní doručení s podpisem (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_europe_zone_3_rates</key>
-		<value><![CDATA[Podepsané sazby (Evropa zóna 3)]]></value>
+		<value><![CDATA[Podepsané sazby (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_1</key>
-		<value><![CDATA[Mezinárodní podpis (světová zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní doporučená zásilka (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_1_rates</key>
-		<value><![CDATA[Podepsané sazby (světová zóna 1)]]></value>
+		<value><![CDATA[Podepsané sazby (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_2</key>
-		<value><![CDATA[Mezinárodní podpis (World Zone 2)]]></value>
+		<value><![CDATA[Mezinárodní s podpisem (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_2_rates</key>
-		<value><![CDATA[Podepsané sazby (World Zone 2)]]></value>
+		<value><![CDATA[Sazby s doručením na podpis (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_3</key>
-		<value><![CDATA[Mezinárodní podpis (světová zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní zásilka s podpisem (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_signed_world_zone_3_rates</key>
-		<value><![CDATA[Podepsané sazby (World Zone 3)]]></value>
+		<value><![CDATA[Podepsané sazby (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_1</key>
-		<value><![CDATA[International Tracked Signed (Evropa zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní sledované podepsané (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_1_rates</key>
-		<value><![CDATA[Sledované podepsané sazby (Evropa zóna 1)]]></value>
+		<value><![CDATA[Sledované sazby s podpisem (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_2</key>
-		<value><![CDATA[International Tracked Signed (Evropa zóna 2)]]></value>
+		<value><![CDATA[Mezinárodní sledovaná zásilka s podpisem (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_2_rates</key>
-		<value><![CDATA[Sledované podepsané sazby (Evropa zóna 2)]]></value>
+		<value><![CDATA[Sledované sazby s potvrzením doručení (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_3</key>
-		<value><![CDATA[International Tracked Signed (Evropa zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní sledovaná zásilka s podpisem (zóna Evropa 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_europe_zone_3_rates</key>
-		<value><![CDATA[Sledované podepsané sazby (Evropa zóna 3)]]></value>
+		<value><![CDATA[Sledované sazby na podpis (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_1</key>
-		<value><![CDATA[International Tracked Signed (World Zone 1)]]></value>
+		<value><![CDATA[Mezinárodní sledované s podpisem (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_1_rates</key>
-		<value><![CDATA[Sledované podepsané sazby (světová zóna 1)]]></value>
+		<value><![CDATA[Sledované a podepsané sazby (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_2</key>
-		<value><![CDATA[International Tracked Signed (World Zone 2)]]></value>
+		<value><![CDATA[Mezinárodní sledované s potvrzením o doručení (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_2_rates</key>
-		<value><![CDATA[Sledované podepsané sazby (World Zone 2)]]></value>
+		<value><![CDATA[Sledované sazby s potvrzením doručení (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_3</key>
-		<value><![CDATA[International Tracked Signed (World Zone 3)]]></value>
+		<value><![CDATA[Mezinárodní sledovaná zásilka na podpis (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_signed_world_zone_3_rates</key>
-		<value><![CDATA[Sledované podepsané sazby (World Zone 3)]]></value>
+		<value><![CDATA[Sazby sledovaných zásilek s dodejkou (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_1</key>
-		<value><![CDATA[International Tracked (Evropa zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní sledované (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_1_rates</key>
-		<value><![CDATA[Sledované sazby (Evropa zóna 1)]]></value>
+		<value><![CDATA[Sledované sazby (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_2</key>
-		<value><![CDATA[International Tracked (Evropa zóna 2)]]></value>
+		<value><![CDATA[Mezinárodní sledované (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_2_rates</key>
-		<value><![CDATA[Sledované sazby (Evropa zóna 2)]]></value>
+		<value><![CDATA[Sledované sazby (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_3</key>
-		<value><![CDATA[International Tracked (Evropa zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní sledované (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_europe_zone_3_rates</key>
-		<value><![CDATA[Sledované sazby (Evropa zóna 3)]]></value>
+		<value><![CDATA[Sledované sazby (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_1</key>
-		<value><![CDATA[International Tracked (World Zone 1)]]></value>
+		<value><![CDATA[Mezinárodní sledovaná (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_1_rates</key>
-		<value><![CDATA[Sledované sazby (světová zóna 1)]]></value>
+		<value><![CDATA[Sledované sazby (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_2</key>
-		<value><![CDATA[International Tracked (World Zone 2)]]></value>
+		<value><![CDATA[Mezinárodní sledované (světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_2_rates</key>
-		<value><![CDATA[Sledované sazby (World Zone 2)]]></value>
+		<value><![CDATA[Sledované sazby (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_3</key>
-		<value><![CDATA[International Tracked (World Zone 3)]]></value>
+		<value><![CDATA[Mezinárodní sledované (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_world_zone_3_rates</key>
-		<value><![CDATA[Sledované sazby (World Zone 3)]]></value>
+		<value><![CDATA[Sledované sazby (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_1</key>
-		<value><![CDATA[International Tracked Heavier (Evropa zóna 1)]]></value>
+		<value><![CDATA[Mezinárodní sledované těžší (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_1_rates</key>
-		<value><![CDATA[Sledované vyšší sazby (Evropa zóna 1)]]></value>
+		<value><![CDATA[Sledované sazby pro těžší zásilky (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_2</key>
-		<value><![CDATA[International Tracked Heavier (Evropa zóna 2)]]></value>
+		<value><![CDATA[Mezinárodní sledovaná těžší (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_2_rates</key>
-		<value><![CDATA[Sledované vyšší sazby (Evropa zóna 2)]]></value>
+		<value><![CDATA[Sledované vyšší sazby (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_3</key>
-		<value><![CDATA[International Tracked Heavier (Evropa zóna 3)]]></value>
+		<value><![CDATA[Mezinárodní sledované těžší (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_europe_zone_3_rates</key>
-		<value><![CDATA[Sledované vyšší sazby (Evropa zóna 3)]]></value>
+		<value><![CDATA[Sazby pro těžší sledované zásilky (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_1</key>
-		<value><![CDATA[International Tracked Heavier (World Zone 1)]]></value>
+		<value><![CDATA[Mezinárodní sledovaná těžší (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_1_rates</key>
-		<value><![CDATA[Sledované vyšší sazby (světová zóna 1)]]></value>
+		<value><![CDATA[Sledované sazby pro těžší zásilky (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_2</key>
-		<value><![CDATA[International Tracked Heavier (World Zone 2)]]></value>
+		<value><![CDATA[Mezinárodní sledované těžší (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_2_rates</key>
-		<value><![CDATA[Sledované vyšší sazby (World Zone 2)]]></value>
+		<value><![CDATA[Sledované sazby pro těžší zásilky (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_3</key>
-		<value><![CDATA[International Tracked Heavier (World Zone 3)]]></value>
+		<value><![CDATA[Mezinárodní sledované těžší (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_tracked_heavier_world_zone_3_rates</key>
-		<value><![CDATA[Sledované vyšší sazby (World Zone 3)]]></value>
+		<value><![CDATA[Sledované sazby na těžší zásilky (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free</key>
-		<value><![CDATA[
- Mezinárodní způsob dopravy pro dopravu zdarma <span class="help">Vyberte prosím způsob dopravy v případě, že košík obsahuje pouze produkty s dopravou zdarma</span>]]></value>
+		<value><![CDATA[Mezinárodní způsob dopravy pro bezplatné doručení <span class="help">Vyberte způsob, který se použije, když košík obsahuje pouze produkty s bezplatným doručením</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_1</key>
-		<value><![CDATA[Standardní ekonomická (Evropa zóna 1)]]></value>
+		<value><![CDATA[Standardní ekonomická doprava (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_1</key>
-		<value><![CDATA[Standardní ekonomická (Evropa zóna 1)]]></value>
+		<value><![CDATA[Standardní ekonomická přeprava (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_2</key>
-		<value><![CDATA[Standardní ekonomická (Evropa zóna 2)]]></value>
+		<value><![CDATA[Standardní ekonomická (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_europe_zone_3</key>
-		<value><![CDATA[Standardní ekonomická (Evropa zóna 3)]]></value>
+		<value><![CDATA[Standardní ekonomická (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_world_zone_1</key>
-		<value><![CDATA[Standardní ekonomická (světová zóna 1)]]></value>
+		<value><![CDATA[Standardní ekonomická doprava (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_world_zone_2</key>
-		<value><![CDATA[Standardní ekonomická (světová zóna 2)]]></value>
+		<value><![CDATA[Standardní ekonomická (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_economy_world_zone_3</key>
-		<value><![CDATA[Standardní ekonomická (světová zóna 3)]]></value>
+		<value><![CDATA[Standardní ekonomická doprava (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_1</key>
-		<value><![CDATA[Standardní priorita (Evropa zóna 1)]]></value>
+		<value><![CDATA[Standardní priorita (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_1</key>
-		<value><![CDATA[Standardní priorita (Evropa zóna 1)]]></value>
+		<value><![CDATA[Standardní priorita (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_2</key>
-		<value><![CDATA[Standardní priorita (Evropa zóna 2)]]></value>
+		<value><![CDATA[Standardní priorita (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_europe_zone_3</key>
-		<value><![CDATA[Standardní priorita (Evropa zóna 3)]]></value>
+		<value><![CDATA[Standardní priorita (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_standard_priority_world_zone_1</key>
@@ -519,63 +518,63 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_1</key>
-		<value><![CDATA[Podepsáno (Evropa zóna 1)]]></value>
+		<value><![CDATA[S podpisem (zóna Evropy 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_1</key>
-		<value><![CDATA[Podepsáno (Evropa zóna 1)]]></value>
+		<value><![CDATA[S podpisem (Evropa zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_2</key>
-		<value><![CDATA[Podepsáno (Evropa zóna 2)]]></value>
+		<value><![CDATA[S podpisem (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_europe_zone_3</key>
-		<value><![CDATA[Podepsáno (Evropa zóna 3)]]></value>
+		<value><![CDATA[S podpisem (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_world_zone_1</key>
-		<value><![CDATA[Podepsáno (světová zóna 1)]]></value>
+		<value><![CDATA[Doručení s podpisem (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_world_zone_2</key>
-		<value><![CDATA[Podepsáno (World Zone 2)]]></value>
+		<value><![CDATA[Podepsáno (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_signed_world_zone_3</key>
-		<value><![CDATA[Podepsáno (světová zóna 3)]]></value>
+		<value><![CDATA[Podepsáno (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_1</key>
-		<value><![CDATA[Tracked Signed (Evropa zóna 1)]]></value>
+		<value><![CDATA[Sledované s podpisem (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_1</key>
-		<value><![CDATA[Tracked Signed (Evropa zóna 1)]]></value>
+		<value><![CDATA[Potvrzené sledované doručení (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_2</key>
-		<value><![CDATA[Tracked Signed (Evropa zóna 2)]]></value>
+		<value><![CDATA[Sledované s doručením na podpis (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_europe_zone_3</key>
-		<value><![CDATA[Tracked Signed (Evropa zóna 3)]]></value>
+		<value><![CDATA[Sledováno a podepsáno (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_world_zone_1</key>
-		<value><![CDATA[Tracked Signed (World Zone 1)]]></value>
+		<value><![CDATA[Sledované s podpisem (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_world_zone_2</key>
-		<value><![CDATA[Tracked Signed (World Zone 2)]]></value>
+		<value><![CDATA[Sledované s podpisem (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_signed_world_zone_3</key>
-		<value><![CDATA[Tracked Signed (World Zone 3)]]></value>
+		<value><![CDATA[Sledované doručení s podpisem (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_1</key>
-		<value><![CDATA[Sledováno (Evropa zóna 1)]]></value>
+		<value><![CDATA[Sledované (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_1</key>
@@ -583,70 +582,67 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_2</key>
-		<value><![CDATA[Sledováno (Evropa zóna 2)]]></value>
+		<value><![CDATA[Sledované (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_europe_zone_3</key>
-		<value><![CDATA[Sledováno (Evropa zóna 3)]]></value>
+		<value><![CDATA[Sledované (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_world_zone_1</key>
-		<value><![CDATA[Sledováno (světová zóna 1)]]></value>
+		<value><![CDATA[Sledované (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_world_zone_2</key>
-		<value><![CDATA[Sledováno (World Zone 2)]]></value>
+		<value><![CDATA[Sledováno (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_world_zone_3</key>
-		<value><![CDATA[Sledováno (světová zóna 3)]]></value>
+		<value><![CDATA[Sledované (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_1</key>
-		<value><![CDATA[Pásový těžší (Evropa zóna 1)]]></value>
+		<value><![CDATA[Sledované těžší (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_1</key>
-		<value><![CDATA[Pásový těžší (Evropa zóna 1)]]></value>
+		<value><![CDATA[Sledované těžší (Evropská zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_2</key>
-		<value><![CDATA[Těžší pás (Evropa zóna 2)]]></value>
+		<value><![CDATA[Sledované těžší (Evropská zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_europe_zone_3</key>
-		<value><![CDATA[Pásový těžší (Evropa zóna 3)]]></value>
+		<value><![CDATA[Sledované těžší (Evropská zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_world_zone_1</key>
-		<value><![CDATA[Těžší pás (světová zóna 1)]]></value>
+		<value><![CDATA[Těžší sledované (Světová zóna 1)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_world_zone_2</key>
-		<value><![CDATA[Těžší pás (World Zone 2)]]></value>
+		<value><![CDATA[Sledované těžší (Světová zóna 2)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_intl_free_tracked_heavier_world_zone_3</key>
-		<value><![CDATA[Těžší pás (World Zone 3)]]></value>
+		<value><![CDATA[Sledovaná těžší (Světová zóna 3)]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_display_weight</key>
-		<value><![CDATA[
- Zobrazit hmotnost zásilky: <br/><span class="help">Chcete zobrazit hmotnost zásilky? (např. hmotnost dodávky: 2,7674 kg)</span>]]></value>
+		<value><![CDATA[Zobrazit dodací hmotnost:<br /><span class="help">Chcete zobrazit dodací hmotnost? (např. Dodací hmotnost : 2.7674 Kg's)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_display_insurance</key>
-		<value><![CDATA[
- Zobrazit pojištění: <br/><span class="help">Chcete zobrazit pojištění zásilky? (např. pojištěno do &pound; 500)</span>]]></value>
+		<value><![CDATA[Zobrazit pojištění:<br /><span class="help">Chcete zobrazit pojištění přepravy? (např. pojištěno až do &pound;500)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_display_time</key>
-		<value><![CDATA[
- Zobrazit čas doručení: <br/><span class="help">Chcete zobrazit čas doručení? (např. odeslání do 3 až 5 dnů)</span>]]></value>
+		<value><![CDATA[Zobrazit dodací lhůtu:<br /><span class="help">Chcete zobrazit dodací lhůtu? (např. Dodává se do 3 až 5 dnů)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_weight_class</key>
-		<value><![CDATA[Hmotnostní kategorie: <br/><span class="help">Váhová kategorie podle vašich sazeb. Hmotnostní třída obchodu bude ignorována</span>]]></value>
+		<value><![CDATA[Třída hmotnosti:<br /><span class="help">Hmotnostní třída vašich sazeb. Hmotnostní třída obchodu bude ignorována</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_royal_mail_tax</key>
@@ -662,10 +658,10 @@
 	</definition>
 	<definition>
 		<key>default_royal_mail_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechny lokace]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat zásilku Royal Mail!]]></value>
+		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat dopravu Royal Mail!]]></value>
 	</definition>
 </definitions>

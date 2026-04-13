@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Pošiljanje]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste brezplačno dostavo!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste brezplačno dostavo!]]></value>
 	</definition>
 	<definition>
 		<key>default_free_shipping_location_id</key>

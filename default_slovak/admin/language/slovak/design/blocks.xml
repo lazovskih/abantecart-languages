@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[bloky]]></value>
+		<value><![CDATA[Bloky]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>text_edit</key>
-		<value><![CDATA[editovať blok]]></value>
+		<value><![CDATA[upraviť blok]]></value>
 	</definition>
 	<definition>
 		<key>text_enable</key>
-		<value><![CDATA[Povoliť zakázať]]></value>
+		<value><![CDATA[Povoliť/Zakázať]]></value>
 	</definition>
 	<definition>
 		<key>text_details</key>
-		<value><![CDATA[podrobnosti]]></value>
+		<value><![CDATA[Podrobnosti]]></value>
 	</definition>
 	<definition>
 		<key>text_create</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Zmenili ste blok!]]></value>
+		<value><![CDATA[Úspech: Upravili ste blok!]]></value>
 	</definition>
 	<definition>
 		<key>column_block_id</key>
@@ -34,131 +34,135 @@
 	</definition>
 	<definition>
 		<key>column_block_txt_id</key>
-		<value><![CDATA[Unikátny ID Text]]></value>
+		<value><![CDATA[Jedinečné ID textu]]></value>
 	</definition>
 	<definition>
 		<key>column_block_name</key>
-		<value><![CDATA[názov]]></value>
+		<value><![CDATA[Meno]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Dátum pridané]]></value>
+		<value><![CDATA[Dátum pridania]]></value>
 	</definition>
 	<definition>
 		<key>column_block_type</key>
-		<value><![CDATA[typ]]></value>
+		<value><![CDATA[Typ]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[poradie zoradenia]]></value>
+		<value><![CDATA[Poradie zoradenia]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
-		<value><![CDATA[obraz]]></value>
+		<value><![CDATA[Obrázok]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_status</key>
-		<value><![CDATA[Postavenie]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_status_note</key>
-		<value><![CDATA[Poznámka: Je potrebné pridať tento blok v <a style="text-decoration: underline; font-weight: bold;" href="#admin#rt=design/layout">VZHĽAD</a> na požadovanú stranu, aby ju vidieť prácu]]></value>
+		<value><![CDATA[Poznámka: Musíte pridať tento blok do <a style="text-decoration: underline; font-weight: bold;" href="#admin#rt=design/layout">ROZLOŽENIE</a> na požadovanej stránke, aby ste ho videli fungovať.]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_type</key>
-		<value><![CDATA[Vlastné typ Block]]></value>
+		<value><![CDATA[Vlastný typ bloku]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_name</key>
-		<value><![CDATA[Custom Block Name]]></value>
+		<value><![CDATA[Názov vlastného bloku]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_wrapper</key>
-		<value><![CDATA[Použitie blok obal (vzhľad)]]></value>
+		<value><![CDATA[Použiť obal bloku (vzhľad)]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_framed</key>
-		<value><![CDATA[rám Použitie programu Block je]]></value>
+		<value><![CDATA[Použite rám bloku]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_title</key>
-		<value><![CDATA[Custom Block Názov]]></value>
+		<value><![CDATA[Vlastný názov bloku]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_description</key>
-		<value><![CDATA[Custom Block popis <p> len interné použitie: Poznámka </p>]]></value>
+		<value><![CDATA[Popis vlastného bloku <p>Poznámka: iba na interné použitie </p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_block_content</key>
-		<value><![CDATA[Obsah Custom Block]]></value>
+		<value><![CDATA[Obsah vlastného bloku]]></value>
 	</definition>
 	<definition>
 		<key>entry_listing_datasource</key>
-		<value><![CDATA[Výpis zdroj dát]]></value>
+		<value><![CDATA[Zdroj údajov zoznamu]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_confirm</key>
-		<value><![CDATA[Potvrdiť odstrániť blok?]]></value>
+		<value><![CDATA[Potvrďte vymazanie bloku?]]></value>
 	</definition>
 	<definition>
 		<key>error_empty</key>
-		<value><![CDATA[Vyplňte prosím všetky povinné polia!]]></value>
+		<value><![CDATA[Vyplňte všetky povinné polia!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[Nemožno odstrániť, pretože tento blok je v prevádzke. Navštívte sekciu Rozloženie.]]></value>
+		<value><![CDATA[Nie je možné odstrániť, pretože tento blok je v použití. Prosím, navštívte sekciu Rozloženie.]]></value>
 	</definition>
 	<definition>
 		<key>error_text_status</key>
-		<value><![CDATA[Môže stav nemení, pretože tento blok nie je používaný. Navštívte sekciu Rozloženie.]]></value>
+		<value><![CDATA[Nie je možné zmeniť stav, pretože tento blok sa nepoužíva. Prosím, navštívte sekciu Rozloženie.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_deleted</key>
-		<value><![CDATA[Úspech: Odstránili ste zákazku blok!]]></value>
+		<value><![CDATA[Úspech: Zmazali ste vlastný blok!]]></value>
 	</definition>
 	<definition>
 		<key>entry_data_source</key>
-		<value><![CDATA[Dátový zdroj:]]></value>
+		<value><![CDATA[Zdroj dát:]]></value>
 	</definition>
 	<definition>
 		<key>entry_limit</key>
-		<value><![CDATA[limit:]]></value>
+		<value><![CDATA[Obmedzenie:]]></value>
 	</definition>
 	<definition>
 		<key>text_listing_auto</key>
-		<value><![CDATA[auto výpis]]></value>
+		<value><![CDATA[Automatický zoznam]]></value>
 	</definition>
 	<definition>
 		<key>text_listing_manual</key>
-		<value><![CDATA[Custom výpis]]></value>
+		<value><![CDATA[Vlastný zoznam]]></value>
 	</definition>
 	<definition>
 		<key>text_select_listing</key>
-		<value><![CDATA[--- Vyberte dát výpis zdroj ---]]></value>
+		<value><![CDATA[--- vyberte zdroj zoznamu údajov ---]]></value>
 	</definition>
 	<definition>
 		<key>text_products_special</key>
 		<value><![CDATA[Špeciálne ponuky]]></value>
 	</definition>
 	<definition>
+		<key>text_products_related</key>
+		<value><![CDATA[Súvisiace produkty]]></value>
+	</definition>
+	<definition>
 		<key>text_products_popular</key>
-		<value><![CDATA[Obľúbené produkty]]></value>
+		<value><![CDATA[Populárne produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_categories</key>
-		<value><![CDATA[Kategórie]]></value>
+		<value><![CDATA[Všetky kategórie]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[výrobcovia]]></value>
+		<value><![CDATA[Všetky značky]]></value>
 	</definition>
 	<definition>
 		<key>text_featured</key>
-		<value><![CDATA[Vybrané produkty]]></value>
+		<value><![CDATA[Odporúčané produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_latest</key>
@@ -166,11 +170,11 @@
 	</definition>
 	<definition>
 		<key>text_bestsellers</key>
-		<value><![CDATA[najpredávanejšie produkty]]></value>
+		<value><![CDATA[Najpredávanejšie produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_media</key>
-		<value><![CDATA[media]]></value>
+		<value><![CDATA[Médiá]]></value>
 	</definition>
 	<definition>
 		<key>entry_resource_type</key>
@@ -178,15 +182,19 @@
 	</definition>
 	<definition>
 		<key>text_custom_products</key>
-		<value><![CDATA[vlastné produkty]]></value>
+		<value><![CDATA[Vybrané produkty]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_categories</key>
-		<value><![CDATA[vlastné kategórie]]></value>
+		<value><![CDATA[Vybrané kategórie]]></value>
 	</definition>
 	<definition>
 		<key>text_custom_manufacturers</key>
-		<value><![CDATA[vlastné Výrobcovia]]></value>
+		<value><![CDATA[Vybrané značky]]></value>
+	</definition>
+	<definition>
+		<key>text_selected_content</key>
+		<value><![CDATA[Vybraný obsah]]></value>
 	</definition>
 	<definition>
 		<key>text_html_block</key>
@@ -194,7 +202,7 @@
 	</definition>
 	<definition>
 		<key>text_listing_block</key>
-		<value><![CDATA[výpis dát]]></value>
+		<value><![CDATA[Zoznam údajov]]></value>
 	</definition>
 	<definition>
 		<key>text_selected</key>
@@ -202,67 +210,59 @@
 	</definition>
 	<definition>
 		<key>text_data_listed</key>
-		<value><![CDATA[Údaje by mali byť uvedené]]></value>
+		<value><![CDATA[Údaje na zobrazenie]]></value>
 	</definition>
 	<definition>
 		<key>text_save_edit</key>
-		<value><![CDATA[Pridať / upraviť]]></value>
+		<value><![CDATA[Pridať / Upraviť]]></value>
 	</definition>
 	<definition>
 		<key>text_apply</key>
-		<value><![CDATA[Aktivácia voľby]]></value>
+		<value><![CDATA[Použiť výber]]></value>
 	</definition>
 	<definition>
 		<key>text_block_id</key>
-		<value><![CDATA[block ID]]></value>
+		<value><![CDATA[ID bloku]]></value>
 	</definition>
 	<definition>
 		<key>text_block_txt_id</key>
-		<value><![CDATA[Block ID Text]]></value>
+		<value><![CDATA[ID textového bloku]]></value>
 	</definition>
 	<definition>
 		<key>text_controller</key>
-		<value><![CDATA[kontrolór]]></value>
+		<value><![CDATA[Ovládač]]></value>
 	</definition>
 	<definition>
 		<key>text_templates</key>
-		<value><![CDATA[blokové šablóny]]></value>
+		<value><![CDATA[Šablóny blokov]]></value>
 	</definition>
 	<definition>
 		<key>text_block_date_added</key>
-		<value><![CDATA[Blok Dátum vytvorenia]]></value>
+		<value><![CDATA[Dátum vytvorenia bloku]]></value>
 	</definition>
 	<definition>
 		<key>text_layouts</key>
-		<value><![CDATA[Používa sa v rozvrhnutie]]></value>
+		<value><![CDATA[Používa sa v rozloženiach]]></value>
 	</definition>
 	<definition>
 		<key>text_block_info</key>
-		<value><![CDATA[Informácie o vlastných Block]]></value>
+		<value><![CDATA[Informácie o vlastnom bloku]]></value>
 	</definition>
 	<definition>
 		<key>text_add_block</key>
-		<value><![CDATA[Pridanie bloku do sekcie]]></value>
+		<value><![CDATA[Pridávanie bloku do sekcie]]></value>
 	</definition>
 	<definition>
 		<key>text_available_block</key>
-		<value><![CDATA[dostupné bloky]]></value>
+		<value><![CDATA[Dostupné bloky]]></value>
 	</definition>
 	<definition>
 		<key>error_block_not_available</key>
-		<value><![CDATA[Tento blok sa nebude zobrazovať vo vybranom mieste na priečelí!]]></value>
-	</definition>
-	<definition>
-		<key>text_products_related</key>
-		<value><![CDATA[Súvisiace produkty]]></value>
-	</definition>
-	<definition>
-		<key>text_selected_content</key>
-		<value><![CDATA[Vybraný obsah]]></value>
+		<value><![CDATA[Tento blok sa nezobrazí v zvolenej pozícii na stránke obchodu!]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>
-		<value><![CDATA[Zbierka]]></value>
+		<value><![CDATA[Kolekcia]]></value>
 	</definition>
 	<definition>
 		<key>entry_collection_resource_type</key>

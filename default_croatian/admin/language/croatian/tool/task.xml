@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[Iskaznica]]></value>
+		<value><![CDATA[Identifikator]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
-		<value><![CDATA[Datum izrade]]></value>
+		<value><![CDATA[Datum kreiranja]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -26,47 +26,47 @@
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[u škripcu]]></value>
+		<value><![CDATA[Zaglavljen]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
-		<value><![CDATA[Spreman]]></value>
+		<value><![CDATA[Molim vas dostavite tekst za prijevod.]]></value>
 	</definition>
 	<definition>
 		<key>text_running</key>
-		<value><![CDATA[Trčanje]]></value>
+		<value><![CDATA[Radi]]></value>
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
-		<value><![CDATA[planiran]]></value>
+		<value><![CDATA[Zakazano]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
-		<value><![CDATA[onesposobljen]]></value>
+		<value><![CDATA[Onemogućeno]]></value>
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[Neuspjeh]]></value>
+		<value><![CDATA[Neuspješno]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
-		<value><![CDATA[Nepotpun]]></value>
+		<value><![CDATA[Nepotpuno]]></value>
 	</definition>
 	<definition>
 		<key>text_completed</key>
-		<value><![CDATA[dovršen]]></value>
+		<value><![CDATA[Završeno]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[Ponovno pokretanje zadataka]]></value>
+		<value><![CDATA[Ponovno pokreni zadatak]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
-		<value><![CDATA[Izvrši zadatak]]></value>
+		<value><![CDATA[Pokreni zadatak]]></value>
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[Zadatak je počeo]]></value>
+		<value><![CDATA[Zadatak je započeo.]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
@@ -78,6 +78,6 @@
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[Zabranjeno je ponovno pokrenuti!]]></value>
+		<value><![CDATA[Zabranjeno ponovno pokretanje!]]></value>
 	</definition>
 </definitions>

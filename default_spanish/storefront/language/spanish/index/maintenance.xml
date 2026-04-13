@@ -10,6 +10,6 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<h1 style="text-align:center;">Actualmente estamos realizando tareas de mantenimiento programadas.<br/>Volveremos lo antes posible. Por favor, vuelva a intentarlo pronto.</h1>]]></value>
+		<value><![CDATA[<h1 style="text-align:center;">Actualmente estamos realizando un mantenimiento programado. <br/>Estaremos de vuelta tan pronto como sea posible. Por favor, vuelva pronto.</h1>]]></value>
 	</definition>
 </definitions>

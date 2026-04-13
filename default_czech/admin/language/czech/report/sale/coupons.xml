@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[slevy Zpráva]]></value>
+		<value><![CDATA[Zpráva o slevách]]></value>
 	</definition>
 	<definition>
 		<key>column_coupon_name</key>
-		<value><![CDATA[Sleva / kupón Jméno]]></value>
+		<value><![CDATA[Sleva/Kupón Název]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -18,15 +18,15 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Celkový]]></value>
+		<value><![CDATA[Celkem]]></value>
 	</definition>
 	<definition>
 		<key>column_discount_total</key>
-		<value><![CDATA[celková sleva]]></value>
+		<value><![CDATA[Celková sleva]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Termín nástupu:]]></value>
+		<value><![CDATA[Datum zahájení:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>

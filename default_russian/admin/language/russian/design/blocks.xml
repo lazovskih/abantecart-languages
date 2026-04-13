@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Вы изменили блок!]]></value>
+		<value><![CDATA[Успешно: Вы изменили блок!]]></value>
 	</definition>
 	<definition>
 		<key>column_block_id</key>
@@ -114,7 +114,7 @@
 	</definition>
 	<definition>
 		<key>text_success_deleted</key>
-		<value><![CDATA[Вы удалили пользовательский блок!]]></value>
+		<value><![CDATA[Успешно: Вы удалили пользовательский блок!]]></value>
 	</definition>
 	<definition>
 		<key>entry_data_source</key>

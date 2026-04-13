@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[traži]]></value>
+		<value><![CDATA[Pretraživanje]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
-		<value><![CDATA[Ključne riječi za pretraživanje]]></value>
+		<value><![CDATA[Ključne riječi pretraživanja]]></value>
 	</definition>
 	<definition>
 		<key>text_advanced</key>
-		<value><![CDATA[Napredna pretraga]]></value>
+		<value><![CDATA[Napredno pretraživanje]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>

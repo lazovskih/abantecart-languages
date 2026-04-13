@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>collection_column_name</key>
-		<value><![CDATA[Samlingens navn]]></value>
+		<value><![CDATA[Kolleksjonsnavn]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_status</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Samlingsnavn:]]></value>
+		<value><![CDATA[Navn på samling:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>save_error_name</key>
-		<value><![CDATA[Samlingsnavn er obligatorisk.]]></value>
+		<value><![CDATA[Navn på samling er påkrevd.]]></value>
 	</definition>
 	<definition>
 		<key>collection_new</key>
-		<value><![CDATA[Ny samling]]></value>
+		<value><![CDATA[Ny kolleksjon]]></value>
 	</definition>
 	<definition>
 		<key>collection_update</key>
-		<value><![CDATA[Oppdater samlingen]]></value>
+		<value><![CDATA[Oppdater samling]]></value>
 	</definition>
 	<definition>
 		<key>conditions_title</key>
@@ -54,23 +54,23 @@
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[Noen]]></value>
+		<value><![CDATA[Enhver]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
-		<value><![CDATA[av disse forholdene er]]></value>
+		<value><![CDATA[av disse betingelsene er]]></value>
 	</definition>
 	<definition>
 		<key>text_true</key>
-		<value><![CDATA[ekte]]></value>
+		<value><![CDATA[Sann]]></value>
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[falsk]]></value>
+		<value><![CDATA[Usann]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
-		<value><![CDATA[Legg til tilstand:]]></value>
+		<value><![CDATA[Legg til betingelse:]]></value>
 	</definition>
 	<definition>
 		<key>text_product_price</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>text_tags</key>
-		<value><![CDATA[Tagger]]></value>
+		<value><![CDATA[Etiketter]]></value>
 	</definition>
 	<definition>
 		<key>entry_categories</key>
@@ -98,11 +98,11 @@
 	</definition>
 	<definition>
 		<key>text_in</key>
-		<value><![CDATA[I]]></value>
+		<value><![CDATA[i]]></value>
 	</definition>
 	<definition>
 		<key>text_not_in</key>
-		<value><![CDATA[Ikke inne]]></value>
+		<value><![CDATA[Ikke i]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>
@@ -126,7 +126,7 @@
 	</definition>
 	<definition>
 		<key>text_equal_or_greater</key>
-		<value><![CDATA[Like eller større]]></value>
+		<value><![CDATA[Lik eller større]]></value>
 	</definition>
 	<definition>
 		<key>text_greater</key>
@@ -146,35 +146,35 @@
 	</definition>
 	<definition>
 		<key>entry_tags</key>
-		<value><![CDATA[Tagger:]]></value>
+		<value><![CDATA[Stikkord:]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
-		<value><![CDATA[-Velg Tag-]]></value>
+		<value><![CDATA[-Velg merkelapp-]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[-Velg Tag-]]></value>
+		<value><![CDATA[-Velg tagg-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Lagre fullført]]></value>
+		<value><![CDATA[Lagring fullført]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Metasøkeord:]]></value>
+		<value><![CDATA[Meta-nøkkelord:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Metabeskrivelse:]]></value>
+		<value><![CDATA[Meta-beskrivelse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO nøkkelord:]]></value>
+		<value><![CDATA[SEO-nøkkelord:]]></value>
 	</definition>
 	<definition>
 		<key>tab_design</key>
-		<value><![CDATA[Design]]></value>
+		<value><![CDATA[Utforming]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>
@@ -182,7 +182,7 @@
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Layout Lagre fullført]]></value>
+		<value><![CDATA[Oppsett lagret]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
@@ -198,6 +198,6 @@
 	</definition>
 	<definition>
 		<key>save_error_unique_keyword</key>
-		<value><![CDATA[Nøkkelordet må være unikt!]]></value>
+		<value><![CDATA[Nøkkelord må være unikt!]]></value>
 	</definition>
 </definitions>

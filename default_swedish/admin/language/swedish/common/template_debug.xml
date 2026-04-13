@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_block_id</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_block_path</key>
-		<value><![CDATA[Väg:]]></value>
+		<value><![CDATA[Sökväg:]]></value>
 	</definition>
 	<definition>
 		<key>text_block_template</key>
@@ -26,14 +26,14 @@
 	</definition>
 	<definition>
 		<key>text_parent_id</key>
-		<value><![CDATA[Förälder ID:]]></value>
+		<value><![CDATA[Föräldra-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[Stänga]]></value>
+		<value><![CDATA[Stäng]]></value>
 	</definition>
 	<definition>
 		<key>text_click</key>
-		<value><![CDATA[Klicka här]]></value>
+		<value><![CDATA[Klicka på mig]]></value>
 	</definition>
 </definitions>

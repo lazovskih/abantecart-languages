@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מאגר סטטוסים]]></value>
+		<value><![CDATA[מצבי מלאי]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
-		<value><![CDATA[מצב המניה]]></value>
+		<value><![CDATA[מצב מלאי]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית סטטוסים במלאי!]]></value>
+		<value><![CDATA[הצלחה: עדכנת את סטטוסי המלאי!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם סטטוס במלאי]]></value>
+		<value><![CDATA[שם סטטוס המלאי]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -22,18 +22,18 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[שם סטטוס במלאי:]]></value>
+		<value><![CDATA[שם סטטוס המלאי:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות פסלים במלאי!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את סטטוסי המלאי!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[שם סטטוס מנייה חייב להיות בין 2 ו -32 תווים!]]></value>
+		<value><![CDATA[שם סטטוס המלאי חייב להיות באורך שבין 2 ל-32 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[אזהרה: מצב מלאי זה לא ניתן למחוק כפי שהוא מוקצה כעת %s מוצרים!]]></value>
+		<value><![CDATA[אזהרה: סטטוס המלאי הזה לא ניתן למחיקה כיוון שהוא מוקצה כרגע ל-%s מוצרים!]]></value>
 	</definition>
 </definitions>

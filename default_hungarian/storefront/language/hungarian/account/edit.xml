@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Fiókadataim]]></value>
+		<value><![CDATA[Fiókom adatai]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>text_edit</key>
-		<value><![CDATA[adatok szerkesztése]]></value>
+		<value><![CDATA[Információ szerkesztése]]></value>
 	</definition>
 	<definition>
 		<key>text_your_details</key>
-		<value><![CDATA[A te személyes adataid]]></value>
+		<value><![CDATA[Az Ön személyes adatai]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: A fiók sikeresen frissítve.]]></value>
+		<value><![CDATA[Siker: Fiókja sikeresen frissült.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
-		<value><![CDATA[Bejelentkezési név:]]></value>
+		<value><![CDATA[Felhasználónév:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>entry_telephone</key>
@@ -50,34 +50,34 @@
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Hiba: E-mail cím már regisztrálva van!]]></value>
+		<value><![CDATA[Hiba: Az e-mail cím már regisztrálva van!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Bejelentkezés nevet kell alfanumerikus csak és 5 és 64 karakter!]]></value>
+		<value><![CDATA[A bejelentkezési név csak alfanumerikus lehet, és 5 és 64 karakter hosszú kell legyen!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Ez a bejelentkezési név nem elérhető. Próbáljon másik névvel!]]></value>
+		<value><![CDATA[Ez a felhasználónév nem elérhető. Próbáljon másik felhasználónevet!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Utónév között kell lennie az 1. és 32 karakter!]]></value>
+		<value><![CDATA[A keresztnévnek 1 és 32 karakter közé kell esnie!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Vezetéknév legyen 1 és 32 között karakter!]]></value>
+		<value><![CDATA[A vezetéknévnek 1 és 32 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail cím nem tűnik érvényesnek!]]></value>
+		<value><![CDATA[Az e-mail cím nem tűnik érvényesnek!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon között kell lennie a 3. és 32 karakter!]]></value>
+		<value><![CDATA[A telefonszámnak csak számjegyekből kell állnia, és hossza 3 és 32 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>loginname_update_required</key>
-		<value><![CDATA[A bejelentkezési név ugyanaz, mint az e-mail. Annak érdekében, hogy a fiók védett, hozzon létre egy új, egyedi bejelentkezési név]]></value>
+		<value><![CDATA[A bejelentkezési neved megegyezik az e-mail címeddel. Fiókod védelme érdekében kérjük, hozz létre egy új, egyedi bejelentkezési nevet.]]></value>
 	</definition>
 </definitions>

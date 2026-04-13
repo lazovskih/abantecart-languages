@@ -6,23 +6,23 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[¡Marca no encontrada!]]></value>
+		<value><![CDATA[Marca no encontrada]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[No hay productos para mostrar de esta marca.]]></value>
+		<value><![CDATA[No hay productos para listar de esta marca.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s de 5 estrellas!]]></value>
-	</definition>
-	<definition>
-		<key>text_sort</key>
-		<value><![CDATA[Ordenar por:]]></value>
+		<value><![CDATA[%s de 5 Estrellas!]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Predeterminado]]></value>
+		<value><![CDATA[Defecto]]></value>
+	</definition>
+	<definition>
+		<key>text_sort</key>
+		<value><![CDATA[Ordenado por:]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
@@ -38,14 +38,14 @@
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Precio mayor &gt; menor]]></value>
+		<value><![CDATA[Precio mayor &lt; menor]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Calificación más baja]]></value>
+		<value><![CDATA[Votación más baja]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Calificación más alta]]></value>
+		<value><![CDATA[Votación más alta]]></value>
 	</definition>
 </definitions>

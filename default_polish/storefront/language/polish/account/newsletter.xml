@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Twój subskrypcji biuletynu została zaktualizowana!]]></value>
+		<value><![CDATA[Sukces: Twoja subskrypcja newslettera została pomyślnie zaktualizowana!]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
-		<value><![CDATA[Subskrybować:]]></value>
+		<value><![CDATA[Subskrybuj:]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_registration</key>
@@ -30,6 +30,6 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Weryfikacja ludzka nie powiodło się! Spróbuj Agan.]]></value>
+		<value><![CDATA[Weryfikacja człowieczeństwa nie powiodła się! Proszę spróbować agan.]]></value>
 	</definition>
 </definitions>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[dashbord]]></value>
+		<value><![CDATA[Dashbord]]></value>
 	</definition>
 	<definition>
 		<key>text_overview</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_latest_10_orders</key>
-		<value><![CDATA[Siste 10 bestillinger]]></value>
+		<value><![CDATA[Siste 10 ordrer]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale</key>
-		<value><![CDATA[Totale salg:]]></value>
+		<value><![CDATA[Totalt salg:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale_year</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_total_order</key>
-		<value><![CDATA[Totalt bestillinger:]]></value>
+		<value><![CDATA[Totalt antall bestillinger:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_customer</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_total_customer_approval</key>
-		<value><![CDATA[Kunder Venter Godkjenning:]]></value>
+		<value><![CDATA[Kunder som venter på godkjenning:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_product</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_total_review_approval</key>
-		<value><![CDATA[Waiting Godkjenning:]]></value>
+		<value><![CDATA[Anmeldelser venter på godkjenning:]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_week</key>
-		<value><![CDATA[Denne uka]]></value>
+		<value><![CDATA[Denne uken]]></value>
 	</definition>
 	<definition>
 		<key>text_month</key>
@@ -62,23 +62,23 @@
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[I år]]></value>
+		<value><![CDATA[Dette året]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Totalt bestillinger]]></value>
+		<value><![CDATA[Totalt antall bestillinger]]></value>
 	</definition>
 	<definition>
 		<key>text_order_short</key>
-		<value><![CDATA[Totalt bestillinger]]></value>
+		<value><![CDATA[Totalt antall bestillinger]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[Totalt Kunder]]></value>
+		<value><![CDATA[Totalt antall kunder]]></value>
 	</definition>
 	<definition>
 		<key>column_order</key>
-		<value><![CDATA[Bestillings ID]]></value>
+		<value><![CDATA[Ordre-ID]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -94,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Total]]></value>
+		<value><![CDATA[Sum]]></value>
 	</definition>
 	<definition>
 		<key>column_firstname</key>
@@ -114,11 +114,11 @@
 	</definition>
 	<definition>
 		<key>orders_text_all</key>
-		<value><![CDATA[alle bestillinger]]></value>
+		<value><![CDATA[Alle bestillinger]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_all</key>
-		<value><![CDATA[alle kunder]]></value>
+		<value><![CDATA[Alle kunder]]></value>
 	</definition>
 	<definition>
 		<key>text_latest_10_customers</key>

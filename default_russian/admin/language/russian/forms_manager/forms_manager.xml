@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>forms_manager_name</key>
-		<value><![CDATA[Менеджер Форм]]></value>
+		<value><![CDATA[Менеджер форм]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_status</key>
@@ -10,23 +10,23 @@
 	</definition>
 	<definition>
 		<key>forms_manager_note</key>
-		<value><![CDATA[Чтоб управлять формами следует включить расширение и перейти в меню Дизайн-><a href="#admin#rt=tool/forms_manager">Менеджер Форм</a>]]></value>
+		<value><![CDATA[Чтобы управлять формами, пожалуйста, включите расширение и перейдите в Дизайн-><a href="#admin#rt=tool/forms_manager">Менеджер форм</a>]]></value>
 	</definition>
 	<definition>
 		<key>custom_forms_block</key>
-		<value><![CDATA[Блок Пользовательской формы]]></value>
+		<value><![CDATA[Блок пользовательских форм]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_name</key>
-		<value><![CDATA[ Имя формы<br/><span class="help">только латинские буквы, подчеркивание и дефис</span>]]></value>
+		<value><![CDATA[Название формы<br/><span class="help">Только латинские буквы, нижнее подчёркивание и минус</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_controller_path</key>
-		<value><![CDATA[Контроллер Обрабатывающий данные]]></value>
+		<value><![CDATA[Контроллер обработки]]></value>
 	</definition>
 	<definition>
 		<key>entry_success_page</key>
-		<value><![CDATA[Страница успешного результата<br/><span class="help">Оставьте пустым если хотите перенаправление на ту же страницу контроллера</span>]]></value>
+		<value><![CDATA[Страница успеха<br/><span class="help">Оставьте его пустым, если вы хотите перенаправить на ту же страницу, что и контроллер</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_description</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_default_email</key>
-		<value><![CDATA[Email по умолчанию]]></value>
+		<value><![CDATA[Электронная почта по умолчанию]]></value>
 	</definition>
 	<definition>
 		<key>text_contactus_page</key>
-		<value><![CDATA[Страница контактов]]></value>
+		<value><![CDATA[Страница «Связаться с нами»]]></value>
 	</definition>
 	<definition>
 		<key>text_form</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Название]]></value>
+		<value><![CDATA[Имя]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>filter_any_word</key>
-		<value><![CDATA[Любое из искомых слов]]></value>
+		<value><![CDATA[Любое из этих слов]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_words</key>
-		<value><![CDATA[Все искомые слова]]></value>
+		<value><![CDATA[Все эти слова]]></value>
 	</definition>
 	<definition>
 		<key>text_clone</key>
@@ -74,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>filter_form</key>
-		<value><![CDATA[Искать]]></value>
+		<value><![CDATA[Поиск формы]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new_field</key>
@@ -82,11 +82,11 @@
 	</definition>
 	<definition>
 		<key>button_add_field</key>
-		<value><![CDATA[Побавить поле]]></value>
+		<value><![CDATA[Добавить поле]]></value>
 	</definition>
 	<definition>
 		<key>button_reset</key>
-		<value><![CDATA[Сброс]]></value>
+		<value><![CDATA[Сбросить]]></value>
 	</definition>
 	<definition>
 		<key>text_field_type</key>
@@ -95,5 +95,233 @@
 	<definition>
 		<key>button_remove_field</key>
 		<value><![CDATA[Удалить поле]]></value>
+	</definition>
+	<definition>
+		<key>entry_field</key>
+		<value><![CDATA[Поле]]></value>
+	</definition>
+	<definition>
+		<key>entry_field_name</key>
+		<value><![CDATA[Имя поля (только латинские буквы, символы подчеркивания и дефиса)]]></value>
+	</definition>
+	<definition>
+		<key>entry_sort_order</key>
+		<value><![CDATA[Порядок сортировки]]></value>
+	</definition>
+	<definition>
+		<key>entry_required</key>
+		<value><![CDATA[Обязательно]]></value>
+	</definition>
+	<definition>
+		<key>entry_edit_fields</key>
+		<value><![CDATA[Редактировать поля]]></value>
+	</definition>
+	<definition>
+		<key>entry_field_value</key>
+		<value><![CDATA[Значение поля]]></value>
+	</definition>
+	<definition>
+		<key>error_required</key>
+		<value><![CDATA[Это поле обязательно!]]></value>
+	</definition>
+	<definition>
+		<key>error_duplicate_form_name</key>
+		<value><![CDATA[Форма с таким атрибутом Name уже существует.]]></value>
+	</definition>
+	<definition>
+		<key>error_duplicate_field_name</key>
+		<value><![CDATA[В текущей форме уже есть поле с таким именем.]]></value>
+	</definition>
+	<definition>
+		<key>text_field_removed</key>
+		<value><![CDATA[Поле успешно удалено.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_form</key>
+		<value><![CDATA[Форма успешно обновлена.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_field</key>
+		<value><![CDATA[Поле успешно обновлено.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_added_form</key>
+		<value><![CDATA[Новая форма успешно добавлена.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_added_field</key>
+		<value><![CDATA[Новое поле успешно добавлено.]]></value>
+	</definition>
+	<definition>
+		<key>text_add_field</key>
+		<value><![CDATA[Добавить новое поле]]></value>
+	</definition>
+	<definition>
+		<key>entry_field_description</key>
+		<value><![CDATA[Отображаемое имя]]></value>
+	</definition>
+	<definition>
+		<key>entry_add_new_form</key>
+		<value><![CDATA[Добавить новую форму]]></value>
+	</definition>
+	<definition>
+		<key>text_create_block</key>
+		<value><![CDATA[Создать блок формы]]></value>
+	</definition>
+	<definition>
+		<key>entry_no_set_values</key>
+		<value><![CDATA[Вы не можете задавать значения для этого типа поля.]]></value>
+	</definition>
+	<definition>
+		<key>text_field_values</key>
+		<value><![CDATA[Значения полей]]></value>
+	</definition>
+	<definition>
+		<key>note_create_form_block</key>
+		<value><![CDATA[ПРИМЕЧАНИЕ: Чтобы эта форма отображалась на витрине магазина, создайте блок формы в Дизайн-><a href="%s">Blocks</a> и добавьте его на соответствующую страницу в Дизайн-><a href="%s">Layouts</a>.]]></value>
+	</definition>
+	<definition>
+		<key>note_edit_layout</key>
+		<value><![CDATA[ПРИМЕЧАНИЕ: Чтобы увидеть этот блок на витрине, добавьте его на соответствующую страницу в Дизайн-><a href="%s">Layouts</a>. Чтобы создать новую форму, перейдите на страницу Дизайн-><a href="%s">Form Manager</a>.]]></value>
+	</definition>
+	<definition>
+		<key>text_select_field_type</key>
+		<value><![CDATA[--- Пожалуйста, выберите ---]]></value>
+	</definition>
+	<definition>
+		<key>entry_field_note</key>
+		<value><![CDATA[Примечание поля]]></value>
+	</definition>
+	<definition>
+		<key>forms_manager_default_sender_name</key>
+		<value><![CDATA[Отправитель по умолчанию:]]></value>
+	</definition>
+	<definition>
+		<key>forms_manager_default_sender_email</key>
+		<value><![CDATA[Электронная почта отправителя по умолчанию:]]></value>
+	</definition>
+	<definition>
+		<key>entry_field_placeholder</key>
+		<value><![CDATA[Заполнитель:]]></value>
+	</definition>
+	<definition>
+		<key>entry_regexp_pattern</key>
+		<value><![CDATA[Шаблон регулярного выражения:]]></value>
+	</definition>
+	<definition>
+		<key>entry_error_text</key>
+		<value><![CDATA[Сообщение об ошибке о недопустимом значении:]]></value>
+	</definition>
+	<definition>
+		<key>entry_form</key>
+		<value><![CDATA[Форма]]></value>
+	</definition>
+	<definition>
+		<key>error_fill_required</key>
+		<value><![CDATA[Пожалуйста, заполните все обязательные поля формы!]]></value>
+	</definition>
+	<definition>
+		<key>error_form_name</key>
+		<value><![CDATA[Имя формы не может быть пустым!]]></value>
+	</definition>
+	<definition>
+		<key>error_form_description</key>
+		<value><![CDATA[Описание формы не может быть пустым!]]></value>
+	</definition>
+	<definition>
+		<key>error_field_name_exists</key>
+		<value><![CDATA[Поле с именем %s уже присутствует в форме!]]></value>
+	</definition>
+	<definition>
+		<key>forms_manager_error_empty_sender</key>
+		<value><![CDATA[Внимание! Пожалуйста, задайте имя отправителя по умолчанию и адрес электронной почты отправителя по умолчанию в <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">настройках менеджера форм</a>]]></value>
+	</definition>
+	<definition>
+		<key>column_field_name</key>
+		<value><![CDATA[Имя поля]]></value>
+	</definition>
+	<definition>
+		<key>entry_html_attributes</key>
+		<value><![CDATA[html-attributes:<br /><span class="help">Вы можете добавить свои собственные HTML-атрибуты для элемента option. Пример: data-some-attribute="some value"</span>]]></value>
+	</definition>
+	<definition>
+		<key>error_regexp_pattern</key>
+		<value><![CDATA[Шаблон регулярного выражения недействителен!]]></value>
+	</definition>
+	<definition>
+		<key>text_groups</key>
+		<value><![CDATA[Группы]]></value>
+	</definition>
+	<definition>
+		<key>text_fields</key>
+		<value><![CDATA[Поля]]></value>
+	</definition>
+	<definition>
+		<key>text_assign_fields_to_groups</key>
+		<value><![CDATA[Назначить поля группам]]></value>
+	</definition>
+	<definition>
+		<key>text_add_new_group</key>
+		<value><![CDATA[Добавить новую группу полей]]></value>
+	</definition>
+	<definition>
+		<key>text_no_group</key>
+		<value><![CDATA[Нет доступных групп полей]]></value>
+	</definition>
+	<definition>
+		<key>text_no_fields</key>
+		<value><![CDATA[Нет доступных полей]]></value>
+	</definition>
+	<definition>
+		<key>text_action</key>
+		<value><![CDATA[Действие]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_name</key>
+		<value><![CDATA[Имя группы]]></value>
+	</definition>
+	<definition>
+		<key>entry_group</key>
+		<value><![CDATA[Группа]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_description</key>
+		<value><![CDATA[Описание группы]]></value>
+	</definition>
+	<definition>
+		<key>button_save</key>
+		<value><![CDATA[Сохранить]]></value>
+	</definition>
+	<definition>
+		<key>button_cancel</key>
+		<value><![CDATA[Отменить]]></value>
+	</definition>
+	<definition>
+		<key>error_group_name_required</key>
+		<value><![CDATA[Имя группы обязательно!]]></value>
+	</definition>
+	<definition>
+		<key>error_unknown</key>
+		<value><![CDATA[Произошла неизвестная ошибка]]></value>
+	</definition>
+	<definition>
+		<key>text_success_fields_assigned</key>
+		<value><![CDATA[Поля были успешно назначены группам.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_added_group</key>
+		<value><![CDATA[Группа успешно добавлена.]]></value>
+	</definition>
+	<definition>
+		<key>column_text_id</key>
+		<value><![CDATA[Идентификатор текста]]></value>
+	</definition>
+	<definition>
+		<key>error_group_has_fields</key>
+		<value><![CDATA[Невозможно удалить группу. Одно или несколько полей назначены этой группе.]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_field_values</key>
+		<value><![CDATA[Редактировать значения полей]]></value>
 	</definition>
 </definitions>

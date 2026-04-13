@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_product</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Kategori kunde inte hittas!]]></value>
+		<value><![CDATA[Kategorin hittades inte!]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Det finns inga produkter att visa i denna kategori.]]></value>
+		<value><![CDATA[Det finns inga produkter att lista i denna kategori.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Av 5 stjärnor!]]></value>
+		<value><![CDATA[%s av 5 stjärnor!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -26,30 +26,30 @@
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Namn A - Ö]]></value>
+		<value><![CDATA[Namn A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Namn Ö - A]]></value>
+		<value><![CDATA[Namn Z - A]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Pris Låg &gt; Hög]]></value>
+		<value><![CDATA[Pris Lågt > Högt]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Pris Hög &gt; Låg]]></value>
+		<value><![CDATA[Pris Hög > Låg]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Lägst]]></value>
+		<value><![CDATA[Lägsta betyg]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[rank Högsta]]></value>
+		<value><![CDATA[Betyg Högsta]]></value>
 	</definition>
 	<definition>
 		<key>text_top_category</key>
-		<value><![CDATA[Top Kategori]]></value>
+		<value><![CDATA[Toppkategori]]></value>
 	</definition>
 </definitions>

@@ -5,10 +5,6 @@
 		<value><![CDATA[CardKnox]]></value>
 	</definition>
 	<definition>
-		<key>cardknox_note</key>
-		<value><![CDATA[]]></value>
-	</definition>
-	<definition>
 		<key>cardknox_transaction_key</key>
 		<value><![CDATA[Transaktionsnøgle (xKey)]]></value>
 	</definition>

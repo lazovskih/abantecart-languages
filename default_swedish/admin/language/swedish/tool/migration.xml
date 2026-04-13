@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kund Migration]]></value>
+		<value><![CDATA[Kundvagnsmigrering]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_step_one</key>
@@ -18,35 +18,35 @@
 	</definition>
 	<definition>
 		<key>text_description</key>
-		<value><![CDATA[Migreringsverktyg låter dig importera data från en annan vagnar. <br/> Obs: AbanteCart stöd import för MySQL bara för nu. <br/> Tryck på start migration för att fortsätta ...]]></value>
+		<value><![CDATA[Migrationverktyget tillåter dig att importera data från andra kundvagnar.<br>Observera: AbanteCart stöder för närvarande endast import från MySQL.<br>Tryck på knappen ’Starta migrering’ för att fortsätta...]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Framgång: Du uppgifter framgångsrikt transfeerd till Abantecart!]]></value>
+		<value><![CDATA[Framgång: Dina data har överförts till AbanteCart!]]></value>
 	</definition>
 	<definition>
 		<key>text_cart_info</key>
-		<value><![CDATA[Källa Vagn Info <span class="help">källa kundvagn ansökan detaljer.</span>]]></value>
+		<value><![CDATA[Källkundvagnsinformation<span class="help">Detaljer om ursprungsapplikationen för kundvagnen.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_db_info</key>
-		<value><![CDATA[Databas Info <span class="help">Obs: AbanteCart stöd import till MySQL bara för nu.</span>]]></value>
+		<value><![CDATA[Databasinformation<span class="help">Notera: AbanteCart stöder import för mysql endast för närvarande.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_type</key>
-		<value><![CDATA[Källa vagn typ:]]></value>
+		<value><![CDATA[Typ av ursprunglig kundvagn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_url</key>
-		<value><![CDATA[Källa kundvagn URL:]]></value>
+		<value><![CDATA[Källa kundvagns-URL:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_host</key>
-		<value><![CDATA[Databas Värd:]]></value>
+		<value><![CDATA[Databasvärd:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_user</key>
-		<value><![CDATA[Databas Användare:]]></value>
+		<value><![CDATA[Databasanvändare:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_password</key>
@@ -54,23 +54,23 @@
 	</definition>
 	<definition>
 		<key>entry_db_name</key>
-		<value><![CDATA[Databas namn:]]></value>
+		<value><![CDATA[Databasnamn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_db_prefix</key>
-		<value><![CDATA[Databas Prefix:]]></value>
+		<value><![CDATA[Databasprefix:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_select</key>
-		<value><![CDATA[- Välj vagn typ -]]></value>
+		<value><![CDATA[- välj kundvagnstyp -]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_osc</key>
-		<value><![CDATA[oscommerce 2.2RC2]]></value>
+		<value><![CDATA[Oscommerce 2.2RC2]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_oscmax</key>
-		<value><![CDATA[osCMax]]></value>
+		<value><![CDATA[OscMAX]]></value>
 	</definition>
 	<definition>
 		<key>entry_cart_zen</key>
@@ -82,27 +82,27 @@
 	</definition>
 	<definition>
 		<key>entry_cart_opencart</key>
-		<value><![CDATA[Opencart 1.4.9]]></value>
+		<value><![CDATA[OpenCart 1.4.9inion]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data</key>
-		<value><![CDATA[Välj data för att migrera]]></value>
+		<value><![CDATA[Välj data att migrera]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_categories</key>
-		<value><![CDATA[kategorier]]></value>
+		<value><![CDATA[Kategorier]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_products</key>
-		<value><![CDATA[Produkter, kategorier, Brands]]></value>
+		<value><![CDATA[Produkter, Kategorier, Varumärken]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_customers</key>
-		<value><![CDATA[kunder]]></value>
+		<value><![CDATA[Kunder]]></value>
 	</definition>
 	<definition>
 		<key>entry_migrate_data_orders</key>
-		<value><![CDATA[Order]]></value>
+		<value><![CDATA[Beställningar]]></value>
 	</definition>
 	<definition>
 		<key>entry_erase_existing_data</key>
@@ -110,11 +110,11 @@
 	</definition>
 	<definition>
 		<key>button_start_migration</key>
-		<value><![CDATA[starta Migration]]></value>
+		<value><![CDATA[Starta migrering]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Fortsätta]]></value>
+		<value><![CDATA[Fortsätt]]></value>
 	</definition>
 	<definition>
 		<key>button_back</key>
@@ -122,7 +122,7 @@
 	</definition>
 	<definition>
 		<key>button_cancel</key>
-		<value><![CDATA[Annullera]]></value>
+		<value><![CDATA[Avbryt]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -134,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>error_db_user</key>
-		<value><![CDATA[Användaren krävs!]]></value>
+		<value><![CDATA[Användare krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_name</key>
@@ -142,54 +142,54 @@
 	</definition>
 	<definition>
 		<key>error_db_connection</key>
-		<value><![CDATA[Fel: Det gick inte att ansluta till databasen se till att databasservern är korrekt användarnamn och lösenord!]]></value>
+		<value><![CDATA[Fel: Kunde inte ansluta till databasen. Var god kontrollera att databasservern, användarnamnet och lösenordet är korrekta!]]></value>
 	</definition>
 	<definition>
 		<key>error_db_not_exist</key>
-		<value><![CDATA[Fel: Databas finns inte!]]></value>
+		<value><![CDATA[Fel: Databasen finns inte!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_type</key>
-		<value><![CDATA[Fel: Välj vagn typ!]]></value>
+		<value><![CDATA[Fel: Vänligen välj kundvagnstyp!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_url</key>
-		<value><![CDATA[Fel: kundvagn URL krävs!]]></value>
+		<value><![CDATA[Fel: Kundvagns-URL krävs!]]></value>
 	</definition>
 	<definition>
 		<key>error_cart_not_supported</key>
-		<value><![CDATA[Varning: Vald vagnen inte stöds nu!]]></value>
+		<value><![CDATA[Varning: Den valda kundvagnen stöds inte just nu!]]></value>
 	</definition>
 	<definition>
 		<key>error_migrate_data</key>
-		<value><![CDATA[Fel: Välj minst ett objekt!]]></value>
+		<value><![CDATA[Fel: Vänligen välj minst en artikel!]]></value>
 	</definition>
 	<definition>
 		<key>text_no_customers</key>
-		<value><![CDATA[Obs: Ingen kund importerades.]]></value>
+		<value><![CDATA[Observera: Ingen kund importerades.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_products</key>
-		<value><![CDATA[Obs: Ingen produkt importeras.]]></value>
+		<value><![CDATA[Observera: Ingen produkt importerades.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_orders</key>
-		<value><![CDATA[Obs: Ingen order importerades.]]></value>
+		<value><![CDATA[Observera: Ingen order importerades.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_brands</key>
-		<value><![CDATA[Obs: Ingen varumärke importerades.]]></value>
+		<value><![CDATA[Observera: Inget varumärke importerades.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_categories</key>
-		<value><![CDATA[Obs: Ingen produktkategori importerades.]]></value>
+		<value><![CDATA[Notera: Ingen produktkategori importerades.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_source_cart</key>
-		<value><![CDATA[Varning: Vald källa kundvagn är tom! Kontrollera databas och tabellprefix.]]></value>
+		<value><![CDATA[Varning: Den valda källvarukorgen är tom! Kontrollera databasen och tabellprefixet.]]></value>
 	</definition>
 	<definition>
 		<key>text_finished</key>
-		<value><![CDATA[Migration är klar.]]></value>
+		<value><![CDATA[Migreringen har slutförts.]]></value>
 	</definition>
 </definitions>

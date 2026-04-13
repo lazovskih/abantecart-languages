@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Vyhledávání]]></value>
+		<value><![CDATA[Hledat]]></value>
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[Produkty splňující kritéria vyhledávání]]></value>
+		<value><![CDATA[Produkty odpovídající kritériím vyhledávání]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
@@ -22,54 +22,54 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Neexistuje žádný produkt, který odpovídá kritériím vyhledávání.]]></value>
+		<value><![CDATA[Žádný produkt neodpovídá kritériím vyhledávání.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Z 5 hvězdiček!]]></value>
+		<value><![CDATA[%s z 5 hvězd!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
-		<value><![CDATA[Seřazeno podle:]]></value>
+		<value><![CDATA[Seřadit podle:]]></value>
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[standardní]]></value>
+		<value><![CDATA[Výchozí]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Jméno A-Z]]></value>
+		<value><![CDATA[Jméno A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
-		<value><![CDATA[Názvu Z - A]]></value>
+		<value><![CDATA[Název Z - A]]></value>
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Cena Low &gt; Vysoký]]></value>
+		<value><![CDATA[Cena od nejnižší po nejvyšší]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
-		<value><![CDATA[Cena High &gt; Nízký]]></value>
+		<value><![CDATA[Cena: od nejvyšší po nejnižší]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Hodnocení nejnižší]]></value>
+		<value><![CDATA[Nejnižší hodnocení]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Hodnocení Nejvyšší]]></value>
+		<value><![CDATA[Nejvyšší hodnocení]]></value>
 	</definition>
 	<definition>
 		<key>entry_search</key>
-		<value><![CDATA[Vyhledávání:]]></value>
+		<value><![CDATA[Hledat:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Hledání v popisech produktů]]></value>
+		<value><![CDATA[Hledat v popisech produktů]]></value>
 	</definition>
 	<definition>
 		<key>entry_model</key>
-		<value><![CDATA[Vyhledávání v modelu výrobku]]></value>
+		<value><![CDATA[Hledat v modelu produktu]]></value>
 	</definition>
 </definitions>

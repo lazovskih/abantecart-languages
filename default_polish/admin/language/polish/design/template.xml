@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[template Manager]]></value>
+		<value><![CDATA[Menedżer szablonów]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Ustawiono nowy szablon sklepu!]]></value>
+		<value><![CDATA[Sukces: Ustawiłeś nowy szablon witryny sklepu!]]></value>
 	</definition>
 	<definition>
 		<key>text_storefront_templates</key>
-		<value><![CDATA[Szablony dostępne Storefront]]></value>
+		<value><![CDATA[Dostępne szablony witryny sklepu]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_extension</key>
-		<value><![CDATA[Ustawienia rozszerzeń]]></value>
+		<value><![CDATA[Ustawienia rozszerzenia]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Błąd: Brak wymaganego parametru w zapytaniu!]]></value>
+		<value><![CDATA[Błąd: Brak wymaganego parametru w twoim żądaniu!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania szablonów!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikacji szablonów!]]></value>
 	</definition>
 </definitions>

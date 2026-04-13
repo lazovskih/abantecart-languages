@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Sklad Stavy]]></value>
+		<value><![CDATA[Stavy zásob]]></value>
 	</definition>
 	<definition>
 		<key>text_status</key>
-		<value><![CDATA[Sklad Status]]></value>
+		<value><![CDATA[Stav skladu]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste obrázky statusy!]]></value>
+		<value><![CDATA[Úspěch: upravili jste stavy zásob!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Sklad Status Name]]></value>
+		<value><![CDATA[Název stavu zásob]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -22,18 +22,18 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Sklad Status Name:]]></value>
+		<value><![CDATA[Název stavu zásob:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění ke změně obrázky sochy!]]></value>
+		<value><![CDATA[Upozornění: Nemáte oprávnění měnit stavy zásob!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Sklad Status Name musí být v rozmezí 2 až 32 znaků!]]></value>
+		<value><![CDATA[Název stavu zásob musí mít mezi 2 a 32 znaky!]]></value>
 	</definition>
 	<definition>
 		<key>error_product</key>
-		<value><![CDATA[Varování: Tato zásoba stav nemůže být odstraněn, protože je aktuálně přiřazen %s výrobků!]]></value>
+		<value><![CDATA[Upozornění: Tento stav zásob nelze smazat, protože je aktuálně přiřazen %s produktům!]]></value>
 	</definition>
 </definitions>

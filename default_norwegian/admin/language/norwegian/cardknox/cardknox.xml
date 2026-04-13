@@ -5,10 +5,6 @@
 		<value><![CDATA[CardKnox]]></value>
 	</definition>
 	<definition>
-		<key>cardknox_note</key>
-		<value><![CDATA[]]></value>
-	</definition>
-	<definition>
 		<key>cardknox_transaction_key</key>
 		<value><![CDATA[Transaksjonsnøkkel (xKey)]]></value>
 	</definition>
@@ -22,27 +18,27 @@
 	</definition>
 	<definition>
 		<key>cardknox_success_order_status</key>
-		<value><![CDATA[Ordrestatus: <br/><span class="help">Ordrestatus skal angis etter at kundens ordre er fullført basert på angitte transaksjonsmetode</span>]]></value>
+		<value><![CDATA[Ordrestatus:<br /><span class="help">Ordrestatus som skal settes etter at kundens bestilling er fullført basert på angitt transaksjonsmetode</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id</key>
-		<value><![CDATA[Plassering: <br/><span class="help">Begrens for å tillate bare utvalgte steder å bruke denne betalingsmåten.</span>]]></value>
+		<value><![CDATA[Lokasjon:<br /><span class="help">Begrens slik at kun valgte lokasjoner kan bruke denne betalingsmetoden.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id_0</key>
-		<value><![CDATA[Alle steder]]></value>
+		<value><![CDATA[Alle lokasjoner]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method</key>
-		<value><![CDATA[Transaksjonsmetode: <br/><span class="help">CardKnox-transaksjoner som skal kjøres ved kundens kasse før ordrestatus settes. Kun autorisasjon eller fangst.</span>]]></value>
+		<value><![CDATA[Transaksjonsmetode: CardKnox-transaksjon som kjøres ved kundens utsjekking før ordrestatus er satt. Kun autorisering eller innkreving.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_capture</key>
-		<value><![CDATA[Fangst]]></value>
+		<value><![CDATA[Trekk]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_authorization</key>
-		<value><![CDATA[Kun autorisasjon]]></value>
+		<value><![CDATA[Kun autorisering]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_ifields_key</key>
@@ -54,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_funds</key>
-		<value><![CDATA[Capture Funds]]></value>
+		<value><![CDATA[Hent inn midler]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture</key>
-		<value><![CDATA[Fangst]]></value>
+		<value><![CDATA[Fange]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_payment_status</key>
@@ -66,15 +62,15 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_success</key>
-		<value><![CDATA[Suksess! Midlene har blitt tatt opp.]]></value>
+		<value><![CDATA[Suksess! Midlene er trukket.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_processing</key>
-		<value><![CDATA[Behandling]]></value>
+		<value><![CDATA[Under behandling]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_do_refund</key>
-		<value><![CDATA[Gjør CardKnox Refund: <span class="help">Du kan angi beløp som må refunderes.</span>]]></value>
+		<value><![CDATA[Foreta CardKnox-refusjon:<span class="help">Du kan skrive inn beløpet som skal refunderes.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refunded</key>
@@ -82,15 +78,15 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_refund</key>
-		<value><![CDATA[Tilbakebetaling]]></value>
+		<value><![CDATA[Refusjon]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_refund_title</key>
-		<value><![CDATA[CardKnox-refusjon]]></value>
+		<value><![CDATA[CardKnox Refusjon]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refund_success</key>
-		<value><![CDATA[Suksess! Bestillingen har blitt refundert.]]></value>
+		<value><![CDATA[Suksess! Bestillingen er tilbakebetalt.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_empty_amount</key>
@@ -98,10 +94,10 @@
 	</definition>
 	<definition>
 		<key>cardknox_error_no_payment_method_data</key>
-		<value><![CDATA[Feil! Det er ingen betalingsmåtedata for denne bestillingen.]]></value>
+		<value><![CDATA[Feil! Det finnes ingen betalingsmetodedata for denne bestillingen.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_no_order_id</key>
-		<value><![CDATA[Feil! Det er ingen ordre-ID.]]></value>
+		<value><![CDATA[Feil! Det er ingen bestillings-ID.]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,6 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value>
-			<![CDATA[<h1 style="text-align:center;">В настоящее время мы проводим плановое обслуживание. <br/>Мы вернемся как можно скорее. Пожалуйста, проверяйте обновления.</h1>]]></value>
+		<value><![CDATA[<h1 style="text-align:center;"> Магазин временно закрыт: мы выполняем профилактические работы. <br/> Вскоре магазин будет доступен. Пожалуйста, зайдите позже. </h1>]]></value>
 	</definition>
 </definitions>

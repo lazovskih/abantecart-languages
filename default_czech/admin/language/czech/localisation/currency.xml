@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Změnili jste měn!]]></value>
+		<value><![CDATA[Úspěch: upravili jste měny!]]></value>
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[Měna Název]]></value>
+		<value><![CDATA[Název měny]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -38,19 +38,19 @@
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Měna Název:]]></value>
+		<value><![CDATA[Název měny:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Code: <br/><span class="help">Neměňte pokud je to váš výchozí měnou.</span>]]></value>
+		<value><![CDATA[Kód:<br /><span class="help">Neměňte, pokud je to vaše výchozí měna.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_value</key>
-		<value><![CDATA[Hodnota: <br/><span class="help">Set 1.00000 pokud je to váš výchozí měnou.</span>]]></value>
+		<value><![CDATA[Hodnota:<br /><span class="help">Nastavte na 1.00000, pokud je toto vaše výchozí měna.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_symbol_left</key>
-		<value><![CDATA[Symbol Vlevo:]]></value>
+		<value><![CDATA[Symbol vlevo:]]></value>
 	</definition>
 	<definition>
 		<key>entry_symbol_right</key>
@@ -62,15 +62,15 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavení:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varování: Nemáte oprávnění ke změně měny!]]></value>
+		<value><![CDATA[Varování: Nemáte oprávnění upravovat měny!]]></value>
 	</definition>
 	<definition>
 		<key>error_title</key>
-		<value><![CDATA[Měna Hlava musí být mezi 2 a 32 znaků!]]></value>
+		<value><![CDATA[Název měny musí mít 2 až 32 znaků!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
@@ -78,14 +78,14 @@
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Varování: Tato měna nemůže být smazán, protože je aktuálně přiřazena jako výchozí úložiště měně!]]></value>
+		<value><![CDATA[Varování: tuto měnu nelze odstranit, protože je v současné době nastavena jako výchozí měna obchodu!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Varování: Tato měna nemůže být smazán, protože je aktuálně přiřazen %s obchodech!]]></value>
+		<value><![CDATA[Varování: Tato měna nemůže být odstraněna, protože je v současné době přiřazena %s obchodům!]]></value>
 	</definition>
 	<definition>
 		<key>error_order</key>
-		<value><![CDATA[Varování: Tato měna nemůže být smazán, protože je aktuálně přiřazen %s objednávek!]]></value>
+		<value><![CDATA[Varování: Tuto měnu nelze smazat, protože je aktuálně přiřazena k %s objednávkám!]]></value>
 	</definition>
 </definitions>

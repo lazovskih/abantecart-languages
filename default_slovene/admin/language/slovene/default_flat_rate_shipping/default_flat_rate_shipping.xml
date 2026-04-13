@@ -2,27 +2,27 @@
 <definitions>
 	<definition>
 		<key>default_flat_rate_shipping_name</key>
-		<value><![CDATA[Pavšalna stopnja]]></value>
+		<value><![CDATA[Fiksna tarifa]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[Pošiljanje]]></value>
+		<value><![CDATA[Dostava]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste pavšalni znesek pošiljanja!]]></value>
+		<value><![CDATA[Uspeh: Spremenili ste fiksno ceno dostave!]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_rates</key>
-		<value><![CDATA[Cene:]]></value>
+		<value><![CDATA[Stopnje:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_status</key>
-		<value><![CDATA[status:]]></value>
+		<value><![CDATA[Stanje:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_cost</key>
-		<value><![CDATA[Cena:]]></value>
+		<value><![CDATA[Strošek:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id_0</key>
-		<value><![CDATA[ ---Nič---]]></value>
+		<value><![CDATA[---Brez---]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id</key>
@@ -42,6 +42,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje pavšalne cene pošiljanja!]]></value>
+		<value><![CDATA[Opozorilo: Nimate dovoljenja za spreminjanje dostave po fiksni tarifi!]]></value>
 	</definition>
 </definitions>

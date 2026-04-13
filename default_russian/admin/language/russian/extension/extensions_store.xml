@@ -66,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Вы изменили настройки модуля!]]></value>
+		<value><![CDATA[Успешно: Вы изменили настройки модуля!]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>error_connect</key>
-		<value><![CDATA[К сожалению, Ваш AbanteCart не может соединиться с магазином расширений. См. Система->Журналы Ошибок.]]></value>
+		<value><![CDATA[К сожалению, Ваш AbanteCart не может соединиться с магазином расширений. См. Система-&gt;Журналы Ошибок.]]></value>
 	</definition>
 	<definition>
 		<key>text_my_extensions</key>
@@ -190,7 +190,7 @@
 	</definition>
 	<definition>
 		<key>text_search</key>
-		<value><![CDATA[найти]]></value>
+		<value><![CDATA[искать]]></value>
 	</definition>
 	<definition>
 		<key>text_no_extensions_loaded</key>

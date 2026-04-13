@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Deska rozdzielcza]]></value>
+		<value><![CDATA[Pulpit]]></value>
 	</definition>
 	<definition>
 		<key>text_overview</key>
@@ -10,23 +10,23 @@
 	</definition>
 	<definition>
 		<key>text_statistics</key>
-		<value><![CDATA[Statystyka]]></value>
+		<value><![CDATA[Statystyki]]></value>
 	</definition>
 	<definition>
 		<key>text_latest_10_orders</key>
-		<value><![CDATA[Ostatnie 10 Zamówienia]]></value>
+		<value><![CDATA[Najnowsze 10 zamówień]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale</key>
-		<value><![CDATA[Całkowita sprzedaż:]]></value>
+		<value><![CDATA[Łączna sprzedaż:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_sale_year</key>
-		<value><![CDATA[Wszystkich sprzedaży w tym roku:]]></value>
+		<value><![CDATA[Całkowita sprzedaż w tym roku:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
-		<value><![CDATA[Razem zamówień]]></value>
+		<value><![CDATA[Łączna liczba zamówień:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_customer</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_total_customer_approval</key>
-		<value><![CDATA[Klientów oczekujących na zatwierdzenie:]]></value>
+		<value><![CDATA[Klienci oczekujący na zatwierdzenie:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_product</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>text_total_review</key>
-		<value><![CDATA[Ilość opinii:]]></value>
+		<value><![CDATA[Liczba recenzji:]]></value>
 	</definition>
 	<definition>
 		<key>text_total_review_approval</key>
-		<value><![CDATA[Opinii oczekujących na zatwierdzenie:]]></value>
+		<value><![CDATA[Opinie oczekujące na zatwierdzenie:]]></value>
 	</definition>
 	<definition>
 		<key>text_day</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_week</key>
-		<value><![CDATA[W tym tygodniu]]></value>
+		<value><![CDATA[Ten tydzień]]></value>
 	</definition>
 	<definition>
 		<key>text_month</key>
@@ -62,27 +62,27 @@
 	</definition>
 	<definition>
 		<key>text_year</key>
-		<value><![CDATA[W tym roku]]></value>
+		<value><![CDATA[Ten rok]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Razem zamówień]]></value>
+		<value><![CDATA[Łącznie zamówień]]></value>
 	</definition>
 	<definition>
 		<key>text_order_short</key>
-		<value><![CDATA[Razem zamówień]]></value>
+		<value><![CDATA[Łączna liczba zamówień]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[Wszystkich klientów]]></value>
+		<value><![CDATA[Łączna liczba klientów]]></value>
 	</definition>
 	<definition>
 		<key>column_order</key>
-		<value><![CDATA[Identyfikator zamówienia]]></value>
+		<value><![CDATA[ID zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Nazwa klienta]]></value>
+		<value><![CDATA[Imię i nazwisko klienta]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -94,11 +94,11 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Całkowity]]></value>
+		<value><![CDATA[Razem]]></value>
 	</definition>
 	<definition>
 		<key>column_firstname</key>
-		<value><![CDATA[Pierwsze imię]]></value>
+		<value><![CDATA[Imię]]></value>
 	</definition>
 	<definition>
 		<key>column_lastname</key>
@@ -114,15 +114,15 @@
 	</definition>
 	<definition>
 		<key>orders_text_all</key>
-		<value><![CDATA[Wszystkie zamówienia]]></value>
+		<value><![CDATA[Wszystkie Zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_all</key>
-		<value><![CDATA[wszyscy Klienci]]></value>
+		<value><![CDATA[Wszyscy klienci]]></value>
 	</definition>
 	<definition>
 		<key>text_latest_10_customers</key>
-		<value><![CDATA[Najnowsze Zgłoszenia]]></value>
+		<value><![CDATA[Najnowsze rejestracje]]></value>
 	</definition>
 	<definition>
 		<key>column_email</key>

@@ -1,24 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Termékek megtekintett jelentés]]></value>
+		<value><![CDATA[Megtekintett termékek jelentés]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Elerted megtekintett termék jelentést!]]></value>
+		<value><![CDATA[Siker: Visszaállította a megtekintett termékek jelentését!]]></value>
 	</definition>
 	<definition>
 		<key>column_product_id</key>
-		<value><![CDATA[termék azonosító]]></value>
+		<value><![CDATA[Termékazonosító]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[termék név]]></value>
+		<value><![CDATA[Termék neve]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
 		<value><![CDATA[Modell]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[Cikkszám]]></value>
 	</definition>
 	<definition>
 		<key>column_category</key>
@@ -26,14 +30,10 @@
 	</definition>
 	<definition>
 		<key>column_viewed</key>
-		<value><![CDATA[megtekintett]]></value>
+		<value><![CDATA[Megtekintve]]></value>
 	</definition>
 	<definition>
 		<key>column_percent</key>
 		<value><![CDATA[Százalék]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
 	</definition>
 </definitions>

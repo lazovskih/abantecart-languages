@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_uploaded</key>
-		<value><![CDATA[Sukces: Twój plik został dodany!]]></value>
+		<value><![CDATA[Sukces: Twój plik został przesłany!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_delete</key>
@@ -18,19 +18,19 @@
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[Sukces: Plik lub katalog został usunięty!]]></value>
+		<value><![CDATA[Sukces: Twój plik lub katalog został usunięty!]]></value>
 	</definition>
 	<definition>
 		<key>text_move</key>
-		<value><![CDATA[Sukces: Plik lub katalog został przeniesiony!]]></value>
+		<value><![CDATA[Sukces: Twój plik lub katalog został przeniesiony!]]></value>
 	</definition>
 	<definition>
 		<key>text_copy</key>
-		<value><![CDATA[Sukces: Plik lub katalog został skopiowany!]]></value>
+		<value><![CDATA[Sukces: Twój plik lub katalog został skopiowany!]]></value>
 	</definition>
 	<definition>
 		<key>text_rename</key>
-		<value><![CDATA[Sukces: Plik lub katalog został przemianowany!]]></value>
+		<value><![CDATA[Sukces: Zmieniono nazwę Twojego pliku lub katalogu!]]></value>
 	</definition>
 	<definition>
 		<key>entry_folder</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>entry_move</key>
-		<value><![CDATA[Ruszaj się:]]></value>
+		<value><![CDATA[Przenieś:]]></value>
 	</definition>
 	<definition>
 		<key>entry_copy</key>
@@ -62,23 +62,23 @@
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Uwaga: Nie można zmienić domyślny katalog!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie można zmienić domyślnego katalogu!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[Uwaga: Nie można usunąć tego katalogu!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie możesz usunąć tego katalogu!]]></value>
 	</definition>
 	<definition>
 		<key>error_filename</key>
-		<value><![CDATA[Uwaga: Nazwa pliku musi być od 3 do 255!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nazwa pliku musi mieć od 3 do 255 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_missing</key>
-		<value><![CDATA[Ostrzeżenie: Plik lub katalog nie istnieje!]]></value>
+		<value><![CDATA[Ostrzeżenie: plik lub katalog nie istnieje!]]></value>
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Ostrzeżenie: Plik lub katalog o tej samej nazwie już istnieje!]]></value>
+		<value><![CDATA[Ostrzeżenie: plik lub katalog o tej samej nazwie już istnieje!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
@@ -86,15 +86,15 @@
 	</definition>
 	<definition>
 		<key>error_move</key>
-		<value><![CDATA[Ostrzeżenie: Przejdź do katalogu nie istnieje!]]></value>
+		<value><![CDATA[Ostrzeżenie: katalog docelowy nie istnieje!]]></value>
 	</definition>
 	<definition>
 		<key>error_copy</key>
-		<value><![CDATA[Ostrzeżenie: Nie można skopiować ten plik lub katalog!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie można skopiować tego pliku lub katalogu!]]></value>
 	</definition>
 	<definition>
 		<key>error_rename</key>
-		<value><![CDATA[Uwaga: Nie można zmienić nazwy tego katalogu!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie można zmienić nazwy tego katalogu!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_type</key>
@@ -102,15 +102,15 @@
 	</definition>
 	<definition>
 		<key>error_file_size</key>
-		<value><![CDATA[Uwaga: plik do dużych należy utrzymywać poniżej 300 KB i nie więcej niż 1000px wysokości lub szerokości!]]></value>
+		<value><![CDATA[Ostrzeżenie: plik jest zbyt duży, proszę utrzymać poniżej 300kb i nie więcej niż 1000px wysokości lub szerokości!]]></value>
 	</definition>
 	<definition>
 		<key>error_uploaded</key>
-		<value><![CDATA[Ostrzeżenie: Plik nie może zostać dodany do nieznanego powodu!]]></value>
+		<value><![CDATA[Ostrzeżenie: Plik nie mógł zostać przesłany z nieznanego powodu!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Permission Denied!]]></value>
+		<value><![CDATA[Ostrzeżenie: odmowa dostępu!]]></value>
 	</definition>
 	<definition>
 		<key>button_folder</key>
@@ -118,11 +118,11 @@
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Kasować]]></value>
+		<value><![CDATA[Usuń]]></value>
 	</definition>
 	<definition>
 		<key>button_move</key>
-		<value><![CDATA[Ruszaj się]]></value>
+		<value><![CDATA[Przenieś]]></value>
 	</definition>
 	<definition>
 		<key>button_copy</key>
@@ -130,14 +130,14 @@
 	</definition>
 	<definition>
 		<key>button_rename</key>
-		<value><![CDATA[Przemianować]]></value>
+		<value><![CDATA[Zmień nazwę]]></value>
 	</definition>
 	<definition>
 		<key>button_upload</key>
-		<value><![CDATA[Przekazać plik]]></value>
+		<value><![CDATA[Prześlij]]></value>
 	</definition>
 	<definition>
 		<key>button_refresh</key>
-		<value><![CDATA[Odświeżać]]></value>
+		<value><![CDATA[Odśwież]]></value>
 	</definition>
 </definitions>

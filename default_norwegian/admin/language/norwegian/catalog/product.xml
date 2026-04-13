@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>tab_media</key>
-		<value><![CDATA[Media]]></value>
+		<value><![CDATA[Medier]]></value>
 	</definition>
 	<definition>
 		<key>tab_shipping</key>
@@ -18,31 +18,35 @@
 	</definition>
 	<definition>
 		<key>tab_files</key>
-		<value><![CDATA[filer]]></value>
+		<value><![CDATA[Filer]]></value>
 	</definition>
 	<definition>
 		<key>tab_relations</key>
-		<value><![CDATA[relasjoner]]></value>
+		<value><![CDATA[Relasjoner]]></value>
 	</definition>
 	<definition>
 		<key>tab_promotions</key>
-		<value><![CDATA[kampanjer]]></value>
+		<value><![CDATA[Kampanjer]]></value>
 	</definition>
 	<definition>
 		<key>tab_extensions</key>
-		<value><![CDATA[utvidelser]]></value>
+		<value><![CDATA[Utvidelser]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endrede produkter!]]></value>
+		<value><![CDATA[Suksess: Du har endret produkter!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_copy</key>
-		<value><![CDATA[Suksess: Du har klone produktet <b>%s!</b>]]></value>
+		<value><![CDATA[Suksess: Du har klonet produkt <b>%s</b> med hell!]]></value>
+	</definition>
+	<definition>
+		<key>text_success_copy_layout</key>
+		<value><![CDATA[Merk: Tilpasset produktlayout har også blitt klonet.]]></value>
 	</definition>
 	<definition>
 		<key>text_error_copy</key>
-		<value><![CDATA[Kloning har feilet! Opprinnelige produktet er ikke tilgjengelig]]></value>
+		<value><![CDATA[Kloning feilet! Originalproduktet er ikke tilgjengelig]]></value>
 	</definition>
 	<definition>
 		<key>text_plus</key>
@@ -54,15 +58,15 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Misligholde]]></value>
+		<value><![CDATA[Standard]]></value>
 	</definition>
 	<definition>
 		<key>text_product_summary</key>
-		<value><![CDATA[Produktsammendrag]]></value>
+		<value><![CDATA[Produktoversikt]]></value>
 	</definition>
 	<definition>
 		<key>text_image_manager</key>
-		<value><![CDATA[image manager]]></value>
+		<value><![CDATA[Bildebehandler]]></value>
 	</definition>
 	<definition>
 		<key>text_option</key>
@@ -70,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>text_option_value</key>
-		<value><![CDATA[alternativ Verdi]]></value>
+		<value><![CDATA[Alternativverdi]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -81,12 +85,16 @@
 		<value><![CDATA[Modell]]></value>
 	</definition>
 	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[Varenummer]]></value>
+	</definition>
+	<definition>
 		<key>column_image</key>
 		<value><![CDATA[Bilde]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[Mengde]]></value>
+		<value><![CDATA[Antall]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -102,7 +110,7 @@
 	</definition>
 	<definition>
 		<key>entry_featured</key>
-		<value><![CDATA[Aktuelle produkter:]]></value>
+		<value><![CDATA[Utvalgt produkt:]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -110,11 +118,11 @@
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Meta Tag Nøkkelord:]]></value>
+		<value><![CDATA[Meta-tagg nøkkelord:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Meta Tag Beskrivelse:]]></value>
+		<value><![CDATA[Metataggbeskrivelse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -122,15 +130,15 @@
 	</definition>
 	<definition>
 		<key>entry_blurb</key>
-		<value><![CDATA[blurb:]]></value>
+		<value><![CDATA[Kort beskrivelse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store</key>
-		<value><![CDATA[butikker:]]></value>
+		<value><![CDATA[Butikker:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[SEO Keyword: <br/><span class="help">SEO nøkkelen som vises i URL for dette produktet. Du kan generere nøkkelen fra produktnavn</span>]]></value>
+		<value><![CDATA[SEO-nøkkelord:<br/><span class="help">SEO-nøkkel som vises i URL-en for dette produktet. Du kan generere nøkkelen ut fra produktnavnet</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_model</key>
@@ -142,51 +150,55 @@
 	</definition>
 	<definition>
 		<key>entry_location</key>
-		<value><![CDATA[Diverse Sted:]]></value>
+		<value><![CDATA[Diverse plassering:]]></value>
 	</definition>
 	<definition>
 		<key>entry_manufacturer</key>
-		<value><![CDATA[Produsent:]]></value>
+		<value><![CDATA[Merke:]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping</key>
-		<value><![CDATA[Krever Shipping:]]></value>
+		<value><![CDATA[Krever frakt:]]></value>
 	</definition>
 	<definition>
 		<key>entry_ship_individually</key>
-		<value><![CDATA[Ship Produkt Individuelt: <br/><span class="help">Produktet vil bli sendt i en separat pakke og ekstra frakt kostnader vil bli lagt til bestillingen med flere elementer. Hvis aktivert, må Fast Shipping Prisen skal settes.</span>]]></value>
+		<value><![CDATA[Send produktet individuelt:<br/><span class="help">Produktet blir sendt i en separat pakke, og en ekstra fraktkostnad legges til bestillingen når det er flere varer. Hvis aktivert, må Fast fraktpris settes.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping_price</key>
-		<value><![CDATA[Fast Shipping Pris: <br/><span class="help">Master innstilling med fast frakt pris for dette produktet.</span>]]></value>
+		<value><![CDATA[Fast fraktpris:<br/><span class="help">Hovedinnstilling med fast fraktpris for dette produktet.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_free_shipping</key>
-		<value><![CDATA[Gratis levering: <br/><span class="help">Master innstillingen til å aktivere gratis frakt for dette produktet.</span>]]></value>
+		<value><![CDATA[Gratis frakt:<br/><span class="help">Hovedinnstilling for å aktivere gratis frakt for dette produktet.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_available</key>
-		<value><![CDATA[Datoen er ledig:]]></value>
+		<value><![CDATA[Tilgjengelig dato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_quantity</key>
-		<value><![CDATA[Mengde:]]></value>
+		<value><![CDATA[Antall:]]></value>
 	</definition>
 	<definition>
 		<key>entry_quantity</key>
-		<value><![CDATA[Antall: <br/><span class="help">Koblet til Spor Stock innstilling</span>]]></value>
+		<value><![CDATA[Antall:<br/><span class="help">Knyttet til innstillingen for lageroppfølging</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_minimum</key>
-		<value><![CDATA[Minimum antall: <br/><span class="help">Force minimum bestilt mengde</span>]]></value>
+		<value><![CDATA[Minimum antall:<br/><span class="help">Tving frem et minimum antall som kan bestilles</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_maximum</key>
-		<value><![CDATA[Maksimal mengde: <br/><span class="help">Sett en grense på quantaty som kan velges for hver bestilling. 0 = ingen grense</span>]]></value>
+		<value><![CDATA[Maksimal mengde:<br/><span class="help">Angi en grense for antallet som kan velges per bestilling. 0 = ingen grense</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_stock_status</key>
-		<value><![CDATA[Out Of Stock Status: <br/><span class="help">Status vises når et produkt ikke er på lager</span>]]></value>
+		<value><![CDATA[Forhåndsbestillingslagerstatus:<br/><span class="help">Tekst som vises når et produkt er utsolgt og kjøp er tillatt</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_stock_checkout</key>
+		<value><![CDATA[Varelagerutsjekk:<br /><span class="help">Tillat kunder å sjekke ut selv om produktene er utsolgt.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -194,55 +206,63 @@
 	</definition>
 	<definition>
 		<key>entry_tax_class</key>
-		<value><![CDATA[Skatt Klasse:]]></value>
+		<value><![CDATA[Skatteklasse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_cost</key>
-		<value><![CDATA[Kostnad: <br/><span class="help">grossistprisen brukes for profitt rapportering</span>]]></value>
+		<value><![CDATA[Kostnad:<br/><span class="help">Engroskostnaden som brukes til rapportering av fortjeneste</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_price</key>
 		<value><![CDATA[Pris:]]></value>
 	</definition>
 	<definition>
+		<key>entry_product_option_cost</key>
+		<value><![CDATA[Faktisk kostnad (totalt):<span class="help">Angi den faktiske kostnaden (totalt) for dette produktalternativet.</span>]]></value>
+	</definition>
+	<definition>
 		<key>entry_track_option_stock</key>
-		<value><![CDATA[Spor lager:]]></value>
+		<value><![CDATA[Spor varelager:]]></value>
 	</definition>
 	<definition>
 		<key>entry_subtract</key>
-		<value><![CDATA[Spor lager: <br/><span class="help">Sett JA hvis behovet for å spore lager kvantum for dette produktet. Hvis alternativene er vant sjekk subtrahere innstillingen for hvert alternativ verdi</span>]]></value>
+		<value><![CDATA[Track Stock:<br/><span class="help">Sett JA hvis du trenger å spore lagerbeholdningen for dette produktet. Hvis alternativer brukes, kontroller innstillingen for fratrekk for hver alternativverdi</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight_class</key>
-		<value><![CDATA[Vekt klasse:]]></value>
+		<value><![CDATA[Vektklasse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight</key>
 		<value><![CDATA[Vekt:]]></value>
 	</definition>
 	<definition>
+		<key>entry_weight_change</key>
+		<value><![CDATA[Vekt: <span class="help">Viktig! Hvis verdi oppgis som %(percent) vil alternativvekten endres med den angitte prosenten basert på hovedproduktets vekt. Hvis det oppgis en vektverdi, vil denne bli brukt som absolutt verdi for alternativet, og hovedvekten vil bli ignorert.</span>]]></value>
+	</definition>
+	<definition>
 		<key>entry_length_class</key>
-		<value><![CDATA[Lengde Klasse:]]></value>
+		<value><![CDATA[Lengdeklasse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_length</key>
-		<value><![CDATA[Lengde:]]></value>
+		<value><![CDATA[Produktets pakkelengde: <span class="help">Pakkedimensjonen refererer til størrelsen på esken, posen eller pakken varen din vil bli sendt i</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_width</key>
-		<value><![CDATA[Bredde:]]></value>
+		<value><![CDATA[Produktpakke Bredde: <span class="help">Pakkedimensjonen refererer til størrelsen på esken, posen eller pakken som varen din vil bli sendt i</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_height</key>
-		<value><![CDATA[Høyde:]]></value>
+		<value><![CDATA[Produktpakke Høyde:<span class="help">The package dimension refers to the size of the box, pouch, or parcel that your item will be shipped in</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_dimension</key>
-		<value><![CDATA[Mål (L x B x H):]]></value>
+		<value><![CDATA[Dimensjoner (L x B x H):]]></value>
 	</definition>
 	<definition>
 		<key>entry_image</key>
-		<value><![CDATA[Bilde: <br/><span class="help">Klikk på bildet for å endre det.</span>]]></value>
+		<value><![CDATA[Bilde:<br /><span class="help">Klikk på bildet for å endre det.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_customer_group</key>
@@ -250,11 +270,11 @@
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Dato Start:]]></value>
+		<value><![CDATA[Startdato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[Dato End:]]></value>
+		<value><![CDATA[Sluttdato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_priority</key>
@@ -262,15 +282,15 @@
 	</definition>
 	<definition>
 		<key>entry_option</key>
-		<value><![CDATA[Alternativ:]]></value>
+		<value><![CDATA[Valg:]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_name</key>
-		<value><![CDATA[Alternativ Navn:]]></value>
+		<value><![CDATA[Alternativnavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_value</key>
-		<value><![CDATA[Alternativ Verdi:]]></value>
+		<value><![CDATA[Alternativverdi:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -282,15 +302,15 @@
 	</definition>
 	<definition>
 		<key>entry_option_prefix</key>
-		<value><![CDATA[Endre Pris Av:]]></value>
+		<value><![CDATA[Endre pris med:]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_price</key>
-		<value><![CDATA[Pris Modifier:]]></value>
+		<value><![CDATA[Prismodifikator:]]></value>
 	</definition>
 	<definition>
 		<key>entry_category</key>
-		<value><![CDATA[kategorier:]]></value>
+		<value><![CDATA[Kategorier:]]></value>
 	</definition>
 	<definition>
 		<key>entry_download</key>
@@ -302,7 +322,7 @@
 	</definition>
 	<definition>
 		<key>entry_tags</key>
-		<value><![CDATA[Produkttagger: <br/><span class="help">kommaseparert</span>]]></value>
+		<value><![CDATA[Produktmerkelapper:<br /><span class="help">komma separert</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -314,15 +334,19 @@
 	</definition>
 	<definition>
 		<key>error_model</key>
-		<value><![CDATA[Produktmodell må være mindre enn 64 tegn! Remomended 5-25 tegn]]></value>
+		<value><![CDATA[Produktmodell må være mindre enn 64 tegn! Anbefalt 5-25 tegn]]></value>
 	</definition>
 	<definition>
 		<key>error_required_data</key>
-		<value><![CDATA[Nødvendig Data har ikke lagt inn. Sjekk for feltfeil!]]></value>
+		<value><![CDATA[Obligatoriske data er ikke angitt. Sjekk for feltfeil!]]></value>
 	</definition>
 	<definition>
 		<key>error_product_not_found</key>
-		<value><![CDATA[Feil: Produktet finnes ikke!]]></value>
+		<value><![CDATA[Feil: Produkt ikke funnet!]]></value>
+	</definition>
+	<definition>
+		<key>error_sku</key>
+		<value><![CDATA[Feil: SKU ikke funnet!]]></value>
 	</definition>
 	<definition>
 		<key>filter_product</key>
@@ -330,7 +354,7 @@
 	</definition>
 	<definition>
 		<key>filter_any_word</key>
-		<value><![CDATA[Noen av disse ordene]]></value>
+		<value><![CDATA[Hvilket som helst av disse ordene]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_words</key>
@@ -338,11 +362,11 @@
 	</definition>
 	<definition>
 		<key>filter_exact_match</key>
-		<value><![CDATA[Den eksakte setningen]]></value>
+		<value><![CDATA[Den eksakte frasen]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_categories</key>
-		<value><![CDATA[- Alle Kategorier -]]></value>
+		<value><![CDATA[- Alle kategorier -]]></value>
 	</definition>
 	<definition>
 		<key>filter_price_max</key>
@@ -350,11 +374,11 @@
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[utsikt]]></value>
+		<value><![CDATA[vis]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[slette]]></value>
+		<value><![CDATA[slett]]></value>
 	</definition>
 	<definition>
 		<key>text_choose_action</key>
@@ -362,11 +386,11 @@
 	</definition>
 	<definition>
 		<key>text_clone_selected</key>
-		<value><![CDATA[Clone valgt]]></value>
+		<value><![CDATA[Klon valgte]]></value>
 	</definition>
 	<definition>
 		<key>text_export_selected</key>
-		<value><![CDATA[Export valgt]]></value>
+		<value><![CDATA[Eksporter valgte]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_selected</key>
@@ -374,11 +398,11 @@
 	</definition>
 	<definition>
 		<key>text_edit_selected</key>
-		<value><![CDATA[Rediger valgt]]></value>
+		<value><![CDATA[Rediger valgte]]></value>
 	</definition>
 	<definition>
 		<key>text_clone</key>
-		<value><![CDATA[Klone]]></value>
+		<value><![CDATA[Klon]]></value>
 	</definition>
 	<definition>
 		<key>text_export</key>
@@ -394,87 +418,87 @@
 	</definition>
 	<definition>
 		<key>text_option_name</key>
-		<value><![CDATA[alternativ Name]]></value>
+		<value><![CDATA[Alternativnavn]]></value>
 	</definition>
 	<definition>
 		<key>text_group_option</key>
-		<value><![CDATA[Gruppe Option]]></value>
+		<value><![CDATA[Gruppevalg]]></value>
 	</definition>
 	<definition>
 		<key>text_option_type</key>
-		<value><![CDATA[Opsjonsslag]]></value>
+		<value><![CDATA[Valgtype]]></value>
 	</definition>
 	<definition>
 		<key>text_option_values</key>
-		<value><![CDATA[opsjonsverdier]]></value>
+		<value><![CDATA[Alternativverdier]]></value>
 	</definition>
 	<definition>
 		<key>text_no_option_values</key>
-		<value><![CDATA[Ingen opsjonsverdier]]></value>
+		<value><![CDATA[Ingen alternativverdier]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_option_values</key>
-		<value><![CDATA[Rediger Option Verdi]]></value>
+		<value><![CDATA[Rediger alternativverdi]]></value>
 	</definition>
 	<definition>
 		<key>text_save_option_values</key>
-		<value><![CDATA[Lagre opsjonsverdi]]></value>
+		<value><![CDATA[Lagre alternativverdi]]></value>
 	</definition>
 	<definition>
 		<key>button_remove_option</key>
-		<value><![CDATA[Fjern Option]]></value>
+		<value><![CDATA[Fjern alternativ]]></value>
 	</definition>
 	<definition>
 		<key>text_option_removed</key>
-		<value><![CDATA[alternativ Fjernet]]></value>
+		<value><![CDATA[Alternativ fjernet]]></value>
 	</definition>
 	<definition>
 		<key>entry_weight_type</key>
-		<value><![CDATA[vekt Type]]></value>
+		<value><![CDATA[Vekttype]]></value>
 	</definition>
 	<definition>
 		<key>text_product_pagination</key>
-		<value><![CDATA[Produkt (er) {start} til {end} av {total}]]></value>
+		<value><![CDATA[Produkt(er) {start} to {end} of {total}]]></value>
 	</definition>
 	<definition>
 		<key>entry_product_id</key>
-		<value><![CDATA[Produkt ID]]></value>
+		<value><![CDATA[Produkt-ID]]></value>
 	</definition>
 	<definition>
 		<key>error_product_load</key>
-		<value><![CDATA[Advarsel: Ingen produkter med en slik ID!]]></value>
+		<value><![CDATA[Advarsel: Ingen produkt med slik ID!]]></value>
 	</definition>
 	<definition>
 		<key>error_attribute_not_selected</key>
-		<value><![CDATA[Velg alternativet for å legge til!]]></value>
+		<value><![CDATA[Vennligst velg et alternativ å legge til!]]></value>
 	</definition>
 	<definition>
 		<key>error_date</key>
-		<value><![CDATA[&quot;Date End&quot; kan ikke være mindre enn &quot;Date Start&quot;!]]></value>
+		<value><![CDATA[Sluttdato" kan ikke være mindre enn "Startdato"!]]></value>
 	</definition>
 	<definition>
 		<key>error_required</key>
-		<value><![CDATA[Dette feltet er obligatorisk!]]></value>
+		<value><![CDATA[Dette feltet er påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>error_option_in_group</key>
-		<value><![CDATA[Alternativ kan ikke legges til produktet som det er allerede en del av gruppe alternativ!]]></value>
+		<value><![CDATA[Alternativet kan ikke legges til i produktet da det allerede er en del av et gruppealternativ!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Suksess: Du har endret produktsiden layout.]]></value>
+		<value><![CDATA[Suksess: Du har endret oppsettet for produktsiden.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_option</key>
-		<value><![CDATA[Suksess: Du har endret produkt alternativ.]]></value>
+		<value><![CDATA[Suksess: Du har endret produktalternativet.]]></value>
 	</definition>
 	<definition>
 		<key>text_add_new_option</key>
-		<value><![CDATA[- Legg nytt alternativ -]]></value>
+		<value><![CDATA[- Legg til nytt alternativ -]]></value>
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Nødvendig:]]></value>
+		<value><![CDATA[Påkrevd:]]></value>
 	</definition>
 	<definition>
 		<key>entry_element_type</key>
@@ -482,15 +506,15 @@
 	</definition>
 	<definition>
 		<key>entry_element_values</key>
-		<value><![CDATA[Element Verdier:]]></value>
+		<value><![CDATA[Elementverdier:]]></value>
 	</definition>
 	<definition>
 		<key>text_expand</key>
-		<value><![CDATA[+ utvide]]></value>
+		<value><![CDATA[+ utvid]]></value>
 	</definition>
 	<definition>
 		<key>text_hide</key>
-		<value><![CDATA[- gjemme seg]]></value>
+		<value><![CDATA[- skjul]]></value>
 	</definition>
 	<definition>
 		<key>entry_option_placeholder</key>
@@ -498,15 +522,15 @@
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
-		<value><![CDATA[Regelmessig uttrykksmønster:]]></value>
+		<value><![CDATA[Regulært uttrykksmønster:]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
-		<value><![CDATA[Feilmelding om ugyldig Verdi:]]></value>
+		<value><![CDATA[Feilmelding om ugyldig verdi:]]></value>
 	</definition>
 	<definition>
 		<key>text_product_condition</key>
-		<value><![CDATA[Produkt Tilstand:]]></value>
+		<value><![CDATA[Produkttilstand:]]></value>
 	</definition>
 	<definition>
 		<key>text_product_available</key>
@@ -514,11 +538,11 @@
 	</definition>
 	<definition>
 		<key>text_product_disabled</key>
-		<value><![CDATA[Funksjonshemmet]]></value>
+		<value><![CDATA[Deaktivert]]></value>
 	</definition>
 	<definition>
 		<key>text_product_unavailable</key>
-		<value><![CDATA[utilgjengelig]]></value>
+		<value><![CDATA[Utilgjengelig]]></value>
 	</definition>
 	<definition>
 		<key>text_product_out_of_stock</key>
@@ -530,15 +554,15 @@
 	</definition>
 	<definition>
 		<key>text_product_option_out_of_stock</key>
-		<value><![CDATA[Produkt Alternativ (er) på lager]]></value>
+		<value><![CDATA[Produktalternativ(er) utsolgt]]></value>
 	</definition>
 	<definition>
 		<key>text_call_to_order</key>
-		<value><![CDATA[Ringe for å bestille]]></value>
+		<value><![CDATA[Ring for å bestille]]></value>
 	</definition>
 	<definition>
 		<key>entry_call_to_order</key>
-		<value><![CDATA[Block produkt fra Rekkefølge: <br/><span class="help">Dette vil sette produktet for å vise modus med ingen mulighet til å bestille. Kontakt oss for bestilling meldingen vises.</span>]]></value>
+		<value><![CDATA[Blokker produkt fra bestilling:<br /><span class="help">Dette vil sette produktet i visningsmodus uten mulighet for å bestille. Meldingen "Kontakt oss for bestilling" vil bli vist.</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_new_option</key>
@@ -546,91 +570,71 @@
 	</definition>
 	<definition>
 		<key>text_total_orders</key>
-		<value><![CDATA[Totalt bestillinger]]></value>
+		<value><![CDATA[Totale bestillinger]]></value>
 	</definition>
 	<definition>
 		<key>error_measure_value</key>
-		<value><![CDATA[Grensen på 999,99 er nådd. Gi mindre antall.]]></value>
-	</definition>
-	<definition>
-		<key>error_weight_value</key>
-		<value><![CDATA[Dette produktet krever frakt. Vennligst angi vekt verdi.]]></value>
-	</definition>
-	<definition>
-		<key>error_weight_class</key>
-		<value><![CDATA[Vennligst sett vektklasse.]]></value>
-	</definition>
-	<definition>
-		<key>entry_allowed_extensions</key>
-		<value><![CDATA[Tillatt filtyper (txt, jpg ...)]]></value>
-	</definition>
-	<definition>
-		<key>entry_min_size</key>
-		<value><![CDATA[filstørrelse Min (Kb)]]></value>
-	</definition>
-	<definition>
-		<key>entry_max_size</key>
-		<value><![CDATA[filstørrelse Max (Kb)]]></value>
-	</definition>
-	<definition>
-		<key>entry_upload_dir</key>
-		<value><![CDATA[Last opp katalognavn <br/> %s]]></value>
-	</definition>
-	<definition>
-		<key>text_success_relation_set</key>
-		<value><![CDATA[Relations av utvalgte produkter ble satt vellykket!]]></value>
-	</definition>
-	<definition>
-		<key>text_success_copy_layout</key>
-		<value><![CDATA[ Merk: Egendefinert produktoppsett er også klonet.]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
-	</definition>
-	<definition>
-		<key>entry_stock_checkout</key>
-		<value><![CDATA[Lagerutsjekking: <br/><span class="help">La kunder gå til kassen selv om produktene er utsolgt.</span>]]></value>
-	</definition>
-	<definition>
-		<key>entry_product_option_cost</key>
-		<value><![CDATA[Faktisk kostnad (total): <span class="help">Angi den faktiske kostnaden (totalt) for dette produktalternativet.</span>]]></value>
-	</definition>
-	<definition>
-		<key>entry_weight_change</key>
-		<value><![CDATA[Vekt: <span class="help">Viktig! Hvis verdien oppgitt som %(prosent) vil opsjonsvekten bli endret med spesifisert prosent basert på hovedproduktets vekt. Hvis vektverdi oppgitt, vil den bli brukt som absolutt verdi for opsjonen, vil hovedvekt bli ignorert.</span>]]></value>
-	</definition>
-	<definition>
-		<key>error_sku</key>
-		<value><![CDATA[Feil: SKU ikke funnet!]]></value>
+		<value><![CDATA[Grensen på 999,99 er nådd. Oppgi et lavere tall.]]></value>
 	</definition>
 	<definition>
 		<key>error_dimension_value</key>
-		<value><![CDATA[Dette produktet krever frakt. Fyll ut alle dimensjonsverdier.]]></value>
+		<value><![CDATA[Dette produktet krever frakt. Vennligst fyll inn alle dimensjonsverdier.]]></value>
+	</definition>
+	<definition>
+		<key>error_weight_value</key>
+		<value><![CDATA[Dette produktet krever frakt. Vennligst angi vektverdi.]]></value>
+	</definition>
+	<definition>
+		<key>error_weight_class</key>
+		<value><![CDATA[Vennligst angi vektklasse.]]></value>
 	</definition>
 	<definition>
 		<key>error_length_class</key>
 		<value><![CDATA[Vennligst angi lengdeklasse.]]></value>
 	</definition>
 	<definition>
+		<key>entry_allowed_extensions</key>
+		<value><![CDATA[Tillatte filendelser (txt, jpg …)]]></value>
+	</definition>
+	<definition>
+		<key>entry_min_size</key>
+		<value><![CDATA[Min filstørrelse (Kb)]]></value>
+	</definition>
+	<definition>
+		<key>entry_max_size</key>
+		<value><![CDATA[Maks filstørrelse (Kb)]]></value>
+	</definition>
+	<definition>
+		<key>entry_upload_dir</key>
+		<value><![CDATA[Katalognavn for opplasting<br>%s]]></value>
+	</definition>
+	<definition>
+		<key>text_success_relation_set</key>
+		<value><![CDATA[Relasjoner for utvalgte produkter ble satt opp med hell!]]></value>
+	</definition>
+	<definition>
 		<key>entry_stock_locations</key>
-		<value><![CDATA[Lagerplasseringer:]]></value>
+		<value><![CDATA[Lagerlokasjoner:]]></value>
 	</definition>
 	<definition>
 		<key>entry_locations</key>
-		<value><![CDATA[Steder:]]></value>
+		<value><![CDATA[Plasseringer:]]></value>
 	</definition>
 	<definition>
 		<key>text_create_collection</key>
 		<value><![CDATA[Opprett samling]]></value>
 	</definition>
 	<definition>
+		<key>text_warning_empty_set</key>
+		<value><![CDATA[Vennligst velg minst ett produkt]]></value>
+	</definition>
+	<definition>
 		<key>text_enable_selected</key>
-		<value><![CDATA[Aktiver valgt]]></value>
+		<value><![CDATA[Aktiver valgte]]></value>
 	</definition>
 	<definition>
 		<key>text_disable_selected</key>
-		<value><![CDATA[Deaktiver valgt]]></value>
+		<value><![CDATA[Deaktiver valgte]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_rule</key>
@@ -638,7 +642,7 @@
 	</definition>
 	<definition>
 		<key>entry_price_with_tax</key>
-		<value><![CDATA[Pris med avgifter:]]></value>
+		<value><![CDATA[Pris med skatter:]]></value>
 	</definition>
 	<definition>
 		<key>entry_txt_id</key>
@@ -646,6 +650,6 @@
 	</definition>
 	<definition>
 		<key>entry_html_attributes</key>
-		<value><![CDATA[html-attributter: <br/><span class="help">Du kan legge til dine egendefinerte html-attributter for alternativelementet. Eksempel: data-some-attribute=&quot;en eller annen verdi&quot;</span>]]></value>
+		<value><![CDATA[html-attributter:<br /><span class="help">Du kan legge til dine egendefinerte html-attributter for option-elementet. Eksempel: data-some-attribute="some value"</span>]]></value>
 	</definition>
 </definitions>

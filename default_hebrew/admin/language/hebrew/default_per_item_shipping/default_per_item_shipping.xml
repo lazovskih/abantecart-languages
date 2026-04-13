@@ -2,31 +2,31 @@
 <definitions>
 	<definition>
 		<key>default_per_item_shipping_name</key>
-		<value><![CDATA[לכל פריט]]></value>
+		<value><![CDATA[עבור כל פריט]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[מִשׁלוֹחַ]]></value>
+		<value><![CDATA[משלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית את תעריפי המשלוח לפי פריט!]]></value>
+		<value><![CDATA[הצלחה: שינית את תעריפי המשלוח לכל פריט!]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_cost</key>
-		<value><![CDATA[עֲלוּת:]]></value>
+		<value><![CDATA[עלות:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax</key>
-		<value><![CDATA[מחלקת מס:]]></value>
+		<value><![CDATA[סיווג מס:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax_0</key>
-		<value><![CDATA[---אַף לֹא אֶחָד---]]></value>
+		<value><![CDATA[---אין---]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id</key>
-		<value><![CDATA[מִקוּם:]]></value>
+		<value><![CDATA[מיקום:]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id_0</key>
@@ -34,6 +34,6 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את תעריפי המשלוח לפי פריט!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את תעריפי המשלוח לכל פריט!]]></value>
 	</definition>
 </definitions>

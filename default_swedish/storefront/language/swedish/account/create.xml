@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[konto]]></value>
+		<value><![CDATA[Konto]]></value>
 	</definition>
 	<definition>
 		<key>text_create</key>
@@ -14,11 +14,11 @@
 	</definition>
 	<definition>
 		<key>text_account_already</key>
-		<value><![CDATA[Om du redan har ett konto hos oss, vänligen logga in på <a style="text-decoration: underline" href="%s">inloggningssidan</a> .]]></value>
+		<value><![CDATA[Om du redan har ett konto hos oss, vänligen logga in på <a style="text-decoration: underline" href="%s">inloggningssidan</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_your_details</key>
-		<value><![CDATA[dina personliga detaljer]]></value>
+		<value><![CDATA[Dina personliga uppgifter]]></value>
 	</definition>
 	<definition>
 		<key>text_your_address</key>
@@ -34,15 +34,11 @@
 	</definition>
 	<definition>
 		<key>text_login_details</key>
-		<value><![CDATA[inloggningsdetaljer]]></value>
+		<value><![CDATA[Inloggningsuppgifter]]></value>
 	</definition>
 	<definition>
 		<key>text_agree</key>
-		<value><![CDATA[jag har läst och håller med]]></value>
-	</definition>
-	<definition>
-		<key>entry_loginname</key>
-		<value><![CDATA[Inloggningsnamn:]]></value>
+		<value><![CDATA[Jag har läst och godkänner]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -55,42 +51,6 @@
 	<definition>
 		<key>entry_email</key>
 		<value><![CDATA[E-post:]]></value>
-	</definition>
-	<definition>
-		<key>entry_telephone</key>
-		<value><![CDATA[Telefon:]]></value>
-	</definition>
-	<definition>
-		<key>entry_fax</key>
-		<value><![CDATA[Fax:]]></value>
-	</definition>
-	<definition>
-		<key>entry_company</key>
-		<value><![CDATA[Företag:]]></value>
-	</definition>
-	<definition>
-		<key>entry_address_1</key>
-		<value><![CDATA[Adress 1:]]></value>
-	</definition>
-	<definition>
-		<key>entry_address_2</key>
-		<value><![CDATA[Adress 2:]]></value>
-	</definition>
-	<definition>
-		<key>entry_postcode</key>
-		<value><![CDATA[Postnummer:]]></value>
-	</definition>
-	<definition>
-		<key>entry_city</key>
-		<value><![CDATA[Stad:]]></value>
-	</definition>
-	<definition>
-		<key>entry_country</key>
-		<value><![CDATA[Land:]]></value>
-	</definition>
-	<definition>
-		<key>entry_zone</key>
-		<value><![CDATA[Region / Stat:]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
@@ -106,31 +66,15 @@
 	</definition>
 	<definition>
 		<key>error_exists</key>
-		<value><![CDATA[Fel: E-postadress är redan registrerad!]]></value>
-	</definition>
-	<definition>
-		<key>error_loginname</key>
-		<value><![CDATA[Inloggningsnamn måste vara bara och mellan 5 och 64 tecken alfanumerisk!]]></value>
+		<value><![CDATA[Fel: E-postadressen är redan registrerad!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Denna inloggningsnamn är inte tillgänglig. Prova olika inloggningsnamn!]]></value>
-	</definition>
-	<definition>
-		<key>error_firstname</key>
-		<value><![CDATA[Förnamn måste vara mellan 1 och 32 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_lastname</key>
-		<value><![CDATA[Efternamn måste vara mellan 1 och 32 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_email</key>
-		<value><![CDATA[E-postadress verkar inte vara giltig!]]></value>
+		<value><![CDATA[Detta inloggningsnamn är inte tillgängligt. Försök med ett annat inloggningsnamn!]]></value>
 	</definition>
 	<definition>
 		<key>error_email_exists</key>
-		<value><![CDATA[E-postadress är redan!]]></value>
+		<value><![CDATA[E-postadressen finns redan!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
@@ -138,66 +82,46 @@
 	</definition>
 	<definition>
 		<key>error_confirm</key>
-		<value><![CDATA[bekräftelse lösenord matchar inte lösenordet!]]></value>
-	</definition>
-	<definition>
-		<key>error_address_1</key>
-		<value><![CDATA[Adress 1 måste vara mellan 3 och 128 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_city</key>
-		<value><![CDATA[Staden måste vara mellan 3 och 128 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_postcode</key>
-		<value><![CDATA[Zip / postnummer måste vara mellan 3 och 10 tecken!]]></value>
-	</definition>
-	<definition>
-		<key>error_country</key>
-		<value><![CDATA[Välj ett land!]]></value>
-	</definition>
-	<definition>
-		<key>error_zone</key>
-		<value><![CDATA[Välj en region / stat!]]></value>
+		<value><![CDATA[Lösenordsbekräftelsen matchar inte lösenordet!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon måste vara mellan 3 och 32 tecken!]]></value>
+		<value><![CDATA[Telefonnumret måste vara mellan 3 och 32 tecken långt och bestå enbart av siffror!]]></value>
 	</definition>
 	<definition>
 		<key>error_agree</key>
-		<value><![CDATA[Fel: Du måste godkänna det %s!]]></value>
+		<value><![CDATA[Fel: Du måste godkänna %s!]]></value>
 	</definition>
 	<definition>
 		<key>text_full_register</key>
-		<value><![CDATA[Bli kund och registrera med dina uppgifter]]></value>
+		<value><![CDATA[Bli kund och registrera dig med dina uppgifter]]></value>
 	</definition>
 	<definition>
 		<key>text_subscribe_register</key>
-		<value><![CDATA[Bli ett nyhetsbrev abonnent]]></value>
+		<value><![CDATA[Bli prenumerant på nyhetsbrevet]]></value>
 	</definition>
 	<definition>
 		<key>text_success_subscribe_heading</key>
-		<value><![CDATA[Du prenumererar framgångsrikt!]]></value>
+		<value><![CDATA[Du har prenumererat framgångsrikt!]]></value>
 	</definition>
 	<definition>
 		<key>text_success_subscribe</key>
-		<value><![CDATA[Framgång: Din prenumeration har skapats!]]></value>
+		<value><![CDATA[Framgång: Din nyhetsbrevsprenumeration har skapats!]]></value>
 	</definition>
 	<definition>
 		<key>error_subscriber_exists</key>
-		<value><![CDATA[Våra uppgifter visar att du har ett konto hos oss. Vänligen logga in på ditt konto för att hantera din prenumeration.]]></value>
+		<value><![CDATA[Våra uppgifter visar att du har ett konto hos oss. Vänligen logga in på ditt konto för att hantera din nyhetsbrevsprenumeration.]]></value>
 	</definition>
 	<definition>
 		<key>text_new_customer</key>
-		<value><![CDATA[Ny kund registreringsgodkännande väntar]]></value>
+		<value><![CDATA[Godkännande av ny kundregistrering väntar.]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_customer_approval</key>
-		<value><![CDATA[Kund %s har registrerats nytt konto. Verkan av godkännande krävs! Klicka för att se #admin#rt=sale/customer/update&customer_id=%s]]></value>
+		<value><![CDATA[Kund %s har registrerat ett nytt konto. Godkännande krävs! Klicka för att visa #admin#rt=sale/customer/update&customer_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_subscriber_approval</key>
-		<value><![CDATA[Abonnent %s har registrerats nytt konto. Verkan av godkännande krävs! Klicka för att se #admin#rt=sale/customer/update&customer_id=%s]]></value>
+		<value><![CDATA[Prenumerant %s har registrerat ett nytt konto. Godkännande krävs! Klicka för att visa #admin#rt=sale/customer/update&customer_id=%s]]></value>
 	</definition>
 </definitions>

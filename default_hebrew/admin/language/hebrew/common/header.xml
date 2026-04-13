@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מִנהָל]]></value>
+		<value><![CDATA[ניהול]]></value>
 	</definition>
 	<definition>
 		<key>text_backup</key>
-		<value><![CDATA[שחזור גיבוי]]></value>
+		<value><![CDATA[גיבוי / שחזור]]></value>
 	</definition>
 	<definition>
 		<key>text_welcome</key>
-		<value><![CDATA[ברוך הבא, <b>%s</b>]]></value>
+		<value><![CDATA[ברוכים הבאים, <b>%s</b>]]></value>
 	</definition>
 	<definition>
 		<key>text_last_login</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_edit_details</key>
-		<value><![CDATA[עריכת פרטים אישיים בפרופיל]]></value>
+		<value><![CDATA[ערוך פרטי הפרופיל]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_notifications</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_catalog</key>
-		<value><![CDATA[קָטָלוֹג]]></value>
+		<value><![CDATA[קטלוג]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[לְאַשֵׁר?]]></value>
+		<value><![CDATA[לאשר?]]></value>
 	</definition>
 	<definition>
 		<key>text_country</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>text_dashboard</key>
-		<value><![CDATA[לוּחַ מַחווָנִים]]></value>
+		<value><![CDATA[לוח בקרה]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
@@ -70,19 +70,19 @@
 	</definition>
 	<definition>
 		<key>text_error_log</key>
-		<value><![CDATA[יומני שגיאה]]></value>
+		<value><![CDATA[יומני שגיאות]]></value>
 	</definition>
 	<definition>
 		<key>text_extension</key>
-		<value><![CDATA[רחבות]]></value>
+		<value><![CDATA[הרחבות]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_short</key>
-		<value><![CDATA[רחבות]]></value>
+		<value><![CDATA[הרחבות]]></value>
 	</definition>
 	<definition>
 		<key>text_front</key>
-		<value><![CDATA[חנות]]></value>
+		<value><![CDATA[חזית החנות]]></value>
 	</definition>
 	<definition>
 		<key>text_location</key>
@@ -90,11 +90,11 @@
 	</definition>
 	<definition>
 		<key>text_help</key>
-		<value><![CDATA[עֶזרָה]]></value>
+		<value><![CDATA[עזרה]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[מֵידָע]]></value>
+		<value><![CDATA[מידע]]></value>
 	</definition>
 	<definition>
 		<key>text_language</key>
@@ -114,15 +114,15 @@
 	</definition>
 	<definition>
 		<key>text_logout</key>
-		<value><![CDATA[להתנתק]]></value>
+		<value><![CDATA[התנתקות]]></value>
 	</definition>
 	<definition>
 		<key>text_contact</key>
-		<value><![CDATA[שלח מייל]]></value>
+		<value><![CDATA[שלח דוא"ל]]></value>
 	</definition>
 	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[תעשיינים]]></value>
+		<value><![CDATA[מותגים]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
@@ -130,7 +130,7 @@
 	</definition>
 	<definition>
 		<key>text_order_status</key>
-		<value><![CDATA[להזמין סטטוסים]]></value>
+		<value><![CDATA[סטטוסי הזמנות]]></value>
 	</definition>
 	<definition>
 		<key>text_abantecart</key>
@@ -146,11 +146,11 @@
 	</definition>
 	<definition>
 		<key>text_reports</key>
-		<value><![CDATA[דיווחים]]></value>
+		<value><![CDATA[דוחות]]></value>
 	</definition>
 	<definition>
 		<key>text_online</key>
-		<value><![CDATA[באינטרנט]]></value>
+		<value><![CDATA[מקוון]]></value>
 	</definition>
 	<definition>
 		<key>text_transactions</key>
@@ -158,11 +158,11 @@
 	</definition>
 	<definition>
 		<key>text_tax</key>
-		<value><![CDATA[מַס]]></value>
+		<value><![CDATA[מס]]></value>
 	</definition>
 	<definition>
 		<key>text_report_purchased</key>
-		<value><![CDATA[מוצרים שנקנו]]></value>
+		<value><![CDATA[המוצרים שנרכשו]]></value>
 	</definition>
 	<definition>
 		<key>text_report_sale</key>
@@ -170,11 +170,11 @@
 	</definition>
 	<definition>
 		<key>text_analytics</key>
-		<value><![CDATA[Analytics &amp; תובנות]]></value>
+		<value><![CDATA[אנליטיקה & תובנות]]></value>
 	</definition>
 	<definition>
 		<key>text_report_viewed</key>
-		<value><![CDATA[מוצרים הנצפים]]></value>
+		<value><![CDATA[מוצרים שנצפו]]></value>
 	</definition>
 	<definition>
 		<key>text_review</key>
@@ -194,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>text_stock_status</key>
-		<value><![CDATA[מאגר סטטוסים]]></value>
+		<value><![CDATA[מצבי מלאי]]></value>
 	</definition>
 	<definition>
 		<key>text_support</key>
@@ -206,15 +206,15 @@
 	</definition>
 	<definition>
 		<key>text_tax_class</key>
-		<value><![CDATA[חוגי מס]]></value>
+		<value><![CDATA[סוגי מס]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[סיכומים להזמין]]></value>
+		<value><![CDATA[סיכומי ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_user</key>
-		<value><![CDATA[משתמש]]></value>
+		<value><![CDATA[משתמשים]]></value>
 	</definition>
 	<definition>
 		<key>text_documentation</key>
@@ -222,7 +222,7 @@
 	</definition>
 	<definition>
 		<key>text_users</key>
-		<value><![CDATA[משתמש]]></value>
+		<value><![CDATA[משתמשים]]></value>
 	</definition>
 	<definition>
 		<key>text_user_group</key>
@@ -230,11 +230,11 @@
 	</definition>
 	<definition>
 		<key>text_weight_class</key>
-		<value><![CDATA[כיתות משקל]]></value>
+		<value><![CDATA[קטגוריות משקל]]></value>
 	</definition>
 	<definition>
 		<key>text_length_class</key>
-		<value><![CDATA[חוגי אורך]]></value>
+		<value><![CDATA[מחלקות אורך]]></value>
 	</definition>
 	<definition>
 		<key>text_zone</key>
@@ -246,11 +246,11 @@
 	</definition>
 	<definition>
 		<key>text_add_extension</key>
-		<value><![CDATA[תקן רחבה]]></value>
+		<value><![CDATA[התקן תוסף]]></value>
 	</definition>
 	<definition>
 		<key>text_extensions_store</key>
-		<value><![CDATA[קבל רחבות]]></value>
+		<value><![CDATA[קבל הרחבות]]></value>
 	</definition>
 	<definition>
 		<key>text_migrate</key>
@@ -274,11 +274,11 @@
 	</definition>
 	<definition>
 		<key>text_menu</key>
-		<value><![CDATA[תַפרִיט]]></value>
+		<value><![CDATA[תפריט]]></value>
 	</definition>
 	<definition>
 		<key>text_cache</key>
-		<value><![CDATA[מטמון]]></value>
+		<value><![CDATA[נקה נתונים]]></value>
 	</definition>
 	<definition>
 		<key>text_messages</key>
@@ -286,7 +286,7 @@
 	</definition>
 	<definition>
 		<key>text_content</key>
-		<value><![CDATA[תוֹכֶן]]></value>
+		<value><![CDATA[תוכן]]></value>
 	</definition>
 	<definition>
 		<key>text_datasets_manager</key>
@@ -294,7 +294,7 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[התקנה / שדרוג היסטוריה]]></value>
+		<value><![CDATA[היסטוריית התקנה/שדרוג]]></value>
 	</definition>
 	<definition>
 		<key>text_attribute</key>
@@ -302,11 +302,11 @@
 	</definition>
 	<definition>
 		<key>text_attribute_groups</key>
-		<value><![CDATA[מאפיינים גלובליים קבוצות]]></value>
+		<value><![CDATA[קבוצות מאפיינים גלובליים]]></value>
 	</definition>
 	<definition>
 		<key>text_import_export</key>
-		<value><![CDATA[יבוא ויצוא]]></value>
+		<value><![CDATA[ייבוא / ייצוא]]></value>
 	</definition>
 	<definition>
 		<key>text_data</key>
@@ -318,15 +318,15 @@
 	</definition>
 	<definition>
 		<key>text_quick_edit_form</key>
-		<value><![CDATA[טופס עריכה מהיר]]></value>
+		<value><![CDATA[טופס עריכה מהירה]]></value>
 	</definition>
 	<definition>
 		<key>text_all_matches</key>
-		<value><![CDATA[כל המשחקים]]></value>
+		<value><![CDATA[כל ההתאמות]]></value>
 	</definition>
 	<definition>
 		<key>text_file_uploads</key>
-		<value><![CDATA[העלאת קבצים]]></value>
+		<value><![CDATA[העלאות קבצים]]></value>
 	</definition>
 	<definition>
 		<key>text_all_settings</key>
@@ -334,7 +334,7 @@
 	</definition>
 	<definition>
 		<key>text_settings_details</key>
-		<value><![CDATA[פרטי Store]]></value>
+		<value><![CDATA[פרטי החנות]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_general</key>
@@ -342,15 +342,15 @@
 	</definition>
 	<definition>
 		<key>text_settings_checkout</key>
-		<value><![CDATA[לבדוק]]></value>
+		<value><![CDATA[סיום רכישה]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_appearance</key>
-		<value><![CDATA[מראה חיצוני]]></value>
+		<value><![CDATA[מראה]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_mail</key>
-		<value><![CDATA[דוֹאַר]]></value>
+		<value><![CDATA[דואר]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_im</key>
@@ -358,7 +358,7 @@
 	</definition>
 	<definition>
 		<key>text_settings_api</key>
-		<value><![CDATA[ממשק API]]></value>
+		<value><![CDATA[ממשק תכנות יישומים]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_system</key>
@@ -366,19 +366,19 @@
 	</definition>
 	<definition>
 		<key>text_settings_newstore</key>
-		<value><![CDATA[צור חדש בחנות]]></value>
+		<value><![CDATA[צור חנות חדשה]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_command_prompt</key>
-		<value><![CDATA[שורת פקודה קולית.]]></value>
+		<value><![CDATA[הנחיית פקודות קוליות.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_select_dialect</key>
-		<value><![CDATA[בחר בניב שלך]]></value>
+		<value><![CDATA[בחר את הניב שלך]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_confirm_action</key>
-		<value><![CDATA[אשר את הפעולה הזו או לבטל]]></value>
+		<value><![CDATA[אשר פעולה זו או בטל]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_speak_now</key>
@@ -386,27 +386,27 @@
 	</definition>
 	<definition>
 		<key>text_voice_no_speach_detected</key>
-		<value><![CDATA[שום נאום זוהה. ייתכן שיהיה עליך להתאים שלך <a href="//support.google.com/chrome/bin/answer.py?hl=en<span class="notranslate">1 #### 1amp; answer = 1407892 &quot;&gt; גדרות מיקרופון</a> .]]></value>
+		<value><![CDATA[לא זוהה דיבור. ייתכן שעליך לכוונן את <a href="//support.google.com/chrome/bin/answer.py?hl=en&amp;answer=1407892">הגדרות המיקרופון</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_no_mic_detected</key>
-		<value><![CDATA[אין מיקרופון נמצא. ודא מיקרופון מותקן וכי <a href="//support.google.com/chrome/bin/answer.py?hl=en<span class="notranslate">1 #### 1amp; תשובה = 1407892 &quot;&gt; גדרות מיקרופון</a> מוגדרות כראוי.]]></value>
+		<value><![CDATA[לא נמצא מיקרופון. וודא שמיקרופון מותקן ושה <a href="//support.google.com/chrome/bin/answer.py?hl=en&amp;answer=1407892">הגדרות המיקרופון</a> מוגדרות כהלכה.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_click_allow</key>
-		<value><![CDATA[לחץ על הלחצן &quot;אפשר&quot; למעלה כדי לאפשר המיקרופון שלך.]]></value>
+		<value><![CDATA[לחץ על כפתור "Allow" למעלה כדי לאפשר את המיקרופון שלך.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_mic_denied</key>
-		<value><![CDATA[הרשאה להשתמש במיקרופון נדחתה.]]></value>
+		<value><![CDATA[ההרשאה להשתמש במיקרופון נדחתה.]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_mic_permission</key>
-		<value><![CDATA[הרשאה להשתמש במיקרופון חסומה. כדי לשנות, עבור אל דפדפן <a href="chrome://settings/contentExceptions#media-stream">הגדרות המדיה</a>]]></value>
+		<value><![CDATA[ההרשאה להשתמש במיקרופון נחסמה. כדי לשנות, עבור להגדרות המדיה בדפדפן <a href="chrome://settings/contentExceptions#media-stream">הגדרות מדיה</a>]]></value>
 	</definition>
 	<definition>
 		<key>text_voice_not_supported</key>
-		<value><![CDATA[שליטה קולית אינה נתמכת על ידי דפדפן זה. <a href="//www.google.com/chrome" target="_new">Chrome</a> גרסה 25 ואילך נדרש.]]></value>
+		<value><![CDATA[בקרת קול אינה נתמכת בדפדפן זה. דרושה גרסת 25 ומעלה של <a href="//www.google.com/chrome" target="_blank">Chrome</a>.]]></value>
 	</definition>
 	<definition>
 		<key>text_tasks</key>
@@ -414,7 +414,7 @@
 	</definition>
 	<definition>
 		<key>text_read_all_messages</key>
-		<value><![CDATA[קראו את כל ההודעות]]></value>
+		<value><![CDATA[קרא את כל ההודעות]]></value>
 	</definition>
 	<definition>
 		<key>text_short_stats</key>
@@ -422,11 +422,11 @@
 	</definition>
 	<definition>
 		<key>text_online_now</key>
-		<value><![CDATA[לקוחות באינטרנט]]></value>
+		<value><![CDATA[לקוחות מקוונים]]></value>
 	</definition>
 	<definition>
 		<key>text_online_new</key>
-		<value><![CDATA[חָדָשׁ]]></value>
+		<value><![CDATA[חדש]]></value>
 	</definition>
 	<definition>
 		<key>text_online_registered</key>
@@ -434,19 +434,19 @@
 	</definition>
 	<definition>
 		<key>text_today_orders</key>
-		<value><![CDATA[הזמנות חדשות היום]]></value>
+		<value><![CDATA[הזמנות חדשות להיום]]></value>
 	</definition>
 	<definition>
 		<key>text_today_sales</key>
-		<value><![CDATA[היום מכירות סה&quot;כ]]></value>
+		<value><![CDATA[סך הכול מכירות היום]]></value>
 	</definition>
 	<definition>
 		<key>text_today_customers</key>
-		<value><![CDATA[ללקוחות חדשים היום]]></value>
+		<value><![CDATA[לקוחות חדשים היום]]></value>
 	</definition>
 	<definition>
 		<key>text_today_reviews</key>
-		<value><![CDATA[סיקורים חדשים היום]]></value>
+		<value><![CDATA[ביקורות חדשות היום]]></value>
 	</definition>
 	<definition>
 		<key>text_rl_manager</key>
@@ -454,7 +454,7 @@
 	</definition>
 	<definition>
 		<key>text_server_time</key>
-		<value><![CDATA[זמן שרת]]></value>
+		<value><![CDATA[זמן השרת]]></value>
 	</definition>
 	<definition>
 		<key>text_taxes</key>

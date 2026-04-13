@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_home</key>
-		<value><![CDATA[domů]]></value>
+		<value><![CDATA[Domů]]></value>
 	</definition>
 	<definition>
 		<key>text_special</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>text_bookmark</key>
-		<value><![CDATA[Záložka do knihy]]></value>
+		<value><![CDATA[Záložka]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Přihlásit se]]></value>
+		<value><![CDATA[Přihlášení]]></value>
 	</definition>
 	<definition>
 		<key>text_logout</key>
@@ -38,15 +38,11 @@
 	</definition>
 	<definition>
 		<key>text_checkout</key>
-		<value><![CDATA[Překontrolovat]]></value>
+		<value><![CDATA[Pokladna]]></value>
 	</definition>
 	<definition>
 		<key>text_keyword</key>
 		<value><![CDATA[Klíčová slova]]></value>
-	</definition>
-	<definition>
-		<key>text_advanced</key>
-		<value><![CDATA[pokročilé vyhledávání]]></value>
 	</definition>
 	<definition>
 		<key>text_category</key>
@@ -54,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>entry_search</key>
-		<value><![CDATA[Vyhledávání:]]></value>
+		<value><![CDATA[Hledat:]]></value>
 	</definition>
 	<definition>
 		<key>text_welcome</key>
-		<value><![CDATA[Vítej zpět]]></value>
+		<value><![CDATA[Vítejte zpět]]></value>
 	</definition>
 	<definition>
 		<key>text_not</key>
@@ -67,5 +63,9 @@
 	<definition>
 		<key>text_login_or_register</key>
 		<value><![CDATA[Přihlaste se nebo se zaregistrujte]]></value>
+	</definition>
+	<definition>
+		<key>text_advanced</key>
+		<value><![CDATA[Pokročilé vyhledávání]]></value>
 	</definition>
 </definitions>

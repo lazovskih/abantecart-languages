@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret betalingsmodul ved levering!]]></value>
+		<value><![CDATA[Suksess: Du har endret betalingsmodulen for kontant ved levering!]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_order_status_id</key>
@@ -18,14 +18,14 @@
 	</definition>
 	<definition>
 		<key>default_cod_location_id</key>
-		<value><![CDATA[Sted:]]></value>
+		<value><![CDATA[Plassering:]]></value>
 	</definition>
 	<definition>
 		<key>default_cod_location_id_0</key>
-		<value><![CDATA[Alle steder]]></value>
+		<value><![CDATA[Alle lokasjoner]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre betaling etter oppkrav!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre betalingsmetoden Cash On Delivery!]]></value>
 	</definition>
 </definitions>

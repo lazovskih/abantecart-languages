@@ -10,71 +10,71 @@
 	</definition>
 	<definition>
 		<key>text_select_template</key>
-		<value><![CDATA[Wybierz szablon: ]]></value>
+		<value><![CDATA[Wybierz szablon:]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_preset</key>
-		<value><![CDATA[Ustawienie wstępne: ]]></value>
+		<value><![CDATA[Ustawienie wstępne:]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_load_preset</key>
-		<value><![CDATA[Załaduj ustawienia wstępne]]></value>
+		<value><![CDATA[Wczytaj preset]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_load_preset_confirm_text</key>
-		<value><![CDATA[Czy naprawdę chcesz załadować preset? Już zapisane zmiany zostaną przepisane.]]></value>
+		<value><![CDATA[Czy na pewno chcesz wczytać preset? Zapisane zmiany zostaną nadpisane.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_delete_preset_confirm_text</key>
-		<value><![CDATA[Czy na pewno chcesz usunąć ustawienie wstępne?]]></value>
+		<value><![CDATA[Czy na pewno chcesz usunąć preset?]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_select_preset</key>
-		<value><![CDATA[ -- proszę wybrać -- ]]></value>
+		<value><![CDATA[-- proszę wybrać --]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_prompt</key>
-		<value><![CDATA[Proszę wprowadzić nazwę ustawienia:]]></value>
+		<value><![CDATA[Proszę wprowadzić nazwę presetu:]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_undo_title</key>
-		<value><![CDATA[ Cofnij do punktu zapisu]]></value>
+		<value><![CDATA[Przywróć do punktu zapisu]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_undo</key>
-		<value><![CDATA[ Anulować]]></value>
+		<value><![CDATA[Cofnij]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_undo_confirm_text</key>
-		<value><![CDATA[ Czy na pewno chcesz wycofać zmiany i zapisać stan punktu?]]></value>
+		<value><![CDATA[Czy na pewno chcesz cofnąć zmiany do stanu punktu zapisu?]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_undo_success_text</key>
-		<value><![CDATA[ Sukces!]]></value>
+		<value><![CDATA[Sukces!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_publish_title</key>
-		<value><![CDATA[ Opublikuj stronę w witrynie sklepowej]]></value>
+		<value><![CDATA[Opublikuj stronę na witrynie sklepu]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_publish</key>
-		<value><![CDATA[ Publikować]]></value>
+		<value><![CDATA[Opublikuj]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_publish_success</key>
-		<value><![CDATA[ Opublikowano pomyślnie.]]></value>
+		<value><![CDATA[Opublikowano pomyślnie.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_remove_custom_page_title</key>
-		<value><![CDATA[ Usuń stronę niestandardową do stanu domyślnego]]></value>
+		<value><![CDATA[Przywróć niestandardową stronę do stanu domyślnego]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_remove_custom_page</key>
-		<value><![CDATA[ Usuń projekt ]]></value>
+		<value><![CDATA[Usuń projekt]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_remove_custom_page_confirm_text</key>
-		<value><![CDATA[Czy na pewno chcesz usunąć swój projekt? ]]></value>
+		<value><![CDATA[Czy naprawdę chcesz usunąć swój projekt?]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_remove_custom_page_success_text</key>
@@ -82,19 +82,19 @@
 	</definition>
 	<definition>
 		<key>page_builder_save_preset_confirm_text</key>
-		<value><![CDATA[Czy na pewno chcesz zapisać ustawienia? ]]></value>
+		<value><![CDATA[Czy na pewno chcesz zapisać ustawienie wstępne?]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_save_preset_success_text</key>
-		<value><![CDATA[Ustawienie wstępne %s zostało pomyślnie zapisane!]]></value>
+		<value><![CDATA[Preset %s został pomyślnie zapisany!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_remove_preset_success_text</key>
-		<value><![CDATA[Ustawienie wstępne %s zostało pomyślnie usunięte!]]></value>
+		<value><![CDATA[Preset %s został pomyślnie usunięty!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_abantecart_blocks</key>
-		<value><![CDATA[Bloki witryn sklepowych]]></value>
+		<value><![CDATA[Bloki witryny sklepu]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_basic_blocks</key>
@@ -102,7 +102,7 @@
 	</definition>
 	<definition>
 		<key>page_builder_text_extra</key>
-		<value><![CDATA[Dodatkowy]]></value>
+		<value><![CDATA[Dodatkowe]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_forms</key>
@@ -110,11 +110,11 @@
 	</definition>
 	<definition>
 		<key>page_builder_error_storage_permissions</key>
-		<value><![CDATA[PageBuilder Błąd: Katalog %s nie istnieje lub nie można go zapisać. Sprawdź uprawnienia!]]></value>
+		<value><![CDATA[Błąd PageBuildera: Katalog %s nie istnieje lub nie jest zapisywalny. Proszę sprawdzić uprawnienia!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_preset_permissions</key>
-		<value><![CDATA[Nie można usunąć presetu! Proszę sprawdzić uprawnienia pliku %s]]></value>
+		<value><![CDATA[Nie można usunąć ustawienia wstępnego! Sprawdź uprawnienia pliku %s]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_empty_preset_name</key>
@@ -122,15 +122,15 @@
 	</definition>
 	<definition>
 		<key>page_builder_error_route_not_found</key>
-		<value><![CDATA[Aktualna trasa nie została znaleziona! Nie można zapisać.]]></value>
+		<value><![CDATA[Bieżąca trasa nie znaleziona! Nie można zapisać.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_preset_not_found</key>
-		<value><![CDATA[Nie znaleziono ustawień wstępnych!]]></value>
+		<value><![CDATA[Nie znaleziono presetu!]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_remove_page</key>
-		<value><![CDATA[Nie można usunąć strony niestandardowej! Proszę sprawdzić uprawnienia pliku %s]]></value>
+		<value><![CDATA[Nie można usunąć niestandardowej strony! Proszę sprawdzić uprawnienia pliku %s]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_cannot_copy</key>
@@ -138,27 +138,27 @@
 	</definition>
 	<definition>
 		<key>page_builder_error_nothing_to_publish</key>
-		<value><![CDATA[Nic do opublikowania. Nie znaleziono żadnych punktów zapisu.]]></value>
+		<value><![CDATA[Nie ma nic do opublikowania. Nie znaleziono żadnych punktów zapisu.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_cannot_undo</key>
-		<value><![CDATA[Wycofanie jest niedostępne. Nie znaleziono punktu zapisu]]></value>
+		<value><![CDATA[Cofanie jest niedostępne. Nie znaleziono punktu zapisu.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_error_cannot_save</key>
-		<value><![CDATA[Nie można zapisać zmian. Proszę sprawdzić uprawnienia dla katalogu %s]]></value>
+		<value><![CDATA[Nie można zapisać zmian. Proszę sprawdzić uprawnienia do katalogu %s]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_tab_title</key>
-		<value><![CDATA[Aby rozpocząć tworzenie strony, najpierw utwórz układ.]]></value>
+		<value><![CDATA[Aby rozpocząć tworzenie strony, proszę najpierw utworzyć układ.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_already_published</key>
-		<value><![CDATA[Ta strona została już opublikowana w Page Builder.]]></value>
+		<value><![CDATA[Ta strona została już opublikowana przez Page Builder.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_text_can_try</key>
-		<value><![CDATA[...lub tę stronę można dostosować za pomocą Page Buildera.]]></value>
+		<value><![CDATA[…lub ta strona może zostać dostosowana za pomocą Page Buildera.]]></value>
 	</definition>
 	<definition>
 		<key>page_builder_button_click_to_edit_page</key>

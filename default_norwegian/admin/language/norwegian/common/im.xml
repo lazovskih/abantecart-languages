@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>im_text_notification</key>
@@ -6,23 +6,27 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update</key>
-		<value><![CDATA[Bestill Oppdateringer]]></value>
+		<value><![CDATA[Ordreoppdateringer]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_customer</key>
-		<value><![CDATA[Bestillingen <a href="%s">#%s</a> har blitt oppdatert. For mer informasjon, logg inn på %s konto.]]></value>
+		<value><![CDATA[Din bestilling <a href="%s">#%s</a> er oppdatert. For flere detaljer, logg inn på %s-kontoen.]]></value>
+	</definition>
+	<definition>
+		<key>im_order_update_text_to_guest</key>
+		<value><![CDATA[Din ordre <a href="%s">#%s</a> er oppdatert. For mer informasjon, vennligst besøk ordresiden %s.]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_order</key>
-		<value><![CDATA[nye bestillinger]]></value>
+		<value><![CDATA[Nye bestillinger]]></value>
 	</definition>
 	<definition>
 		<key>im_new_order_text_to_admin</key>
-		<value><![CDATA[New Order <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> er opprettet!]]></value>
+		<value><![CDATA[Ny ordre <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> har blitt opprettet!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_customer</key>
-		<value><![CDATA[kunde Registreringer]]></value>
+		<value><![CDATA[Kunderegistreringer]]></value>
 	</definition>
 	<definition>
 		<key>im_new_customer_text_to_admin</key>
@@ -30,62 +34,58 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_account_update</key>
-		<value><![CDATA[Administrator User Account Oppdateringer]]></value>
+		<value><![CDATA[Administrator brukerkontooppdateringer]]></value>
 	</definition>
 	<definition>
 		<key>im_account_update_text_to_admin</key>
-		<value><![CDATA[Din administrator brukeropplysninger er endret.]]></value>
+		<value><![CDATA[Detaljene for administratorkontoen din er endret.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_admin</key>
-		<value><![CDATA[Ny kunde #%s har blitt oppdatert!]]></value>
+		<value><![CDATA[Ny kunde #%s er oppdatert!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_contact</key>
-		<value><![CDATA[Kunden Henvendelser]]></value>
+		<value><![CDATA[Kundehenvendelser]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_out_of_stock</key>
-		<value><![CDATA[Produktet er ikke på lager]]></value>
+		<value><![CDATA[Utsolgte produkter]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_review</key>
-		<value><![CDATA[Nye Produktomtaler]]></value>
+		<value><![CDATA[Nye produktanmeldelser]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter</key>
-		<value><![CDATA[nyhetsbrev]]></value>
+		<value><![CDATA[Nyhetsbrev]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_system_messages</key>
-		<value><![CDATA[system]]></value>
+		<value><![CDATA[Systemmeldinger]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_customer</key>
-		<value><![CDATA[New transaksjonen er lagt til din %s konto i mengden av %s. For mer informasjon, logg inn på %s konto.]]></value>
+		<value><![CDATA[Ny transaksjon er postet til din %s-konto med beløpet %s. For flere detaljer, logg inn på din %s-konto.]]></value>
 	</definition>
 	<definition>
 		<key>text_notification_for</key>
-		<value><![CDATA[Varsler for brukeren %s]]></value>
+		<value><![CDATA[Varsler for bruker %s]]></value>
 	</definition>
 	<definition>
 		<key>error_unknown_sendpoint</key>
-		<value><![CDATA[Sendpoint %s ikke funnet i sendpoints listen!]]></value>
+		<value><![CDATA[Sendpoint %s finnes ikke i listen over sendpoints!]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_success_saved</key>
-		<value><![CDATA[Varslingsinnstillinger lagret!]]></value>
+		<value><![CDATA[Varslingsinnstillingene ble lagret!]]></value>
 	</definition>
 	<definition>
 		<key>im_error_mail_address</key>
-		<value><![CDATA[E-postadresse %s ser ut som ugyldig!]]></value>
-	</definition>
-	<definition>
-		<key>im_order_update_text_to_guest</key>
-		<value><![CDATA[Bestillingen <a href="%s">#%s</a> har blitt oppdatert. For mer informasjon, vennligst besøk bestillingssiden %s.]]></value>
+		<value><![CDATA[E-postadressen %s ser ut til å være ugyldig!]]></value>
 	</definition>
 	<definition>
 		<key>im_threshold</key>
-		<value><![CDATA[Minimum terskel for lagernivå]]></value>
+		<value><![CDATA[Minimumsgrense for lagerbeholdning]]></value>
 	</definition>
 </definitions>

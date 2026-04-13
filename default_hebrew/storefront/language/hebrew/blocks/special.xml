@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מבצע]]></value>
+		<value><![CDATA[מבצעים]]></value>
 	</definition>
 	<definition>
 		<key>heading_subtitle</key>

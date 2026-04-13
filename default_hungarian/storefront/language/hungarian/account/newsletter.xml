@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[hírlevél feliratkozás]]></value>
+		<value><![CDATA[Hírlevél-feliratkozás]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: A hírlevél feliratkozás sikeresen frissítve!]]></value>
+		<value><![CDATA[Siker: A hírlevél-feliratkozásod sikeresen frissült!]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
-		<value><![CDATA[Iratkozz fel:]]></value>
+		<value><![CDATA[Feliratkozás:]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_registration</key>
-		<value><![CDATA[Ügyfél-regisztráció]]></value>
+		<value><![CDATA[Vásárlói regisztráció]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
@@ -30,6 +30,6 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Az emberi ellenőrzés sikertelen! Kérjük, próbálja agan.]]></value>
+		<value><![CDATA[Az emberi ellenőrzés sikertelen volt! Kérjük, próbálja újra.]]></value>
 	</definition>
 </definitions>

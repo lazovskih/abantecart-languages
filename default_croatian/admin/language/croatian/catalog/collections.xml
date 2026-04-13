@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Zbirke]]></value>
+		<value><![CDATA[Kolekcije]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_name</key>
-		<value><![CDATA[Naziv zbirke]]></value>
+		<value><![CDATA[Naziv kolekcije]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_status</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Naziv zbirke:]]></value>
+		<value><![CDATA[Naziv kolekcije:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>save_error_name</key>
-		<value><![CDATA[Naziv zbirke je obavezan.]]></value>
+		<value><![CDATA[Naziv kolekcije je obavezan.]]></value>
 	</definition>
 	<definition>
 		<key>collection_new</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>collection_update</key>
-		<value><![CDATA[Ažuriraj zbirku]]></value>
+		<value><![CDATA[Ažuriraj kolekciju]]></value>
 	</definition>
 	<definition>
 		<key>conditions_title</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[Bilo koje]]></value>
+		<value><![CDATA[Bilo koji]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>text_true</key>
-		<value><![CDATA[Pravi]]></value>
+		<value><![CDATA[Istinito]]></value>
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[lažno]]></value>
+		<value><![CDATA[Netočno]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>text_categories</key>
-		<value><![CDATA[kategorije]]></value>
+		<value><![CDATA[Kategorije]]></value>
 	</definition>
 	<definition>
 		<key>text_brands</key>
@@ -90,11 +90,11 @@
 	</definition>
 	<definition>
 		<key>text_tags</key>
-		<value><![CDATA[oznake]]></value>
+		<value><![CDATA[Oznake]]></value>
 	</definition>
 	<definition>
 		<key>entry_categories</key>
-		<value><![CDATA[kategorije:]]></value>
+		<value><![CDATA[Kategorije:]]></value>
 	</definition>
 	<definition>
 		<key>text_in</key>
@@ -102,7 +102,7 @@
 	</definition>
 	<definition>
 		<key>text_not_in</key>
-		<value><![CDATA[Ne unutra]]></value>
+		<value><![CDATA[Nije u]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>
@@ -114,7 +114,7 @@
 	</definition>
 	<definition>
 		<key>text_equal</key>
-		<value><![CDATA[Jednak]]></value>
+		<value><![CDATA[Jednako]]></value>
 	</definition>
 	<definition>
 		<key>text_not_equal</key>
@@ -126,7 +126,7 @@
 	</definition>
 	<definition>
 		<key>text_equal_or_greater</key>
-		<value><![CDATA[Jednak ili Veći]]></value>
+		<value><![CDATA[Jednako ili veće]]></value>
 	</definition>
 	<definition>
 		<key>text_greater</key>
@@ -146,19 +146,19 @@
 	</definition>
 	<definition>
 		<key>entry_tags</key>
-		<value><![CDATA[oznake:]]></value>
+		<value><![CDATA[Oznake:]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
-		<value><![CDATA[-Odaberi oznaku-]]></value>
+		<value><![CDATA[-Odaberite oznaku-]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[-Odaberi oznaku-]]></value>
+		<value><![CDATA[-Odaberite oznaku-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Spremi dovršeno]]></value>
+		<value><![CDATA[Spremanje dovršeno]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
@@ -182,11 +182,11 @@
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Spremanje rasporeda dovršeno]]></value>
+		<value><![CDATA[Spremanje izgleda završeno]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Titula:]]></value>
+		<value><![CDATA[Naslov:]]></value>
 	</definition>
 	<definition>
 		<key>entry_products_count</key>
@@ -194,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>entry_collection_id</key>
-		<value><![CDATA[Odaberite zbirku:]]></value>
+		<value><![CDATA[Odaberite kolekciju:]]></value>
 	</definition>
 	<definition>
 		<key>save_error_unique_keyword</key>

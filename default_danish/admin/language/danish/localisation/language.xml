@@ -181,4 +181,8 @@
 		<key>text_copy_source_text</key>
 		<value><![CDATA[Kopier kildesprogtekst]]></value>
 	</definition>
+	<definition>
+		<key>error_all_disabled</key>
+		<value><![CDATA[Mindst ét sprog skal være aktivt!]]></value>
+	</definition>
 </definitions>

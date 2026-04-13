@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kunder Online]]></value>
+		<value><![CDATA[Kunder på nett]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>column_ip</key>
-		<value><![CDATA[kunden IP]]></value>
+		<value><![CDATA[Kundens IP]]></value>
 	</definition>
 	<definition>
 		<key>column_time</key>
-		<value><![CDATA[Sist åpnet]]></value>
+		<value><![CDATA[Sist tilgang]]></value>
 	</definition>
 	<definition>
 		<key>column_url</key>
-		<value><![CDATA[uRL-adressen]]></value>
+		<value><![CDATA[URL aksessert]]></value>
 	</definition>
 	<definition>
 		<key>text_referer</key>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Račun]]></value>
+		<value><![CDATA[Korisnički račun]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_wishlist</key>
-		<value><![CDATA[Lista želja je prazna]]></value>
+		<value><![CDATA[Popis želja je prazan]]></value>
 	</definition>
 	<definition>
 		<key>button_cart</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Nastaviti s kupovinom]]></value>
+		<value><![CDATA[Nastavite kupovinu]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Ime]]></value>
+		<value><![CDATA[Naziv]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>

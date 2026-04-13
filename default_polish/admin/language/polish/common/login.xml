@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Podaj swoje dane logowania.]]></value>
+		<value><![CDATA[Proszę wprowadzić swoje dane logowania.]]></value>
 	</definition>
 	<definition>
 		<key>entry_username</key>
-		<value><![CDATA[Nazwa Użytkownika:]]></value>
+		<value><![CDATA[Nazwa użytkownika:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -26,26 +26,26 @@
 	</definition>
 	<definition>
 		<key>button_login</key>
-		<value><![CDATA[Zaloguj Się]]></value>
+		<value><![CDATA[Logowanie]]></value>
 	</definition>
 	<definition>
 		<key>error_login</key>
-		<value><![CDATA[Nie pasuje do nazwy użytkownika i / lub hasło.]]></value>
+		<value><![CDATA[Brak dopasowania nazwy użytkownika i/lub hasła.]]></value>
 	</definition>
 	<definition>
 		<key>error_token</key>
-		<value><![CDATA[Nieprawidłowy token sesji. Proszę, zaloguj się ponownie.]]></value>
+		<value><![CDATA[Nieprawidłowa sesja tokena. Proszę zalogować się ponownie.]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message</key>
-		<value><![CDATA[Nieudana próba logowania się do administratora z IP:]]></value>
+		<value><![CDATA[Nieudana próba logowania do panelu administracyjnego z adresu IP:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_message_text</key>
-		<value><![CDATA[Biorąc logowania użytkownika:]]></value>
+		<value><![CDATA[Podany login użytkownika:]]></value>
 	</definition>
 	<definition>
 		<key>error_login_secure</key>
-		<value><![CDATA[Próbujesz zalogować się w trybie niezabezpieczonym! Przełącz się na bezpieczny protokół <a href="%s">HTTPS</a> , aby kontynuować ]]></value>
+		<value><![CDATA[Próbujesz zalogować się w niezabezpieczonym, niebezpiecznym trybie! Przełącz się na bezpieczne <a href="%s">HTTPS</a>, aby kontynuować]]></value>
 	</definition>
 </definitions>

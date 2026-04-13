@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>collection_update</key>
-		<value><![CDATA[Aktualizacja kolekcji]]></value>
+		<value><![CDATA[Aktualizuj kolekcję]]></value>
 	</definition>
 	<definition>
 		<key>conditions_title</key>
@@ -50,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>text_all</key>
-		<value><![CDATA[Wszystko]]></value>
+		<value><![CDATA[Wszystkie]]></value>
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[Każdy]]></value>
+		<value><![CDATA[Dowolny]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>text_true</key>
-		<value><![CDATA[PRAWDA]]></value>
+		<value><![CDATA[Prawda]]></value>
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[FAŁSZ]]></value>
+		<value><![CDATA[Fałsz]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
@@ -114,11 +114,11 @@
 	</definition>
 	<definition>
 		<key>text_equal</key>
-		<value><![CDATA[Równy]]></value>
+		<value><![CDATA[Równe]]></value>
 	</definition>
 	<definition>
 		<key>text_not_equal</key>
-		<value><![CDATA[Nierówny]]></value>
+		<value><![CDATA[Nie równe]]></value>
 	</definition>
 	<definition>
 		<key>text_equal_or_less</key>
@@ -126,7 +126,7 @@
 	</definition>
 	<definition>
 		<key>text_equal_or_greater</key>
-		<value><![CDATA[Równy lub większy]]></value>
+		<value><![CDATA[Równe lub większe]]></value>
 	</definition>
 	<definition>
 		<key>text_greater</key>
@@ -154,11 +154,11 @@
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[-Wybierz tag-]]></value>
+		<value><![CDATA[-Wybierz znacznik-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Zapisz Zakończone]]></value>
+		<value><![CDATA[Zapis zakończony]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
@@ -166,15 +166,15 @@
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Meta opis:]]></value>
+		<value><![CDATA[Opis meta:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
-		<value><![CDATA[Słowa kluczowe SEO:]]></value>
+		<value><![CDATA[Słowo kluczowe SEO:]]></value>
 	</definition>
 	<definition>
 		<key>tab_design</key>
-		<value><![CDATA[Projekt]]></value>
+		<value><![CDATA[Wygląd]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>
@@ -182,7 +182,7 @@
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Układ Zapisz Zakończono]]></value>
+		<value><![CDATA[Zapis układu zakończony]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>

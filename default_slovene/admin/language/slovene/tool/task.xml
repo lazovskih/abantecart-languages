@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Redni Naloge]]></value>
+		<value><![CDATA[Načrtovana opravila]]></value>
 	</definition>
 	<definition>
 		<key>column_id</key>
-		<value><![CDATA[id]]></value>
+		<value><![CDATA[Id]]></value>
 	</definition>
 	<definition>
 		<key>column_date_created</key>
-		<value><![CDATA[Datum nastanka]]></value>
+		<value><![CDATA[Datum ustvarjanja]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[ime]]></value>
+		<value><![CDATA[Ime]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -22,23 +22,23 @@
 	</definition>
 	<definition>
 		<key>column_start_time</key>
-		<value><![CDATA[Začetni čas]]></value>
+		<value><![CDATA[Čas začetka]]></value>
 	</definition>
 	<definition>
 		<key>text_stuck</key>
-		<value><![CDATA[Stuck]]></value>
+		<value><![CDATA[Zaglavljen]]></value>
 	</definition>
 	<definition>
 		<key>text_ready</key>
-		<value><![CDATA[pripravljen]]></value>
+		<value><![CDATA[Pripravljen]]></value>
 	</definition>
 	<definition>
 		<key>text_running</key>
-		<value><![CDATA[tek]]></value>
+		<value><![CDATA[Teče]]></value>
 	</definition>
 	<definition>
 		<key>text_scheduled</key>
-		<value><![CDATA[Načrtovani]]></value>
+		<value><![CDATA[Načrtovano]]></value>
 	</definition>
 	<definition>
 		<key>text_disabled</key>
@@ -46,38 +46,38 @@
 	</definition>
 	<definition>
 		<key>text_failed</key>
-		<value><![CDATA[ni uspelo]]></value>
+		<value><![CDATA[Neuspešno]]></value>
 	</definition>
 	<definition>
 		<key>text_incomplete</key>
-		<value><![CDATA[nepopolna]]></value>
+		<value><![CDATA[Nepopolno]]></value>
 	</definition>
 	<definition>
 		<key>text_completed</key>
-		<value><![CDATA[končan]]></value>
+		<value><![CDATA[Dokončano]]></value>
 	</definition>
 	<definition>
 		<key>text_restart</key>
-		<value><![CDATA[Ponovni zagon Task]]></value>
+		<value><![CDATA[Ponovno zaženi nalogo]]></value>
 	</definition>
 	<definition>
 		<key>text_run</key>
-		<value><![CDATA[Run Naloga]]></value>
+		<value><![CDATA[Zaženi nalogo]]></value>
 	</definition>
 	<definition>
 		<key>text_task_started</key>
-		<value><![CDATA[naloga je začela]]></value>
+		<value><![CDATA[Naloga se je začela]]></value>
 	</definition>
 	<definition>
 		<key>text_task_not_found</key>
-		<value><![CDATA[Naloga ni mogoče najti.]]></value>
+		<value><![CDATA[Naloga ni najdena.]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_task</key>
-		<value><![CDATA[Naloga ne vsebuje korake. Odstranjen.]]></value>
+		<value><![CDATA[Naloga ne vsebuje korakov. Odstranjeno.]]></value>
 	</definition>
 	<definition>
 		<key>text_forbidden_to_restart</key>
-		<value><![CDATA[Prepovedano Za ponovni zagon!]]></value>
+		<value><![CDATA[Ponovni zagon prepovedan!]]></value>
 	</definition>
 </definitions>

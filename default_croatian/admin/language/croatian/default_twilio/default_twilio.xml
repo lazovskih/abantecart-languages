@@ -6,19 +6,15 @@
 	</definition>
 	<definition>
 		<key>default_twilio_note</key>
-		<value><![CDATA[Da biste omogućili slanje sms poruka, idite na Sustav -&gt; Postavke -&gt; <a href="#admin#rt=setting/setting/im" target="_im">IM</a><br/> 
- i odaberite Twilio kao zadani upravljački program za sms. Ne zaboravite omogućiti odjeljak od kojeg želite primati sms (administrator ili izlog). <br/> 
- Ovo proširenje će omogućiti administratorima i korisnicima da daju polje za mobilni telefon. Upamtite da će onemogućavanje ovog proširenja sakriti ovo polje. 
- Ako se doda postojećoj trgovini s kupcima, imajte na umu da će te informacije nedostajati. 
-		]]></value>
+		<value><![CDATA[Za omogućavanje sms-poruka idite na Sustav -> Postavke -> <a href="#admin#rt=setting/setting/im" target="_im">IM</a> i odaberite Twilio kao zadani sms-drajver. Ne zaboravite omogućiti odjeljak iz kojeg želite primati sms-ove (iz administracije ili iz trgovine). Ova ekstenzija omogućuje polje Mobilni telefon za administratore i kupce. Imajte na umu da će onemogućavanjem ove ekstenzije to polje biti skriveno. Ako se doda u postojeću trgovinu s kupcima, imajte na umu da će te informacije nedostajati.]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_username</key>
-		<value><![CDATA[API AccountSID]]></value>
+		<value><![CDATA[API SID računa]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_token</key>
-		<value><![CDATA[API AuthToken]]></value>
+		<value><![CDATA[API autentifikacijski žeton]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_test</key>
@@ -26,13 +22,11 @@
 	</definition>
 	<definition>
 		<key>default_twilio_sender_phone</key>
-		<value><![CDATA[
- Telefon pošiljatelja (Twilio): <span class="help">Telefonski broj pošiljatelja u međunarodnom formatu (npr. +14158675309)</span>]]></value>
+		<value><![CDATA[Telefonski broj pošiljatelja (Twilio): <span class="help">Telefonski broj pošiljatelja u međunarodnom formatu (npr. +14158675309)</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_send_to</key>
-		<value><![CDATA[
- Pošalji test SMS na: ]]></value>
+		<value><![CDATA[Pošaljite testni SMS na:]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_test_0</key>
@@ -44,23 +38,23 @@
 	</definition>
 	<definition>
 		<key>default_twilio_test_connection</key>
-		<value><![CDATA[Testirajte svoju vezu: <span class="help">možete testirati jesu li API vjerodajnice koje ste unijeli točne.</span>]]></value>
+		<value><![CDATA[Testirajte vašu vezu:<span class="help">Možete provjeriti jesu li API vjerodajnice koje ste unijeli ispravne.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_twilio_logging</key>
-		<value><![CDATA[Status zapisivanja pogrešaka <span class="help">Ako želite zapisivati sve pogreške proširenja Twilio, uključite ovu postavku.</span>]]></value>
+		<value><![CDATA[Status zapisivanja pogrešaka<span class="help">Ako želite zapisivati sve pogreške Twilio proširenja, uključite ovu postavku.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_sms</key>
-		<value><![CDATA[ Mobitel ]]></value>
+		<value><![CDATA[Mobilni telefon]]></value>
 	</definition>
 	<definition>
 		<key>text_test</key>
-		<value><![CDATA[ Test ]]></value>
+		<value><![CDATA[Test]]></value>
 	</definition>
 	<definition>
 		<key>error_turn_extension_on</key>
-		<value><![CDATA[Greška! Provjerite je li proširenje UKLJUČENO.]]></value>
+		<value><![CDATA[Greška! Molimo provjerite je li proširenje uključeno.]]></value>
 	</definition>
 	<definition>
 		<key>text_connection_success</key>
@@ -68,7 +62,6 @@
 	</definition>
 	<definition>
 		<key>default_twilio_sender_phone</key>
-		<value><![CDATA[
- Telefon pošiljatelja (Twilio): <span class="help">Telefonski broj pošiljatelja u međunarodnom formatu (npr. +14158675309)</span>]]></value>
+		<value><![CDATA[Telefon pošiljatelja (Twilio): <span class="help">Broj telefona pošiljatelja u međunarodnom formatu (npr. +14158675309)</span>]]></value>
 	</definition>
 </definitions>

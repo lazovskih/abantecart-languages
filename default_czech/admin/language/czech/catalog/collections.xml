@@ -2,27 +2,27 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Sbírky]]></value>
+		<value><![CDATA[Kolekce]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_name</key>
-		<value><![CDATA[Název sbírky]]></value>
+		<value><![CDATA[Název kolekce]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_status</key>
-		<value><![CDATA[Postavení]]></value>
+		<value><![CDATA[Stav]]></value>
 	</definition>
 	<definition>
 		<key>collection_column_date_added</key>
-		<value><![CDATA[Datum přidání]]></value>
+		<value><![CDATA[Datum přidáno]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Název sbírky:]]></value>
+		<value><![CDATA[Název kolekce:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Postavení:]]></value>
+		<value><![CDATA[Stav:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>save_error_name</key>
-		<value><![CDATA[Název sbírky je povinný.]]></value>
+		<value><![CDATA[Název kolekce je povinný.]]></value>
 	</definition>
 	<definition>
 		<key>collection_new</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>collection_update</key>
-		<value><![CDATA[Aktualizovat sbírku]]></value>
+		<value><![CDATA[Aktualizovat kolekci]]></value>
 	</definition>
 	<definition>
 		<key>conditions_title</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_if_1</key>
-		<value><![CDATA[Li:]]></value>
+		<value><![CDATA[Pokud:]]></value>
 	</definition>
 	<definition>
 		<key>text_all</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[Žádný]]></value>
+		<value><![CDATA[Libovolný]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>text_true</key>
-		<value><![CDATA[Věrný]]></value>
+		<value><![CDATA[Pravda]]></value>
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[Falešný]]></value>
+		<value><![CDATA[Nepravda]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>text_tags</key>
-		<value><![CDATA[Tagy]]></value>
+		<value><![CDATA[Štítky]]></value>
 	</definition>
 	<definition>
 		<key>entry_categories</key>
@@ -102,7 +102,7 @@
 	</definition>
 	<definition>
 		<key>text_not_in</key>
-		<value><![CDATA[Ne dovnitř]]></value>
+		<value><![CDATA[Není v]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>
@@ -114,7 +114,7 @@
 	</definition>
 	<definition>
 		<key>text_equal</key>
-		<value><![CDATA[rovná se]]></value>
+		<value><![CDATA[Rovný]]></value>
 	</definition>
 	<definition>
 		<key>text_not_equal</key>
@@ -122,11 +122,11 @@
 	</definition>
 	<definition>
 		<key>text_equal_or_less</key>
-		<value><![CDATA[Rovná nebo Méně]]></value>
+		<value><![CDATA[Rovno nebo méně]]></value>
 	</definition>
 	<definition>
 		<key>text_equal_or_greater</key>
-		<value><![CDATA[Rovný nebo Větší]]></value>
+		<value><![CDATA[Rovné nebo větší]]></value>
 	</definition>
 	<definition>
 		<key>text_greater</key>
@@ -150,23 +150,23 @@
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
-		<value><![CDATA[-Vyberte značku-]]></value>
+		<value><![CDATA[-Vyberte štítek-]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[-Vyberte značku-]]></value>
+		<value><![CDATA[-Vyberte štítek-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Uložit dokončeno]]></value>
+		<value><![CDATA[Uložení dokončeno]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
-		<value><![CDATA[Meta klíčová slova:]]></value>
+		<value><![CDATA[Meta Klíčová slova:]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_description</key>
-		<value><![CDATA[Popis metadat:]]></value>
+		<value><![CDATA[Meta popis:]]></value>
 	</definition>
 	<definition>
 		<key>entry_keyword</key>
@@ -174,19 +174,19 @@
 	</definition>
 	<definition>
 		<key>tab_design</key>
-		<value><![CDATA[Design]]></value>
+		<value><![CDATA[Návrh]]></value>
 	</definition>
 	<definition>
 		<key>text_collection</key>
-		<value><![CDATA[Sbírka]]></value>
+		<value><![CDATA[Kolekce]]></value>
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Uložit rozložení dokončeno]]></value>
+		<value><![CDATA[Uložení rozvržení dokončeno]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Titul:]]></value>
+		<value><![CDATA[Titulek:]]></value>
 	</definition>
 	<definition>
 		<key>entry_products_count</key>
@@ -194,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>entry_collection_id</key>
-		<value><![CDATA[Vyberte sbírku:]]></value>
+		<value><![CDATA[Vyberte kolekci:]]></value>
 	</definition>
 	<definition>
 		<key>save_error_unique_keyword</key>

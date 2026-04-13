@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kuponger]]></value>
+		<value><![CDATA[Kuponger]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon</key>
-		<value><![CDATA[kupong]]></value>
+		<value><![CDATA[Kupong]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_percent</key>
-		<value><![CDATA[Prosentdel]]></value>
+		<value><![CDATA[Prosent]]></value>
 	</definition>
 	<definition>
 		<key>text_amount</key>
-		<value><![CDATA[fast beløp]]></value>
+		<value><![CDATA[Fast beløp]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[kupong Name]]></value>
+		<value><![CDATA[Kupongnavn]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -34,11 +34,11 @@
 	</definition>
 	<definition>
 		<key>column_date_start</key>
-		<value><![CDATA[Dato start]]></value>
+		<value><![CDATA[Startdato]]></value>
 	</definition>
 	<definition>
 		<key>column_date_end</key>
-		<value><![CDATA[dato Slutt]]></value>
+		<value><![CDATA[Sluttdato]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -50,19 +50,19 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Kupong Navn:]]></value>
+		<value><![CDATA[Kupongnavn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[Kupong Beskrivelse:]]></value>
+		<value><![CDATA[Kupongbeskrivelse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Kode: <br/><span class="help">Koden kunden går inn for å få rabatt</span>]]></value>
+		<value><![CDATA[Kode:<br /><span class="help">Koden kunden skriver inn for å få rabatten</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_type</key>
-		<value><![CDATA[Type: <br/><span class="help">prosent eller fast beløp</span>]]></value>
+		<value><![CDATA[Type:<br /><span class="help">Prosent eller fast beløp</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_discount</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>entry_logged</key>
-		<value><![CDATA[Kunde Logg inn: <br/><span class="help">Kunden må være logget inn for å bruke kupongen.</span>]]></value>
+		<value><![CDATA[Kundeinnlogging:<br /><span class="help">Kunden må være logget inn for å bruke kupongen.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping</key>
@@ -78,27 +78,31 @@
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[Totalbeløp: <br/><span class="help">Under totale beløpet som må nås før kupongen er gyldig.</span>]]></value>
+		<value><![CDATA[Totalbeløp:<br/><span class="help">Delsummen som må nås før kupongen er gyldig.</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_category</key>
+		<value><![CDATA[Kategorier:<br/><span class="help">Bruk kupong når produkter er fra en av de valgte kategoriene.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_product</key>
-		<value><![CDATA[Utvalgte produkter:]]></value>
+		<value><![CDATA[Produkter:<br/><span class="help">Bruk kupong når handlekurven inneholder ett av de valgte produktene.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
-		<value><![CDATA[Dato Start:]]></value>
+		<value><![CDATA[Startdato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[Dato End:]]></value>
+		<value><![CDATA[Sluttdato:]]></value>
 	</definition>
 	<definition>
 		<key>entry_uses_total</key>
-		<value><![CDATA[Bruker Per Kupong: <br/><span class="help">Det maksimale antall ganger kupongen kan brukes av alle kunder. La stå tomt for ubegrenset</span>]]></value>
+		<value><![CDATA[Bruk per kupong:<br /><span class="help">Maksimalt antall ganger kupongen kan brukes av hver kunde. La stå tomt for ubegrenset</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_uses_customer</key>
-		<value><![CDATA[Bruker Per Kunde: <br/><span class="help">Det maksimale antall ganger kupongen kan brukes av en enkelt kunde. La stå tomt for ubegrenset</span>]]></value>
+		<value><![CDATA[Bruk per kunde:<br /><span class="help">Maksimalt antall ganger kupongen kan brukes av én enkelt kunde. La stå tomt for ubegrenset</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -106,7 +110,7 @@
 	</definition>
 	<definition>
 		<key>entry_total_coupon_usage</key>
-		<value><![CDATA[Total Kupong Bruk: <br/><span class="help">Greve av alle bestillinger som er gjort med denne kupongen</span>]]></value>
+		<value><![CDATA[Total bruk av kupongen:<br /><span class="help">Antall bestillinger som er plassert ved bruk av denne kupongen</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -114,23 +118,19 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Kupong navn må være mellom 2 og 64 tegn!]]></value>
+		<value><![CDATA[Kupongnavn må være mellom 2 og 64 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_description</key>
-		<value><![CDATA[Kupong Beskrivelse må være mellom 2 tegn!]]></value>
+		<value><![CDATA[Kupongbeskrivelse må være mellom 2 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
-		<value><![CDATA[Koden må være mellom 2 og 10 tegn!]]></value>
+		<value><![CDATA[Kode må være mellom 2 og 10 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_date</key>
-		<value><![CDATA[Vennligst sett datointervall!]]></value>
-	</definition>
-	<definition>
-		<key>entry_category</key>
-		<value><![CDATA[Kategorier: <br/><span class="help">Bruk kupong når produkter fra en av utvalgte kategorier.</span>]]></value>
+		<value><![CDATA[Vennligst angi datoperiode!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>

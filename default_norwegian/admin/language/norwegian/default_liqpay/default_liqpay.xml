@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_private_key</key>
-		<value><![CDATA[Privat nøkkel:]]></value>
+		<value><![CDATA[Privatnøkkel:]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_type_pay</key>
-		<value><![CDATA[Betale]]></value>
+		<value><![CDATA[Betal]]></value>
 	</definition>
 	<definition>
 		<key>default_liqpay_type_card</key>
@@ -62,7 +62,7 @@
 	</definition>
 	<definition>
 		<key>default_liqpay_location_id</key>
-		<value><![CDATA[Sted:]]></value>
+		<value><![CDATA[Plassering:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -70,10 +70,10 @@
 	</definition>
 	<definition>
 		<key>error_merchant</key>
-		<value><![CDATA[Selger-ID kreves!]]></value>
+		<value><![CDATA[Forhandler-ID påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>error_signature</key>
-		<value><![CDATA[Signatur påkrevd!]]></value>
+		<value><![CDATA[Signatur kreves!]]></value>
 	</definition>
 </definitions>

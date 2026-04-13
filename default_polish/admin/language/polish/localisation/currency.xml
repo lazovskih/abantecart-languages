@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś waluty!]]></value>
+		<value><![CDATA[Sukces: Ty zmodyfikowałeś waluty!]]></value>
 	</definition>
 	<definition>
 		<key>column_title</key>
-		<value><![CDATA[Tytuł Waluta]]></value>
+		<value><![CDATA[Nazwa waluty]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>column_date_modified</key>
-		<value><![CDATA[Ostatnio zaktualizowany]]></value>
+		<value><![CDATA[Ostatnia aktualizacja]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -38,23 +38,23 @@
 	</definition>
 	<definition>
 		<key>entry_title</key>
-		<value><![CDATA[Tytuł Waluta:]]></value>
+		<value><![CDATA[Nazwa waluty:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Kod: <br/><span class="help">Nie należy zmieniać, jeśli jest to domyślny walut.</span>]]></value>
+		<value><![CDATA[Kod:<br /><span class="help">Nie zmieniaj, jeśli to jest Twoja waluta domyślna.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_value</key>
-		<value><![CDATA[Wartość: <br/><span class="help">Zestaw do 1,00000, jeśli jest to domyślny walut.</span>]]></value>
+		<value><![CDATA[Wartość:<br /><span class="help">Ustaw na 1.00000, jeśli jest to Twoja domyślna waluta.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_symbol_left</key>
-		<value><![CDATA[Symbol lewo:]]></value>
+		<value><![CDATA[Symbol po lewej:]]></value>
 	</definition>
 	<definition>
 		<key>entry_symbol_right</key>
-		<value><![CDATA[Symbol prawej:]]></value>
+		<value><![CDATA[Symbol po prawej:]]></value>
 	</definition>
 	<definition>
 		<key>entry_decimal_place</key>
@@ -66,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do zmiany waluty!]]></value>
+		<value><![CDATA[Ostrzeżenie: nie masz uprawnień do modyfikowania walut!]]></value>
 	</definition>
 	<definition>
 		<key>error_title</key>
-		<value><![CDATA[Waluta Tytuł musi zawierać się między 2 a 32 znaków!]]></value>
+		<value><![CDATA[Tytuł waluty musi mieć od 2 do 32 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
@@ -78,14 +78,14 @@
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Ostrzeżenie: Ta waluta nie może być usunięty, ponieważ jest obecnie przypisany jako waluta domyślna sklepie!]]></value>
+		<value><![CDATA[Ostrzeżenie: nie można usunąć tej waluty, ponieważ jest ona obecnie ustawiona jako domyślna waluta sklepu!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Ostrzeżenie: Ta waluta nie może być usunięty, ponieważ jest aktualnie przypisany do %s sklepach!]]></value>
+		<value><![CDATA[Ostrzeżenie: nie można usunąć tej waluty, ponieważ jest obecnie przypisana do %s sklepów!]]></value>
 	</definition>
 	<definition>
 		<key>error_order</key>
-		<value><![CDATA[Ostrzeżenie: Ta waluta nie może być usunięty, ponieważ jest aktualnie przypisany do %s zleceń!]]></value>
+		<value><![CDATA[Ostrzeżenie: nie można usunąć tej waluty, ponieważ jest obecnie przypisana do %s zamówień!]]></value>
 	</definition>
 </definitions>

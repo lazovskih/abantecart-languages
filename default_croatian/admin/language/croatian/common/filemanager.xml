@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Manager slike]]></value>
+		<value><![CDATA[Upravitelj slika]]></value>
 	</definition>
 	<definition>
 		<key>text_uploaded</key>
-		<value><![CDATA[Uspjeh: Vaša datoteka je učitana!]]></value>
+		<value><![CDATA[Uspjeh: Vaša datoteka je prenesena!]]></value>
 	</definition>
 	<definition>
 		<key>text_file_delete</key>
-		<value><![CDATA[Datoteka je obrisan!]]></value>
+		<value><![CDATA[Datoteka je izbrisana!]]></value>
 	</definition>
 	<definition>
 		<key>text_create</key>
-		<value><![CDATA[Uspjeh: katalog stvorio!]]></value>
+		<value><![CDATA[Uspjeh: direktorij je kreiran!]]></value>
 	</definition>
 	<definition>
 		<key>text_delete</key>
-		<value><![CDATA[Uspjeh: Datoteka ili direktorij je obrisan!]]></value>
+		<value><![CDATA[Uspjeh: Vaša datoteka ili direktorij je izbrisan!]]></value>
 	</definition>
 	<definition>
 		<key>text_move</key>
-		<value><![CDATA[Uspjeh: Datoteka ili direktorij je premještena!]]></value>
+		<value><![CDATA[Uspjeh: Vaša datoteka ili direktorij su premješteni!]]></value>
 	</definition>
 	<definition>
 		<key>text_copy</key>
-		<value><![CDATA[Uspjeh: Datoteka ili direktorij kopiran!]]></value>
+		<value><![CDATA[Uspjeh: Vaša datoteka ili imenik je kopirana!]]></value>
 	</definition>
 	<definition>
 		<key>text_rename</key>
-		<value><![CDATA[Uspjeh: Datoteka ili direktorij je preimenovana!]]></value>
+		<value><![CDATA[Uspjeh: Vaša datoteka ili direktorij su preimenovani!]]></value>
 	</definition>
 	<definition>
 		<key>entry_folder</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>entry_move</key>
-		<value><![CDATA[Potez:]]></value>
+		<value><![CDATA[Premjesti:]]></value>
 	</definition>
 	<definition>
 		<key>entry_copy</key>
@@ -58,15 +58,15 @@
 	</definition>
 	<definition>
 		<key>error_directory</key>
-		<value><![CDATA[Upozorenje: Molimo odaberite imenik!]]></value>
+		<value><![CDATA[Upozorenje: Molimo odaberite direktorij!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Upozorenje: Ne mogu promijeniti svoj zadani direktorij!]]></value>
+		<value><![CDATA[Upozorenje: Ne mogu promijeniti vaš zadani direktorij!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete</key>
-		<value><![CDATA[Upozorenje: Ne možete obrisati ovu imenik!]]></value>
+		<value><![CDATA[Upozorenje: Ne možete izbrisati ovaj direktorij!]]></value>
 	</definition>
 	<definition>
 		<key>error_filename</key>
@@ -86,31 +86,31 @@
 	</definition>
 	<definition>
 		<key>error_move</key>
-		<value><![CDATA[Upozorenje: Premjestiti u direktorij ne postoji!]]></value>
+		<value><![CDATA[Upozorenje: Ciljani direktorij ne postoji!]]></value>
 	</definition>
 	<definition>
 		<key>error_copy</key>
-		<value><![CDATA[Upozorenje: Ne mogu kopirati datoteku ili direktorij!]]></value>
+		<value><![CDATA[Upozorenje: Nije moguće kopirati ovu datoteku ili direktorij!]]></value>
 	</definition>
 	<definition>
 		<key>error_rename</key>
-		<value><![CDATA[Upozorenje: Ne mogu preimenovati taj direktorij!]]></value>
+		<value><![CDATA[Upozorenje: Ne mogu preimenovati ovaj direktorij!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_type</key>
-		<value><![CDATA[Upozorenje: Neispravna vrsta datoteke!]]></value>
+		<value><![CDATA[Upozorenje: Neispravan tip datoteke!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_size</key>
-		<value><![CDATA[Upozorenje: Datoteka za veliki imajte ispod 300KB i ne više od 1000 px visine ili širine!]]></value>
+		<value><![CDATA[Upozorenje: datoteka je prevelika, molimo vas držite je ispod 300kb i ne više od 1000px visine ili širine!]]></value>
 	</definition>
 	<definition>
 		<key>error_uploaded</key>
-		<value><![CDATA[Upozorenje: Datoteka nije prenesena iz nepoznatog razloga!]]></value>
+		<value><![CDATA[Upozorenje: datoteka zbog nepoznatog razloga nije se mogla prenijeti!]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Dopuštenje je uskraćeno!]]></value>
+		<value><![CDATA[Upozorenje: Pristup odbijen!]]></value>
 	</definition>
 	<definition>
 		<key>button_folder</key>
@@ -118,26 +118,26 @@
 	</definition>
 	<definition>
 		<key>button_delete</key>
-		<value><![CDATA[Izbrisati]]></value>
+		<value><![CDATA[Izbriši]]></value>
 	</definition>
 	<definition>
 		<key>button_move</key>
-		<value><![CDATA[Potez]]></value>
+		<value><![CDATA[Premjesti]]></value>
 	</definition>
 	<definition>
 		<key>button_copy</key>
-		<value><![CDATA[Kopirati]]></value>
+		<value><![CDATA[Kopiraj]]></value>
 	</definition>
 	<definition>
 		<key>button_rename</key>
-		<value><![CDATA[Preimenovati]]></value>
+		<value><![CDATA[Preimenuj]]></value>
 	</definition>
 	<definition>
 		<key>button_upload</key>
-		<value><![CDATA[Postavi]]></value>
+		<value><![CDATA[Prenesi]]></value>
 	</definition>
 	<definition>
 		<key>button_refresh</key>
-		<value><![CDATA[Osvježiti]]></value>
+		<value><![CDATA[Osvježi]]></value>
 	</definition>
 </definitions>

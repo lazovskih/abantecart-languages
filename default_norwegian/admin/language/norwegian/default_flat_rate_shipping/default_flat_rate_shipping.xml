@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_flat_rate_shipping_name</key>
-		<value><![CDATA[Flat Rate]]></value>
+		<value><![CDATA[Fastpris]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: Du har endret fast frakt!]]></value>
+		<value><![CDATA[Suksess: Du har endret frakt med fast sats!]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_rates</key>
-		<value><![CDATA[Priser:]]></value>
+		<value><![CDATA[Satser:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_status</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_cost</key>
-		<value><![CDATA[Koste:]]></value>
+		<value><![CDATA[Kostnad:]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_tax_class_id_0</key>
-		<value><![CDATA[ ---Ingen---]]></value>
+		<value><![CDATA[---Ingen---]]></value>
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id</key>
@@ -38,10 +38,10 @@
 	</definition>
 	<definition>
 		<key>default_flat_rate_shipping_location_id_0</key>
-		<value><![CDATA[Alle steder]]></value>
+		<value><![CDATA[Alle lokasjoner]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre fast frakt!]]></value>
+		<value><![CDATA[Advarsel: Du har ikke tillatelse til å endre fastprisfrakt!]]></value>
 	</definition>
 </definitions>

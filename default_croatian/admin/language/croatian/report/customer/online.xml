@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Kupci Online]]></value>
+		<value><![CDATA[Kupci na mreži]]></value>
 	</definition>
 	<definition>
 		<key>column_customer</key>
@@ -10,18 +10,18 @@
 	</definition>
 	<definition>
 		<key>column_ip</key>
-		<value><![CDATA[Korisnička IP]]></value>
+		<value><![CDATA[IP adresa kupca]]></value>
 	</definition>
 	<definition>
 		<key>column_time</key>
-		<value><![CDATA[Posljednji pristup]]></value>
+		<value><![CDATA[Zadnje pristupljeno]]></value>
 	</definition>
 	<definition>
 		<key>column_url</key>
-		<value><![CDATA[uRL pogledana]]></value>
+		<value><![CDATA[URL pristupljen]]></value>
 	</definition>
 	<definition>
 		<key>text_referer</key>
-		<value><![CDATA[Preporuka:]]></value>
+		<value><![CDATA[Upućitelj:]]></value>
 	</definition>
 </definitions>

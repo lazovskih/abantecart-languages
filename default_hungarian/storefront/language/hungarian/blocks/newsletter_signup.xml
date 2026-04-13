@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Hírlevél Bejelentkezés]]></value>
+		<value><![CDATA[Hírlevél feliratkozás]]></value>
 	</definition>
 	<definition>
 		<key>text_signup</key>
-		<value><![CDATA[Iratkozzon fel hírlevelünkre, &amp; hogy vonzó ajánlatok, ha feliratkozik a hírlevélre.]]></value>
+		<value><![CDATA[Iratkozzon fel hírleveleinkre, és kapjon vonzó ajánlatokat.]]></value>
 	</definition>
 	<definition>
 		<key>text_sign_in</key>
@@ -14,10 +14,10 @@
 	</definition>
 	<definition>
 		<key>text_subscribe</key>
-		<value><![CDATA[Feliratkozás a hírlevélre]]></value>
+		<value><![CDATA[Iratkozzon fel a hírlevélre]]></value>
 	</definition>
 	<definition>
 		<key>button_subscribe</key>
-		<value><![CDATA[Iratkozz fel]]></value>
+		<value><![CDATA[Feliratkozás]]></value>
 	</definition>
 </definitions>

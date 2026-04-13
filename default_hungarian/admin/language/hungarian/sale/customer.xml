@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Az ügyfelek]]></value>
+		<value><![CDATA[Vásárlók]]></value>
 	</definition>
 	<definition>
 		<key>text_customer</key>
-		<value><![CDATA[Vevő]]></value>
+		<value><![CDATA[Vásárló]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Van módosított ügyfelek!]]></value>
+		<value><![CDATA[Siker: Ön módosította az ügyfeleket!]]></value>
 	</definition>
 	<definition>
 		<key>text_approved</key>
-		<value><![CDATA[Jóváhagyta %s számla!]]></value>
+		<value><![CDATA[Ön jóváhagyta a %s fiókot!]]></value>
 	</definition>
 	<definition>
 		<key>tab_customer_address</key>
@@ -22,27 +22,31 @@
 	</definition>
 	<definition>
 		<key>text_customer_addresses</key>
-		<value><![CDATA[Ügyfél címek]]></value>
+		<value><![CDATA[Vásárlói címek]]></value>
 	</definition>
 	<definition>
 		<key>text_add_address</key>
-		<value><![CDATA[Új cím]]></value>
+		<value><![CDATA[Cím hozzáadása]]></value>
 	</definition>
 	<definition>
 		<key>button_add</key>
-		<value><![CDATA[hozzáad]]></value>
+		<value><![CDATA[Hozzáad]]></value>
+	</definition>
+	<definition>
+		<key>column_id</key>
+		<value><![CDATA[Azonosító]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Ügyfél neve]]></value>
+		<value><![CDATA[Vevő neve]]></value>
 	</definition>
 	<definition>
 		<key>column_email</key>
-		<value><![CDATA[Email]]></value>
+		<value><![CDATA[E-mail]]></value>
 	</definition>
 	<definition>
 		<key>column_customer_group</key>
-		<value><![CDATA[Ügyfél nevében]]></value>
+		<value><![CDATA[Vásárlói csoport]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
@@ -58,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[dátum hozzáadva]]></value>
+		<value><![CDATA[Hozzáadás dátuma]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akció]]></value>
+		<value><![CDATA[Művelet]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
@@ -78,7 +82,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email:]]></value>
+		<value><![CDATA[E-mail:]]></value>
 	</definition>
 	<definition>
 		<key>entry_telephone</key>
@@ -94,7 +98,7 @@
 	</definition>
 	<definition>
 		<key>entry_customer_group</key>
-		<value><![CDATA[Ügyfél Csoport:]]></value>
+		<value><![CDATA[Vásárlói csoport:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -102,7 +106,7 @@
 	</definition>
 	<definition>
 		<key>entry_approved</key>
-		<value><![CDATA[Jóváhagyott:]]></value>
+		<value><![CDATA[Jóváhagyva:]]></value>
 	</definition>
 	<definition>
 		<key>entry_password</key>
@@ -110,11 +114,11 @@
 	</definition>
 	<definition>
 		<key>entry_confirm</key>
-		<value><![CDATA[Jóváhagy:]]></value>
+		<value><![CDATA[Megerősítés:]]></value>
 	</definition>
 	<definition>
 		<key>entry_company</key>
-		<value><![CDATA[Vállalat:]]></value>
+		<value><![CDATA[Cég:]]></value>
 	</definition>
 	<definition>
 		<key>entry_address_1</key>
@@ -130,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>entry_postcode</key>
-		<value><![CDATA[irányítószám:]]></value>
+		<value><![CDATA[Irányítószám:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -142,39 +146,39 @@
 	</definition>
 	<definition>
 		<key>entry_zone</key>
-		<value><![CDATA[Régió / állam:]]></value>
+		<value><![CDATA[Régió / Állam:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítani ügyfelek!]]></value>
+		<value><![CDATA[Figyelmeztetés: Önnek nincs jogosultsága az ügyfelek módosítására!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Bejelentkezés nevet kell alfanumerikus csak és 5 és 64 karakter!]]></value>
+		<value><![CDATA[A bejelentkezési név csak alfanumerikus lehet, és 5–64 karakter hosszú kell, hogy legyen!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname_notunique</key>
-		<value><![CDATA[Ez a bejelentkezési név nem elérhető. Próbáljon másik névvel!]]></value>
+		<value><![CDATA[Ez a bejelentkezési név nem elérhető. Próbáljon meg egy másik bejelentkezési nevet!]]></value>
 	</definition>
 	<definition>
 		<key>error_firstname</key>
-		<value><![CDATA[Utónév között kell lennie az 1. és 32 karakter!]]></value>
+		<value><![CDATA[A keresztnévnek 1 és 32 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Vezetéknév legyen 1 és 32 között karakter!]]></value>
+		<value><![CDATA[A vezetéknévnek 1 és 32 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail cím nem tűnik érvényesnek!]]></value>
+		<value><![CDATA[Az e-mail cím nem tűnik érvényesnek!]]></value>
 	</definition>
 	<definition>
 		<key>error_telephone</key>
-		<value><![CDATA[Telefon között kell lennie a 3. és 32 karakter!]]></value>
+		<value><![CDATA[A telefonszám csak számjegyeket tartalmazhat, és hossza 3–32 karakter között kell legyen!]]></value>
 	</definition>
 	<definition>
 		<key>error_password</key>
-		<value><![CDATA[Azonosító hossza 3 és 20 karakter!]]></value>
+		<value><![CDATA[A jelszónak 3 és 20 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_confirm</key>
@@ -182,31 +186,31 @@
 	</definition>
 	<definition>
 		<key>error_address_firstname</key>
-		<value><![CDATA[Utónév között kell lennie az 1. és 32 karakter!]]></value>
+		<value><![CDATA[A keresztnévnek 1 és 32 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_address_lastname</key>
-		<value><![CDATA[Vezetéknév legyen 1 és 32 között karakter!]]></value>
+		<value><![CDATA[A vezetéknévnek 1 és 32 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_address_1</key>
-		<value><![CDATA[Cím között kell lennie a 3. és 128 karakter!]]></value>
+		<value><![CDATA[A címnek 3 és 128 karakter között kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_city</key>
-		<value><![CDATA[Város között kell lennie a 3. és 128 karakter!]]></value>
+		<value><![CDATA[A városnak 3 és 128 karakter hosszúnak kell lennie!]]></value>
 	</definition>
 	<definition>
 		<key>error_country</key>
-		<value><![CDATA[Kérjük, válasszon ki egy országot!]]></value>
+		<value><![CDATA[Kérjük, válasszon országot!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone</key>
-		<value><![CDATA[Kérjük, válasszon régiót / állam!]]></value>
+		<value><![CDATA[Kérjük, válasszon régiót / államot!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_approved</key>
-		<value><![CDATA[- Kiválasztás jóváhagyása -]]></value>
+		<value><![CDATA[- Jóváhagyott kiválasztása -]]></value>
 	</definition>
 	<definition>
 		<key>text_select_group</key>
@@ -218,11 +222,11 @@
 	</definition>
 	<definition>
 		<key>tab_transactions</key>
-		<value><![CDATA[tranzakciók]]></value>
+		<value><![CDATA[Tranzakciók]]></value>
 	</definition>
 	<definition>
 		<key>heading_title_transactions</key>
-		<value><![CDATA[Ügyfél tranzakciók]]></value>
+		<value><![CDATA[Vásárló tranzakciói]]></value>
 	</definition>
 	<definition>
 		<key>column_create_date</key>
@@ -230,11 +234,11 @@
 	</definition>
 	<definition>
 		<key>column_created_by</key>
-		<value><![CDATA[Készítette]]></value>
+		<value><![CDATA[Létrehozta]]></value>
 	</definition>
 	<definition>
 		<key>column_debit</key>
-		<value><![CDATA[tartozás]]></value>
+		<value><![CDATA[Terhelés]]></value>
 	</definition>
 	<definition>
 		<key>column_credit</key>
@@ -242,11 +246,11 @@
 	</definition>
 	<definition>
 		<key>column_transaction_type</key>
-		<value><![CDATA[Tranzakció Típusa]]></value>
+		<value><![CDATA[Tranzakció típusa]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
-		<value><![CDATA[Egyensúly:]]></value>
+		<value><![CDATA[Egyenleg:]]></value>
 	</definition>
 	<definition>
 		<key>text_last_login</key>
@@ -258,35 +262,39 @@
 	</definition>
 	<definition>
 		<key>popup_title_info</key>
-		<value><![CDATA[tranzakciós információk]]></value>
+		<value><![CDATA[Tranzakciós információk]]></value>
 	</definition>
 	<definition>
 		<key>popup_title_insert</key>
-		<value><![CDATA[Helyezze be az új tranzakciós]]></value>
+		<value><![CDATA[Új tranzakció beszúrása]]></value>
 	</definition>
 	<definition>
 		<key>entry_credit</key>
-		<value><![CDATA[Credit (növekedés egyenleg)]]></value>
+		<value><![CDATA[Hitel (egyenleg növelése)]]></value>
 	</definition>
 	<definition>
 		<key>entry_debit</key>
-		<value><![CDATA[Tartozik (csökkenése egyensúly)]]></value>
+		<value><![CDATA[Terhelés (egyenleg csökkentése)]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_type</key>
-		<value><![CDATA[Tranzakció Típusa:]]></value>
+		<value><![CDATA[Tranzakció típusa:]]></value>
 	</definition>
 	<definition>
 		<key>entry_other_type</key>
-		<value><![CDATA[Egyéb Egyedi Tranzakció típusa:]]></value>
+		<value><![CDATA[Új egyéni tranzakciótípus hozzáadása:]]></value>
+	</definition>
+	<definition>
+		<key>text_other_type_placeholder</key>
+		<value><![CDATA[Írja be ide az új nevet]]></value>
 	</definition>
 	<definition>
 		<key>text_option_other_type</key>
-		<value><![CDATA[Más...]]></value>
+		<value><![CDATA[Egyéb...]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_description</key>
-		<value><![CDATA[Leírás (az ügyfél):]]></value>
+		<value><![CDATA[Leírás (vásárlónak):]]></value>
 	</definition>
 	<definition>
 		<key>entry_transaction_comment</key>
@@ -298,19 +306,27 @@
 	</definition>
 	<definition>
 		<key>entry_create_date</key>
-		<value><![CDATA[Dátum létrehozása:]]></value>
+		<value><![CDATA[Létrehozás dátuma:]]></value>
 	</definition>
 	<definition>
 		<key>error_transaction_type</key>
-		<value><![CDATA[Hiba: Kérjük, töltse ki a tranzakció típusa formába.]]></value>
+		<value><![CDATA[Hiba: Kérjük, töltse ki a tranzakciótípus mezőt.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_debit_credit</key>
-		<value><![CDATA[Hiba: Kérjük, töltse ki tartozik vagy követel érték ügyfél tranzakció.]]></value>
+		<value><![CDATA[Hiba: Kérjük, töltse ki az ügyfél tranzakciójához tartozó tartozik vagy követel értéket.]]></value>
+	</definition>
+	<definition>
+		<key>error_incorrect_debit_credit</key>
+		<value><![CDATA[Hiba: a terhelési vagy jóváírási érték nem lehet nagyobb, mint 99999999999.9999.]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_success</key>
-		<value><![CDATA[Siker: Ön módosította tranzakció!]]></value>
+		<value><![CDATA[Siker: Ön módosította a tranzakciót!]]></value>
+	</definition>
+	<definition>
+		<key>text_add_address</key>
+		<value><![CDATA[Cím hozzáadása]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_address</key>
@@ -322,15 +338,15 @@
 	</definition>
 	<definition>
 		<key>error_delete_default</key>
-		<value><![CDATA[Hiba: Az alapértelmezett cím nem lehet törölni!]]></value>
+		<value><![CDATA[Hiba: Az alapértelmezett cím nem törölhető!]]></value>
 	</definition>
 	<definition>
 		<key>error_delete_last</key>
-		<value><![CDATA[Hiba: kell lennie legalább egy címet!]]></value>
+		<value><![CDATA[Hiba: legalább egy címmel kell rendelkezned!]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
-		<value><![CDATA[Dátum hozzáadva:]]></value>
+		<value><![CDATA[Hozzáadás dátuma:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_modified</key>
@@ -338,35 +354,23 @@
 	</definition>
 	<definition>
 		<key>warning_actonbehalf_additional_store</key>
-		<value><![CDATA[Nevében jár az ügyfél további boltba be kell jelentkezned egy másik áruház admin oldalon. Folytatni?]]></value>
+		<value><![CDATA[Ahhoz, hogy a vásárló nevében járhass el egy másik áruházban, be kell jelentkezned annak az áruház admin felületére. Folytatod?]]></value>
 	</definition>
 	<definition>
 		<key>entry_notify</key>
-		<value><![CDATA[Értesítés az Ügyfél:]]></value>
+		<value><![CDATA[Ügyfél értesítése:]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_notification_subject</key>
-		<value><![CDATA[Új tranzakció már írt a %s számla]]></value>
+		<value><![CDATA[Új tranzakció került jóváírásra a(z) %s fiókodban]]></value>
 	</definition>
 	<definition>
 		<key>text_transaction_notification_message</key>
-		<value><![CDATA[Új tranzakció már írt a %s számla összegének %s. További részletekért, jelentkezzen be, hogy %s számla]]></value>
+		<value><![CDATA[Új tranzakció került rögzítésre az Ön %s fiókjában %s összeggel. További részletekért jelentkezzen be az %s fiókjába.]]></value>
 	</definition>
 	<definition>
 		<key>text_total_order</key>
-		<value><![CDATA[Összes rendelés:]]></value>
-	</definition>
-	<definition>
-		<key>column_id</key>
-		<value><![CDATA[ID]]></value>
-	</definition>
-	<definition>
-		<key>text_other_type_placeholder</key>
-		<value><![CDATA[írja be ide az új nevet ]]></value>
-	</definition>
-	<definition>
-		<key>error_incorrect_debit_credit</key>
-		<value><![CDATA[Hiba: a terhelés vagy a jóváírás értéke nem lehet nagyobb, mint 99999999999,9999]]></value>
+		<value><![CDATA[Rendelések összesen:]]></value>
 	</definition>
 	<definition>
 		<key>text_register_date</key>
@@ -374,6 +378,6 @@
 	</definition>
 	<definition>
 		<key>error_email_exists</key>
-		<value><![CDATA[Már létezik ügyfél ezzel az e-mail címmel!]]></value>
+		<value><![CDATA[Ezzel az e-mail címmel rendelkező ügyfél már létezik!]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Suksess: varselinnstillingene har blitt oppdatert!]]></value>
+		<value><![CDATA[Suksess: Dine varslingsinnstillinger har blitt oppdatert!]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoint</key>

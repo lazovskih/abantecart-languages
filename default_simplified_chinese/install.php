@@ -38,7 +38,7 @@ $this->db->query(
 
 $newLanguageId = (int)$this->db->getLastId();
 
-$xml = simplexml_load_file(DIR_EXT . $extName . '/menu.xml');
+$xml = simplexml_load_file(DIR_EXT . $extName . DS. 'menu.xml');
 
 $routes = [
     'text_index_home_menu'        => 'index/home',
@@ -49,6 +49,7 @@ $routes = [
     'text_account_history_menu'   => 'account/history',
     'text_checkout_cart_menu'     => 'checkout/cart',
     'text_checkout_shipping_menu' => 'checkout/fast_checkout',
+    'text_account_invoice_menu'   => 'account/order_details',
 ];
 
 if ($xml) {
@@ -60,44 +61,26 @@ if ($xml) {
     $storefront_menu->addLanguage($newLanguageId, $translates);
 }
 
-$countryList = (array)include('countries_zones.php');
-foreach ($countryList['countries'] as $id => $name) {
+$countryList = (array)include(DIR_EXT . $extName . DS . 'countries_zones.php');
+foreach ($countryList['countries'] as $cId => $cName) {
     $this->db->query(
         "INSERT INTO " . $this->db->table('country_descriptions') . " 
             (`country_id`, `language_id`, `name`)
         VALUES 
-            (" . $id . "," . $newLanguageId . ",'" . $this->db->escape(htmlspecialchars($name)) . "')"
+            (" . $cId . "," . $newLanguageId . ",'" . $this->db->escape(htmlspecialchars($cName)) . "')"
     );
 }
 
-foreach ($countryList['zones'] as $id => $name) {
+foreach ($countryList['zones'] as $zId => $zName) {
     $this->db->query(
         "INSERT INTO " . $this->db->table('zone_descriptions') . " 
             (`zone_id`,`language_id`, `name`)
         VALUES 
-            (" . $id . "," . $newLanguageId . ",'" . $this->db->escape(htmlspecialchars($name)) . "')"
+            (" . $zId . "," . $newLanguageId . ",'" . $this->db->escape(htmlspecialchars($zName)) . "')"
     );
 }
 
-//Load language specific data
-$xml = simplexml_load_file(DIR_EXT . 'default_simplified_chinese/menu.xml');
-$routes = array(
-			'text_index_home_menu'=>'index/home',
-			'text_product_special_menu'=>'product/special',
-			'text_account_login_menu'=>'account/login',
-			'text_account_logout_menu'=>'account/logout',
-			'text_account_account_menu'=>'account/account',
-			'text_account_invoice_menu'=>'account/invoice',
-			'text_checkout_cart_menu'=>'checkout/cart',
-			'text_checkout_shipping_menu'=>'checkout/shipping'
-);
-
-if($xml){
-	foreach($xml->definition as $item){
-		$translates[$routes[(string)$item->key]] = (string)$item->value;
-	}
-
-	$storefront_menu = new AMenu_Storefront();
-	$storefront_menu->addLanguage($new_language_id,$translates);
+$combinedReplaces = include(DIR_EXT . $extName . DS. 'base_descriptions.php');
+if($combinedReplaces) {
+    include(DIR_EXT . $extName . DS . 'insertBaseDescriptions.php');
 }
-include('translated_descriptions.php');

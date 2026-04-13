@@ -2,20 +2,19 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Мой список желаемого]]></value>
+		<value><![CDATA[Мой список пожеланий]]></value>
 	</definition>
-    <definition>
-        <key>text_account</key>
-        <value><![CDATA[Аккаунт]]></value>
-    </definition>
-
+	<definition>
+		<key>text_account</key>
+		<value><![CDATA[Личный Кабинет]]></value>
+	</definition>
 	<definition>
 		<key>text_empty_wishlist</key>
-		<value><![CDATA[Список желаемого пуст]]></value>
+		<value><![CDATA[Список пожеланий пуст]]></value>
 	</definition>
 	<definition>
 		<key>button_cart</key>
-		<value><![CDATA[Просмотреть корзину]]></value>
+		<value><![CDATA[В Карзину]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
@@ -23,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>column_image</key>
-		<value><![CDATA[Изображение]]></value>
+		<value><![CDATA[Картинка]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -35,14 +34,14 @@
 	</definition>
 	<definition>
 		<key>column_added</key>
-		<value><![CDATA[Добавлено в список желаемого]]></value>
+		<value><![CDATA[Добавлено в список]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
-		<value><![CDATA[Цена за единицу]]></value>
+		<value><![CDATA[Цена]]></value>
 	</definition>
 	<definition>
 		<key>column_actions</key>
-		<value><![CDATA[Действия]]></value>
+		<value><![CDATA[Управление]]></value>
 	</definition>
 </definitions>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[strefy]]></value>
+		<value><![CDATA[Strefy]]></value>
 	</definition>
 	<definition>
 		<key>text_zone</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Masz stref zmodyfikowanych!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowałeś strefy!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -18,7 +18,7 @@
 	</definition>
 	<definition>
 		<key>column_code</key>
-		<value><![CDATA[Kod Strefa]]></value>
+		<value><![CDATA[Kod strefy]]></value>
 	</definition>
 	<definition>
 		<key>column_country</key>
@@ -34,15 +34,15 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[Stan linii:]]></value>
+		<value><![CDATA[Status strefy:]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Strefa Nazwa:]]></value>
+		<value><![CDATA[Nazwa strefy:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[Kod Strefa:]]></value>
+		<value><![CDATA[Kod strefy:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -54,26 +54,26 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania strefy!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania stref!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Nazwa strefy musi wynosić od 2 do 128 znaków!]]></value>
+		<value><![CDATA[Nazwa strefy musi mieć od 2 do 128 znaków!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Ostrzeżenie: Ta strefa nie może zostać usunięty, ponieważ jest obecnie przypisany jako strefa domyślna sklepie!]]></value>
+		<value><![CDATA[Ostrzeżenie: Ta strefa nie może zostać usunięta, ponieważ jest obecnie przypisana jako domyślna strefa sklepu!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Ostrzeżenie: Ta strefa nie może zostać usunięty, ponieważ jest aktualnie przypisany do %s sklepach!]]></value>
+		<value><![CDATA[Ostrzeżenie: Ta strefa nie może zostać usunięta, ponieważ jest obecnie przypisana do %s sklepów!]]></value>
 	</definition>
 	<definition>
 		<key>error_address</key>
-		<value><![CDATA[Ostrzeżenie: Ta strefa nie może zostać usunięty, ponieważ jest aktualnie przypisany do %s wpisów książki adresowej!]]></value>
+		<value><![CDATA[Ostrzeżenie: tej strefy nie można usunąć, ponieważ jest obecnie przypisana do %s wpisów w książce adresowej!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone_to_location</key>
-		<value><![CDATA[Ostrzeżenie: Ta strefa nie może zostać usunięty, ponieważ jest aktualnie przypisany do lokalizacji stref %s!]]></value>
+		<value><![CDATA[Ostrzeżenie: Ta strefa nie może zostać usunięta, ponieważ jest obecnie przypisana do %s lokalizacji!]]></value>
 	</definition>
 </definitions>

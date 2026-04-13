@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מוצרים שנקנו דווחו]]></value>
+		<value><![CDATA[דוח מוצרים שנרכשו]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם מוצר]]></value>
+		<value><![CDATA[שם המוצר]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[דֶגֶם]]></value>
+		<value><![CDATA[דגם]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[כַּמוּת]]></value>
+		<value><![CDATA[כמות]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[סה&quot;כ]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 </definitions>

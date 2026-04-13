@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>edit_title_details</key>
-		<value><![CDATA[פרטים ערוכים להזמין]]></value>
+		<value><![CDATA[ערוך פרטי ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>edit_title_shipping</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>edit_title_payment</key>
-		<value><![CDATA[כתובת תשלום ערוכה]]></value>
+		<value><![CDATA[ערוך כתובת תשלום]]></value>
 	</definition>
 	<definition>
 		<key>title_payment_details</key>
-		<value><![CDATA[פרטי תשלום]]></value>
+		<value><![CDATA[פרטי התשלום]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: פרטים להזמין עודכנו!]]></value>
+		<value><![CDATA[הצלחה: פרטי ההזמנה עודכנו!]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>text_invoice_id</key>
-		<value><![CDATA[חשבונית לא .:]]></value>
+		<value><![CDATA[מספר חשבונית:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -42,11 +42,11 @@
 	</definition>
 	<definition>
 		<key>text_telephone</key>
-		<value><![CDATA[טֵלֵפוֹן]]></value>
+		<value><![CDATA[טלפון]]></value>
 	</definition>
 	<definition>
 		<key>text_fax</key>
-		<value><![CDATA[פַקס]]></value>
+		<value><![CDATA[פקס]]></value>
 	</definition>
 	<definition>
 		<key>text_select_country</key>
@@ -58,7 +58,7 @@
 	</definition>
 	<definition>
 		<key>text_ship_to</key>
-		<value><![CDATA[ספינה (אם כתובת שונה)]]></value>
+		<value><![CDATA[כתובת למשלוח (אם שונה)]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_orders</key>
@@ -66,7 +66,7 @@
 	</definition>
 	<definition>
 		<key>text_wait</key>
-		<value><![CDATA[המתן בבקשה!]]></value>
+		<value><![CDATA[אנא המתן!]]></value>
 	</definition>
 	<definition>
 		<key>column_order</key>
@@ -74,19 +74,19 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם לקוח]]></value>
+		<value><![CDATA[שם הלקוח]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[מצב]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[תאריך הוסף]]></value>
+		<value><![CDATA[תאריך הוספה]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[סה&quot;כ]]></value>
+		<value><![CDATA[סך הכל]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -94,27 +94,31 @@
 	</definition>
 	<definition>
 		<key>column_model</key>
-		<value><![CDATA[דֶגֶם]]></value>
+		<value><![CDATA[דגם]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
-		<value><![CDATA[כַּמוּת]]></value>
+		<value><![CDATA[כמות]]></value>
 	</definition>
 	<definition>
 		<key>column_price</key>
 		<value><![CDATA[מחיר ליחידה]]></value>
 	</definition>
 	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[מק"ט]]></value>
+	</definition>
+	<definition>
 		<key>column_download</key>
-		<value><![CDATA[שם הורד]]></value>
+		<value><![CDATA[שם ההורדה]]></value>
 	</definition>
 	<definition>
 		<key>column_file</key>
-		<value><![CDATA[קוֹבֶץ]]></value>
+		<value><![CDATA[קובץ]]></value>
 	</definition>
 	<definition>
 		<key>column_remaining</key>
-		<value><![CDATA[נוֹתָר]]></value>
+		<value><![CDATA[נותר]]></value>
 	</definition>
 	<definition>
 		<key>column_expire_date</key>
@@ -126,11 +130,11 @@
 	</definition>
 	<definition>
 		<key>column_notify</key>
-		<value><![CDATA[Notified לקוחות]]></value>
+		<value><![CDATA[הלקוח עודכן]]></value>
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[תגובת ההזמנות של הלקוחות]]></value>
+		<value><![CDATA[הערת ההזמנה של הלקוח]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -146,7 +150,7 @@
 	</definition>
 	<definition>
 		<key>entry_customer</key>
-		<value><![CDATA[צרכן:]]></value>
+		<value><![CDATA[לקוח:]]></value>
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
@@ -158,47 +162,47 @@
 	</definition>
 	<definition>
 		<key>entry_customer_group</key>
-		<value><![CDATA[קבוצה של לקוחות:]]></value>
+		<value><![CDATA[קבוצת לקוחות:]]></value>
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[אֶלֶקטרוֹנִי:]]></value>
+		<value><![CDATA[דואר אלקטרוני:]]></value>
 	</definition>
 	<definition>
 		<key>entry_ip</key>
-		<value><![CDATA[כתובת ה - IP:]]></value>
+		<value><![CDATA[כתובת IP:]]></value>
 	</definition>
 	<definition>
 		<key>entry_telephone</key>
-		<value><![CDATA[טֵלֵפוֹן:]]></value>
+		<value><![CDATA[טלפון:]]></value>
 	</definition>
 	<definition>
 		<key>entry_fax</key>
-		<value><![CDATA[פַקס:]]></value>
+		<value><![CDATA[פקס:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store_name</key>
-		<value><![CDATA[שם חנות:]]></value>
+		<value><![CDATA[שם החנות:]]></value>
 	</definition>
 	<definition>
 		<key>entry_store_url</key>
-		<value><![CDATA[כתובת אתר של חנות:]]></value>
+		<value><![CDATA[כתובת ה-URL של החנות:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
-		<value><![CDATA[תאריך הוסף:]]></value>
+		<value><![CDATA[תאריך הוספה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping_method</key>
-		<value><![CDATA[שיטת משלוח:]]></value>
+		<value><![CDATA[שיטת המשלוח:]]></value>
 	</definition>
 	<definition>
 		<key>entry_payment_method</key>
-		<value><![CDATA[אמצעי תשלום:]]></value>
+		<value><![CDATA[שיטת תשלום:]]></value>
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[סך הכל להזמנה מקורית:]]></value>
+		<value><![CDATA[סך ההזמנה המקורית:]]></value>
 	</definition>
 	<definition>
 		<key>entry_order_status</key>
@@ -210,7 +214,7 @@
 	</definition>
 	<definition>
 		<key>entry_company</key>
-		<value><![CDATA[חֶברָה:]]></value>
+		<value><![CDATA[חברה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_address_1</key>
@@ -222,11 +226,11 @@
 	</definition>
 	<definition>
 		<key>entry_postcode</key>
-		<value><![CDATA[מיקוד:]]></value>
+		<value><![CDATA[מיקוד/מיקוד דואר:]]></value>
 	</definition>
 	<definition>
 		<key>entry_city</key>
-		<value><![CDATA[עִיר:]]></value>
+		<value><![CDATA[עיר:]]></value>
 	</definition>
 	<definition>
 		<key>entry_zone</key>
@@ -234,7 +238,7 @@
 	</definition>
 	<definition>
 		<key>entry_zone_code</key>
-		<value><![CDATA[אזור / מדינה קוד:]]></value>
+		<value><![CDATA[קוד אזור / מדינה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -242,43 +246,47 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[מצב הזמנה:]]></value>
+		<value><![CDATA[סטטוס ההזמנה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_notify</key>
-		<value><![CDATA[הודע לקוחות:]]></value>
+		<value><![CDATA[הודע ללקוח:]]></value>
 	</definition>
 	<definition>
 		<key>entry_append</key>
-		<value><![CDATA[צרף תגובות:]]></value>
+		<value><![CDATA[הוסף הערות:]]></value>
 	</definition>
 	<definition>
 		<key>entry_add_product</key>
-		<value><![CDATA[הוסף מוצר:]]></value>
+		<value><![CDATA[הוסף מוצר זמין:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות עסקאות!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את ההזמנות!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_load</key>
-		<value><![CDATA[אזהרה: אין צו עם מזהה כזה!]]></value>
+		<value><![CDATA[אזהרה: לא נמצאה הזמנה עם מזהה כזה!]]></value>
 	</definition>
 	<definition>
 		<key>text_order_summary</key>
-		<value><![CDATA[סיכום הזמנה]]></value>
+		<value><![CDATA[סיכום ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>tab_order_details</key>
-		<value><![CDATA[פרטי הזמנה]]></value>
+		<value><![CDATA[פרטי ההזמנה]]></value>
+	</definition>
+	<definition>
+		<key>tab_address</key>
+		<value><![CDATA[כתובת ההזמנה]]></value>
 	</definition>
 	<definition>
 		<key>tab_history</key>
-		<value><![CDATA[סטטוס &amp; תגובות]]></value>
+		<value><![CDATA[סטטוס & הערות]]></value>
 	</definition>
 	<definition>
 		<key>tab_files</key>
-		<value><![CDATA[קבצים להזמין]]></value>
+		<value><![CDATA[קבצי הזמנה]]></value>
 	</definition>
 	<definition>
 		<key>tab_payment_details</key>
@@ -286,23 +294,23 @@
 	</definition>
 	<definition>
 		<key>edit_title_files</key>
-		<value><![CDATA[קבצים להזמין ערוך]]></value>
+		<value><![CDATA[ערוך קבצי הזמנה]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_file</key>
-		<value><![CDATA[מסמך חסר]]></value>
+		<value><![CDATA[קובץ חסר]]></value>
 	</definition>
 	<definition>
 		<key>order_download_history</key>
-		<value><![CDATA[היסטוריית הורדות]]></value>
+		<value><![CDATA[היסטוריית ההורדות]]></value>
 	</definition>
 	<definition>
 		<key>text_time</key>
-		<value><![CDATA[זְמַן]]></value>
+		<value><![CDATA[זמן]]></value>
 	</definition>
 	<definition>
 		<key>text_filename</key>
-		<value><![CDATA[שם קובץ]]></value>
+		<value><![CDATA[שם הקובץ]]></value>
 	</definition>
 	<definition>
 		<key>text_mask</key>
@@ -310,19 +318,19 @@
 	</definition>
 	<definition>
 		<key>text_download_percent</key>
-		<value><![CDATA[אחוזים להורדה]]></value>
+		<value><![CDATA[אחוזי הורדה]]></value>
 	</definition>
 	<definition>
 		<key>text_download_expired</key>
-		<value><![CDATA[פג תוקף תאריך]]></value>
+		<value><![CDATA[התאריך פג תוקף]]></value>
 	</definition>
 	<definition>
 		<key>text_download_remaining_count</key>
-		<value><![CDATA[נותר COUNT]]></value>
+		<value><![CDATA[כמות שנותרה]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status_required</key>
-		<value><![CDATA[מצב הזמנה &quot;%s &#39;נדרש]]></value>
+		<value><![CDATA[מצב ההזמנה "%s" נדרש]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -330,47 +338,39 @@
 	</definition>
 	<definition>
 		<key>text_push_download</key>
-		<value><![CDATA[- הורדת Push -]]></value>
+		<value><![CDATA[- לחץ להורדה -]]></value>
 	</definition>
 	<definition>
 		<key>text_add_product_to_order</key>
-		<value><![CDATA[הוסף מוצר לפי הזמנה #%s]]></value>
+		<value><![CDATA[הוסף מוצר להזמנה #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_order_product</key>
-		<value><![CDATA[מוצרים ערוכים]]></value>
+		<value><![CDATA[ערוך מוצר]]></value>
 	</definition>
 	<definition>
 		<key>attention_check_total</key>
-		<value><![CDATA[הערה: פרטי מוצר להזמין השתנו. סה&quot;כ הייתה מחדש באופן אוטומטי. סקירה נדרשה.]]></value>
+		<value><![CDATA[שים לב: פרטי מוצרי ההזמנה השתנו. הסכום הכולל חושב מחדש באופן אוטומטי. דרושה סקירה.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_add</key>
-		<value><![CDATA[להוסיף כמות חדשה חישוב הכולל]]></value>
+		<value><![CDATA[הוסף סכום חדש לחישוב הכולל]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_title</key>
-		<value><![CDATA[כותרת כדי להראות]]></value>
+		<value><![CDATA[כותרת להצגה]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_amount</key>
-		<value><![CDATA[כמות]]></value>
+		<value><![CDATA[סכום]]></value>
 	</definition>
 	<definition>
 		<key>text_recalc</key>
-		<value><![CDATA[חישוב מחדש תוך שימוש בהגדרות]]></value>
+		<value><![CDATA[חשב מחדש באמצעות ההגדרות]]></value>
 	</definition>
 	<definition>
 		<key>entry_im</key>
-		<value><![CDATA[IM:]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[מק&quot;ט]]></value>
-	</definition>
-	<definition>
-		<key>tab_address</key>
-		<value><![CDATA[כתובת ההזמנה]]></value>
+		<value><![CDATA[הודעות מיידיות:]]></value>
 	</definition>
 	<definition>
 		<key>entry_stock_locations</key>
@@ -382,6 +382,6 @@
 	</definition>
 	<definition>
 		<key>text_enable_google_map</key>
-		<value><![CDATA[כדי להציג כתובות במפת Google האינטראקטיבית, ספק מפתח API של Google בהגדרות הכלליות]]></value>
+		<value><![CDATA[כדי להציג כתובות במפה האינטראקטיבית של גוגל, ספק מפתח API של גוגל בהגדרות הכלליות.]]></value>
 	</definition>
 </definitions>

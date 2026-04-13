@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>heading_title_loginname</key>
-		<value><![CDATA[Elfelejtette bejelentkezési nevét?]]></value>
+		<value><![CDATA[Elfelejtette a bejelentkezési nevét?]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,31 +14,31 @@
 	</definition>
 	<definition>
 		<key>text_forgotten</key>
-		<value><![CDATA[elfelejtett jelszó]]></value>
+		<value><![CDATA[Elfelejtett jelszó]]></value>
 	</definition>
 	<definition>
 		<key>text_your_email</key>
-		<value><![CDATA[Az email címed]]></value>
+		<value><![CDATA[Az Ön e-mail címe]]></value>
 	</definition>
 	<definition>
 		<key>text_email</key>
-		<value><![CDATA[Írja be az e-mail címet a fiókjához társított. Kattintson benyújtja azt a jelszavát e-mailben elküldjük]]></value>
+		<value><![CDATA[Adja meg a fiókjához tartozó e-mail címet. Kattintson a „Küldés” gombra, hogy e-mailben elküldjük Önnek a jelszavát.]]></value>
 	</definition>
 	<definition>
 		<key>text_loginname_email</key>
-		<value><![CDATA[Adja meg a bejelentkezési nevét és e-mail címet a fiókjához társított. Kattintson nyújtson kérni jelszó]]></value>
+		<value><![CDATA[Adja meg a fiókjához tartozó bejelentkezési nevet és e-mail címet. Kattintson a Küldés gombra a jelszó visszaállításának kéréséhez.]]></value>
 	</definition>
 	<definition>
 		<key>text_lastname_email</key>
-		<value><![CDATA[Írja be az utolsó név és e-mail címet a fiókjához társított. Kattintson benyújtja hogy a bejelentkezési nevét elküldjük Önnek]]></value>
+		<value><![CDATA[Adja meg az Ön fiókjához tartozó vezetéknevet és e-mail címet. Kattintson a Küldés gombra, és e-mailben elküldjük Önnek a bejelentkezési nevét.]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Jelszó visszaállítás linket küldtünk a megadott e-mail címre.]]></value>
+		<value><![CDATA[Siker: A jelszó-visszaállító linket elküldtük az e-mail címére.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_loginname</key>
-		<value><![CDATA[Siker: A bejelentkezési név emlékeztető küldtünk a megadott e-mail címre.]]></value>
+		<value><![CDATA[Siker: A bejelentkezési név emlékeztetőjét elküldtük az Ön e-mail címére.]]></value>
 	</definition>
 	<definition>
 		<key>entry_loginname</key>
@@ -50,26 +50,26 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email cím:]]></value>
+		<value><![CDATA[E-mail cím:]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[Hiba: Az e-mail címet nem, vagy nem találja a rekordok, próbáld újra!]]></value>
+		<value><![CDATA[Hiba: Az e-mail címet nem adták meg, vagy nem található a nyilvántartásunkban, kérjük, próbálja újra!]]></value>
 	</definition>
 	<definition>
 		<key>error_loginname</key>
-		<value><![CDATA[Hiba: A bejelentkezési név nem volt biztosított, vagy nem találja a rekordok, próbáld újra!]]></value>
+		<value><![CDATA[Hiba: A bejelentkezési név nem lett megadva, vagy nem található a nyilvántartásunkban, kérjük, próbálja újra!]]></value>
 	</definition>
 	<definition>
 		<key>error_lastname</key>
-		<value><![CDATA[Hiba: Az utolsó név nem volt biztosított, vagy nem találja a rekordok, próbáld újra!]]></value>
+		<value><![CDATA[Hiba: a vezetéknév nem lett megadva vagy nem található a nyilvántartásunkban, kérjük, próbálja újra!]]></value>
 	</definition>
 	<definition>
 		<key>error_not_found</key>
-		<value><![CDATA[Hiba: Nem található rekord megfelelő információkat az előírt, ellenőrizze az adatokat, és próbálja újra!]]></value>
+		<value><![CDATA[Hiba: Nem találhatók rekordok az Ön által megadott információnak megfelelően, kérjük, ellenőrizze az adatait, és próbálja újra!]]></value>
 	</definition>
 	<definition>
 		<key>text_forgotten_loginname</key>
-		<value><![CDATA[Elfelejtette bejelentkezési név]]></value>
+		<value><![CDATA[Elfelejtett bejelentkezési név]]></value>
 	</definition>
 </definitions>

@@ -1,20 +1,20 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>text_enlarge</key>
-		<value><![CDATA[Кликните на изображение, чтобы увеличить]]></value>
+		<value><![CDATA[Нажмите на изображение, чтобы увеличить]]></value>
 	</definition>
 	<definition>
 		<key>text_zoom</key>
-		<value><![CDATA[Наведите указатель на изображение, чтобы увеличить]]></value>
+		<value><![CDATA[Переместите указатель на изображение для увеличения]]></value>
 	</definition>
 	<definition>
 		<key>text_quantity_discount</key>
-		<value><![CDATA[Скидка при покупке нескольких единиц:]]></value>
+		<value><![CDATA[оптовая скидка:]]></value>
 	</definition>
 	<definition>
 		<key>text_options</key>
-		<value><![CDATA[Доступные опции:]]></value>
+		<value><![CDATA[Возможные варианты:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -33,28 +33,20 @@
 		<value><![CDATA[Модель:]]></value>
 	</definition>
 	<definition>
-		<key>text_sku</key>
-		<value><![CDATA[SKU:]]></value>
-	</definition>
-	<definition>
 		<key>text_manufacturer</key>
-		<value><![CDATA[Бренд:]]></value>
+		<value><![CDATA[Производитель:]]></value>
 	</definition>
 	<definition>
 		<key>text_instock</key>
-		<value><![CDATA[В наличии]]></value>
-	</definition>
-	<definition>
-		<key>text_out_of_stock</key>
-		<value><![CDATA[Нет в наличии]]></value>
+		<value><![CDATA[На складе]]></value>
 	</definition>
 	<definition>
 		<key>text_order_quantity</key>
-		<value><![CDATA[Количество заказа]]></value>
+		<value><![CDATA[Объём заказа]]></value>
 	</definition>
 	<definition>
 		<key>text_price_per_item</key>
-		<value><![CDATA[Цена за единицу]]></value>
+		<value><![CDATA[Поштучная цена]]></value>
 	</definition>
 	<definition>
 		<key>text_write</key>
@@ -62,11 +54,11 @@
 	</definition>
 	<definition>
 		<key>text_no_reviews</key>
-		<value><![CDATA[Нет отзывов для этого товара.]]></value>
+		<value><![CDATA[Нет отзывов об этом товаре.]]></value>
 	</definition>
 	<definition>
 		<key>text_average</key>
-		<value><![CDATA[Средний рейтинг:]]></value>
+		<value><![CDATA[Средняя оценка:]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
@@ -74,27 +66,27 @@
 	</definition>
 	<definition>
 		<key>text_no_rating</key>
-		<value><![CDATA[Нет рейтинга]]></value>
+		<value><![CDATA[Нет оценки]]></value>
 	</definition>
 	<definition>
 		<key>text_no_images</key>
-		<value><![CDATA[Нет дополнительных изображений для этого товара.]]></value>
+		<value><![CDATA[Нет дополнительных изображений для данного продукта.]]></value>
 	</definition>
 	<definition>
 		<key>text_no_related</key>
-		<value><![CDATA[Нет связанных товаров для этого товара.]]></value>
+		<value><![CDATA[Нет сопутствующих товаров для этого продукта.]]></value>
 	</definition>
 	<definition>
 		<key>text_qty</key>
-		<value><![CDATA[Количество:]]></value>
+		<value><![CDATA[Кол-во:]]></value>
 	</definition>
 	<definition>
 		<key>text_note</key>
-		<value><![CDATA[<span style="color: #FF0000;">Примечание:</span> Не используйте HTML код в тексте.]]></value>
+		<value><![CDATA[<span style="color: #FF0000;">Примечание:</span> HTML разметка не поддерживается!]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Спасибо за ваш отзыв. Он был отправлен веб-мастеру на утверждение.]]></value>
+		<value><![CDATA[Спасибо за ваш отзыв. Он поступил администратору для проверки на спам и вскоре будет опубликован.]]></value>
 	</definition>
 	<definition>
 		<key>text_wait</key>
@@ -110,11 +102,11 @@
 	</definition>
 	<definition>
 		<key>text_minimum</key>
-		<value><![CDATA[(Этот продукт имеет минимальное количество %s)]]></value>
+		<value><![CDATA[(Минимальное количество заказа этого товара %s )]]></value>
 	</definition>
 	<definition>
 		<key>text_maximum</key>
-		<value><![CDATA[(Этот продукт имеет максимальное количество %s)]]></value>
+		<value><![CDATA[(Этот продукт имеет ограничение %s штук в заказе)]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -126,7 +118,7 @@
 	</definition>
 	<definition>
 		<key>entry_rating</key>
-		<value><![CDATA[Рейтинг:]]></value>
+		<value><![CDATA[Оценка:]]></value>
 	</definition>
 	<definition>
 		<key>entry_good</key>
@@ -138,7 +130,7 @@
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Введите код в поле ниже:]]></value>
+		<value><![CDATA[Введите код, указанный на картинке:]]></value>
 	</definition>
 	<definition>
 		<key>tab_description</key>
@@ -150,19 +142,15 @@
 	</definition>
 	<definition>
 		<key>tab_review</key>
-		<value><![CDATA[Отзывы (%s)]]></value>
-	</definition>
-	<definition>
-		<key>tab_review_empty</key>
-		<value><![CDATA[Нет отзывов]]></value>
+		<value><![CDATA[Отзывы ( %s )]]></value>
 	</definition>
 	<definition>
 		<key>tab_related</key>
-		<value><![CDATA[Связанные товары]]></value>
+		<value><![CDATA[Сопутствующие товары]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Ошибка: Имя отзыва должно быть от 3 до 25 символов!]]></value>
+		<value><![CDATA[Ошибка: Имя должно быть от 3 до 25 символов!]]></value>
 	</definition>
 	<definition>
 		<key>error_text</key>
@@ -170,15 +158,15 @@
 	</definition>
 	<definition>
 		<key>error_rating</key>
-		<value><![CDATA[Ошибка: Пожалуйста, выберите рейтинг отзыва!]]></value>
+		<value><![CDATA[Ошибка: Пожалуйста, выберите оценку!]]></value>
 	</definition>
 	<definition>
 		<key>text_total_price</key>
-		<value><![CDATA[Общая цена:]]></value>
+		<value><![CDATA[Общая стоимость:]]></value>
 	</definition>
 	<definition>
 		<key>text_login_view_price</key>
-		<value><![CDATA[Пожалуйста, войдите в систему или зарегистрируйтесь, чтобы увидеть цену или сделать заказ.]]></value>
+		<value><![CDATA[Пожалуйста, войдите или зарегистрируйтесь, чтобы увидеть цену или заказать.]]></value>
 	</definition>
 	<definition>
 		<key>tab_downloads</key>
@@ -186,19 +174,31 @@
 	</definition>
 	<definition>
 		<key>text_start_download</key>
-		<value><![CDATA[Начать загрузку]]></value>
+		<value><![CDATA[Скачать]]></value>
 	</definition>
 	<definition>
 		<key>text_new_review</key>
-		<value><![CDATA[Ожидает одобрения отзыв о продукте]]></value>
+		<value><![CDATA[Ожидание одобрения отзыва продукта]]></value>
 	</definition>
 	<definition>
 		<key>text_pending_review_approval</key>
-		<value><![CDATA[Отзыв о продукте с идентификатором %s опубликован. Требуется действие по одобрению! Нажмите, чтобы просмотреть #admin#rt=catalog/review/update&review_id=%s]]></value>
+		<value><![CDATA[Отзыв о продукте № %s сохранен. Требуется одобрение. Кликните чтобы просмотреть #admin#rt=catalog/review/update&review_id=%s]]></value>
+	</definition>
+	<definition>
+		<key>text_out_of_stock</key>
+		<value><![CDATA[Нет на складе]]></value>
+	</definition>
+	<definition>
+		<key>tab_review_empty</key>
+		<value><![CDATA[Отзывы]]></value>
 	</definition>
 	<definition>
 		<key>text_verified_review</key>
 		<value><![CDATA[Подтвержденная покупка]]></value>
+	</definition>
+	<definition>
+		<key>text_sku</key>
+		<value><![CDATA[Артикул:]]></value>
 	</definition>
 	<definition>
 		<key>percentage_review</key>
@@ -214,10 +214,10 @@
 	</definition>
 	<definition>
 		<key>write_review_title</key>
-		<value><![CDATA[Написать отзыв]]></value>
+		<value><![CDATA[Написать обзор]]></value>
 	</definition>
 	<definition>
 		<key>product_rate_title</key>
-		<value><![CDATA[Оценка продукта]]></value>
+		<value><![CDATA[Рейтинг продукта]]></value>
 	</definition>
 </definitions>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[מנהל תבנית]]></value>
+		<value><![CDATA[מנהל התבניות]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: אתה צריך להגדיר תבנית חנות חדשה!]]></value>
+		<value><![CDATA[הצלחה: הגדרת תבנית חנות חדשה!]]></value>
 	</definition>
 	<definition>
 		<key>text_storefront_templates</key>
-		<value><![CDATA[תבניות Storefront זמינות]]></value>
+		<value><![CDATA[תבניות חזית החנות הזמינות]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_extension</key>
-		<value><![CDATA[הגדרות תוסף]]></value>
+		<value><![CDATA[הגדרות התוסף]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>

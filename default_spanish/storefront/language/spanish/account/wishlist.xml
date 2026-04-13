@@ -6,19 +6,19 @@
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Cuenta]]></value>
+		<value><![CDATA[Сuenta]]></value>
 	</definition>
 	<definition>
 		<key>text_empty_wishlist</key>
-		<value><![CDATA[La lista de deseos está vacía]]></value>
+		<value><![CDATA[Lista de la compra está vacía]]></value>
 	</definition>
 	<definition>
 		<key>button_cart</key>
-		<value><![CDATA[Ver carrito]]></value>
+		<value><![CDATA[Ver Carrito]]></value>
 	</definition>
 	<definition>
 		<key>button_continue</key>
-		<value><![CDATA[Continuar comprando]]></value>
+		<value><![CDATA[Continuar Compras]]></value>
 	</definition>
 	<definition>
 		<key>column_image</key>
@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Nombre]]></value>
+		<value><![CDATA[Título]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>column_price</key>
-		<value><![CDATA[Precio unitario]]></value>
+		<value><![CDATA[Precio Unitario]]></value>
 	</definition>
 	<definition>
 		<key>column_actions</key>

@@ -1,5 +1,4 @@
-
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>encryption_data_manager_name</key>
@@ -11,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
-		<value><![CDATA[Инструменты Шифрования Данных]]></value>
+		<value><![CDATA[Инструменты шифрования данных]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -23,74 +22,76 @@
 	</definition>
 	<definition>
 		<key>button_generate_keys</key>
-		<value><![CDATA[Генерация пары ключей]]></value>
+		<value><![CDATA[Сгенерировать пару ключей]]></value>
 	</definition>
 	<definition>
 		<key>button_encrypt_data</key>
-		<value><![CDATA[Шифрование данных]]></value>
+		<value><![CDATA[Зашифровать данные]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Предупреждение: Вы не имеете прав на изменение доставки на основе веса!]]></value>
+		<value><![CDATA[Предупреждение: У вас нет прав изменять доставку по весу!]]></value>
 	</definition>
 	<definition>
 		<key>error_duplicate_key</key>
-		<value><![CDATA[Ошибка: Выбранный пара ключа уже существует!]]></value>
+		<value><![CDATA[Ошибка: выбранная пара имени ключа уже существует!]]></value>
 	</definition>
 	<definition>
 		<key>encryption_data_manager_note</key>
-		<value><![CDATA[<b>Это расширение требует продвинутой конфигурацией и внимания</b>
-	<br/><b>После включения и шифрования данных, нет НИКАКОГО способа отмены и расширение не может быть отключено!</b>
-	<br/> Это расширение позволяет помочь управлять шифрованием и созданием ключей и миграции данных из открытых к зашифрованным таблицам (начальная миграция) <br/>
-	<b>ОБРАТИТЕ ВНИМАНИЕ:</b> вы должны иметь версию PHP с <b>ВКЛЮЧЕННЫМ</b> SSL шифрованием <br/><br/> Чтобы включить шифрование данных, пожалуйста, прочитайте инструкции (кнопка HOW TO)]]></value>
+		<value><![CDATA[<b>Это расширение требует ПРОДВИНУТОЙ настройки и внимания</b><br/> 
+<b>После включения и шифрования данных ОТМЕНИТЬ НЕЛЬЗЯ, и расширение нельзя будет отключить!</b><br/> 
+Это расширение помогает управлять созданием ключей шифрования и миграцией данных из открытых таблиц в зашифрованные (начальная миграция)<br/> 
+<b>ПРИМЕЧАНИЕ:</b> необходимо иметь PHP с SSL-шифрованием <b>ВКЛЮЧЕННЫМ</b> 
+<br/> 
+<br/>Чтобы включить шифрование данных, пожалуйста, прочитайте инструкцию (кнопка «HOW TO»)]]></value>
 	</definition>
 	<definition>
 		<key>error_openssl_disabled</key>
-		<value><![CDATA[Предупреждение: OpenSSL для PHP не доступен или не активирован. Вы не можете использовать шифрование или это расширение! <br> Проверьте раздел ПОМОЩЬ для этого расширения для получения более подробной информации.]]></value>
+		<value><![CDATA[Внимание: OpenSSL для PHP недоступен или не активирован. Вы не можете использовать шифрование или это расширение! <br> Проверьте HELP этого расширения для получения дополнительной информации.]]></value>
 	</definition>
 	<definition>
 		<key>error_data_encryption_disabled</key>
-		<value><![CDATA[Предупреждение: Шифрование данных не включено на вашем AbanteCart. Вы не можете шифровать/дешифровать данных, используя это расширение! <br> Проверьте раздел ПОМОЩЬ для этого расширения для получения более подробной информации.]]></value>
+		<value><![CDATA[Внимание: шифрование данных не включено в вашем AbanteCart. Вы не можете шифровать/расшифровывать данные с помощью этого расширения! <br> Обратитесь к разделу HELP этого расширения для получения дополнительной информации.]]></value>
 	</definition>
 	<definition>
 		<key>key_gen_section_name</key>
-		<value><![CDATA[Генерация пары ключей]]></value>
+		<value><![CDATA[Сгенерировать пару ключей]]></value>
 	</definition>
 	<definition>
 		<key>data_encryption</key>
-		<value><![CDATA[Шифрование данных]]></value>
+		<value><![CDATA[Шифровать данные]]></value>
 	</definition>
 	<definition>
 		<key>error_required_data_missing</key>
-		<value><![CDATA[Отсутствуют данные обязательных полей. Пожалуйста, проверьте, введенные данные]]></value>
+		<value><![CDATA[Отсутствуют обязательные поля данных. Пожалуйста, проверьте предоставленные значения.]]></value>
 	</definition>
 	<definition>
 		<key>entry_key_name</key>
-		<value><![CDATA[Уникальный имя пары ключей:<br /><span class="help">Имя не должно содержать пробелов или специальных символов. Делайте его коротким и простым.</span>]]></value>
+		<value><![CDATA[Уникальное имя ключевой пары:<br /><span class="help">Имя не должно содержать пробелов или специальных символов. Держите его коротким и простым.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_key_length</key>
-		<value><![CDATA[Длина ключа (в битах):<br /><span class="help">Укажите длину бита ключа шифрования. Чем больше число, тем более надежное шифрование, но может снизить производительность (Диапазон 256 - 8192)</span>]]></value>
+		<value><![CDATA[Key length (bits):<br /><span class="help">Укажите длину ключа шифрования в битах. Большие значения обеспечивают более сильное шифрование, но могут замедлять производительность (диапазон 256 - 8192)</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_private_key_type</key>
-		<value><![CDATA[Тип Шифрования:<br /><span class="help">Это алгоритм шифрования. Используйте по умолчанию RSA, если вы не опытный пользователь.</span>]]></value>
+		<value><![CDATA[Тип шифрования:<br /><span class="help">Это алгоритм шифрования. Используйте RSA по умолчанию, если вы не продвинутый пользователь.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_encrypt_key</key>
-		<value><![CDATA[Включить пароль на основе ключа: <br /> <span class="help">Если включить, ДОПОЛНИТЕЛЬНАЯ фраза будет необходима для расшифровки текста с использованием закрытого ключа. ПРИМЕЧАНИЕ. Не поддерживается при шифровании данных.</span>]]></value>
+		<value><![CDATA[Включить ключ на основе пароля:<br /><span class="help">Если включено, для расшифровки текста с помощью закрытого ключа потребуется дополнительная парольная фраза. ПРИМЕЧАНИЕ. В настоящее время это не поддерживается при шифровании данных.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_passphrase</key>
-		<value><![CDATA[Ключевая фраза или пароль ключа:<br /><span class="help">Запомните фразу или же ключ(и) будут бесполезны и данные могут быть утеряны</span>]]></value>
+		<value><![CDATA[Парольная фраза или пароль ключа:<br /><span class="help">Помните, что парольная фраза или ключ(и) будут бесполезны, и данные могут быть утеряны</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_success_key_get</key>
-		<value><![CDATA[<b>Пара ключа была создана. См. ключи ниже и храните их в безопасности.</b> <br/><br/> %s <br/><br/> %s ]]></value>
+		<value><![CDATA[<b>Пара ключей создана. Посмотрите ключи ниже и храните их в безопасности.</b> <br/><br/> %s <br/><br/> %s]]></value>
 	</definition>
 	<definition>
 		<key>error_generating_keys_failed</key>
-		<value><![CDATA[Не удачная генерация пары ключей. Проверьте настройки и проверьте журнал ошибок.]]></value>
+		<value><![CDATA[Генерация пары ключей не удалась. Проверьте ваши настройки и журнал ошибок.]]></value>
 	</definition>
 	<definition>
 		<key>entry_enc_key</key>
@@ -98,35 +99,36 @@
 	</definition>
 	<definition>
 		<key>entry_enc_tables</key>
-		<value><![CDATA[Таблица(ы) для шифрования:<br /><span class="help">Показаные таблицы будет зашифрованы с выбранным ключем. Данные могут быть открыты только с этим ключом</span>]]></value>
+		<value><![CDATA[Таблица(ы) для шифрования:<br /><span class="help">Показанные таблица(ы) будут зашифрованы выбранным ключом. Данные можно открыть только с этим ключом</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_enc_test_mode</key>
-		<value><![CDATA[Тестовый режим:<br /><span class="help">Сначала проверьте, что все в порядке, перед шифрованием.</span>]]></value>
+		<value><![CDATA[Тестовый режим:<br /><span class="help">Сначала убедитесь, что всё готово к шифрованию.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_enc_remove_original</key>
-		<value><![CDATA[Удалить исходные данные:<br /><span class="help">Удалить исходные не зашифрованные данные после завершения шифрования</span>]]></value>
+		<value><![CDATA[Удалить исходные данные:<br /><span class="help">Удалить исходные незашифрованные записи данных после завершения шифрования</span>]]></value>
 	</definition>
 	<definition>
 		<key>text_success_encrypting</key>
-		<value><![CDATA[<b>Данные были зашифрованы.<br />Подробнее:</b> <br/><br/> %s <br /><br /> <b>Если вы хотите чтобы этот ключ был использован для нового шифрования данных, добавите следующую строку в файл system/config.php : define('DATA_ENCRYPTION_KEYPAIR', '%s'); </b> ]]></value>
+		<value><![CDATA[<b>Данные были зашифрованы. <br />	См. подробности:</b> <br/><br/> %s <br /><br /> <b>Если вы хотите, чтобы этот ключ использовался для шифрования новых данных, добавьте следующую строку в файл system/config.php : define('DATA_ENCRYPTION_KEYPAIR', '%s');</b>]]></value>
 	</definition>
 	<definition>
 		<key>text_encryption_test</key>
-		<value><![CDATA[<b>Результат теста шифрования данных</b> прверьте журнал ошибок на возможные ошибки! <br/><br/>%s]]></value>
+		<value><![CDATA[<b>Результат теста шифрования данных</b> Проверьте журнал ошибок на наличие возможных ошибок! <br/><br/> %s]]></value>
 	</definition>
 	<definition>
 		<key>error_encrypting</key>
-		<value><![CDATA[Шифрование данных не удалось. Проверьте настройки и проверьте журнал ошибок.]]></value>
+		<value><![CDATA[Не удалось зашифровать данные. Проверьте ваши настройки и журнал ошибок.]]></value>
 	</definition>
 	<definition>
 		<key>post_encrypting_notice</key>
-		<value><![CDATA[<b>Важные замечания! После завершения шифрования данные будут скопированы в зеркальные таблицы с данными зашифрованных в них. <br /> Следуйте инструкциям, чтобы добавить конфигурацию в system/config.php для AbanteCart для переключения операций чтения/записи к зашифрованным таблицам.</b> <br /> Добавить следующую строку в конфигурационном файле: define('DATA_ENCRYPTION_KEYPAIR', 'your_key_name');<br> Это будет ключ по умолчанию для операций чтения/записи]]></value>
+		<value><![CDATA[<b>Важные примечания! После завершения шифрования данные будут скопированы в зеркальные таблицы с зашифрованными в них данными.	
+<br />Следуйте инструкциям по добавлению конфигурации в файл system/config.php для AbanteCart, чтобы переключить операции чтения/записи на зашифрованные таблицы. </b><br />Добавьте следующую строку в файл конфигурации: define('DATA_ENCRYPTION_KEYPAIR', 'your_key_name'); <br>Это будет ключ по умолчанию для операций чтения/записи.]]></value>
 	</definition>
 	<definition>
 		<key>encryption_usage</key>
-		<value><![CDATA[Статистика шифрования]]></value>
+		<value><![CDATA[Использование шифрования]]></value>
 	</definition>
 	<definition>
 		<key>text_unencrepted_records</key>
@@ -134,7 +136,7 @@
 	</definition>
 	<definition>
 		<key>warn_encrypt_open_data</key>
-		<value><![CDATA[Используйте вкладку &quot;Шифрование данных&quot; для начала шифрования]]></value>
+		<value><![CDATA[Используйте вкладку 'Шифровать данные' для первоначального шифрования]]></value>
 	</definition>
 	<definition>
 		<key>text_encrepted_records</key>
@@ -142,19 +144,19 @@
 	</definition>
 	<definition>
 		<key>text_usage_heading_key_id</key>
-		<value><![CDATA[Идентификатор ключа]]></value>
+		<value><![CDATA[ID ключа]]></value>
 	</definition>
 	<definition>
 		<key>text_usage_heading_key_name</key>
-		<value><![CDATA[Имя ключа]]></value>
+		<value><![CDATA[Название ключа]]></value>
 	</definition>
 	<definition>
 		<key>text_usage_heading_key_tables</key>
-		<value><![CDATA[Зашифрованные Таблицы Статистика]]></value>
+		<value><![CDATA[Использование зашифрованных таблиц]]></value>
 	</definition>
 	<definition>
 		<key>text_usage_heading_key_rotate</key>
-		<value><![CDATA[Сменить Шифрование на новый ключ]]></value>
+		<value><![CDATA[Сменить (изменить) ключ шифрования на новый]]></value>
 	</definition>
 	<definition>
 		<key>text_usage_records</key>

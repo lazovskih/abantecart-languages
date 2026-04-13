@@ -5,10 +5,6 @@
 		<value><![CDATA[CardKnox]]></value>
 	</definition>
 	<definition>
-		<key>cardknox_note</key>
-		<value><![CDATA[]]></value>
-	</definition>
-	<definition>
 		<key>cardknox_transaction_key</key>
 		<value><![CDATA[Transakční klíč (xKey)]]></value>
 	</definition>
@@ -22,23 +18,23 @@
 	</definition>
 	<definition>
 		<key>cardknox_success_order_status</key>
-		<value><![CDATA[Stav objednávky: <br/><span class="help">Stav objednávky, který bude nastaven po dokončení objednávky zákazníka na základě nastavené Transakční metody</span>]]></value>
+		<value><![CDATA[Stav objednávky:<br /><span class="help">Stav objednávky, který se nastaví po dokončení objednávky zákazníka na základě zvolené transakční metody</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id</key>
-		<value><![CDATA[Místo: <br/><span class="help">Omezte, chcete-li povolit tuto platební metodu pouze vybraným místům.</span>]]></value>
+		<value><![CDATA[Lokalita:<br /><span class="help">Omezit použití této platební metody pouze na vybrané lokality.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechna umístění]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method</key>
-		<value><![CDATA[Transakční metoda: <br/><span class="help">transakce CardKnox, které proběhnou u pokladny zákazníka před nastavením stavu objednávky. Pouze autorizace nebo zachycení.</span>]]></value>
+		<value><![CDATA[Metoda transakce:<br /><span class="help">CardKnox transakce, která proběhne při pokladně zákazníka před nastavením stavu objednávky. Pouze autorizace nebo zachycení.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_capture</key>
-		<value><![CDATA[Zachyťte]]></value>
+		<value><![CDATA[Zachytit]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_transaction_method_authorization</key>
@@ -46,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>cardknox_ifields_key</key>
-		<value><![CDATA[Klíč iFields]]></value>
+		<value><![CDATA[iFields Klíč]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_pending_authorization</key>
@@ -54,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_capture_funds</key>
-		<value><![CDATA[Capture Funds]]></value>
+		<value><![CDATA[Zúčtovat prostředky]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_capture</key>
-		<value><![CDATA[Zachyťte]]></value>
+		<value><![CDATA[Zachytit]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_payment_status</key>
@@ -70,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_text_processing</key>
-		<value><![CDATA[Zpracování]]></value>
+		<value><![CDATA[Zpracovává se]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_do_refund</key>
-		<value><![CDATA[Do CardKnox Refund: <span class="help">Můžete zadat částku, kterou je třeba vrátit.</span>]]></value>
+		<value><![CDATA[Proveďte vrácení platby CardKnox:<span class="help">Můžete zadat částku, kterou je třeba vrátit.</span>]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refunded</key>
@@ -86,11 +82,11 @@
 	</definition>
 	<definition>
 		<key>cardknox_refund_title</key>
-		<value><![CDATA[Vrácení peněz CardKnox]]></value>
+		<value><![CDATA[CardKnox Vrácení platby]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_text_refund_success</key>
-		<value><![CDATA[Úspěch! Objednávka byla úspěšně vrácena.]]></value>
+		<value><![CDATA[Úspěch! Platba za objednávku byla úspěšně vrácena.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_empty_amount</key>
@@ -98,7 +94,7 @@
 	</definition>
 	<definition>
 		<key>cardknox_error_no_payment_method_data</key>
-		<value><![CDATA[Chyba! Pro tuto objednávku nejsou žádné údaje o způsobu platby.]]></value>
+		<value><![CDATA[Chyba! Pro tuto objednávku nejsou k dispozici žádné údaje o platební metodě.]]></value>
 	</definition>
 	<definition>
 		<key>cardknox_error_no_order_id</key>

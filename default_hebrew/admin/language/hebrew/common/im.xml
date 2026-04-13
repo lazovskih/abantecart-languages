@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>im_text_notification</key>
@@ -6,39 +6,43 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update</key>
-		<value><![CDATA[עדכונים להזמין]]></value>
+		<value><![CDATA[עדכוני הזמנות]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_customer</key>
-		<value><![CDATA[ההזמנה שלך <a href="%s">#%s</a> עודכן. לפרטים נוספים, היכנס %s חשבון.]]></value>
+		<value><![CDATA[ההזמנה שלך <a href="%s">#%s</a> עודכנה. לפרטים נוספים, התחבר לחשבון %s.]]></value>
+	</definition>
+	<definition>
+		<key>im_order_update_text_to_guest</key>
+		<value><![CDATA[ההזמנה שלך <a href="%s">#%s</a> עודכנה. לפרטים נוספים, אנא בקר בדף ההזמנה %s.]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_order</key>
-		<value><![CDATA[פקודות חדשות]]></value>
+		<value><![CDATA[הזמנות חדשות]]></value>
 	</definition>
 	<definition>
 		<key>im_new_order_text_to_admin</key>
-		<value><![CDATA[ניו אורדר <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> נוצר!]]></value>
+		<value><![CDATA[הזמנה חדשה <a href="#admin#rt=sale/order/details&order_id=%s">#%s</a> נוצרה!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_new_customer</key>
-		<value><![CDATA[רישומי לקוחות]]></value>
+		<value><![CDATA[הרשמות לקוחות]]></value>
 	</definition>
 	<definition>
 		<key>im_new_customer_text_to_admin</key>
-		<value><![CDATA[# לקוח חדש %s נרשם!]]></value>
+		<value><![CDATA[לקוח חדש #%s נרשם!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_account_update</key>
-		<value><![CDATA[עדכוני חשבון מנהל משתמש]]></value>
+		<value><![CDATA[עדכונים לחשבון משתמש מנהל]]></value>
 	</definition>
 	<definition>
 		<key>im_account_update_text_to_admin</key>
-		<value><![CDATA[שונו פרטי חשבון המשתמש של מנהל מערכת שלך.]]></value>
+		<value><![CDATA[פרטי חשבון המשתמש של מנהל המערכת שלך שונו.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_admin</key>
-		<value><![CDATA[# לקוח חדש %s עודכן!]]></value>
+		<value><![CDATA[לקוח חדש #%s עודכן!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_contact</key>
@@ -46,11 +50,11 @@
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_out_of_stock</key>
-		<value><![CDATA[מוצרים אזלו]]></value>
+		<value><![CDATA[מוצרים אזלו מהמלאי]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_product_review</key>
-		<value><![CDATA[סקירות מוצר חדשות]]></value>
+		<value><![CDATA[ביקורות מוצרים חדשים]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter</key>
@@ -62,30 +66,26 @@
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_customer</key>
-		<value><![CDATA[עסקה חדשה כבר פורסמה %s חשבונך בסך של %s. לפרטים נוספים, היכנס %s חשבון.]]></value>
+		<value><![CDATA[עסקה חדשה נרשמה בחשבון %s שלך בסך %s. לפרטים נוספים, התחבר לחשבון %s.]]></value>
 	</definition>
 	<definition>
 		<key>text_notification_for</key>
-		<value><![CDATA[הודעות עבור משתמש %s]]></value>
+		<value><![CDATA[הודעות למשתמש %s]]></value>
 	</definition>
 	<definition>
 		<key>error_unknown_sendpoint</key>
-		<value><![CDATA[Sendpoint %s לא נמצא ברשימת sendpoints!]]></value>
+		<value><![CDATA[נקודת השליחה %s לא נמצאה ברשימת נקודות השליחה!]]></value>
 	</definition>
 	<definition>
 		<key>text_settings_success_saved</key>
-		<value><![CDATA[הגדרות לגבי הודעות נשמרו בהצלחה!]]></value>
+		<value><![CDATA[הגדרות ההתראות נשמרו בהצלחה!]]></value>
 	</definition>
 	<definition>
 		<key>im_error_mail_address</key>
-		<value><![CDATA[דוא&quot;ל כתובה %s נראית כמו חוקי!]]></value>
-	</definition>
-	<definition>
-		<key>im_order_update_text_to_guest</key>
-		<value><![CDATA[ההזמנה שלך <a href="%s">#%s</a> עודכן. לפרטים נוספים, בקרו בדף ההזמנות %s.]]></value>
+		<value><![CDATA[כתובת האימייל %s נראית לא תקינה!]]></value>
 	</definition>
 	<definition>
 		<key>im_threshold</key>
-		<value><![CDATA[סף רמת מלאי מינימלי]]></value>
+		<value><![CDATA[סף רמת המלאי המינימלית]]></value>
 	</definition>
 </definitions>

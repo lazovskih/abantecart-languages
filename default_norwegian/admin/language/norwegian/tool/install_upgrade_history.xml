@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[installere / oppgradere Historie]]></value>
+		<value><![CDATA[installasjon/oppgraderingshistorikk]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Package Key]]></value>
+		<value><![CDATA[Pakkenøkkel]]></value>
 	</definition>
 	<definition>
 		<key>column_version</key>
@@ -22,26 +22,26 @@
 	</definition>
 	<definition>
 		<key>column_backup_date</key>
-		<value><![CDATA[backup Dato]]></value>
+		<value><![CDATA[Sikkerhetskopidato]]></value>
 	</definition>
 	<definition>
 		<key>column_backup_file</key>
-		<value><![CDATA[backup File]]></value>
+		<value><![CDATA[Sikkerhetskopifil]]></value>
 	</definition>
 	<definition>
 		<key>column_user</key>
-		<value><![CDATA[brukernavn]]></value>
+		<value><![CDATA[Brukernavn]]></value>
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[for å laste ned filen]]></value>
+		<value><![CDATA[å laste ned fil]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_history</key>
-		<value><![CDATA[Slett Historie]]></value>
+		<value><![CDATA[Slett historikk]]></value>
 	</definition>
 	<definition>
 		<key>text_delete_success</key>
-		<value><![CDATA[Din Installer / oppgradering Historien har blitt slettet.]]></value>
+		<value><![CDATA[Din installasjons-/oppgraderingshistorikk har blitt slettet med hell.]]></value>
 	</definition>
 </definitions>

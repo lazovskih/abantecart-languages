@@ -1,20 +1,20 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Сводка заказа]]></value>
+		<value><![CDATA[Сводка заказов]]></value>
 	</definition>
 	<definition>
 		<key>text_subtotal</key>
-		<value><![CDATA[Подытог:]]></value>
+		<value><![CDATA[Итого:]]></value>
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[0 товаров]]></value>
+		<value><![CDATA[0 штук]]></value>
 	</definition>
 	<definition>
 		<key>text_confirm</key>
-		<value><![CDATA[Подтвердить?]]></value>
+		<value><![CDATA[Подтверждаете?]]></value>
 	</definition>
 	<definition>
 		<key>text_remove</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_view</key>
-		<value><![CDATA[Просмотреть корзину]]></value>
+		<value><![CDATA[Корзина]]></value>
 	</definition>
 	<definition>
 		<key>text_checkout</key>

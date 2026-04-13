@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_subject</key>
-		<value><![CDATA[%s - Objednávka aktualizace %s]]></value>
+		<value><![CDATA[%s - Aktualizace objednávky %s]]></value>
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Číslo objednávky:]]></value>
+		<value><![CDATA[ID objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
-		<value><![CDATA[Datum Objednáno:]]></value>
+		<value><![CDATA[Datum objednávky:]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status</key>
@@ -18,14 +18,14 @@
 	</definition>
 	<definition>
 		<key>text_comment</key>
-		<value><![CDATA[Připomínky k vaší objednávce jsou následující:]]></value>
+		<value><![CDATA[Komentáře k vaší objednávce jsou:]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice</key>
-		<value><![CDATA[Chcete-li zobrazit objednávky, klikněte na odkaz níže:]]></value>
+		<value><![CDATA[Pro zobrazení vaší objednávky klikněte na níže uvedený odkaz:]]></value>
 	</definition>
 	<definition>
 		<key>text_footer</key>
-		<value><![CDATA[Prosím, odpovězte na tento e-mail, pokud máte nějaké otázky.]]></value>
+		<value><![CDATA[Prosím odpovězte na tento e-mail, pokud máte jakékoli dotazy.]]></value>
 	</definition>
 </definitions>

@@ -1,40 +1,36 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Мой аккаунт]]></value>
+		<value><![CDATA[Личный Кабинет]]></value>
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[Панель управления аккаунтом]]></value>
+		<value><![CDATA[Информационная панель]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[Аккаунт]]></value>
+		<value><![CDATA[Личный Кабинет]]></value>
 	</definition>
 	<definition>
 		<key>text_my_account</key>
-		<value><![CDATA[Мой аккаунт]]></value>
+		<value><![CDATA[Моя учетная запись]]></value>
 	</definition>
 	<definition>
 		<key>text_my_orders</key>
-		<value><![CDATA[Мои заказы]]></value>
-	</definition>
-	<definition>
-		<key>text_my_notifications</key>
-		<value><![CDATA[Уведомления]]></value>
+		<value><![CDATA[Мои Заказы]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
-		<value><![CDATA[Редактировать данные аккаунта]]></value>
+		<value><![CDATA[Изменить учетные записи]]></value>
 	</definition>
 	<definition>
 		<key>text_password</key>
-		<value><![CDATA[Сменить пароль]]></value>
+		<value><![CDATA[Изменить пароль]]></value>
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Управление адресной книгой]]></value>
+		<value><![CDATA[Изменить адресную книгу]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
@@ -46,14 +42,18 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[Загрузки]]></value>
+		<value><![CDATA[Файлы для скачивания]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Подписка на рассылку]]></value>
+		<value><![CDATA[Подписка на новости]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>
-		<value><![CDATA[Мой список желаемого]]></value>
+		<value><![CDATA[Ваш список пожеланий]]></value>
+	</definition>
+	<definition>
+		<key>text_my_notifications</key>
+		<value><![CDATA[Уведомления]]></value>
 	</definition>
 </definitions>

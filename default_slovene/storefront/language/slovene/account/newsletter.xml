@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Newsletter Naročnina]]></value>
+		<value><![CDATA[Naročnina na e-novice]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[račun]]></value>
+		<value><![CDATA[Račun]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Glasilo]]></value>
+		<value><![CDATA[Novičnik]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: Vaša naročnina glasilo je bil uspešno posodobljen!]]></value>
+		<value><![CDATA[Uspešno: Vaša naročnina na e-novice je bila uspešno posodobljena!]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_customer_registration</key>
-		<value><![CDATA[PRIJAVA]]></value>
+		<value><![CDATA[Registracija kupca]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
@@ -30,6 +30,6 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Human preverjanje ni uspelo! Poskusite Agan.]]></value>
+		<value><![CDATA[Preverjanje človeka ni uspelo! Prosimo, poskusite znova.]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Święcenia]]></value>
+		<value><![CDATA[Zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>edit_title_details</key>
-		<value><![CDATA[Edytuj szczegóły Zamówienie]]></value>
+		<value><![CDATA[Edytuj szczegóły zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>edit_title_shipping</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>edit_title_payment</key>
-		<value><![CDATA[Edycja adresu płatności]]></value>
+		<value><![CDATA[Edytuj adres rozliczeniowy]]></value>
 	</definition>
 	<definition>
 		<key>title_payment_details</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>text_order_id</key>
-		<value><![CDATA[Numer zamówienia:]]></value>
+		<value><![CDATA[ID zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>text_invoice_id</key>
-		<value><![CDATA[Faktury nr.:]]></value>
+		<value><![CDATA[Nr faktury:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -58,11 +58,11 @@
 	</definition>
 	<definition>
 		<key>text_ship_to</key>
-		<value><![CDATA[Statek (jeśli inny adres)]]></value>
+		<value><![CDATA[Wysyłka do (jeśli inny adres)]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_orders</key>
-		<value><![CDATA[Brakujące Zamówienia]]></value>
+		<value><![CDATA[Brakujące zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>text_wait</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>column_order</key>
-		<value><![CDATA[Identyfikator zamówienia]]></value>
+		<value><![CDATA[ID zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -86,7 +86,7 @@
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[Całkowity]]></value>
+		<value><![CDATA[Razem]]></value>
 	</definition>
 	<definition>
 		<key>column_product</key>
@@ -102,11 +102,15 @@
 	</definition>
 	<definition>
 		<key>column_price</key>
-		<value><![CDATA[Cena za sztukę]]></value>
+		<value><![CDATA[Cena jednostkowa]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[SKU]]></value>
 	</definition>
 	<definition>
 		<key>column_download</key>
-		<value><![CDATA[Pobierz Nazwa]]></value>
+		<value><![CDATA[Nazwa pobrania]]></value>
 	</definition>
 	<definition>
 		<key>column_file</key>
@@ -118,7 +122,7 @@
 	</definition>
 	<definition>
 		<key>column_expire_date</key>
-		<value><![CDATA[Data ważności]]></value>
+		<value><![CDATA[Data wygaśnięcia]]></value>
 	</definition>
 	<definition>
 		<key>column_mask</key>
@@ -126,11 +130,11 @@
 	</definition>
 	<definition>
 		<key>column_notify</key>
-		<value><![CDATA[Jednostka klienta]]></value>
+		<value><![CDATA[Klient powiadomiony]]></value>
 	</definition>
 	<definition>
 		<key>column_comment</key>
-		<value><![CDATA[Kolejność Komentarz Klienta]]></value>
+		<value><![CDATA[Komentarz klienta do zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -138,11 +142,11 @@
 	</definition>
 	<definition>
 		<key>entry_order_id</key>
-		<value><![CDATA[Numer zamówienia:]]></value>
+		<value><![CDATA[ID zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>entry_invoice_id</key>
-		<value><![CDATA[Faktura ID:]]></value>
+		<value><![CDATA[ID faktury:]]></value>
 	</definition>
 	<definition>
 		<key>entry_customer</key>
@@ -150,7 +154,7 @@
 	</definition>
 	<definition>
 		<key>entry_firstname</key>
-		<value><![CDATA[Pierwsze imię:]]></value>
+		<value><![CDATA[Imię:]]></value>
 	</definition>
 	<definition>
 		<key>entry_lastname</key>
@@ -182,7 +186,7 @@
 	</definition>
 	<definition>
 		<key>entry_store_url</key>
-		<value><![CDATA[Url Store:]]></value>
+		<value><![CDATA[Adres URL sklepu:]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_added</key>
@@ -190,7 +194,7 @@
 	</definition>
 	<definition>
 		<key>entry_shipping_method</key>
-		<value><![CDATA[Sposób wysyłki:]]></value>
+		<value><![CDATA[Metoda wysyłki:]]></value>
 	</definition>
 	<definition>
 		<key>entry_payment_method</key>
@@ -198,7 +202,7 @@
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[Oryginalny Zamówienie Razem:]]></value>
+		<value><![CDATA[Oryginalna wartość zamówienia:]]></value>
 	</definition>
 	<definition>
 		<key>entry_order_status</key>
@@ -222,7 +226,7 @@
 	</definition>
 	<definition>
 		<key>entry_postcode</key>
-		<value><![CDATA[Kod pocztowy:]]></value>
+		<value><![CDATA[ZIP/Kod pocztowy:]]></value>
 	</definition>
 	<definition>
 		<key>entry_city</key>
@@ -230,11 +234,11 @@
 	</definition>
 	<definition>
 		<key>entry_zone</key>
-		<value><![CDATA[Region / Stan:]]></value>
+		<value><![CDATA[Region / Województwo:]]></value>
 	</definition>
 	<definition>
 		<key>entry_zone_code</key>
-		<value><![CDATA[Region / Kod państwa:]]></value>
+		<value><![CDATA[Kod regionu / stanu:]]></value>
 	</definition>
 	<definition>
 		<key>entry_country</key>
@@ -246,31 +250,35 @@
 	</definition>
 	<definition>
 		<key>entry_notify</key>
-		<value><![CDATA[Powiadomi Klienta:]]></value>
+		<value><![CDATA[Powiadom klienta:]]></value>
 	</definition>
 	<definition>
 		<key>entry_append</key>
-		<value><![CDATA[Dołącz Komentarze:]]></value>
+		<value><![CDATA[Dołącz komentarze:]]></value>
 	</definition>
 	<definition>
 		<key>entry_add_product</key>
-		<value><![CDATA[Dodaj produkt:]]></value>
+		<value><![CDATA[Dodaj dostępny produkt:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania zleceń!]]></value>
+		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikowania zamówień!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_load</key>
-		<value><![CDATA[Ostrzeżenie: Nie porządek z takim ID!]]></value>
+		<value><![CDATA[Ostrzeżenie: Brak zamówienia o takim ID!]]></value>
 	</definition>
 	<definition>
 		<key>text_order_summary</key>
-		<value><![CDATA[podsumowanie zamowienia]]></value>
+		<value><![CDATA[Podsumowanie zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>tab_order_details</key>
 		<value><![CDATA[Szczegóły zamówienia]]></value>
+	</definition>
+	<definition>
+		<key>tab_address</key>
+		<value><![CDATA[Adres zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>tab_history</key>
@@ -278,7 +286,7 @@
 	</definition>
 	<definition>
 		<key>tab_files</key>
-		<value><![CDATA[pliki Zamówienie]]></value>
+		<value><![CDATA[Pliki zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>tab_payment_details</key>
@@ -286,7 +294,7 @@
 	</definition>
 	<definition>
 		<key>edit_title_files</key>
-		<value><![CDATA[Edycja plików Zamówienie]]></value>
+		<value><![CDATA[Edytuj pliki zamówienia]]></value>
 	</definition>
 	<definition>
 		<key>text_missing_file</key>
@@ -294,7 +302,7 @@
 	</definition>
 	<definition>
 		<key>order_download_history</key>
-		<value><![CDATA[Historia pobierania]]></value>
+		<value><![CDATA[Historia pobrań]]></value>
 	</definition>
 	<definition>
 		<key>text_time</key>
@@ -310,19 +318,19 @@
 	</definition>
 	<definition>
 		<key>text_download_percent</key>
-		<value><![CDATA[Pobierz Percents]]></value>
+		<value><![CDATA[Procenty pobrań]]></value>
 	</definition>
 	<definition>
 		<key>text_download_expired</key>
-		<value><![CDATA[termin minął]]></value>
+		<value><![CDATA[Data wygasła]]></value>
 	</definition>
 	<definition>
 		<key>text_download_remaining_count</key>
-		<value><![CDATA[pozostała hrabia]]></value>
+		<value><![CDATA[Pozostała liczba]]></value>
 	</definition>
 	<definition>
 		<key>text_order_status_required</key>
-		<value><![CDATA[Status zamówienia &quot;%s&quot; Wymagane]]></value>
+		<value><![CDATA[Status zamówienia "%s" jest wymagany]]></value>
 	</definition>
 	<definition>
 		<key>text_select_product</key>
@@ -330,55 +338,47 @@
 	</definition>
 	<definition>
 		<key>text_push_download</key>
-		<value><![CDATA[- Push Pobierz -]]></value>
+		<value><![CDATA[- Naciśnij Pobierz -]]></value>
 	</definition>
 	<definition>
 		<key>text_add_product_to_order</key>
-		<value><![CDATA[Dodaj Produkt na zamówienie #%s]]></value>
+		<value><![CDATA[Dodaj produkt do zamówienia #%s]]></value>
 	</definition>
 	<definition>
 		<key>text_edit_order_product</key>
-		<value><![CDATA[Edycja wyrobów]]></value>
+		<value><![CDATA[Edytuj produkt]]></value>
 	</definition>
 	<definition>
 		<key>attention_check_total</key>
-		<value><![CDATA[Uwaga: Dane zamówienia został zmieniony. Całkowita został obliczony automatycznie. wymagana jest weryfikacja.]]></value>
+		<value><![CDATA[Uwaga: szczegóły zamawianego produktu zostały zmienione. Całkowita kwota została automatycznie przeliczona. Wymagana jest weryfikacja.]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_add</key>
-		<value><![CDATA[Dodaj nową wartość do obliczenia całkowitej]]></value>
+		<value><![CDATA[Dodaj nową kwotę do obliczenia sumy całkowitej]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_title</key>
-		<value><![CDATA[Tytuł aby pokazać]]></value>
+		<value><![CDATA[Tytuł do wyświetlenia]]></value>
 	</definition>
 	<definition>
 		<key>text_order_total_amount</key>
-		<value><![CDATA[Ilość]]></value>
+		<value><![CDATA[Kwota]]></value>
 	</definition>
 	<definition>
 		<key>text_recalc</key>
-		<value><![CDATA[Przelicz użyciu ustawień]]></value>
+		<value><![CDATA[Przelicz ponownie przy użyciu ustawień]]></value>
 	</definition>
 	<definition>
 		<key>entry_im</key>
-		<value><![CDATA[JESTEM:]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[Numer katalogowy]]></value>
-	</definition>
-	<definition>
-		<key>tab_address</key>
-		<value><![CDATA[Adres zamówienia]]></value>
+		<value><![CDATA[Komunikator:]]></value>
 	</definition>
 	<definition>
 		<key>entry_stock_locations</key>
-		<value><![CDATA[Lokalizacje magazynowe:]]></value>
+		<value><![CDATA[Lokalizacje zapasów:]]></value>
 	</definition>
 	<definition>
 		<key>edit_title_map</key>
-		<value><![CDATA[Aktualny]]></value>
+		<value><![CDATA[Na mapie]]></value>
 	</definition>
 	<definition>
 		<key>text_enable_google_map</key>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Ukupan Naručivanje]]></value>
+		<value><![CDATA[Ukupni iznosi narudžbe]]></value>
 	</definition>
 	<definition>
 		<key>text_install</key>
-		<value><![CDATA[Instaliranje]]></value>
+		<value><![CDATA[Instaliraj]]></value>
 	</definition>
 	<definition>
 		<key>text_uninstall</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Ukupan Naručivanje]]></value>
+		<value><![CDATA[Ukupni iznosi narudžbe]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -22,14 +22,14 @@
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[Redoslijed]]></value>
+		<value><![CDATA[Redoslijed sortiranja]]></value>
 	</definition>
 	<definition>
 		<key>column_calculation_order</key>
-		<value><![CDATA[Izračun narudžbe]]></value>
+		<value><![CDATA[Redoslijed izračuna]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 </definitions>

@@ -6,31 +6,31 @@
 	</definition>
 	<definition>
 		<key>text_shipping</key>
-		<value><![CDATA[מִשׁלוֹחַ]]></value>
+		<value><![CDATA[משלוח]]></value>
 	</definition>
 	<definition>
 		<key>text_additional_settings</key>
-		<value><![CDATA[ הגדרות נוספות ]]></value>
+		<value><![CDATA[הגדרות נוספות]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: שינית משלוח מבוסס משקל!]]></value>
+		<value><![CDATA[הצלחה: עדכנת את המשלוח המבוסס על משקל!]]></value>
 	</definition>
 	<definition>
 		<key>entry_rate</key>
-		<value><![CDATA[תעריפים: <br/><span class="help">דוגמה: 5:10.00,7:12.00 משקל:עלות,משקל:עלות וכו&#39;. בדוגמה זו 5 פאונד = $10.00. כאשר פאונד הוא מחלקת המשקל שלך בחנות ו-$ הוא מטבע החנות. אתה יכול לשנות את שניהם בהגדרות החנות</span>]]></value>
+		<value><![CDATA[תעריפים:<br /><span class="help">דוגמה: 5:10.00,7:12.00 משקל:עלות,משקל:עלות, וכו'. בדוגמה זו 5 פאונד = $10.00. כאשר פאונד הוא מחלקת המשקל של החנות ו-$ הוא מטבע הבסיס של החנות. באפשרותך לשנות שניהם בהגדרות החנות</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[סטָטוּס:]]></value>
+		<value><![CDATA[סטטוס:]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax</key>
-		<value><![CDATA[מחלקת מס:]]></value>
+		<value><![CDATA[סיווג מס:]]></value>
 	</definition>
 	<definition>
 		<key>entry_location</key>
-		<value><![CDATA[מִקוּם:]]></value>
+		<value><![CDATA[מיקום:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -38,14 +38,14 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[אזהרה: אין לך הרשאה לשנות משלוח מבוסס משקל!]]></value>
+		<value><![CDATA[אזהרה: אין לך הרשאה לשנות את המשלוח מבוסס המשקל!]]></value>
 	</definition>
 	<definition>
 		<key>example_weight_text</key>
-		<value><![CDATA[מִשׁקָל: ]]></value>
+		<value><![CDATA[משקל:]]></value>
 	</definition>
 	<definition>
 		<key>example_currency_text</key>
-		<value><![CDATA[מַטְבֵּעַ: ]]></value>
+		<value><![CDATA[מטבע:]]></value>
 	</definition>
 </definitions>

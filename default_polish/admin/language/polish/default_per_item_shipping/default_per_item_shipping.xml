@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_per_item_shipping_name</key>
-		<value><![CDATA[Za sztukę]]></value>
+		<value><![CDATA[za sztukę]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmieniłeś stawki wysyłki za przedmiot!]]></value>
+		<value><![CDATA[Sukces: Zmodyfikowałeś stawki wysyłki za sztukę!]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_cost</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_tax_0</key>
-		<value><![CDATA[---Nic---]]></value>
+		<value><![CDATA[---Brak---]]></value>
 	</definition>
 	<definition>
 		<key>default_per_item_shipping_location_id</key>

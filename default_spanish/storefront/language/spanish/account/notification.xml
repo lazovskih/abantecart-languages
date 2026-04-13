@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Notificaciones y Boletín]]></value>
+		<value><![CDATA[Notificaciones y Newsletter]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,10 +14,10 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Éxito: ¡La configuración de notificaciones se ha actualizado correctamente!]]></value>
+		<value><![CDATA[Éxito: los ajustes de notificación se ha actualizado correctamente!]]></value>
 	</definition>
 	<definition>
 		<key>text_sendpoint</key>
-		<value><![CDATA[Notificaciones]]></value>
+		<value><![CDATA[Enviar Point]]></value>
 	</definition>
 </definitions>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,15 +6,15 @@
 	</definition>
 	<definition>
 		<key>text_coupon</key>
-		<value><![CDATA[קוּפּוֹן]]></value>
+		<value><![CDATA[קופון]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך קופונים שונים!]]></value>
+		<value><![CDATA[הצלחה: עדכנת את הקופונים!]]></value>
 	</definition>
 	<definition>
 		<key>text_percent</key>
-		<value><![CDATA[אֲחוּזִים]]></value>
+		<value><![CDATA[אחוזים]]></value>
 	</definition>
 	<definition>
 		<key>text_amount</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[שם קופון]]></value>
+		<value><![CDATA[שם הקופון]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>column_date_end</key>
-		<value><![CDATA[סוף תאריך]]></value>
+		<value><![CDATA[תאריך סיום]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -50,19 +50,19 @@
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[שם קופון:]]></value>
+		<value><![CDATA[שם הקופון:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
-		<value><![CDATA[תיאור קופון:]]></value>
+		<value><![CDATA[תיאור הקופון:]]></value>
 	</definition>
 	<definition>
 		<key>entry_code</key>
-		<value><![CDATA[קוד: <br/><span class="help">קוד הלקוח נכנס כדי לקבל את ההנחה</span>]]></value>
+		<value><![CDATA[קוד:<br /><span class="help">הקוד שהלקוח מזין כדי לקבל את ההנחה</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_type</key>
-		<value><![CDATA[סוג: <br/><span class="help">אחוז או סכום קבוע</span>]]></value>
+		<value><![CDATA[סוג:<br /><span class="help">אחוז או סכום קבוע</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_discount</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>entry_logged</key>
-		<value><![CDATA[כניסת לקוחות: <br/><span class="help">לקוחות חייבים להיות מחוברים כדי להשתמש הקופון.</span>]]></value>
+		<value><![CDATA[התחברות לקוח:<br /><span class="help">הלקוח חייב להיות מחובר כדי להשתמש בקופון.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_shipping</key>
@@ -78,11 +78,15 @@
 	</definition>
 	<definition>
 		<key>entry_total</key>
-		<value><![CDATA[סה&quot;כ סכום: <br/><span class="help">סכום המשנה כולל חייבים להגיע לפני הקופון תקף.</span>]]></value>
+		<value><![CDATA[סכום כולל:<br/><span class="help">סך הביניים שצריך להגיע אליו לפני שהקופון יהיה בתוקף.</span>]]></value>
+	</definition>
+	<definition>
+		<key>entry_category</key>
+		<value><![CDATA[קטגוריות:<br/><span class="help">להחיל קופון כאשר מוצרים מאחת מהקטגוריות הנבחרות.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_product</key>
-		<value><![CDATA[מוצרים נבחרים:]]></value>
+		<value><![CDATA[מוצרים:<br/><span class="help">להחיל קופון כאשר העגלה מכילה אחד מהמוצרים הנבחרים.</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
@@ -90,23 +94,23 @@
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[סוף תאריך:]]></value>
+		<value><![CDATA[תאריך סיום:]]></value>
 	</definition>
 	<definition>
 		<key>entry_uses_total</key>
-		<value><![CDATA[שימושים לפי קופון: <br/><span class="help">המספר המרבי של פעמים הקופון ניתן להשתמש על ידי כל לקוח. השאר ריק עבור בלתי מוגבל</span>]]></value>
+		<value><![CDATA[שימושים לכל קופון:<br /><span class="help">המספר המקסימלי של פעמים שהקופון יכול לשמש כל לקוח. השאר ריק ללא הגבלה</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_uses_customer</key>
-		<value><![CDATA[שימושים לכל לקוח: <br/><span class="help">המספר המרבי של פעמים הקופון ניתן להשתמש על ידי לקוח בודד. השאר ריק עבור בלתי מוגבל</span>]]></value>
+		<value><![CDATA[שימושים לכל לקוח:<br /><span class="help">המספר המרבי של פעמים שניתן להשתמש בקופון על ידי לקוח בודד. השאר ריק כדי שיהיה ללא הגבלה</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[סטָטוּס:]]></value>
+		<value><![CDATA[סטטוס:]]></value>
 	</definition>
 	<definition>
 		<key>entry_total_coupon_usage</key>
-		<value><![CDATA[סה&quot;כ שימוש בשוברים: <br/><span class="help">במניין כלל ההזמנות שבוצע באמצעות קופון זה</span>]]></value>
+		<value><![CDATA[סה״כ שימוש בקופון:<br /><span class="help">מספר כל ההזמנות שבוצעו באמצעות קופון זה</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -114,23 +118,19 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[שם קופון חייב להיות בין 2 ו -64 תווים!]]></value>
+		<value><![CDATA[שם הקופון חייב להיות בין 2 ל-64 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_description</key>
-		<value><![CDATA[תיאור קופון חייב להיות בין 2 תווים!]]></value>
+		<value><![CDATA[תיאור הקופון חייב להיות בין 2 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_code</key>
-		<value><![CDATA[קוד חייב להיות בין 2 ו -10 תווים!]]></value>
+		<value><![CDATA[הקוד חייב להיות בין 2 ל-10 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_date</key>
-		<value><![CDATA[אנא להגדיר טווח תאריכים!]]></value>
-	</definition>
-	<definition>
-		<key>entry_category</key>
-		<value><![CDATA[קטגוריות: <br/><span class="help">החל קופון כאשר מוצרים מאחת מהקטגוריות הנבחרות.</span>]]></value>
+		<value><![CDATA[אנא הגדר טווח תאריכים!]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>
@@ -138,10 +138,10 @@
 	</definition>
 	<definition>
 		<key>text_or</key>
-		<value><![CDATA[אוֹ]]></value>
+		<value><![CDATA[או]]></value>
 	</definition>
 	<definition>
 		<key>text_and</key>
-		<value><![CDATA[ו]]></value>
+		<value><![CDATA[וגם]]></value>
 	</definition>
 </definitions>

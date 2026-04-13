@@ -2,35 +2,35 @@
 <definitions>
 	<definition>
 		<key>im_text_notification</key>
-		<value><![CDATA[ Уведомления ]]></value>
+		<value><![CDATA[ Уведомление]]></value>
 	</definition>
 	<definition>
 		<key>im_error_mail_address</key>
-		<value><![CDATA[ Email Address %s is not valid! ]]></value>
+		<value><![CDATA[ Адрес электронной почты %s не является действительным!]]></value>
 	</definition>
 	<definition>
 		<key>im_protocol_email_title</key>
-		<value><![CDATA[ Электронная почта ]]></value>
+		<value><![CDATA[ E-mail]]></value>
 	</definition>
 	<definition>
 		<key>im_protocol_sms_title</key>
-		<value><![CDATA[ СМС ]]></value>
+		<value><![CDATA[ SMS]]></value>
 	</definition>
 	<definition>
 		<key>im_protocol_sms_empty_warn</key>
-		<value><![CDATA[ СМС уведомления невозможны. Мобильный номер не сохранен в ваших учетных данных. ]]></value>
+		<value><![CDATA[ Вы не можете включить нотификации по смс, так как не указан номер мобильного телефона ]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update</key>
-		<value><![CDATA[ Обновление заказа ]]></value>
+		<value><![CDATA[ Обновление заказа]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_order_update_note</key>
-		<value><![CDATA[ Выберите, чтобы получать уведомления об обновлениях ваших заказов.]]></value>
+		<value><![CDATA[ Выберите, если хотите получать уведомления об обновлениях ваших заказов]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_admin</key>
-		<value><![CDATA[ Заказ #%s был обновлен! Идентификатор статуса заказа %s]]></value>
+		<value><![CDATA[ Заказ #%s был обновлен! ID статуса заказа %s ]]></value>
 	</definition>
 	<definition>
 		<key>im_order_update_text_to_customer</key>
@@ -42,54 +42,54 @@
 	</definition>
 	<definition>
 		<key>im_new_customer_text_to_admin</key>
-		<value><![CDATA[ Новый клиент #%s %s был зарегистрирован!]]></value>
-	</definition>
-	<definition>
-		<key>im_new_subscriber_text_to_admin</key>
-		<value><![CDATA[ Новый подписчик #%s %s был зарегистрирован!]]></value>
+		<value><![CDATA[ Новый клиент #%s был зарегистрирован!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_account_update</key>
-		<value><![CDATA[ Обновление аккаунта ]]></value>
+		<value><![CDATA[ Обновление учетной записи]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_customer_account_update_note</key>
-		<value><![CDATA[ Выберите, чтобы получать уведомления об обновлениях вашего аккаунта.]]></value>
+		<value><![CDATA[ Выберите, если хотите получать уведомления о ваших обновлениях в аккаунте.]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_account_update_text_to_customer</key>
-		<value><![CDATA[ Ваш аккаунт был обновлен! Если вы не вносили никаких изменений, пожалуйста, свяжитесь с владельцем сайта ]]></value>
-	</definition>
-	<definition>
-		<key>im_customer_account_update_email_to_customer</key>
-		<value><![CDATA[ Адрес электронной почты вашего аккаунта был изменен на %s! Если вы не вносили никаких изменений, пожалуйста, свяжитесь с владельцем сайта ]]></value>
-	</definition>
-	<definition>
-		<key>im_customer_account_update_login_to_customer</key>
-		<value><![CDATA[ Имя пользователя вашего аккаунта было изменено на %s! Если вы не вносили никаких изменений, пожалуйста, свяжитесь с владельцем сайта ]]></value>
-	</definition>
-	<definition>
-		<key>im_customer_account_update_password_to_customer</key>
-		<value><![CDATA[ Пароль вашего аккаунта был изменен! Если вы не вносили никаких изменений, пожалуйста, свяжитесь с владельцем сайта ]]></value>
+		<value><![CDATA[ Ваш аккаунт был обновлен!]]></value>
 	</definition>
 	<definition>
 		<key>im_customer_contact_admin_text</key>
-		<value><![CDATA[ У вас новый запрос от клиента (%s, %s)! ]]></value>
+		<value><![CDATA[ У вас есть новый запрос от клиента (%s, %s)!]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter</key>
-		<value><![CDATA[ Рассылка новостей ]]></value>
+		<value><![CDATA[ Информационные бюллетени]]></value>
 	</definition>
 	<definition>
 		<key>im_sendpoint_name_newsletter_note</key>
-		<value><![CDATA[ Выберите, чтобы получать уведомления о наших продуктах и обновлениях услуг.]]></value>
+		<value><![CDATA[ Выберите, если хотите получать уведомления о наших продуктах и обновлениях]]></value>
 	</definition>
 	<definition>
 		<key>im_product_review_text_to_admin</key>
-		<value><![CDATA[ Добавлен новый отзыв о продукте. Смотрите детали #admin#rt=catalog/review/update&review_id=%s ]]></value>
+		<value><![CDATA[ Новый обзор продукта был добавлен. Смотрите подробности #admin#rt=catalog/review/update&review_id=%s]]></value>
 	</definition>
 	<definition>
 		<key>im_product_out_of_stock_admin_text</key>
-		<value><![CDATA[ Товар с идентификатором #%s отсутствует на складе. ]]></value>
+		<value><![CDATA[ Продукта с ID #%s нет в наличии.]]></value>
+	</definition>
+	<definition>
+		<key>im_customer_account_update_email_to_customer</key>
+		<value><![CDATA[ Ваш адрес электронной почты был изменен на %s! Если это сделали не Вы, пожалуйста обратитесь к владельцу сайта.]]></value>
+	</definition>
+	<definition>
+		<key>im_customer_account_update_login_to_customer</key>
+		<value><![CDATA[ Ваше имя учетной записи почты было изменено на %s! Если это сделали не Вы, пожалуйста обратитесь к владельцу сайта.]]></value>
+	</definition>
+	<definition>
+		<key>im_customer_account_update_password_to_customer</key>
+		<value><![CDATA[	Ваш пароль учетной записи был изменен! Если это сделали не Вы, пожалуйста обратитесь к владельцу сайта.]]></value>
+	</definition>
+	<definition>
+		<key>im_new_subscriber_text_to_admin</key>
+		<value><![CDATA[ Зарегистрирован Новый Подписчик %s !]]></value>
 	</definition>
 </definitions>

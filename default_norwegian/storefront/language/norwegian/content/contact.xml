@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Din forespørsel har blitt sendt til den store eieren! </p>]]></value>
+		<value><![CDATA[<p>Din forespørsel har blitt sendt til butikkeieren med hell!</p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Epostadresse:]]></value>
+		<value><![CDATA[E-postadresse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_enquiry</key>
@@ -38,11 +38,11 @@
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Skriv inn koden i boksen under:]]></value>
+		<value><![CDATA[Skriv inn koden i boksen nedenfor:]]></value>
 	</definition>
 	<definition>
 		<key>email_subject</key>
-		<value><![CDATA[Forespørsel %s]]></value>
+		<value><![CDATA[Forespørsel fra %s]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
@@ -50,7 +50,7 @@
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-postadresse ser ikke ut til å være gyldig!]]></value>
+		<value><![CDATA[E-postadressen ser ikke ut til å være gyldig!]]></value>
 	</definition>
 	<definition>
 		<key>error_enquiry</key>
@@ -58,6 +58,6 @@
 	</definition>
 	<definition>
 		<key>entry_duplicate_message_subject</key>
-		<value><![CDATA[New Forespørsel Fra %s (%s)]]></value>
+		<value><![CDATA[Ny forespørsel fra %s (%s)]]></value>
 	</definition>
 </definitions>

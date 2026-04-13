@@ -2,36 +2,33 @@
 <definitions>
 	<definition>
 		<key>2checkout_name</key>
-		<value><![CDATA[2Kasa]]></value>
+		<value><![CDATA[2Checkout]]></value>
 	</definition>
 	<definition>
 		<key>text_payment</key>
-		<value><![CDATA[Zapłata]]></value>
+		<value><![CDATA[Płatność]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Sukces: Zmodyfikowano dane konta 2Checkout!]]></value>
+		<value><![CDATA[Sukces: zmodyfikowałeś szczegóły konta 2Checkout!]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_note</key>
-		<value><![CDATA[
- Dzięki temu rozszerzeniu możesz używać systemu płatności 2Checkout do akceptowania płatności od swoich klientów. <br/> 
- <b>Zarejestruj się za darmo już dziś! Użyj kodu promocyjnego ABANTECART2CO, aby uzyskać zwolnienie z opłaty za obsługę aplikacji (oszczędzasz 10,99 USD) i zacznij sprzedawać online już dziś!</b> Odwiedź <a href="https://www.2checkout.com/signup/">www.2checkout.com</a> , wypełnij wniosek, a następnie wprowadź kod w polu kodu promocyjnego, aby skorzystać z tej specjalnej oferty już dziś! 
- <br/> Po zarejestrowaniu zaloguj się, aby uzyskać dane logowania do konta w celu skonfigurowania tego rozszerzenia 
- <br/> Nie zapomnij skonfigurować adresu URL INS i adresu URL przekierowania tutaj <a href="https://secure.2checkout.com/cpanel/webhooks_api.php">https://secure.2checkout.com/cpanel/webhooks_api.php</a>. 
- <br/><br/> Twój adres URL INS to<h4> #storefront#rt=rozszerzenie/2checkout/callback</h4> 
- <br/><br/> Skonfiguruj również adres URL przekierowania i wybierz metodę zwrotu „Przekierowanie nagłówka”. 
- <br/><br/> Twój adres URL przekierowania to<h4> #storefront#rt=kasa/powodzenie</h4> 
-		 ]]></value>
+		<value><![CDATA[Z tym rozszerzeniem możesz używać systemu płatności 2Checkout do przyjmowania płatności od swoich klientów.<br>
+<b>Zarejestruj się bezpłatnie już dziś! Użyj kodu promocyjnego ABANTECART2CO, aby zwolnić opłatę serwisową aplikacji (oszczędność $10.99) i zacznij sprzedawać online już dziś!</b> Odwiedź <a href="https://www.2checkout.com/signup/">www.2checkout.com</a>, wypełnij formularz, a następnie wprowadź kod w polu kodu promocyjnego, aby skorzystać z tej specjalnej oferty już dziś!<br>
+Po rejestracji zaloguj się, aby uzyskać dane dostępowe do skonfigurowania tego rozszerzenia.<br>
+Nie zapomnij ustawić INS URL i Redirect URL tutaj <a href="https://secure.2checkout.com/cpanel/webhooks_api.php">https://secure.2checkout.com/cpanel/webhooks_api.php</a>.<br><br>
+Twój INS URL to <h4>#storefront#rt=extension/2checkout/callback</h4><br><br>
+Ustaw także Redirect URL i wybierz metodę zwrotu "Header redirect".<br><br>
+Twój Redirect URL to <h4>#storefront#rt=checkout/success</h4>]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_account</key>
-		<value><![CDATA[2Kod sprzedawcy w kasie:]]></value>
+		<value><![CDATA[Kod sprzedawcy 2Checkout:]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_secret</key>
-		<value><![CDATA[
- Klucz tajny: <br/><span class="help">Słowo tajne służące do potwierdzania transakcji (musi być takie samo, jak zdefiniowane na stronie konfiguracji konta sprzedawcy.</span>]]></value>
+		<value><![CDATA[Klucz tajny:<br /><span class="help">Tajne słowo służące do potwierdzania transakcji (musi być takie samo jak zdefiniowane na stronie konfiguracji konta sprzedawcy).</span>]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_test</key>
@@ -43,7 +40,7 @@
 	</definition>
 	<definition>
 		<key>2checkout_test_0</key>
-		<value><![CDATA[NIE]]></value>
+		<value><![CDATA[Nie]]></value>
 	</definition>
 	<definition>
 		<key>2checkout_order_status_id</key>
@@ -59,7 +56,7 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Ostrzeżenie: Nie masz uprawnień do modyfikacji płatności 2Checkout!]]></value>
+		<value><![CDATA[Ostrzeżenie: nie masz uprawnień do modyfikowania płatności 2Checkout!]]></value>
 	</definition>
 	<definition>
 		<key>error_account</key>
@@ -67,6 +64,6 @@
 	</definition>
 	<definition>
 		<key>error_secret</key>
-		<value><![CDATA[Wymagany jest klucz tajny!]]></value>
+		<value><![CDATA[Wymagany tajny klucz!]]></value>
 	</definition>
 </definitions>

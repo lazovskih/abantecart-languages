@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,11 +6,11 @@
 	</definition>
 	<definition>
 		<key>text_empty</key>
-		<value><![CDATA[Det er ingen spesielle tilby produkter til listen.]]></value>
+		<value><![CDATA[Det er ingen produkter med spesialtilbud å liste.]]></value>
 	</definition>
 	<definition>
 		<key>text_stars</key>
-		<value><![CDATA[%s Av 5 mulige!]]></value>
+		<value><![CDATA[%s av 5 stjerner!]]></value>
 	</definition>
 	<definition>
 		<key>text_sort</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>text_default</key>
-		<value><![CDATA[Misligholde]]></value>
+		<value><![CDATA[Standard]]></value>
 	</definition>
 	<definition>
 		<key>text_name_asc</key>
-		<value><![CDATA[Navn A - Å]]></value>
+		<value><![CDATA[Navn A - Z]]></value>
 	</definition>
 	<definition>
 		<key>text_name_desc</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>text_price_asc</key>
-		<value><![CDATA[Pris Lav &gt; Høy]]></value>
+		<value><![CDATA[Pris Lav > Høy]]></value>
 	</definition>
 	<definition>
 		<key>text_price_desc</key>
@@ -38,10 +38,10 @@
 	</definition>
 	<definition>
 		<key>text_rating_asc</key>
-		<value><![CDATA[Rating Laveste]]></value>
+		<value><![CDATA[Laveste vurdering]]></value>
 	</definition>
 	<definition>
 		<key>text_rating_desc</key>
-		<value><![CDATA[Rangering høyest]]></value>
+		<value><![CDATA[Høyeste vurdering]]></value>
 	</definition>
 </definitions>

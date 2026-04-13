@@ -2,11 +2,11 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Subidas de Archivos]]></value>
+		<value><![CDATA[Cargas de archivos]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Fecha de Adición]]></value>
+		<value><![CDATA[Fecha Agregada]]></value>
 	</definition>
 	<definition>
 		<key>column_path</key>

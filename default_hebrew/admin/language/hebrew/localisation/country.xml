@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[הצלחה: יש לך מדינות שונות!]]></value>
+		<value><![CDATA[הצלחה: שינית את המדינות!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
@@ -18,11 +18,11 @@
 	</definition>
 	<definition>
 		<key>column_iso_code_2</key>
-		<value><![CDATA[ISO קוד (2)]]></value>
+		<value><![CDATA[קוד ISO (2)]]></value>
 	</definition>
 	<definition>
 		<key>column_iso_code_3</key>
-		<value><![CDATA[ISO קוד (3)]]></value>
+		<value><![CDATA[קוד ISO (3)]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
@@ -30,11 +30,11 @@
 	</definition>
 	<definition>
 		<key>column_status</key>
-		<value><![CDATA[סטָטוּס]]></value>
+		<value><![CDATA[סטטוס]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[מדינת מצב:]]></value>
+		<value><![CDATA[סטטוס המדינה:]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -50,17 +50,17 @@
 	</definition>
 	<definition>
 		<key>entry_address_format</key>
-		<value><![CDATA[פורמט כתובת: <br/><span class="help">
- שם פרטי = {firstname} <br/> 
- שם משפחה = {lastname} <br/> 
- חברה = {company} <br/> 
- כתובת 1 
- {address_1} <br/> 
- כתובת 2 = {address_2} <br/> 
- עיר = {city} <br/> 
- מיקוד = {postcode} {zone_2 קוד <br/> } 
- אזור 3 
- <br/><br/> מדינה = {country}</span>]]></value>
+		<value><![CDATA[פורמט כתובת:<br /><span class="help">
+שם פרטי = {firstname}<br />
+שם משפחה = {lastname}<br />
+חברה = {company}<br />
+כתובת 1 = {address_1}<br />
+כתובת 2 = {address_2}<br />
+עיר = {city}<br />
+מיקוד = {postcode}<br />
+אזור = {zone}<br />
+קוד אזור = {zone_code}<br />
+מדינה = {country}</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -68,26 +68,26 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[המדינה שם חייב להיות בין 2 ל 128 תווים!]]></value>
+		<value><![CDATA[שם המדינה חייב להיות בין 2 ל-128 תווים!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[אזהרה: מדינה זו לא ניתן למחוק כפי שהוא מוקצה כעת כארץ החנות מחדל!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק מדינה זו מכיוון שהיא מוגדרת כעת כמדינת החנות ברירת המחדל!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[אזהרה: מדינה זו לא ניתן למחוק כפי שהוא מוקצה כעת %s בחנויות!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק מדינה זו מאחר שהיא משוייכת כיום ל-%s חנויות!]]></value>
 	</definition>
 	<definition>
 		<key>error_address</key>
-		<value><![CDATA[אזהרה: מדינה זו לא ניתן למחוק כפי שהוא מוקצה כעת רשום ספר %s כתובת!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק מדינה זו מכיוון שהיא משויכת כעת ל-%s רשומות בספר הכתובות!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone</key>
-		<value><![CDATA[אזהרה: מדינה זו לא ניתן למחוק כפי שהוא מוקצה כעת %s אזורים!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק מדינה זו כיוון שהיא משויכת כעת ל-%s אזורים!]]></value>
 	</definition>
 	<definition>
 		<key>error_zone_to_location</key>
-		<value><![CDATA[אזהרה: מדינה זו לא ניתן למחוק כפי שהוא מוקצה כעת %s אזורים למקומות!]]></value>
+		<value><![CDATA[אזהרה: לא ניתן למחוק מדינה זו מאחר שהיא מוקצת כרגע ל-%s אזורים למיקומים!]]></value>
 	</definition>
 </definitions>

@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspeh: spremenili ste lokalno dostavo!]]></value>
+		<value><![CDATA[Uspešno: Spremenili ste lokalno dostavo!]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_total</key>
-		<value><![CDATA[Najmanjši znesek naročila: <br/><span class="help">Najnižji vmesni znesek, ki mora biti izpolnjen, da je na voljo možnost dostave.</span>]]></value>
+		<value><![CDATA[Najmanjši znesek naročila:<br /><span class="help">Minimalni vmesni seštevek, ki ga je treba doseči, da je možnost dostave na voljo.</span>]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_cost</key>
@@ -26,11 +26,11 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>
-		<value><![CDATA[Poštne številke: <br/><span class="help">seznam poštnih številk, ločenih z vejicami. Nadomestni znak * je podprt. Primer 30001,3002,40*,*ND</span>]]></value>
+		<value><![CDATA[Poštne številke:<br /><span class="help"> Seznam poštnih številk, ločenih z vejicami. Podprt nadomestni znak *. Primer 30001,3002,40*,*ND</span>]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>

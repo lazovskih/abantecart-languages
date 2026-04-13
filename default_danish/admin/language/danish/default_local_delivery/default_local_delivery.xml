@@ -26,7 +26,7 @@
 	</definition>
 	<definition>
 		<key>default_local_delivery_tax_class_id_0</key>
-		<value><![CDATA[ -------- ]]></value>
+		<value><![CDATA[--------]]></value>
 	</definition>
 	<definition>
 		<key>default_local_delivery_postal_codes</key>

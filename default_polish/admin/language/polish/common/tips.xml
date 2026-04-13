@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_tip</key>
@@ -6,21 +6,21 @@
 	</definition>
 	<definition>
 		<key>no_enabled_payments_tip</key>
-		<value><![CDATA[<div class="info alert alert-warning"><i class="fa fa fa-exclamation-triangle fa-fw"></i> Trzeba jeszcze żadna metoda płatności włączona. </div> 
- <label class="h4 heading">Sprawdź najczęstsze płatności:</label> 
- <div class="row"> 
- <div class="col-sm-4 h5 center"> 
- <a href="#admin#rt=extension/extensions/install&extension=default_stripe">
- <img src="extensions/default_stripe/image/icon.png"><br/> Instalacja Stripe Extension</a> 
- </div> 
- <div class="col-sm-4 h5 center"> 
- <a href="#admin#rt=extension/extensions/install&extension=default_pp_standart">
- <img src="extensions/default_pp_standart/image/icon.png"><br/> Instalacja Paypal Extension</a> 
- </div> 
- <div class="col-sm-4 h5 center"> 
- <a href="#admin#rt=extension/extensions/payment" target="_extension">
- <img src="admin/view/default/image/default_extension.png"><br/> Więcej Płatności</a> 
- </div> 
- </div>]]></value>
+		<value><![CDATA[<div class="info alert alert-warning"><i class="fa fa fa-exclamation-triangle fa-fw"></i> Nie masz jeszcze włączonej żadnej metody płatności.</div>
+<label class="h4 heading">Sprawdź najpopularniejsze metody płatności:</label>
+<div class="row">
+		<div class="col-sm-4 h5 center">
+				<a href="#admin#rt=extension/extensions/install&extension=stripe">
+				<img src="extensions/stripe/image/icon.png"><br>Zainstaluj rozszerzenie Stripe</a>
+		</div>
+		<div class="col-sm-4 h5 center">
+				<a href="#admin#rt=extension/extensions/install&extension=paypal_commerce">
+				<img src="extensions/paypal_commerce/image/icon.png"><br>Zainstaluj rozszerzenie PayPal</a>
+		</div>
+		<div class="col-sm-4 h5 center">
+				<a href="#admin#rt=extension/extensions/payment" target="_extension">
+				<img src="admin/view/default/image/default_extension.png"><br>Więcej metod płatności</a>
+		</div>
+</div>]]></value>
 	</definition>
 </definitions>

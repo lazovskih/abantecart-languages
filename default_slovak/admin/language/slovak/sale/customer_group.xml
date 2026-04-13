@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,50 +6,50 @@
 	</definition>
 	<definition>
 		<key>breadcrumb_title</key>
-		<value><![CDATA[skupiny zákazníkov]]></value>
+		<value><![CDATA[Skupiny zákazníkov]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Zmenili ste skupiny zákazníkov!]]></value>
+		<value><![CDATA[Úspech: Zmenili ste zákaznícke skupiny!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Meno zákazníka Group]]></value>
+		<value><![CDATA[Názov skupiny zákazníkov]]></value>
 	</definition>
 	<definition>
 		<key>column_tax_exempt</key>
-		<value><![CDATA[oslobodené od dane]]></value>
+		<value><![CDATA[Oslobodené od dane]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[akčná]]></value>
+		<value><![CDATA[Akcia]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Zákazník Názov skupiny:]]></value>
+		<value><![CDATA[Názov skupiny zákazníkov:]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_exempt</key>
-		<value><![CDATA[Oslobodiť od všetkých daní:]]></value>
+		<value><![CDATA[Oslobodené od všetkých daní:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Varovanie: Nemáte oprávnenie na zmenu skupiny zákazníkov!]]></value>
+		<value><![CDATA[Upozornenie: Nemáte oprávnenie na úpravu skupín zákazníkov!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Zákazník Názov skupiny musí byť medzi 2 a 64 znakov!]]></value>
+		<value><![CDATA[Názov skupiny zákazníkov musí mať od 2 do 64 znakov!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Varovanie: Táto skupina zákazník nemôže byť zmazaný, pretože je aktuálne priradená ako predvolený skupine úložisko zákazníkov!]]></value>
+		<value><![CDATA[Upozornenie: Túto skupinu zákazníkov nie je možné odstrániť, pretože je momentálne priradená ako predvolená skupina zákazníkov obchodu!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Varovanie: Táto skupina zákazník nemôže byť zmazaný, pretože je aktuálne priradený %s obchodoch!]]></value>
+		<value><![CDATA[Upozornenie: Túto skupinu zákazníkov nie je možné odstrániť, pretože je momentálne priradená k %s obchodom!]]></value>
 	</definition>
 	<definition>
 		<key>error_customer</key>
-		<value><![CDATA[Varovanie: Táto skupina zákazník nemôže byť zmazaný, pretože je aktuálne priradený %s zákazníkom!]]></value>
+		<value><![CDATA[Varovanie: Táto skupina zákazníkov nemožno odstrániť, pretože je momentálne priradená k %s zákazníkom!]]></value>
 	</definition>
 </definitions>

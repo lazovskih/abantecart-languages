@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[jazykové Definícia]]></value>
+		<value><![CDATA[Definície jazyka]]></value>
 	</definition>
 	<definition>
 		<key>text_definition</key>
-		<value><![CDATA[jazyk Definition]]></value>
+		<value><![CDATA[Definícia jazyka]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Zmenili ste jazyk!]]></value>
+		<value><![CDATA[Úspech: Upravili ste jazyky!]]></value>
 	</definition>
 	<definition>
 		<key>column_language</key>
@@ -18,78 +18,78 @@
 	</definition>
 	<definition>
 		<key>column_key</key>
-		<value><![CDATA[kľúč]]></value>
+		<value><![CDATA[Kľúč]]></value>
 	</definition>
 	<definition>
 		<key>column_translation</key>
-		<value><![CDATA[preklad]]></value>
+		<value><![CDATA[Preklad]]></value>
 	</definition>
 	<definition>
 		<key>column_block</key>
-		<value><![CDATA[blok]]></value>
+		<value><![CDATA[Blok]]></value>
 	</definition>
 	<definition>
 		<key>column_update_date</key>
-		<value><![CDATA[dátum aktualizácie]]></value>
+		<value><![CDATA[Dátum aktualizácie]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcia]]></value>
+		<value><![CDATA[Akcie]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_key</key>
-		<value><![CDATA[kľúč]]></value>
+		<value><![CDATA[Kľúč]]></value>
 	</definition>
 	<definition>
 		<key>entry_language_value</key>
-		<value><![CDATA[hodnota]]></value>
+		<value><![CDATA[Hodnota]]></value>
 	</definition>
 	<definition>
 		<key>entry_translation</key>
-		<value><![CDATA[preklad]]></value>
+		<value><![CDATA[Preklad]]></value>
 	</definition>
 	<definition>
 		<key>entry_block</key>
-		<value><![CDATA[blok]]></value>
+		<value><![CDATA[Blok]]></value>
 	</definition>
 	<definition>
 		<key>entry_section</key>
-		<value><![CDATA[časť]]></value>
+		<value><![CDATA[Sekcia]]></value>
 	</definition>
 	<definition>
 		<key>text_admin</key>
-		<value><![CDATA[admin]]></value>
+		<value><![CDATA[Správca]]></value>
 	</definition>
 	<definition>
 		<key>text_storefront</key>
-		<value><![CDATA[výkladná skriňa]]></value>
+		<value><![CDATA[Predajňa]]></value>
 	</definition>
 	<definition>
 		<key>error_language_key</key>
-		<value><![CDATA[požadovaný jazyk kľúč!]]></value>
+		<value><![CDATA[Kľúč jazyka je povinný!]]></value>
 	</definition>
 	<definition>
 		<key>error_language_value</key>
-		<value><![CDATA[Preklad potrebné!]]></value>
+		<value><![CDATA[Preklad požadovaný!]]></value>
 	</definition>
 	<definition>
 		<key>error_block</key>
-		<value><![CDATA[potrebný blok!]]></value>
+		<value><![CDATA[Povinný blok!]]></value>
 	</definition>
 	<definition>
 		<key>error_section</key>
-		<value><![CDATA[Sekcia povinné!]]></value>
+		<value><![CDATA[Sekcia je povinná!]]></value>
 	</definition>
 	<definition>
 		<key>text_all_section</key>
-		<value><![CDATA[všetky sekcie]]></value>
+		<value><![CDATA[Všetky sekcie]]></value>
 	</definition>
 	<definition>
 		<key>text_all_languages</key>
-		<value><![CDATA[všetky jazyky]]></value>
+		<value><![CDATA[Všetky jazyky]]></value>
 	</definition>
 	<definition>
 		<key>error_already exists</key>
-		<value><![CDATA[Chyba! <br/> definícia Language tlačidlom &quot;%s&quot; a blok &quot;%s&quot; %s pre oddiel už existuje! <br/> Kliknutím <a target="_blank" href="%s">na tento odkaz</a> pre zobrazenie]]></value>
+		<value><![CDATA[Chyba!<br>Jazyková definícia s kľúčom "%s" a blokom "%s" pre sekciu %s už existuje!<br>Kliknite na <a target="_blank" href="%s">tento odkaz</a> pre zobrazenie]]></value>
 	</definition>
 </definitions>

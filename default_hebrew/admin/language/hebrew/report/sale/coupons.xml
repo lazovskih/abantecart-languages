@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[דווח נחות]]></value>
+		<value><![CDATA[דוח הנחות]]></value>
 	</definition>
 	<definition>
 		<key>column_coupon_name</key>
-		<value><![CDATA[דיסקונט / שם קופון]]></value>
+		<value><![CDATA[שם הנחה/קופון]]></value>
 	</definition>
 	<definition>
 		<key>column_code</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>column_orders</key>
-		<value><![CDATA[הזמנות מס]]></value>
+		<value><![CDATA[מס' הזמנות]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
-		<value><![CDATA[סה&quot;כ]]></value>
+		<value><![CDATA[סה"כ]]></value>
 	</definition>
 	<definition>
 		<key>column_discount_total</key>
-		<value><![CDATA[דיסקונט סה&quot;כ]]></value>
+		<value><![CDATA[סך ההנחה]]></value>
 	</definition>
 	<definition>
 		<key>entry_date_start</key>
@@ -30,6 +30,6 @@
 	</definition>
 	<definition>
 		<key>entry_date_end</key>
-		<value><![CDATA[סוף תאריך:]]></value>
+		<value><![CDATA[תאריך סיום:]]></value>
 	</definition>
 </definitions>

@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Butiks åbningstider]]></value>
+		<value><![CDATA[Butikkens åbningstider]]></value>
 	</definition>
 	<definition>
 		<key>closed</key>
@@ -10,19 +10,19 @@
 	</definition>
 	<definition>
 		<key>open</key>
-		<value><![CDATA[Åben]]></value>
+		<value><![CDATA[Åbn]]></value>
 	</definition>
 	<definition>
 		<key>sunday</key>
-		<value><![CDATA[søndag]]></value>
+		<value><![CDATA[Søndag]]></value>
 	</definition>
 	<definition>
 		<key>monday</key>
-		<value><![CDATA[mandag]]></value>
+		<value><![CDATA[Mandag]]></value>
 	</definition>
 	<definition>
 		<key>tuesday</key>
-		<value><![CDATA[tirsdag]]></value>
+		<value><![CDATA[Tirsdag]]></value>
 	</definition>
 	<definition>
 		<key>wednesday</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>friday</key>
-		<value><![CDATA[fredag]]></value>
+		<value><![CDATA[Fredag]]></value>
 	</definition>
 	<definition>
 		<key>saturday</key>

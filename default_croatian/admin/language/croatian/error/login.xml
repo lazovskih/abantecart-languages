@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Pogreška pri prijavi!]]></value>
+		<value><![CDATA[Pogreška prijave!]]></value>
 	</definition>
 	<definition>
 		<key>text_login</key>
-		<value><![CDATA[Niste prijavljeni na sustav. Vi ćete biti preusmjereni na stranicu za prijavu]]></value>
+		<value><![CDATA[Vi niste prijavljeni. Bit ćete preusmjereni na stranicu za prijavu. Ako se problem i dalje javlja, pokušajte izbrisati kolačiće. Međutim, vaša stranica mora biti otvorena u sigurnom načinu rada (https).]]></value>
 	</definition>
 </definitions>

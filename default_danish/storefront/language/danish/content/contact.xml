@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Din forespørgsel er blevet sendt til butikken ejer! </p>]]></value>
+		<value><![CDATA[<p>Din forespørgsel er blevet sendt til butiksejeren med succes!</p>]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
@@ -30,7 +30,7 @@
 	</definition>
 	<definition>
 		<key>entry_email</key>
-		<value><![CDATA[Email adresse:]]></value>
+		<value><![CDATA[E-mail-adresse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_enquiry</key>
@@ -38,19 +38,19 @@
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
-		<value><![CDATA[Indtast koden i nedenstående boks:]]></value>
+		<value><![CDATA[Indtast koden i boksen nedenfor:]]></value>
 	</definition>
 	<definition>
 		<key>email_subject</key>
-		<value><![CDATA[Forespørgsel %s]]></value>
+		<value><![CDATA[Forespørgsel fra %s]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Navn skal være mellem 3 og 32 tegn!]]></value>
+		<value><![CDATA[Navnet skal være mellem 3 og 32 tegn!]]></value>
 	</definition>
 	<definition>
 		<key>error_email</key>
-		<value><![CDATA[E-mail adresse vises ikke at være gyldig!]]></value>
+		<value><![CDATA[E-mailadresse ser ikke ud til at være gyldig!]]></value>
 	</definition>
 	<definition>
 		<key>error_enquiry</key>
@@ -58,6 +58,6 @@
 	</definition>
 	<definition>
 		<key>entry_duplicate_message_subject</key>
-		<value><![CDATA[Ny Forespørgsel fra %s (%s)]]></value>
+		<value><![CDATA[Ny forespørgsel fra %s (%s)]]></value>
 	</definition>
 </definitions>

@@ -1,48 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>text_possible_commands</key>
-		<value><![CDATA[Bellow er mulige kommandoer. Du kan speek flere detaljer etter kommandoordet. Eksempel: &quot;åpne side meldinger&quot; eller &quot;insert produkt&quot;]]></value>
+		<value><![CDATA[Nedenfor er mulige kommandoer. Du kan gi flere detaljer etter kommando-nøkkelordet. For eksempel: "åpne side meldinger" eller "sett inn produkt]]></value>
 	</definition>
 	<definition>
 		<key>text_multiple_result_found</key>
-		<value><![CDATA[Multiple handling resultat funnet:]]></value>
+		<value><![CDATA[Flere handlingsresultater funnet:]]></value>
 	</definition>
 	<definition>
 		<key>text_action_confirm</key>
-		<value><![CDATA[Vennligst bekreft din forespørsel:]]></value>
+		<value><![CDATA[Vennligst bekreft forespørselen din:]]></value>
 	</definition>
 	<definition>
 		<key>command_open</key>
-		<value><![CDATA[åpen, åpen side, åpne menyen]]></value>
+		<value><![CDATA[åpne, åpne side, åpne meny]]></value>
 	</definition>
 	<definition>
 		<key>command_find</key>
-		<value><![CDATA[finne, finne, søk, søk etter, søk 4]]></value>
+		<value><![CDATA[lokalisere, finne, søke, søke etter, søke 4]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_cache</key>
-		<value><![CDATA[klar cache, cache tydelig, klart alle cache]]></value>
+		<value><![CDATA[tøm cache, tøm cache, tøm alle cacher]]></value>
 	</definition>
 	<definition>
 		<key>command_view_log</key>
-		<value><![CDATA[Vis logg, logg utsikt, inspisere loggen, se logg, vise feilloggen, vise feil]]></value>
+		<value><![CDATA[vis logg, loggvisning, inspiser logg, se logg, vis feillogg, vis feil]]></value>
 	</definition>
 	<definition>
 		<key>command_clear_log</key>
-		<value><![CDATA[klar logg, logg klart, slette logg, logg slette]]></value>
+		<value><![CDATA[tøm logg, logg tøm, slett logg, logg slett]]></value>
 	</definition>
 	<definition>
 		<key>command_view_order</key>
-		<value><![CDATA[view ordre, ordrenummer, åpen orden, viser rekkefølgen, åpne ordrenummer, vise ordrenummer, viser ordrenummer, ordre #]]></value>
+		<value><![CDATA[vis ordre, ordrenummer, åpne ordre, vis ordre, åpne ordrenummer, vis ordrenummer, vis ordrenummer, ordre #]]></value>
 	</definition>
 	<definition>
 		<key>command_view_product</key>
-		<value><![CDATA[Utsikten produkt, produktnummer, åpen produkt, viser produktet, åpne produktnummer, utsikt produktnummer, viser produktnummer, produkt #]]></value>
+		<value><![CDATA[vis produkt, produktnummer, åpne produkt, vis produkt, åpne produktnummer, vis produktnummer, vis produktnummer, produkt #]]></value>
 	</definition>
 	<definition>
 		<key>command_create_new</key>
-		<value><![CDATA[sette inn, opprette, legge til, nytt, setter ny, opprette nye, legge til nye]]></value>
+		<value><![CDATA[sett inn, opprett, legg til, ny, sett inn ny, opprett ny, legg til ny]]></value>
 	</definition>
 	<definition>
 		<key>category</key>
@@ -58,7 +58,7 @@
 	</definition>
 	<definition>
 		<key>manufacturer</key>
-		<value><![CDATA[produsent]]></value>
+		<value><![CDATA[merke]]></value>
 	</definition>
 	<definition>
 		<key>review</key>
@@ -66,11 +66,11 @@
 	</definition>
 	<definition>
 		<key>download</key>
-		<value><![CDATA[nedlasting]]></value>
+		<value><![CDATA[last ned]]></value>
 	</definition>
 	<definition>
 		<key>attribute</key>
-		<value><![CDATA[Egenskap]]></value>
+		<value><![CDATA[attributt]]></value>
 	</definition>
 	<definition>
 		<key>customer</key>
@@ -86,11 +86,11 @@
 	</definition>
 	<definition>
 		<key>block</key>
-		<value><![CDATA[blokkere]]></value>
+		<value><![CDATA[blokk]]></value>
 	</definition>
 	<definition>
 		<key>menu</key>
-		<value><![CDATA[Meny]]></value>
+		<value><![CDATA[meny]]></value>
 	</definition>
 	<definition>
 		<key>content</key>
@@ -110,7 +110,7 @@
 	</definition>
 	<definition>
 		<key>language</key>
-		<value><![CDATA[Språk]]></value>
+		<value><![CDATA[språk]]></value>
 	</definition>
 	<definition>
 		<key>currency</key>
@@ -122,6 +122,6 @@
 	</definition>
 	<definition>
 		<key>tax</key>
-		<value><![CDATA[avgift]]></value>
+		<value><![CDATA[skatt]]></value>
 	</definition>
 </definitions>

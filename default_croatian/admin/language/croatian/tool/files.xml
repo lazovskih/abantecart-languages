@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[prijenos datoteka]]></value>
+		<value><![CDATA[Prijenosi datoteka]]></value>
 	</definition>
 	<definition>
 		<key>column_date_added</key>
-		<value><![CDATA[Datum dodan]]></value>
+		<value><![CDATA[Datum dodavanja]]></value>
 	</definition>
 	<definition>
 		<key>column_path</key>
@@ -18,6 +18,6 @@
 	</definition>
 	<definition>
 		<key>text_download</key>
-		<value><![CDATA[za preuzimanje datoteka]]></value>
+		<value><![CDATA[preuzeti datoteku]]></value>
 	</definition>
 </definitions>

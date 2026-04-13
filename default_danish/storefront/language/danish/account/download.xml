@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Konto Downloads]]></value>
+		<value><![CDATA[Konto downloads]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_order</key>
-		<value><![CDATA[Ordre ID:]]></value>
+		<value><![CDATA[Ordre-ID:]]></value>
 	</definition>
 	<definition>
 		<key>text_date_added</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_date_purchased</key>
-		<value><![CDATA[Dato Købt:]]></value>
+		<value><![CDATA[Købsdato:]]></value>
 	</definition>
 	<definition>
 		<key>text_name</key>
@@ -42,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Du har ikke lavet nogen tidligere downloades ordrer!]]></value>
+		<value><![CDATA[Du har ikke foretaget nogen tidligere downloadbare ordrer!]]></value>
 	</definition>
 	<definition>
 		<key>text_expire_date</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_pending</key>
-		<value><![CDATA[Verserende]]></value>
+		<value><![CDATA[Afventer]]></value>
 	</definition>
 	<definition>
 		<key>text_unavailable</key>
@@ -62,10 +62,10 @@
 	</definition>
 	<definition>
 		<key>text_reached_limit</key>
-		<value><![CDATA[nåede Limit]]></value>
+		<value><![CDATA[Grænsen er nået]]></value>
 	</definition>
 	<definition>
 		<key>error_download_not_exists</key>
-		<value><![CDATA[Ønskede fil ikke eksisterer!]]></value>
+		<value><![CDATA[Den anmodede fil findes ikke!]]></value>
 	</definition>
 </definitions>

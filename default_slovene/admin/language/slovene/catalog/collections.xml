@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>entry_status</key>
-		<value><![CDATA[status:]]></value>
+		<value><![CDATA[Stanje:]]></value>
 	</definition>
 	<definition>
 		<key>entry_description</key>
@@ -34,7 +34,7 @@
 	</definition>
 	<definition>
 		<key>collection_new</key>
-		<value><![CDATA[Nova zbirka]]></value>
+		<value><![CDATA[Nova kolekcija]]></value>
 	</definition>
 	<definition>
 		<key>collection_update</key>
@@ -46,7 +46,7 @@
 	</definition>
 	<definition>
 		<key>text_if_1</key>
-		<value><![CDATA[če:]]></value>
+		<value><![CDATA[Če:]]></value>
 	</definition>
 	<definition>
 		<key>text_all</key>
@@ -54,7 +54,7 @@
 	</definition>
 	<definition>
 		<key>text_any</key>
-		<value><![CDATA[katera koli]]></value>
+		<value><![CDATA[kateri koli]]></value>
 	</definition>
 	<definition>
 		<key>text_if_2</key>
@@ -62,11 +62,11 @@
 	</definition>
 	<definition>
 		<key>text_true</key>
-		<value><![CDATA[res]]></value>
+		<value><![CDATA[Da]]></value>
 	</definition>
 	<definition>
 		<key>text_false</key>
-		<value><![CDATA[False]]></value>
+		<value><![CDATA[Napačno]]></value>
 	</definition>
 	<definition>
 		<key>entry_condition_object</key>
@@ -78,7 +78,7 @@
 	</definition>
 	<definition>
 		<key>text_categories</key>
-		<value><![CDATA[kategorije]]></value>
+		<value><![CDATA[Kategorije]]></value>
 	</definition>
 	<definition>
 		<key>text_brands</key>
@@ -94,19 +94,19 @@
 	</definition>
 	<definition>
 		<key>entry_categories</key>
-		<value><![CDATA[kategorije:]]></value>
+		<value><![CDATA[Kategorije:]]></value>
 	</definition>
 	<definition>
 		<key>text_in</key>
-		<value><![CDATA[notri]]></value>
+		<value><![CDATA[V]]></value>
 	</definition>
 	<definition>
 		<key>text_not_in</key>
-		<value><![CDATA[Ne v]]></value>
+		<value><![CDATA[Ni v]]></value>
 	</definition>
 	<definition>
 		<key>text_select_category</key>
-		<value><![CDATA[-Izberite kategorijo-]]></value>
+		<value><![CDATA[-Izberi kategorijo-]]></value>
 	</definition>
 	<definition>
 		<key>entry_product_price</key>
@@ -114,7 +114,7 @@
 	</definition>
 	<definition>
 		<key>text_equal</key>
-		<value><![CDATA[Enakopravni]]></value>
+		<value><![CDATA[Enak]]></value>
 	</definition>
 	<definition>
 		<key>text_not_equal</key>
@@ -126,7 +126,7 @@
 	</definition>
 	<definition>
 		<key>text_equal_or_greater</key>
-		<value><![CDATA[Enako ali Večje]]></value>
+		<value><![CDATA[Enako ali večje]]></value>
 	</definition>
 	<definition>
 		<key>text_greater</key>
@@ -138,7 +138,7 @@
 	</definition>
 	<definition>
 		<key>entry_brands</key>
-		<value><![CDATA[Znamke:]]></value>
+		<value><![CDATA[Blagovne znamke:]]></value>
 	</definition>
 	<definition>
 		<key>entry_products</key>
@@ -150,15 +150,15 @@
 	</definition>
 	<definition>
 		<key>text_select_tags</key>
-		<value><![CDATA[-Izberi oznako-]]></value>
+		<value><![CDATA[-Izberite oznako-]]></value>
 	</definition>
 	<definition>
 		<key>text_select_tag</key>
-		<value><![CDATA[-Izberi oznako-]]></value>
+		<value><![CDATA[-Izberite oznako-]]></value>
 	</definition>
 	<definition>
 		<key>save_complete</key>
-		<value><![CDATA[Shranjevanje dokončano]]></value>
+		<value><![CDATA[Shranjevanje končano]]></value>
 	</definition>
 	<definition>
 		<key>entry_meta_keywords</key>
@@ -182,7 +182,7 @@
 	</definition>
 	<definition>
 		<key>text_success_layout</key>
-		<value><![CDATA[Shranjevanje postavitve dokončano]]></value>
+		<value><![CDATA[Postavitev uspešno shranjena.]]></value>
 	</definition>
 	<definition>
 		<key>entry_title</key>

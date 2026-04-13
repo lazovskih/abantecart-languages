@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Globalni Osobina Grupe]]></value>
+		<value><![CDATA[Globalne grupe atributa]]></value>
 	</definition>
 	<definition>
 		<key>text_group</key>
-		<value><![CDATA[atribut]]></value>
+		<value><![CDATA[Grupa atributa]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Morate modificirane skupine!]]></value>
+		<value><![CDATA[Uspjeh: Izmijenili ste grupe!]]></value>
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Grupno ime]]></value>
+		<value><![CDATA[Naziv grupe]]></value>
 	</definition>
 	<definition>
 		<key>column_sort_order</key>
-		<value><![CDATA[Redoslijed]]></value>
+		<value><![CDATA[Redoslijed sortiranja]]></value>
 	</definition>
 	<definition>
 		<key>column_status</key>
@@ -26,15 +26,15 @@
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Akcijski]]></value>
+		<value><![CDATA[Akcija]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Grupno ime:]]></value>
+		<value><![CDATA[Naziv grupe:]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Red Sortiraj grupe:]]></value>
+		<value><![CDATA[Poredak sortiranja grupe:]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -42,10 +42,10 @@
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozorenje: Nemate dozvolu za izmjenu atribut grupe!]]></value>
+		<value><![CDATA[Upozorenje: Nemate dozvolu za uređivanje grupa atributa!]]></value>
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Naziv skupine mora biti između 2 i 32 znakova!]]></value>
+		<value><![CDATA[Naziv grupe mora imati između 2 i 32 znakova!]]></value>
 	</definition>
 </definitions>

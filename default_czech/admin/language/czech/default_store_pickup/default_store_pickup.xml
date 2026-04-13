@@ -2,7 +2,7 @@
 <definitions>
 	<definition>
 		<key>default_store_pickup_name</key>
-		<value><![CDATA[Vyzvednutí z prodejny]]></value>
+		<value><![CDATA[Osobní odběr z prodejny]]></value>
 	</definition>
 	<definition>
 		<key>text_shipping</key>
@@ -10,7 +10,7 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspěch: Upravili jste vyzvednutí na prodejně!]]></value>
+		<value><![CDATA[Úspěch: Upravili jste vyzvednutí z obchodu!]]></value>
 	</definition>
 	<definition>
 		<key>default_store_pickup_location_id</key>
@@ -18,10 +18,10 @@
 	</definition>
 	<definition>
 		<key>default_store_pickup_location_id_0</key>
-		<value><![CDATA[Všechny lokality]]></value>
+		<value><![CDATA[Všechna umístění]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat vyzvednutí na prodejně!]]></value>
+		<value><![CDATA[Upozornění: Nemáte oprávnění upravovat vyzvednutí v obchodě!]]></value>
 	</definition>
 </definitions>

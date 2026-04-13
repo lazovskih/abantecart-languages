@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Cache upravljanje]]></value>
+		<value><![CDATA[Upravljanje predmemorijom]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Uspjeh: Uspješno si izbrisao cache datoteke!]]></value>
+		<value><![CDATA[Uspjeh: Uspješno ste izbrisali datoteke predmemorije!]]></value>
 	</definition>
 	<definition>
 		<key>text_configuration</key>
@@ -14,7 +14,7 @@
 	</definition>
 	<definition>
 		<key>text_layouts_blocks</key>
-		<value><![CDATA[Izgledi &amp; blokovi]]></value>
+		<value><![CDATA[Izgledi & Blokovi]]></value>
 	</definition>
 	<definition>
 		<key>text_flexyforms</key>
@@ -34,63 +34,63 @@
 	</definition>
 	<definition>
 		<key>text_manufacturers</key>
-		<value><![CDATA[Proizvođači]]></value>
+		<value><![CDATA[Marke]]></value>
 	</definition>
 	<definition>
 		<key>text_localisations</key>
-		<value><![CDATA[lokalizacije]]></value>
+		<value><![CDATA[Lokalizacije]]></value>
 	</definition>
 	<definition>
 		<key>text_error_log</key>
-		<value><![CDATA[Greška Prijava]]></value>
+		<value><![CDATA[Dnevnik pogrešaka]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_cache</key>
-		<value><![CDATA[Vedro Odabrani Cache]]></value>
+		<value><![CDATA[Očisti odabranu predmemoriju]]></value>
 	</definition>
 	<definition>
 		<key>text_clear_all_cache</key>
-		<value><![CDATA[Očisti sve cache]]></value>
+		<value><![CDATA[Obriši sve podatke]]></value>
 	</definition>
 	<definition>
 		<key>desc_configuration</key>
-		<value><![CDATA[konfiguracije sustava i spremanje]]></value>
+		<value><![CDATA[Konfiguracije sustava i trgovine]]></value>
 	</definition>
 	<definition>
 		<key>desc_layouts_blocks</key>
-		<value><![CDATA[Pages, izgleda stranica, blokovi]]></value>
+		<value><![CDATA[Stranice, rasporedi stranica, blokovi]]></value>
 	</definition>
 	<definition>
 		<key>desc_flexyforms</key>
-		<value><![CDATA[Podaci Flexy oblici]]></value>
+		<value><![CDATA[Podaci Flexy obrazaca]]></value>
 	</definition>
 	<definition>
 		<key>desc_images</key>
-		<value><![CDATA[Slika sličice]]></value>
+		<value><![CDATA[Sličice slika]]></value>
 	</definition>
 	<definition>
 		<key>desc_products</key>
-		<value><![CDATA[podaci o proizvodu]]></value>
+		<value><![CDATA[Podaci o proizvodu]]></value>
 	</definition>
 	<definition>
 		<key>desc_categories</key>
-		<value><![CDATA[podaci Kategorija]]></value>
+		<value><![CDATA[Podaci kategorije]]></value>
 	</definition>
 	<definition>
 		<key>desc_manufacturers</key>
-		<value><![CDATA[Proizvođač podataka]]></value>
+		<value><![CDATA[Podaci o marki]]></value>
 	</definition>
 	<definition>
 		<key>desc_localisations</key>
-		<value><![CDATA[Valuta, jezik, zemlju, zona, Duljina, Težina, &amp; drugo]]></value>
+		<value><![CDATA[Valuta, Jezik, Zemlja, Zona, Duljina, Težina i ostalo]]></value>
 	</definition>
 	<definition>
 		<key>desc_error_log</key>
-		<value><![CDATA[Greška Prijava]]></value>
+		<value><![CDATA[Dnevnik pogrešaka]]></value>
 	</definition>
 	<definition>
 		<key>column_type</key>
-		<value><![CDATA[Cache Vrsta]]></value>
+		<value><![CDATA[Vrsta predmemorije]]></value>
 	</definition>
 	<definition>
 		<key>column_description</key>
@@ -98,18 +98,18 @@
 	</definition>
 	<definition>
 		<key>text_install_upgrade_history</key>
-		<value><![CDATA[Instalacija / povijest Nadogradnja]]></value>
+		<value><![CDATA[Povijest instalacije/nadogradnje]]></value>
 	</definition>
 	<definition>
 		<key>desc_install_upgrade_history</key>
-		<value><![CDATA[Očisti sve Instalacija / povijest Nadogradnja]]></value>
+		<value><![CDATA[Obriši svu povijest instalacija/nadogradnji]]></value>
 	</definition>
 	<definition>
 		<key>text_edits_history</key>
-		<value><![CDATA[Povijest uređivanja teksta]]></value>
+		<value><![CDATA[Povijest izmjena teksta]]></value>
 	</definition>
 	<definition>
 		<key>desc_edits_history</key>
-		<value><![CDATA[Obriši svu povijest uređivanja teksta]]></value>
+		<value><![CDATA[Obriši povijest svih uređivanja teksta]]></value>
 	</definition>
 </definitions>

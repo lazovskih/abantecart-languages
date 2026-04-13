@@ -10,23 +10,23 @@
 	</definition>
 	<definition>
 		<key>forms_manager_note</key>
-		<value><![CDATA[For å administrere skjemaer, aktiver utvidelse og følg Design-&gt; <a href="#admin#rt=tool/forms_manager">Forms Manager</a>]]></value>
+		<value><![CDATA[For å administrere skjemaer, vennligst aktiver utvidelsen og gå til Design-><a href="#admin#rt=tool/forms_manager">Skjemabehandler</a>]]></value>
 	</definition>
 	<definition>
 		<key>custom_forms_block</key>
-		<value><![CDATA[Egendefinerte skjemablokker]]></value>
+		<value><![CDATA[Blokk for egendefinerte skjemaer]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_name</key>
-		<value><![CDATA[Skjema Navn <br/><span class="help">latinske bokstaver, understreking, kun minus</span>]]></value>
+		<value><![CDATA[Skjemanavn<br/><span class="help">Kun latinske bokstaver, understrek og bindestrek</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_controller_path</key>
-		<value><![CDATA[Behandlingskontrollør]]></value>
+		<value><![CDATA[Prosesseringskontroller]]></value>
 	</definition>
 	<definition>
 		<key>entry_success_page</key>
-		<value><![CDATA[Suksessside <br/><span class="help">La den stå tom hvis du vil omdirigere til samme side som kontrolleren</span>]]></value>
+		<value><![CDATA[Suksessside<br/><span class="help">La det stå tomt hvis du vil omdirigere til samme side som kontrolleren</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_form_description</key>
@@ -38,7 +38,7 @@
 	</definition>
 	<definition>
 		<key>text_contactus_page</key>
-		<value><![CDATA[Kontakt oss side]]></value>
+		<value><![CDATA[Kontaktside]]></value>
 	</definition>
 	<definition>
 		<key>text_form</key>
@@ -58,11 +58,11 @@
 	</definition>
 	<definition>
 		<key>filter_exact_match</key>
-		<value><![CDATA[Den nøyaktige setningen]]></value>
+		<value><![CDATA[Den eksakte frasen]]></value>
 	</definition>
 	<definition>
 		<key>filter_any_word</key>
-		<value><![CDATA[Noen av disse ordene]]></value>
+		<value><![CDATA[Enhver av disse ordene]]></value>
 	</definition>
 	<definition>
 		<key>filter_all_words</key>
@@ -70,7 +70,7 @@
 	</definition>
 	<definition>
 		<key>text_clone</key>
-		<value><![CDATA[Klone]]></value>
+		<value><![CDATA[Klon]]></value>
 	</definition>
 	<definition>
 		<key>filter_form</key>
@@ -102,7 +102,7 @@
 	</definition>
 	<definition>
 		<key>entry_field_name</key>
-		<value><![CDATA[Feltnavn (bare latinske bokstaver, understreking, minus)]]></value>
+		<value><![CDATA[Feltnavn (kun latinske bokstaver, understrek, bindestrek)]]></value>
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
@@ -110,11 +110,11 @@
 	</definition>
 	<definition>
 		<key>entry_required</key>
-		<value><![CDATA[Obligatorisk]]></value>
+		<value><![CDATA[Påkrevd]]></value>
 	</definition>
 	<definition>
 		<key>entry_edit_fields</key>
-		<value><![CDATA[Rediger felt]]></value>
+		<value><![CDATA[Rediger feltene]]></value>
 	</definition>
 	<definition>
 		<key>entry_field_value</key>
@@ -122,19 +122,19 @@
 	</definition>
 	<definition>
 		<key>error_required</key>
-		<value><![CDATA[Dette feltet er obligatorisk!]]></value>
+		<value><![CDATA[Dette feltet er påkrevd!]]></value>
 	</definition>
 	<definition>
 		<key>error_duplicate_form_name</key>
-		<value><![CDATA[Det finnes allerede skjema med et slikt navn-attributt.]]></value>
+		<value><![CDATA[Det finnes allerede et skjema med et slikt navneattributt.]]></value>
 	</definition>
 	<definition>
 		<key>error_duplicate_field_name</key>
-		<value><![CDATA[Det er allerede felt med slikt navn i gjeldende skjema.]]></value>
+		<value><![CDATA[Det finnes allerede et felt med et slikt navn i det gjeldende skjemaet.]]></value>
 	</definition>
 	<definition>
 		<key>text_field_removed</key>
-		<value><![CDATA[Feltet er fjernet.]]></value>
+		<value><![CDATA[Feltet har blitt fjernet med hell.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_form</key>
@@ -142,15 +142,15 @@
 	</definition>
 	<definition>
 		<key>text_success_field</key>
-		<value><![CDATA[Feltet har blitt oppdatert.]]></value>
+		<value><![CDATA[Feltet ble suksessfullt oppdatert.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_added_form</key>
-		<value><![CDATA[Det nye skjemaet er lagt til.]]></value>
+		<value><![CDATA[Det nye skjemaet har blitt lagt til med hell.]]></value>
 	</definition>
 	<definition>
 		<key>text_success_added_field</key>
-		<value><![CDATA[Det nye feltet er lagt til.]]></value>
+		<value><![CDATA[Det nye feltet har blitt lagt til med hell.]]></value>
 	</definition>
 	<definition>
 		<key>text_add_field</key>
@@ -166,7 +166,7 @@
 	</definition>
 	<definition>
 		<key>text_create_block</key>
-		<value><![CDATA[Opprett skjemablokk]]></value>
+		<value><![CDATA[Opprett Skjemablokk]]></value>
 	</definition>
 	<definition>
 		<key>entry_no_set_values</key>
@@ -178,19 +178,19 @@
 	</definition>
 	<definition>
 		<key>note_create_form_block</key>
-		<value><![CDATA[MERK: For å se dette skjemaet vist på butikkfronten, lag skjemablokk på Design-&gt; <a href="%s">Blokker</a> og legg det til på passende side på Design-&gt; <a href="%s">Layout-</a> siden.]]></value>
+		<value><![CDATA[MERK: For å se dette skjemaet vist i butikkfronten, opprett en skjemablokk under Design-><a href="%s">Blocks</a> og legg den til på riktig side under Design-><a href="%s">Layouts</a>.]]></value>
 	</definition>
 	<definition>
 		<key>note_edit_layout</key>
-		<value><![CDATA[MERK: For å se denne blokken vist på butikkfronten, legg den til på passende side på Design-&gt; <a href="%s">Layouts</a>. For å lage et nytt skjema, gå til Design-&gt; <a href="%s">Form Manager-</a> siden.]]></value>
+		<value><![CDATA[MERK: For å se denne blokken vist på butikkfronten, legg den til på riktig side under Design-><a href="%s">Layouts</a>. For å opprette et nytt skjema, gå til Design-><a href="%s">Form Manager</a>-siden.]]></value>
 	</definition>
 	<definition>
 		<key>text_select_field_type</key>
-		<value><![CDATA[--- Vennligst velg ---]]></value>
+		<value><![CDATA[--- Velg ---]]></value>
 	</definition>
 	<definition>
 		<key>entry_field_note</key>
-		<value><![CDATA[Feltnotat]]></value>
+		<value><![CDATA[Internt feltnotat]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_default_sender_name</key>
@@ -198,7 +198,7 @@
 	</definition>
 	<definition>
 		<key>forms_manager_default_sender_email</key>
-		<value><![CDATA[Standard avsender e-post:]]></value>
+		<value><![CDATA[Standard avsender-e-postadresse:]]></value>
 	</definition>
 	<definition>
 		<key>entry_field_placeholder</key>
@@ -206,7 +206,11 @@
 	</definition>
 	<definition>
 		<key>entry_regexp_pattern</key>
-		<value><![CDATA[Regelmessig uttrykksmønster:]]></value>
+		<value><![CDATA[Regulært uttrykksmønster:]]></value>
+	</definition>
+	<definition>
+		<key>entry_html_attributes</key>
+		<value><![CDATA[html-attributter:<br /><span class="help">Du kan legge til dine egendefinerte html-attributter for option-elementet. Eksempel: data-some-attribute="noe verdi"</span>]]></value>
 	</definition>
 	<definition>
 		<key>entry_error_text</key>
@@ -218,7 +222,7 @@
 	</definition>
 	<definition>
 		<key>error_fill_required</key>
-		<value><![CDATA[Fyll ut alle obligatoriske skjemafelt!]]></value>
+		<value><![CDATA[Vennligst fyll ut alle påkrevde felt i skjemaet!]]></value>
 	</definition>
 	<definition>
 		<key>error_form_name</key>
@@ -226,14 +230,98 @@
 	</definition>
 	<definition>
 		<key>error_form_description</key>
-		<value><![CDATA[Beskrivelse av skjema kan ikke være tom!]]></value>
+		<value><![CDATA[Beskrivelse av skjemaet kan ikke være tom!]]></value>
 	</definition>
 	<definition>
 		<key>error_field_name_exists</key>
-		<value><![CDATA[Felt med navn %s finnes allerede i skjemaet!]]></value>
+		<value><![CDATA[Felt med navnet %s finnes allerede i skjemaet!]]></value>
+	</definition>
+	<definition>
+		<key>error_regexp_pattern</key>
+		<value><![CDATA[Regex-mønsteret er ugyldig!]]></value>
 	</definition>
 	<definition>
 		<key>forms_manager_error_empty_sender</key>
-		<value><![CDATA[Advarsel! Angi standard avsendernavn og standard avsender-e-post i <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">innstillingene for skjemabehandling</a>]]></value>
+		<value><![CDATA[Advarsel! Vennligst angi standard avsendernavn og standard avsender-e-post i <a href="#admin#rt=extension/extensions/edit&extension=forms_manager" target="_blank">innstillinger for skjemabehandler</a>]]></value>
+	</definition>
+	<definition>
+		<key>column_field_name</key>
+		<value><![CDATA[Feltnavn]]></value>
+	</definition>
+	<definition>
+		<key>text_groups</key>
+		<value><![CDATA[Grupper]]></value>
+	</definition>
+	<definition>
+		<key>text_fields</key>
+		<value><![CDATA[Felter]]></value>
+	</definition>
+	<definition>
+		<key>text_assign_fields_to_groups</key>
+		<value><![CDATA[Tildel felter til grupper]]></value>
+	</definition>
+	<definition>
+		<key>text_add_new_group</key>
+		<value><![CDATA[Legg til ny feltgruppe]]></value>
+	</definition>
+	<definition>
+		<key>text_no_group</key>
+		<value><![CDATA[Ingen feltgrupper tilgjengelig]]></value>
+	</definition>
+	<definition>
+		<key>text_no_fields</key>
+		<value><![CDATA[Ingen felter tilgjengelig]]></value>
+	</definition>
+	<definition>
+		<key>text_action</key>
+		<value><![CDATA[Handling]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_name</key>
+		<value><![CDATA[Gruppenavn]]></value>
+	</definition>
+	<definition>
+		<key>entry_group</key>
+		<value><![CDATA[Gruppe]]></value>
+	</definition>
+	<definition>
+		<key>entry_group_description</key>
+		<value><![CDATA[Gruppebeskrivelse]]></value>
+	</definition>
+	<definition>
+		<key>button_save</key>
+		<value><![CDATA[Lagre]]></value>
+	</definition>
+	<definition>
+		<key>button_cancel</key>
+		<value><![CDATA[Avbryt]]></value>
+	</definition>
+	<definition>
+		<key>error_group_name_required</key>
+		<value><![CDATA[Gruppenavn er påkrevd!]]></value>
+	</definition>
+	<definition>
+		<key>error_unknown</key>
+		<value><![CDATA[En ukjent feil oppstod]]></value>
+	</definition>
+	<definition>
+		<key>text_success_fields_assigned</key>
+		<value><![CDATA[Feltene har blitt tildelt grupper.]]></value>
+	</definition>
+	<definition>
+		<key>text_success_added_group</key>
+		<value><![CDATA[Gruppen har blitt lagt til.]]></value>
+	</definition>
+	<definition>
+		<key>column_text_id</key>
+		<value><![CDATA[Tekst-ID]]></value>
+	</definition>
+	<definition>
+		<key>error_group_has_fields</key>
+		<value><![CDATA[Kan ikke fjerne gruppen. Ett eller flere felt er tilordnet denne gruppen.]]></value>
+	</definition>
+	<definition>
+		<key>text_edit_field_values</key>
+		<value><![CDATA[Rediger feltverdier]]></value>
 	</definition>
 </definitions>

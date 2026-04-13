@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[kundgrupp]]></value>
+		<value><![CDATA[Kundgrupp]]></value>
 	</definition>
 	<definition>
 		<key>breadcrumb_title</key>
-		<value><![CDATA[kundgrupper]]></value>
+		<value><![CDATA[Kundgrupper]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
@@ -14,23 +14,23 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Kundgruppnamn]]></value>
+		<value><![CDATA[Kundgruppens namn]]></value>
 	</definition>
 	<definition>
 		<key>column_tax_exempt</key>
-		<value><![CDATA[Skattefri]]></value>
+		<value><![CDATA[Skattebefriad]]></value>
 	</definition>
 	<definition>
 		<key>column_action</key>
-		<value><![CDATA[Handling]]></value>
+		<value><![CDATA[Åtgärd]]></value>
 	</definition>
 	<definition>
 		<key>entry_name</key>
-		<value><![CDATA[Kundgruppnamn:]]></value>
+		<value><![CDATA[Kundgruppsnamn:]]></value>
 	</definition>
 	<definition>
 		<key>entry_tax_exempt</key>
-		<value><![CDATA[Undantag från alla skatter:]]></value>
+		<value><![CDATA[Befriad från alla skatter:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
@@ -38,18 +38,18 @@
 	</definition>
 	<definition>
 		<key>error_name</key>
-		<value><![CDATA[Kund Gruppnamn måste vara mellan 2 och 64 tecken!]]></value>
+		<value><![CDATA[Kundgruppens namn måste vara mellan 2 och 64 tecken!]]></value>
 	</definition>
 	<definition>
 		<key>error_default</key>
-		<value><![CDATA[Varning: denna kundgrupp kan inte tas bort eftersom det är för närvarande tilldelas som standard store kundgrupp!]]></value>
+		<value><![CDATA[Varning: Denna kundgrupp kan inte raderas eftersom den för närvarande är tilldelad som standardkundgrupp för butiken!]]></value>
 	</definition>
 	<definition>
 		<key>error_store</key>
-		<value><![CDATA[Varning: denna kundgrupp kan inte tas bort eftersom det för närvarande är tilldelad %s butiker!]]></value>
+		<value><![CDATA[Varning: Denna kundgrupp kan inte tas bort eftersom den för närvarande är tilldelad %s butiker!]]></value>
 	</definition>
 	<definition>
 		<key>error_customer</key>
-		<value><![CDATA[Varning: denna kundgrupp kan inte tas bort eftersom det för närvarande är tilldelad %s kunder!]]></value>
+		<value><![CDATA[Varning: Denna kundgrupp kan inte tas bort eftersom den för närvarande är tilldelad %s kunder!]]></value>
 	</definition>
 </definitions>

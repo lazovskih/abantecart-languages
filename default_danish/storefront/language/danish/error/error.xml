@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Program fejl!]]></value>
+		<value><![CDATA[Applikationsfejl!]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
-		<value><![CDATA[Kontroller fejlloggen for mere information]]></value>
+		<value><![CDATA[Venligst tjek fejlloggen for mere information]]></value>
 	</definition>
 </definitions>

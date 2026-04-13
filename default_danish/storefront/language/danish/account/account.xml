@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -6,7 +6,7 @@
 	</definition>
 	<definition>
 		<key>text_account_dashboard</key>
-		<value><![CDATA[konto Dashboard]]></value>
+		<value><![CDATA[Kontooversigt]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -22,7 +22,7 @@
 	</definition>
 	<definition>
 		<key>text_my_notifications</key>
-		<value><![CDATA[underretninger]]></value>
+		<value><![CDATA[Underretninger]]></value>
 	</definition>
 	<definition>
 		<key>text_information</key>
@@ -30,15 +30,15 @@
 	</definition>
 	<definition>
 		<key>text_password</key>
-		<value><![CDATA[Skift kodeord]]></value>
+		<value><![CDATA[Skift adgangskode]]></value>
 	</definition>
 	<definition>
 		<key>text_address</key>
-		<value><![CDATA[Administrer Adressebog]]></value>
+		<value><![CDATA[Administrer adressebog]]></value>
 	</definition>
 	<definition>
 		<key>text_history</key>
-		<value><![CDATA[Ordre historik]]></value>
+		<value><![CDATA[Ordrehistorik]]></value>
 	</definition>
 	<definition>
 		<key>text_transactions</key>
@@ -50,10 +50,10 @@
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
-		<value><![CDATA[Nyhedsbrev Abonnement]]></value>
+		<value><![CDATA[Nyhedsbrevsabonnement]]></value>
 	</definition>
 	<definition>
 		<key>text_account_wishlist</key>
-		<value><![CDATA[Min ønskeseddel]]></value>
+		<value><![CDATA[Min ønskeliste]]></value>
 	</definition>
 </definitions>

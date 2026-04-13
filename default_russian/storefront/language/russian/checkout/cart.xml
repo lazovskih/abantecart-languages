@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,11 +10,11 @@
 	</definition>
 	<definition>
 		<key>text_sub_total</key>
-		<value><![CDATA[Промежуточный итог:]]></value>
+		<value><![CDATA[Итого:]]></value>
 	</definition>
 	<definition>
 		<key>text_weight</key>
-		<value><![CDATA[Вес корзины:]]></value>
+		<value><![CDATA[Вес товаров в корзине:]]></value>
 	</definition>
 	<definition>
 		<key>text_error</key>
@@ -30,15 +30,11 @@
 	</definition>
 	<definition>
 		<key>column_name</key>
-		<value><![CDATA[Название]]></value>
+		<value><![CDATA[Имя]]></value>
 	</definition>
 	<definition>
 		<key>column_model</key>
 		<value><![CDATA[Модель]]></value>
-	</definition>
-	<definition>
-		<key>column_sku</key>
-		<value><![CDATA[SKU]]></value>
 	</definition>
 	<definition>
 		<key>column_quantity</key>
@@ -46,7 +42,7 @@
 	</definition>
 	<definition>
 		<key>column_price</key>
-		<value><![CDATA[Цена за единицу]]></value>
+		<value><![CDATA[Цена за штуку]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>
@@ -58,15 +54,15 @@
 	</definition>
 	<definition>
 		<key>text_coupon_codes</key>
-		<value><![CDATA[Применить код купона]]></value>
+		<value><![CDATA[Применить Купон]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipping_tax</key>
-		<value><![CDATA[Оценить доставку и налоги]]></value>
+		<value><![CDATA[Предварительно Доставка и Налоги]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_country</key>
-		<value><![CDATA[Страна и область]]></value>
+		<value><![CDATA[Страна и регион]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_postcode</key>
@@ -74,69 +70,70 @@
 	</definition>
 	<definition>
 		<key>button_text_estimate</key>
-		<value><![CDATA[Оценить]]></value>
+		<value><![CDATA[Предварительно]]></value>
 	</definition>
 	<definition>
 		<key>text_estimate_shipments</key>
-		<value><![CDATA[Отгрузки]]></value>
+		<value><![CDATA[Доставка]]></value>
 	</definition>
 	<definition>
 		<key>error_coupon</key>
-		<value><![CDATA[Ошибка: Купон недействителен, истек или достигнут лимит использования!]]></value>
+		<value><![CDATA[Ошибка: Купон либо недействительный, истек или достиг своего предела использования!]]></value>
 	</definition>
 	<definition>
 		<key>error_stock</key>
-		<value><![CDATA[Товары, отмеченные знаком ***, недоступны в желаемом количестве или отсутствуют на складе!]]></value>
+		<value><![CDATA[Товары, отмеченные *** не доступны в нужном количестве или нет в наличии!]]></value>
 	</definition>
 	<definition>
 		<key>error_required_options</key>
-		<value><![CDATA[Пожалуйста, выберите все обязательные опции!]]></value>
+		<value><![CDATA[Пожалуйста, выберите все необходимые параметры!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_minimum</key>
-		<value>
-			<![CDATA[Ваш промежуточный итог заказа не соответствует минимальной сумме %s. Пожалуйста, добавьте больше товаров в корзину!]]></value>
+		<value><![CDATA[Сумма вашего заказа не соответствует минимальной требуемой %s . Пожалуйста, добавьте больше товаров в корзину!]]></value>
 	</definition>
 	<definition>
 		<key>error_order_maximum</key>
-		<value>
-			<![CDATA[Ваш промежуточный итог заказа превышает максимальную сумму %s, разрешенную для одного заказа. Пожалуйста, удалите некоторые товары из корзины!]]></value>
+		<value><![CDATA[Сумма вашего заказа превышает максимальное %s позволеное за заказ. Пожалуйста, удалите некоторые товары из корзины!]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_data</key>
-		<value><![CDATA[Данные файла повреждены или пусты.]]></value>
+		<value><![CDATA[Данный файл поврежден или пуст.]]></value>
 	</definition>
 	<definition>
 		<key>error_empty_file_name</key>
-		<value><![CDATA[Имя файла пусто!]]></value>
+		<value><![CDATA[Имя файла неуказано!]]></value>
 	</definition>
 	<definition>
 		<key>error_file_extension</key>
-		<value><![CDATA[Допустимы только файлы с расширением(ями) %s!]]></value>
+		<value><![CDATA[Допускается(ются) только файл(ы) с расширением(ями) %s !]]></value>
 	</definition>
 	<definition>
 		<key>error_min_file_size</key>
-		<value><![CDATA[Минимальный размер файла для загрузки составляет %s Кб.]]></value>
+		<value><![CDATA[Минимальный размер файла %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>error_max_file_size</key>
-		<value><![CDATA[Максимальный размер файла для загрузки составляет %s Кб.]]></value>
+		<value><![CDATA[Максимальный размер файла для загрузки %s Kb.]]></value>
 	</definition>
 	<definition>
 		<key>text_coupon_success</key>
-		<value><![CDATA[Успех: Ваш скидочный купон был применен!]]></value>
-	</definition>
-	<definition>
-		<key>text_coupon_removal</key>
-		<value><![CDATA[Успех: Купон был удален!]]></value>
+		<value><![CDATA[Успешно: Ваш купон был применен!]]></value>
 	</definition>
 	<definition>
 		<key>error_quantity_maximum</key>
-		<value><![CDATA[Допустимое количество товара превышено. Количество было установлено на максимальное.]]></value>
+		<value><![CDATA[Превышено разрешенное количество продукта. Количество выставлено в максимум.]]></value>
 	</definition>
 	<definition>
 		<key>error_quantity_minimum</key>
-		<value><![CDATA[Допустимое количество товара ниже минимально необходимого. Количество было установлено на минимальное значение.]]></value>
+		<value><![CDATA[Разрешенное количество продукта ниже минимального. Количество выставлено в минимум.]]></value>
+	</definition>
+	<definition>
+		<key>text_coupon_removal</key>
+		<value><![CDATA[Успех: Купон удален!]]></value>
+	</definition>
+	<definition>
+		<key>column_sku</key>
+		<value><![CDATA[Артикул]]></value>
 	</definition>
 </definitions>
-

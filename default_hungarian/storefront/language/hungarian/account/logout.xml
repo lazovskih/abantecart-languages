@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Fiók Kijelentkezés]]></value>
+		<value><![CDATA[Fiók kijelentkezés]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[<p> Ön már kijelentkezett fiókját. Ez most biztos, hogy hagyja el a számítógépet. </p><p> Az ön kosara lett mentve, az elemek belsejében helyreáll amikor belép vissza a fiókjába. </p>]]></value>
+		<value><![CDATA[<p>Kijelentkeztél a fiókodból. Most már biztonságos elhagyni a számítógépet.</p>
+<p>A kosarad elmentésre került, a benne lévő tételek visszaállnak, amikor ismét bejelentkezel a fiókodba.</p>]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
@@ -14,6 +15,6 @@
 	</definition>
 	<definition>
 		<key>text_logout</key>
-		<value><![CDATA[Kilépés]]></value>
+		<value><![CDATA[Kijelentkezés]]></value>
 	</definition>
 </definitions>

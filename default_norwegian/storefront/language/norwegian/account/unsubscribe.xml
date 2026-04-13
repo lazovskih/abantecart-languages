@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Din Abonnementet er avsluttet!]]></value>
+		<value><![CDATA[Din har blitt vellykket avmeldt !]]></value>
 	</definition>
 	<definition>
 		<key>text_message</key>
-		<value><![CDATA[Du har vært avsluttet abonnementet e-postkommunikasjon.]]></value>
+		<value><![CDATA[Du har blitt vellykket avmeldt fra e-postkommunikasjon.]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>

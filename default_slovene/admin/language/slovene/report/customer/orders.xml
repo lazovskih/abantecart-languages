@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
@@ -10,15 +10,15 @@
 	</definition>
 	<definition>
 		<key>column_customer</key>
-		<value><![CDATA[Ime stranke]]></value>
+		<value><![CDATA[Ime kupca]]></value>
 	</definition>
 	<definition>
 		<key>column_group</key>
-		<value><![CDATA[Skupina kupcev]]></value>
+		<value><![CDATA[Skupina strank]]></value>
 	</definition>
 	<definition>
 		<key>column_order_count</key>
-		<value><![CDATA[naročila Count]]></value>
+		<value><![CDATA[Število naročil]]></value>
 	</definition>
 	<definition>
 		<key>column_total</key>

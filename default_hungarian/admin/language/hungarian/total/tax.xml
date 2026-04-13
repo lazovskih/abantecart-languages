@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[adók]]></value>
+		<value><![CDATA[Adók]]></value>
 	</definition>
 	<definition>
 		<key>total_name</key>
-		<value><![CDATA[adók]]></value>
+		<value><![CDATA[Adók]]></value>
 	</definition>
 	<definition>
 		<key>text_total</key>
-		<value><![CDATA[Rendelési összesítések]]></value>
+		<value><![CDATA[Rendelések összegei]]></value>
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Siker: Módosította a teljes adót!]]></value>
+		<value><![CDATA[Siker: Módosította az összes adót!]]></value>
 	</definition>
 	<definition>
 		<key>entry_status</key>
@@ -22,14 +22,14 @@
 	</definition>
 	<definition>
 		<key>entry_sort_order</key>
-		<value><![CDATA[Sorrend:]]></value>
+		<value><![CDATA[Rendezési sorrend:]]></value>
 	</definition>
 	<definition>
 		<key>entry_calculation_order</key>
-		<value><![CDATA[Számítási Order:]]></value>
+		<value><![CDATA[Számítási sorrend:]]></value>
 	</definition>
 	<definition>
 		<key>error_permission</key>
-		<value><![CDATA[Figyelmeztetés: nincs engedélye módosítására teljes adót!]]></value>
+		<value><![CDATA[Figyelmeztetés: Önnek nincs jogosultsága a teljes adók módosítására!]]></value>
 	</definition>
 </definitions>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <definitions>
 	<definition>
 		<key>heading_title</key>
-		<value><![CDATA[Prihlásenie na odber bulletinu]]></value>
+		<value><![CDATA[Prihlásenie na odber noviniek]]></value>
 	</definition>
 	<definition>
 		<key>text_account</key>
-		<value><![CDATA[účet]]></value>
+		<value><![CDATA[Účet]]></value>
 	</definition>
 	<definition>
 		<key>text_newsletter</key>
@@ -14,15 +14,15 @@
 	</definition>
 	<definition>
 		<key>text_success</key>
-		<value><![CDATA[Úspech: Váš newsletter predplatné bol úspešne aktualizovaný!]]></value>
+		<value><![CDATA[Úspech: Vaše prihlásenie na odber noviniek bolo úspešne aktualizované!]]></value>
 	</definition>
 	<definition>
 		<key>entry_newsletter</key>
-		<value><![CDATA[Odoberať:]]></value>
+		<value><![CDATA[Prihlásiť sa na odber:]]></value>
 	</definition>
 	<definition>
 		<key>text_customer_registration</key>
-		<value><![CDATA[zákazník Registrácia]]></value>
+		<value><![CDATA[Registrácia zákazníka]]></value>
 	</definition>
 	<definition>
 		<key>entry_captcha</key>
@@ -30,6 +30,6 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[Human verification zlyhala! Prosím, skúste agan.]]></value>
+		<value><![CDATA[Overenie človeka zlyhalo! Prosím skúste to znova.]]></value>
 	</definition>
 </definitions>
